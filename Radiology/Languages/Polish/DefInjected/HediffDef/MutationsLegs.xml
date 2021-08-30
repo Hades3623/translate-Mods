@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationSuperSpeed.label>Superszybkość</MutationSuperSpeed.label>
+  <MutationSuperSpeed.description>Mięśnie i ścięgna w nogach kolonisty urosły i wzmocniły się, dając mu szaloną szybkość i zwinność.</MutationSuperSpeed.description>
+
+  <MutationCrippledLeg.label>Okaleczona noga</MutationCrippledLeg.label>
+  <MutationCrippledLeg.description>Noga tego kolonisty urosła, ale w sposób zdeformowany, krzywy i słaby, kolonista ten ma trudności z poruszaniem się.</MutationCrippledLeg.description>
+
+
+</LanguageData>

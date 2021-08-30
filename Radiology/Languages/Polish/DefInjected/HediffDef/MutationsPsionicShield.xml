@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationPsionicShield.label>tarcza psioniczna</MutationPsionicShield.label>
+  <MutationPsionicShield.description>Kolonista utworzył wokół siebie psioniczną tarczę, która chroni go zarówno przed obrażeniami zadawanymi z dystansu, jak i tymi zadawanymi w walce wręcz.</MutationPsionicShield.description>
+
+  <MutationPsionicShieldSmall.label>mała tarcza psioniczna</MutationPsionicShieldSmall.label>
+  <MutationPsionicShieldSmall.description>Kolonista utworzył wokół siebie psioniczną tarczę, która chroni go zarówno przed obrażeniami zadawanymi z dystansu, jak i tymi zadawanymi w walce wręcz.</MutationPsionicShieldSmall.description>
+
+  <MutationPsionicShieldLarge.label>średnia tarcza psioniczna</MutationPsionicShieldLarge.label>
+  <MutationPsionicShieldLarge.description>Kolonista utworzył wokół siebie psioniczną tarczę, która chroni go zarówno przed obrażeniami zadawanymi z dystansu, jak i tymi zadawanymi w walce wręcz.</MutationPsionicShieldLarge.description>
+
+  <MutationPsionicShieldHuge.label>duża tarcza psioniczna</MutationPsionicShieldHuge.label>
+  <MutationPsionicShieldHuge.description>Kolonista utworzył wokół siebie psioniczną tarczę, która chroni go zarówno przed obrażeniami zadawanymi z dystansu, jak i tymi zadawanymi w walce wręcz.</MutationPsionicShieldHuge.description>
+
+  <MutationFireShield.label>tarcza ognia</MutationFireShield.label>
+  <MutationFireShield.description>Kolonista utworzył wokół siebie tarczę ognia, która chroni go zarówno przed obrażeniami zadawanymi z dystansu, jak i tymi zadawanymi w walce wręcz.</MutationFireShield.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationEnhancedLungs.label>Wzmocnione płuca</MutationEnhancedLungs.label>
+  <MutationEnhancedLungs.description>Promieniowanie wzmocniło tkanki w płucach i przeponie kolonisty, powodując, że jego oddech stał się nieludzki.</MutationEnhancedLungs.description>
+
+  <MutationStrengthenedHeart.label>Wzmocnione serce</MutationStrengthenedHeart.label>
+  <MutationStrengthenedHeart.description>Tkanka mięśniowa utkała się w taki sposób, że serce kolonisty wzmocniło się i stało się mocniejsze.</MutationStrengthenedHeart.description>
+
+  <MutationSuperVision.label>Wzmocnione oczy</MutationSuperVision.label>
+  <MutationSuperVision.description>Oko Kolonisty uległo mutacji, dzięki czemu widzi on wyraźniej i ostrzej. Dzięki temu Kolonista ma lepszy refleks i lepszą percepcję.</MutationSuperVision.description>
+
+  <MutationEnhancedHearing.label>Lepszy słuch</MutationEnhancedHearing.label>
+  <MutationEnhancedHearing.description>Uszy Kolonisty zmutowały, pozwalając mu słyszeć wyraźniej i ostrzej. Dzięki temu ma lepszy refleks.</MutationEnhancedHearing.description>
+
+  <MutationBrain.label>Mutacja mózgu</MutationBrain.label>
+  <MutationBrain.description>Mózg Kolonisty uległ mutacji, przez co synapsy uruchamiają się szybciej i wydajniej, dzięki czemu jego ogólne wyniki są lepsze.</MutationBrain.description>
+
+
+  <!-- ++++++++++++++++++++++++++++ -->
+
+  <MutationDamagedLung.label>Uszkodzone płuca</MutationDamagedLung.label>
+  <MutationDamagedLung.description>Promieniowanie zniszczyło znaczną część tkanki płucnej kolonisty, utrudniając mu oddychanie.</MutationDamagedLung.description>
+
+  <MutationWeakenedHeart.label>Osłabione serce</MutationWeakenedHeart.label>
+  <MutationWeakenedHeart.description>Tkanka mięśniowa została osłabiona i uszkodzona przez promieniowanie, przez co część ciała kolonisty jest mniej sprawna i uszkodzona.</MutationWeakenedHeart.description>
+
+  <MutationDamagedVision.label>Uszkodzone wzrok</MutationDamagedVision.label>
+  <MutationDamagedVision.description>Tkanka oka Kolonisty została uszkodzona, przez co jego oko stało się bezużyteczne. Jeśli oba oczy zostaną uszkodzone, Kolonista oślepnie.</MutationDamagedVision.description>
+
+  <MutationDamagedHearing.label>Uszkodzony słuch</MutationDamagedHearing.label>
+  <MutationDamagedHearing.description>Uszy Kolonisty zostały uszkodzone, przez co ma on słaby słuch.</MutationDamagedHearing.description>
+
+  <MutationBrainDamage.label>Uszkodzenie mózgu</MutationBrainDamage.label>
+  <MutationBrainDamage.description>Tkanka mózgowa kolonisty uległa zniszczeniu, co spowodowało, że synapsy działają wolniej i mniej wydajnie, przez co stał się on głuchy i niemy.</MutationBrainDamage.description>
+
+  <MutationBloatedHeart.label>przekrwawione serce</MutationBloatedHeart.label>
+  <MutationBloatedHeart.description>Serce przekształciło się w rozdętą fortecę krwi. Kolonista cieszy się ogromnym wzrostem wydajności pompowania krwi, a uszkodzenia ciała powodują powstawanie dużych kałuż krwi.</MutationBloatedHeart.description>
+
+
+</LanguageData>

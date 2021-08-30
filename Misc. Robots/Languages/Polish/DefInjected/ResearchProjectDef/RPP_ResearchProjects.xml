@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tiers and Matricies -->
+
+  <RPP_Research_Matrix_I.label>Robotyka:\nProsta Logika</RPP_Research_Matrix_I.label>
+  <RPP_Research_Matrix_I.description>Poziom 1: Wynalezienie logicznych matryc wykorzystywanych do produkcji robotów o prostych umiejętnościach. Odblokowuje Podstawowe Badania Robotyki (Poziom 2) oraz Prostą Matrycę Robota.</RPP_Research_Matrix_I.description>
+
+  <RPP_Research_Matrix_II.label>Robotyka:\nPodstawowa Logika</RPP_Research_Matrix_II.label>
+  <RPP_Research_Matrix_II.description>Poziom 2: Wynalezienie logicznych matryc wykorzystywanych do produkcji robotów o podstawowych umiejętnościach. Odblokowuje Średniozaawansowane Badania Robotyki (Poziom 3) oraz Podstawową Matrycę Robota.</RPP_Research_Matrix_II.description>
+
+  <RPP_Research_Matrix_III.label>Robotyka:\nŚrednio\nzaawansowana Logika</RPP_Research_Matrix_III.label>
+  <RPP_Research_Matrix_III.description>Poziom 3: Wynalezienie logicznych matryc wykorzystywanych do produkcji robotów o średniozaawansowanych umiejętnościach. Odblokowuje Zaawansowane Badania Robotyki (Poziom 4) oraz Średniozaawansowaną Matrycę Robota.</RPP_Research_Matrix_III.description>
+
+  <RPP_Research_Matrix_IV.label>Robotyka:\nZaawansowana Logika</RPP_Research_Matrix_IV.label>
+  <RPP_Research_Matrix_IV.description>Poziom 4: Wynalezienie logicznych matryc wykorzystywanych do produkcji robotów o zaawansowanych umiejętnościach. Odblokowuje Wysokozaawansowane Badania Robotyki (Poziom 5) oraz Zaawansowaną Matrycę Robota.</RPP_Research_Matrix_IV.description>
+
+  <RPP_Research_Matrix_V.label>Robotyka:\nWysoko\nzaawansowana Logika</RPP_Research_Matrix_V.label>
+  <RPP_Research_Matrix_V.description>Poziom 5: Przełam granice wyznaczone przez istniejące poziomy technologii, rozumienie logiki i koncepcje przyczyn i skutów. Nasze horyzonty naukowe stają się coraz bardziej czasowe. Twórz wszechstronne roboty </RPP_Research_Matrix_V.description>
+
+
+  <!-- Entry Point -->
+
+  <RPP_Research_Fundamentals.label>Robotyka:\nPodstawy</RPP_Research_Fundamentals.label>
+  <RPP_Research_Fundamentals.description>Poziom 0:\nBadanie najprostszych zasad robotyki i automatyzacji.</RPP_Research_Fundamentals.description>
+
+
+  <!-- RPP -->
+
+  <RPP_Research_Cleaner_All.label>Sprzątający</RPP_Research_Cleaner_All.label>
+  <RPP_Research_Cleaner_All.description>Produkcja robotów sprzątających. Roboty transportujące i sprzątające są szybsze niż wszystkie inne roboty tego samego poziomu. </RPP_Research_Cleaner_All.description>
+
+  <RPP_Research_Hauler_All.label>Transportowy</RPP_Research_Hauler_All.label>
+  <RPP_Research_Hauler_All.description>Produkcja robotów sprzątających. Roboty transportujące i sprzątające są szybsze niż wszystkie inne roboty tego samego poziomu. </RPP_Research_Hauler_All.description>
+
+  <RPP_Research_Builder_All.label>Budowlany</RPP_Research_Builder_All.label>
+  <RPP_Research_Builder_All.description>Produkcja Robotów Budowlanych + Górniczych .</RPP_Research_Builder_All.description>
+
+  <RPP_Research_Crafter_All.label>Rzemieślniczych</RPP_Research_Crafter_All.label>
+  <RPP_Research_Crafter_All.description>Produkcja Robotów Rzemieślniczych.</RPP_Research_Crafter_All.description>
+
+  <RPP_Research_ER_All.label>SR</RPP_Research_ER_All.label>
+  <RPP_Research_ER_All.description>Produkcja Robotów Szybkiego Reagowania.</RPP_Research_ER_All.description>
+
+  <RPP_Research_Kitchen_All.label>Kuchennych</RPP_Research_Kitchen_All.label>
+  <RPP_Research_Kitchen_All.description>Produkcja Robotów Kuchennych + Ogrodniczych</RPP_Research_Kitchen_All.description>
+
+  <RPP_Research_Omni_V.label>Anty-Logiczny\nOmni Robot</RPP_Research_Omni_V.label>
+  <RPP_Research_Omni_V.description>Produkcja wszechutalentowanych robotów. Te superdźwiękowe roboty są w stanie wykonać niemal każde zadanie. </RPP_Research_Omni_V.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RPP_Component.label>Komponet robota</RPP_Component.label>
+  <RPP_Component.description>Komponenty robotów są używane jako obwody logiczne w matrycach robotów. </RPP_Component.description>
+
+
+  <!-- Matricies -->
+
+  <RPP_Matrix_I.label>Matryca Robota (Prosta)</RPP_Matrix_I.label>
+  <RPP_Matrix_I.description>Logiczna matryca robota. Posiada zaprojektowany zestaw instrukcji wykonywania prostych umiejętności.</RPP_Matrix_I.description>
+
+  <RPP_Matrix_II.label>Matryca Robota (Podstawowa)</RPP_Matrix_II.label>
+  <RPP_Matrix_II.description>Logiczna matryca robota. Posiada zaprojektowany zestaw instrukcji wykonywania podstawowych umiejętności.</RPP_Matrix_II.description>
+
+  <RPP_Matrix_III.label>Matryca Robota (Średniozaawansowana)</RPP_Matrix_III.label>
+  <RPP_Matrix_III.description>Logiczna matryca robota. Posiada zaprojektowany zestaw instrukcji wykonywania średniozaawansowanych umiejętności.</RPP_Matrix_III.description>
+
+  <RPP_Matrix_IV.label>Matryca Robota (Zaawansowana)</RPP_Matrix_IV.label>
+  <RPP_Matrix_IV.description>Logiczna matryca robota. Posiada zaprojektowany zestaw instrukcji wykonywania zaawansowanych umiejętności.</RPP_Matrix_IV.description>
+
+  <RPP_Matrix_V.label>Matryca Robota (Anty-Logiczna)</RPP_Matrix_V.label>
+  <RPP_Matrix_V.description>Anty-Logiczna matryca robota. Posiada zaprojektowany zestaw instrukcji wykonywania wysokozaawansowanych umiejętności</RPP_Matrix_V.description>
+
+
+</LanguageData>

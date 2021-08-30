@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- resource -->
+
+  <RPP_Production_Component.label>stwórz komponent robota</RPP_Production_Component.label>
+  <RPP_Production_Component.description>Produkuj komponenty robotów, które są używane jako obwody logiczne w matrycy robotów. </RPP_Production_Component.description>
+  <RPP_Production_Component.jobString>Robotyka.</RPP_Production_Component.jobString>
+
+
+  <!-- matricies -->
+
+  <RPP_Production_Matrix_I.label>stwórz matrycę (prosta) </RPP_Production_Matrix_I.label>
+  <RPP_Production_Matrix_I.description>Wyprodukuj logiczną matrycę do tworzenia prostych robotów (Poziom 1).</RPP_Production_Matrix_I.description>
+  <RPP_Production_Matrix_I.jobString>Robotyka.</RPP_Production_Matrix_I.jobString>
+
+  <RPP_Production_Matrix_II.label>stwórz komponet robota (Podstawowa)</RPP_Production_Matrix_II.label>
+  <RPP_Production_Matrix_II.description>Wyprodukuj logiczną matrycę do tworzenia podstawowych robotów (Poziom 2)</RPP_Production_Matrix_II.description>
+  <RPP_Production_Matrix_II.jobString>Robotyka.</RPP_Production_Matrix_II.jobString>
+
+  <RPP_Production_Matrix_III.label>stwórz matrycę (Średniozaawansowana)</RPP_Production_Matrix_III.label>
+  <RPP_Production_Matrix_III.description>Wyprodukuj logiczną matrycę do tworzenia średniozaawansowanych robotów (Poziom 3)</RPP_Production_Matrix_III.description>
+  <RPP_Production_Matrix_III.jobString>Robotyka.</RPP_Production_Matrix_III.jobString>
+
+  <RPP_Production_Matrix_IV.label>stwórz matrycę (Zaawansowana)</RPP_Production_Matrix_IV.label>
+  <RPP_Production_Matrix_IV.description>Wyprodukuj logiczną matrycę do tworzenia zaawansowanych robotów (Poziom 4)</RPP_Production_Matrix_IV.description>
+  <RPP_Production_Matrix_IV.jobString>Robotyka.</RPP_Production_Matrix_IV.jobString>
+
+  <RPP_Production_Matrix_V.label>stwórz matrycę (Anty-logiczna)</RPP_Production_Matrix_V.label>
+  <RPP_Production_Matrix_V.description>Wyprodukuj anty-logiczną matrycę do tworzenia wysokozaawansowanych robotów (Poziom 5).\nNP=P</RPP_Production_Matrix_V.description>
+  <RPP_Production_Matrix_V.jobString>Robotyka.</RPP_Production_Matrix_V.jobString>
+
+
+  <!-- override -->
+
+  <RPP_Production_Cleaner_I.label>stwórz Robota sprzątającego (Poziom 1)</RPP_Production_Cleaner_I.label>
+  <RPP_Production_Cleaner_I.description>Wyprodukuj zdolną jednostkę służacą do czyszczenia.</RPP_Production_Cleaner_I.description>
+  <RPP_Production_Cleaner_I.jobString>Robotyka.</RPP_Production_Cleaner_I.jobString>
+
+  <RPP_Production_Cleaner_II.label>stwórz Robota sprzątającego (Poziom 2)</RPP_Production_Cleaner_II.label>
+  <RPP_Production_Cleaner_II.description>Wyprodukuj zdolną jednostkę służacą do czyszczenia.</RPP_Production_Cleaner_II.description>
+  <RPP_Production_Cleaner_II.jobString>Robotyka.</RPP_Production_Cleaner_II.jobString>
+
+  <RPP_Production_Cleaner_III.label>stwórz Robota sprzątającego (Poziom 3)</RPP_Production_Cleaner_III.label>
+  <RPP_Production_Cleaner_III.description>Wyprodukuj zdolną jednostkę służacą do czyszczenia.</RPP_Production_Cleaner_III.description>
+  <RPP_Production_Cleaner_III.jobString>Robotyka.</RPP_Production_Cleaner_III.jobString>
+
+  <RPP_Production_Cleaner_IV.label>stwórz Robota sprzątającego (Poziom 4)</RPP_Production_Cleaner_IV.label>
+  <RPP_Production_Cleaner_IV.description>Wyprodukuj zdolną jednostkę służacą do czyszczenia.</RPP_Production_Cleaner_IV.description>
+  <RPP_Production_Cleaner_IV.jobString>Robotyka.</RPP_Production_Cleaner_IV.jobString>
+
+  <RPP_Production_Cleaner_V.label>stwórz Robota sprzątającego (Poziom 5)</RPP_Production_Cleaner_V.label>
+  <RPP_Production_Cleaner_V.description>Wyprodukuj zdolną jednostkę służacą do czyszczenia.</RPP_Production_Cleaner_V.description>
+  <RPP_Production_Cleaner_V.jobString>Robotyka.</RPP_Production_Cleaner_V.jobString>
+
+  <RPP_Production_Hauler_I.label>stwórz Robota transportowego (Poziom 1)</RPP_Production_Hauler_I.label>
+  <RPP_Production_Hauler_I.description>Wyprodukuj jednostkę zdolną do wykonywania transportowania przedmiotów.</RPP_Production_Hauler_I.description>
+  <RPP_Production_Hauler_I.jobString>Robotyka.</RPP_Production_Hauler_I.jobString>
+
+  <RPP_Production_Hauler_II.label>stwórz Robota transportowego (Poziom 2)</RPP_Production_Hauler_II.label>
+  <RPP_Production_Hauler_II.description>Wyprodukuj jednostkę zdolną do wykonywania transportowania przedmiotów.</RPP_Production_Hauler_II.description>
+  <RPP_Production_Hauler_II.jobString>Robotyka.</RPP_Production_Hauler_II.jobString>
+
+  <RPP_Production_Hauler_III.label>stwórz Robota transportowego (Poziom 3)</RPP_Production_Hauler_III.label>
+  <RPP_Production_Hauler_III.description>Wyprodukuj jednostkę zdolną do wykonywania transportowania przedmiotów.</RPP_Production_Hauler_III.description>
+  <RPP_Production_Hauler_III.jobString>Robotyka.</RPP_Production_Hauler_III.jobString>
+
+  <RPP_Production_Hauler_IV.label>stwórz Robota transportowego (Poziom 4)</RPP_Production_Hauler_IV.label>
+  <RPP_Production_Hauler_IV.description>Wyprodukuj jednostkę zdolną do wykonywania transportowania przedmiotów.</RPP_Production_Hauler_IV.description>
+  <RPP_Production_Hauler_IV.jobString>Robotyka.</RPP_Production_Hauler_IV.jobString>
+
+  <RPP_Production_Hauler_V.label>stwórz Robota transportowego (Poziom 5)</RPP_Production_Hauler_V.label>
+  <RPP_Production_Hauler_V.description>Wyprodukuj jednostkę zdolną do wykonywania transportowania przedmiotów.</RPP_Production_Hauler_V.description>
+  <RPP_Production_Hauler_V.jobString>Robotyka.</RPP_Production_Hauler_V.jobString>
+
+
+  <!-- RPP -->
+
+  <RPP_Production_Builder_I.label>stwórz Robota budowlanego (Poziom 1)</RPP_Production_Builder_I.label>
+  <RPP_Production_Builder_I.description>Wyprodukuj jednostkę zdolną do wykonywania prostych umiejętności: budowy, dekonstrukcji, wydobycia i naprawy.</RPP_Production_Builder_I.description>
+  <RPP_Production_Builder_I.jobString>Robotyka.</RPP_Production_Builder_I.jobString>
+
+  <RPP_Production_Builder_II.label>stwórz Robota budowlanego (Poziom 2)</RPP_Production_Builder_II.label>
+  <RPP_Production_Builder_II.description>Wyprodukuj jednostkę zdolną do wykonywania podstawowych umiejętności: budowy, dekonstrukcji, wydobycia i naprawy.</RPP_Production_Builder_II.description>
+  <RPP_Production_Builder_II.jobString>Robotyka.</RPP_Production_Builder_II.jobString>
+
+  <RPP_Production_Builder_III.label>stwórz Robota budowlanego (Poziom 3)</RPP_Production_Builder_III.label>
+  <RPP_Production_Builder_III.description>Wyprodukuj jednostkę zdolną do wykonywania średniozaawansowanych umiejętności: budowy, dekonstrukcji, wydobycia i naprawy.</RPP_Production_Builder_III.description>
+  <RPP_Production_Builder_III.jobString>Robotyka.</RPP_Production_Builder_III.jobString>
+
+  <RPP_Production_Builder_IV.label>stwórz Robota budowlanego (Poziom 4)</RPP_Production_Builder_IV.label>
+  <RPP_Production_Builder_IV.description>Wyprodukuj jednostkę zdolną do wykonywania zaawansowanych umiejętności: budowy, dekonstrukcji, wydobycia i naprawy.</RPP_Production_Builder_IV.description>
+  <RPP_Production_Builder_IV.jobString>Robotyka.</RPP_Production_Builder_IV.jobString>
+
+  <RPP_Production_Builder_V.label>stwórz Robota budowlanego (Poziom 5)</RPP_Production_Builder_V.label>
+  <RPP_Production_Builder_V.description>Wyprodukuj jednostkę zdolną do wykonywania wysokozaawansowanych umiejętności: budowy, dekonstrukcji, wydobycia i naprawy.</RPP_Production_Builder_V.description>
+  <RPP_Production_Builder_V.jobString>Robotyka.</RPP_Production_Builder_V.jobString>
+
+  <RPP_Production_Crafter_I.label>stwórz Robota rzemieślniczego (Poziom 1)</RPP_Production_Crafter_I.label>
+  <RPP_Production_Crafter_I.description>Wyprodukuj jednostkę zdolną do wykonywania prostych umiejętności: wytwarzania, kowalstwa i krawiectwa.</RPP_Production_Crafter_I.description>
+  <RPP_Production_Crafter_I.jobString>Robotyka.</RPP_Production_Crafter_I.jobString>
+
+  <RPP_Production_Crafter_II.label>stwórz Robota rzemieślniczego (Poziom 2)</RPP_Production_Crafter_II.label>
+  <RPP_Production_Crafter_II.description>Wyprodukuj jednostkę zdolną do wykonywania podstawowych umiejętności: wytwarzania, kowalstwa i krawiectwa.</RPP_Production_Crafter_II.description>
+  <RPP_Production_Crafter_II.jobString>Robotyka.</RPP_Production_Crafter_II.jobString>
+
+  <RPP_Production_Crafter_III.label>stwórz Robota rzemieślniczego (Poziom 3)</RPP_Production_Crafter_III.label>
+  <RPP_Production_Crafter_III.description>Wyprodukuj jednostkę zdolną do wykonywania średniozaawansowanych umiejętności: wytwarzania, kowalstwa i krawiectwa.</RPP_Production_Crafter_III.description>
+  <RPP_Production_Crafter_III.jobString>Robotyka.</RPP_Production_Crafter_III.jobString>
+
+  <RPP_Production_Crafter_IV.label>make Crafter bot (Poziom 4)</RPP_Production_Crafter_IV.label>
+  <RPP_Production_Crafter_IV.description>Wyprodukuj jednostkę zdolną do wykonywania zaawansowanych umiejętności: wytwarzania, kowalstwa i krawiectwa.</RPP_Production_Crafter_IV.description>
+  <RPP_Production_Crafter_IV.jobString>Robotyka.</RPP_Production_Crafter_IV.jobString>
+
+  <RPP_Production_Crafter_V.label>make Crafter bot (Poziom 5)</RPP_Production_Crafter_V.label>
+  <RPP_Production_Crafter_V.description>Wyprodukuj jednostkę zdolną do wykonywania wysokozaawansowanych umiejętności: wytwarzania, kowalstwa i krawiectwa.</RPP_Production_Crafter_V.description>
+  <RPP_Production_Crafter_V.jobString>Robotyka.</RPP_Production_Crafter_V.jobString>
+
+  <RPP_Production_ER_I.label>stwórz Robota SR (Poziom 1)</RPP_Production_ER_I.label>
+  <RPP_Production_ER_I.description>Wyprodukuj jednostkę zdolną do wykonywania prostych umiejętności: leczenia pacjentów i gaszenia pożarów.</RPP_Production_ER_I.description>
+  <RPP_Production_ER_I.jobString>Robotyka.</RPP_Production_ER_I.jobString>
+
+  <RPP_Production_ER_II.label>stwórz Robota SR (Poziom 2)</RPP_Production_ER_II.label>
+  <RPP_Production_ER_II.description>Wyprodukuj jednostkę zdolną do wykonywania podstawowcyh umiejętności: leczenia pacjentów i gaszenia pożarów.</RPP_Production_ER_II.description>
+  <RPP_Production_ER_II.jobString>Robotyka.</RPP_Production_ER_II.jobString>
+
+  <RPP_Production_ER_III.label>stwórz Robota SR (Poziom 3)</RPP_Production_ER_III.label>
+  <RPP_Production_ER_III.description>Wyprodukuj jednostkę zdolną do wykonywania średniozaawansowanych umiejętności: leczenia pacjentów i gaszenia pożarów.</RPP_Production_ER_III.description>
+  <RPP_Production_ER_III.jobString>Robotyka.</RPP_Production_ER_III.jobString>
+
+  <RPP_Production_ER_IV.label>stwórz Robota SR (Poziom 4)</RPP_Production_ER_IV.label>
+  <RPP_Production_ER_IV.description>Wyprodukuj jednostkę zdolną do wykonywania zaawansowanych umiejętności: leczenia pacjentów i gaszenia pożarów.</RPP_Production_ER_IV.description>
+  <RPP_Production_ER_IV.jobString>Robotyka.</RPP_Production_ER_IV.jobString>
+
+  <RPP_Production_ER_V.label>stwórz Robota SR (Poziom 5)</RPP_Production_ER_V.label>
+  <RPP_Production_ER_V.description>Wyprodukuj jednostkę zdolną do wykonywania wysokozaawansowanych umiejętności: leczenia pacjentów i gaszenia pożarów.</RPP_Production_ER_V.description>
+  <RPP_Production_ER_V.jobString>Robotyka.</RPP_Production_ER_V.jobString>
+
+  <RPP_Production_Kitchen_I.label>stwórz Robota kuchennego (Poziom 1)</RPP_Production_Kitchen_I.label>
+  <RPP_Production_Kitchen_I.description>Wyprodukuj jednostkę zdolną do wykonywania prostych umiejętności: gotowania i pielęgnacji roślin o zdolnościach klasy amatorskiej.</RPP_Production_Kitchen_I.description>
+  <RPP_Production_Kitchen_I.jobString>Robotyka.</RPP_Production_Kitchen_I.jobString>
+
+  <RPP_Production_Kitchen_II.label>stwórz Robota kuchennego (Poziom 2)</RPP_Production_Kitchen_II.label>
+  <RPP_Production_Kitchen_II.description>Wyprodukuj jednostkę zdolną do wykonywania podstawowych umiejętności: gotowania i pielęgnacji roślin o zdolnościach klasy amatorskiej.</RPP_Production_Kitchen_II.description>
+  <RPP_Production_Kitchen_II.jobString>Robotyka.</RPP_Production_Kitchen_II.jobString>
+
+  <RPP_Production_Kitchen_III.label>stwórz Robota kuchennego (Poziom 3)</RPP_Production_Kitchen_III.label>
+  <RPP_Production_Kitchen_III.description>Wyprodukuj jednostkę zdolną do wykonywania średniozaawansowanych umiejętności: gotowania i pielęgnacji roślin o zdolnościach klasy amatorskiej.</RPP_Production_Kitchen_III.description>
+  <RPP_Production_Kitchen_III.jobString>Robotyka.</RPP_Production_Kitchen_III.jobString>
+
+  <RPP_Production_Kitchen_IV.label>stwórz Robota kuchennego (Poziom 4)</RPP_Production_Kitchen_IV.label>
+  <RPP_Production_Kitchen_IV.description>Wyprodukuj jednostkę zdolną do wykonywania zaawansowanych umiejętności: gotowania i pielęgnacji roślin o zdolnościach klasy amatorskiej.</RPP_Production_Kitchen_IV.description>
+  <RPP_Production_Kitchen_IV.jobString>Robotyka.</RPP_Production_Kitchen_IV.jobString>
+
+  <RPP_Production_Kitchen_V.label>stwórz Robota kuchennego (Poziom 5)</RPP_Production_Kitchen_V.label>
+  <RPP_Production_Kitchen_V.description>Wyprodukuj jednostkę zdolną do wykonywania wysokozaawansowanych umiejętności: gotowania i pielęgnacji roślin o zdolnościach klasy amatorskiej.</RPP_Production_Kitchen_V.description>
+  <RPP_Production_Kitchen_V.jobString>Robotyka.</RPP_Production_Kitchen_V.jobString>
+
+  <RPP_Production_Omni_V.label>stwórz Robota Omni (Poziom 5)</RPP_Production_Omni_V.label>
+  <RPP_Production_Omni_V.description>Wyprodukuj jednostkę zdolną do wysokozaawansowanego wykonywania wszystkich umiejętności.</RPP_Production_Omni_V.description>
+  <RPP_Production_Omni_V.jobString>Robotyka.</RPP_Production_Omni_V.jobString>
+
+
+  <!--<RPP_Production_Component_Bulk.label>make robotic component x4</RPP_Production_Component_Bulk.label>-->
+  <!--<RPP_Production_Component_Bulk.description>Produce Robotic Components which are used as logic circuits within a Robotic Matrix.</RPP_Production_Component_Bulk.description>-->
+
+</LanguageData>

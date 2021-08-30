@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiologyRedoCancerDiagnosis.label>Ponowna diagnoza raka</RadiologyRedoCancerDiagnosis.label>
+  <RadiologyRedoCancerDiagnosis.description>Powtórz poprzednią diagnozę.</RadiologyRedoCancerDiagnosis.description>
+  <RadiologyRedoCancerDiagnosis.jobString>Ponowne diagnozowanie raka.</RadiologyRedoCancerDiagnosis.jobString>
+
+
+</LanguageData>

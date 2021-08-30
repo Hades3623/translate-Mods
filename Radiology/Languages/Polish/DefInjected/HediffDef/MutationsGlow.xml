@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationGlowRed.label>czerwone światło</MutationGlowRed.label>
+  <MutationGlowRed.description>Głowa kolonisty emituje czerwono światło.</MutationGlowRed.description>
+
+  <MutationGlowGreen.label>zielone światło</MutationGlowGreen.label>
+  <MutationGlowGreen.description>Głowa kolonisty emituje zielone światło.</MutationGlowGreen.description>
+
+  <MutationGlowBlue.label>niebieskie światło</MutationGlowBlue.label>
+  <MutationGlowBlue.description>Głowa kolonisty emituje niebieskie światło.</MutationGlowBlue.description>
+
+  <MutationGlow.label>światło</MutationGlow.label>
+  <MutationGlow.description>kolonista emituje światłem.</MutationGlow.description>
+
+
+</LanguageData>

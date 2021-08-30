@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CancerCompPartEfficiency.description>zmniejsza wydajność części ciała o {0}%</CancerCompPartEfficiency.description>
+  <CancerCompCapacityOffset.description>zmniejsza {0} o {1}%</CancerCompCapacityOffset.description>
+  <CancerCompGrowing.description>wzrast</CancerCompGrowing.description>
+  <CancerCompGrowingFast.description>szybki wzrost</CancerCompGrowingFast.description>
+  <CancerCompShrinking.description>obkurcza się</CancerCompShrinking.description>
+  <CancerCompDestroyBodyPartAt75.description>niszczy {0} przy {1}% wzroście</CancerCompDestroyBodyPartAt75.description>
+  <CancerCompDestroyBodyPartAt100.description>niszczy {0} przy {1}% wzroście</CancerCompDestroyBodyPartAt100.description>
+  <CancerCompHunger.description>zwiększa głód o {0}%</CancerCompHunger.description>
+  <CancerCompMentalBreakDaily.description>powoduje przerwę w pracy umysłowej mniej więcej raz dziennie</CancerCompMentalBreakDaily.description>
+  <CancerCompMentalBreakTwoDays.description>powoduje przerwę psychiczną mniej więcej raz na dwa dni</CancerCompMentalBreakTwoDays.description>
+  <CancerCompMentalBreakThreeDays.description>powoduje przerwę psychiczną mniej więcej raz na trzy dni</CancerCompMentalBreakThreeDays.description>
+  <CancerCompMentalBreakTwiceADay.description>powoduje przerwę psychiczną mniej więcej dwa razy dziennie</CancerCompMentalBreakTwiceADay.description>
+  <CancerCompMentalBreakThriceADay.description>powoduje przerwę psychiczną około trzy razy dziennie</CancerCompMentalBreakThriceADay.description>
+  <CancerCompPainLow.description>powoduje ból (minimalny)</CancerCompPainLow.description>
+  <CancerCompPainMedium.description>powoduje ból</CancerCompPainMedium.description>
+  <CancerCompPainHigh.description>powoduje ból (duży)</CancerCompPainHigh.description>
+  <CancerCompPainExtreme.description>powoduje ból (ekstremalny)</CancerCompPainExtreme.description>
+  <CancerCompAggressiveness.description>sprawia, że agresywny</CancerCompAggressiveness.description>
+  <CancerCompVomitingOften.description>powoduje częste wymioty</CancerCompVomitingOften.description>
+  <CancerCompVomitingSometimes.description>wymiotuje dwa razy dziennie</CancerCompVomitingSometimes.description>
+  <CancerCompVomitingDaily.description>codziennie wymiotuje</CancerCompVomitingDaily.description>
+  <CancerCompDeathAt50.description>powoduje śmierć, gdy wzrośnie do 50%</CancerCompDeathAt50.description>
+  <CancerCompDeathAt75.description>powoduje śmierć, gdy wzrośnie do 75%</CancerCompDeathAt75.description>
+  <CancerCompDeathAt100.description>powoduje śmierć, gdy jest w pełni rozwinięty</CancerCompDeathAt100.description>
+  <CancerCompSpreadsUpwards.description>rozprzestrzenia się w górę</CancerCompSpreadsUpwards.description>
+  <CancerCompSpreadsDownwards.description>rozprzestrzenia się w dół</CancerCompSpreadsDownwards.description>
+  <CancerCompSpreads.description>rozprzestrzenia się</CancerCompSpreads.description>
+  <CancerCompSpreadsMutatesUpwards.description>rozprzestrzenia się w górę i mutuje</CancerCompSpreadsMutatesUpwards.description>
+  <CancerCompSpreadsMutatesDownwards.description>rozprzestrzenia się w dół i mutuje</CancerCompSpreadsMutatesDownwards.description>
+  <CancerCompMutatesSpreads.description>rozprzestrzenia się i mutuje</CancerCompMutatesSpreads.description>
+
+
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiologyRadiationChamber.label>komora naświetlania</RadiologyRadiationChamber.label>
+  <RadiologyRadiationChamber.description>Miejsce, w którym można stanąć po przepisanej dawce promieniowania.</RadiologyRadiationChamber.description>
+  <RadiologyRadiationChamber_Blueprint.label>komora napromieniania (plan)</RadiologyRadiationChamber_Blueprint.label>
+  <RadiologyRadiationChamber_Frame.label>komora napromieniania (budynek)</RadiologyRadiationChamber_Frame.label>
+  <RadiologyRadiationChamber_Frame.description>Miejsce, w którym można stanąć po przepisanej dawce promieniowania.</RadiologyRadiationChamber_Frame.description>
+
+  <RadiologyIrradiator.label>irradiator</RadiologyIrradiator.label>
+  <RadiologyIrradiator.description>Bombarduj swoich kolonistów szkodliwym promieniowaniem.</RadiologyIrradiator.description>
+  <RadiologyIrradiator_Blueprint.label>irradiator (plan)</RadiologyIrradiator_Blueprint.label>
+  <RadiologyIrradiator_Blueprint_Install.label>irradiator (plan)</RadiologyIrradiator_Blueprint_Install.label>
+  <RadiologyIrradiator_Frame.label>irradiator (budynek)</RadiologyIrradiator_Frame.label>
+  <RadiologyIrradiator_Frame.description>Bombarduj swoich kolonistów szkodliwym promieniowaniem.</RadiologyIrradiator_Frame.description>
+
+  <RadiologyIrradiatorIntermediate.label>pośredni naświetlacz</RadiologyIrradiatorIntermediate.label>
+  <RadiologyIrradiatorIntermediate.description>Bombarduj swoich kolonistów mniej szkodliwym promieniowaniem.</RadiologyIrradiatorIntermediate.description>
+  <RadiologyIrradiatorIntermediate_Blueprint.label>pośredni irradiator (plan)</RadiologyIrradiatorIntermediate_Blueprint.label>
+  <RadiologyIrradiatorIntermediate_Blueprint_Install.label>pośredni irradiator (plan)</RadiologyIrradiatorIntermediate_Blueprint_Install.label>
+  <RadiologyIrradiatorIntermediate_Frame.label>promiennik pośredni (budynek)</RadiologyIrradiatorIntermediate_Frame.label>
+  <RadiologyIrradiatorIntermediate_Frame.description>Bombarduj swoich kolonistów mniej szkodliwym promieniowaniem.</RadiologyIrradiatorIntermediate_Frame.description>
+
+  <RadiologyBlocker.label>bloker promieniowania</RadiologyBlocker.label>
+  <RadiologyBlocker.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 40% szans na odbijanie promieniowania i pozwala wybrać maksymalnie dwie części ciała.</RadiologyBlocker.description>
+  <RadiologyBlocker_Blueprint.label>bloker promieniowania (plan)</RadiologyBlocker_Blueprint.label>
+  <RadiologyBlocker_Blueprint_Install.label>bloker promieniowania (plan)</RadiologyBlocker_Blueprint_Install.label>
+  <RadiologyBlocker_Frame.label>bloker promieniowania (budynek)</RadiologyBlocker_Frame.label>
+  <RadiologyBlocker_Frame.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 40% szans na odbijanie promieniowania i pozwala wybrać maksymalnie dwie części ciała.</RadiologyBlocker_Frame.description>
+
+  <RadiologyBlockerIntermediate.label>pośredni bloker promieniowania</RadiologyBlockerIntermediate.label>
+  <RadiologyBlockerIntermediate.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 60% szans na odbijanie promieniowania i pozwala wybrać do trzech części ciała.</RadiologyBlockerIntermediate.description>
+  <RadiologyBlockerIntermediate_Blueprint.label>pośredni bloker promieniowania (plan)</RadiologyBlockerIntermediate_Blueprint.label>
+  <RadiologyBlockerIntermediate_Blueprint_Install.label>pośredni bloker promieniowania (plan)</RadiologyBlockerIntermediate_Blueprint_Install.label>
+  <RadiologyBlockerIntermediate_Frame.label>pośredni bloker promieniowania (budynek)</RadiologyBlockerIntermediate_Frame.label>
+  <RadiologyBlockerIntermediate_Frame.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 60% szans na odbijanie promieniowania i pozwala wybrać do trzech części ciała.</RadiologyBlockerIntermediate_Frame.description>
+
+  <RadiologyBlockerAdvanced.label>zaawansowany bloker promieniowania</RadiologyBlockerAdvanced.label>
+  <RadiologyBlockerAdvanced.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 80% szans na odbijanie promieniowania i pozwala wybrać do czterech części ciała.</RadiologyBlockerAdvanced.description>
+  <RadiologyBlockerAdvanced_Blueprint.label>zaawansowany bloker promieniowania (plan)</RadiologyBlockerAdvanced_Blueprint.label>
+  <RadiologyBlockerAdvanced_Blueprint_Install.label>zaawansowany bloker promieniowania (plan)</RadiologyBlockerAdvanced_Blueprint_Install.label>
+  <RadiologyBlockerAdvanced_Frame.label>zaawansowany bloker promieniowania (budowanie)</RadiologyBlockerAdvanced_Frame.label>
+  <RadiologyBlockerAdvanced_Frame.description>Pozwala ustawić filtr, który będzie blokował dużą ilość promieniowania skierowanego na określone części ciała. Ten bloker ma 80% szans na odbijanie promieniowania i pozwala wybrać do czterech części ciała.</RadiologyBlockerAdvanced_Frame.description>
+
+  <RadiologyFilter.label>filtr promieniowania</RadiologyFilter.label>
+  <RadiologyFilter.description>Pozwala ustawić filtr, który zmieni promieniowanie przez niego przechodzące.</RadiologyFilter.description>
+  <RadiologyFilter_Blueprint.label>filtr promieniowania (plan)</RadiologyFilter_Blueprint.label>
+  <RadiologyFilter_Blueprint_Install.label>filtr promieniowania (plan)</RadiologyFilter_Blueprint_Install.label>
+  <RadiologyFilter_Frame.label>filtr promieniowania (budynek)</RadiologyFilter_Frame.label>
+  <RadiologyFilter_Frame.description>Pozwala ustawić filtr, który zmieni promieniowanie przez niego przechodzące.</RadiologyFilter_Frame.description>
+
+  <RadiologyMonitor.label>monitor promieniowania</RadiologyMonitor.label>
+  <RadiologyMonitor.description>Wyświetla ilość promieniowania dozowanego w komorze radiacyjnej.</RadiologyMonitor.description>
+  <RadiologyMonitor_Blueprint.label>monitor promieniowania (plan)</RadiologyMonitor_Blueprint.label>
+  <RadiologyMonitor_Blueprint_Install.label>monitor promieniowania (plan)</RadiologyMonitor_Blueprint_Install.label>
+  <RadiologyMonitor_Frame.label>monitor promieniowania (budynek)</RadiologyMonitor_Frame.label>
+  <RadiologyMonitor_Frame.description>Wyświetla ilość promieniowania dozowanego w komorze radiacyjnej.</RadiologyMonitor_Frame.description>
+
+  <RadiologyMonitorMutation.label>monitor mutacji</RadiologyMonitorMutation.label>
+  <RadiologyMonitorMutation.description>Wyświetla ostatnią mutację utworzoną w komorze.</RadiologyMonitorMutation.description>
+  <RadiologyMonitorMutation_Blueprint.label>monitor mutacji (plan)</RadiologyMonitorMutation_Blueprint.label>
+  <RadiologyMonitorMutation_Blueprint_Install.label>monitor mutacji (plan)</RadiologyMonitorMutation_Blueprint_Install.label>
+  <RadiologyMonitorMutation_Frame.label>monitor mutacji (budynek)</RadiologyMonitorMutation_Frame.label>
+  <RadiologyMonitorMutation_Frame.description>Wyświetla ostatnią mutację utworzoną w komorze.</RadiologyMonitorMutation_Frame.description>
+
+  <RadiologyExtender.label>przedłużacz promieniowania</RadiologyExtender.label>
+  <RadiologyExtender.description>Urządzenie, które zbiera przychodzące promieniowanie ze wszystkich kierunków i przekierowuje je do przodu z minimalnym rozpraszaniem, umożliwiając umieszczenie naświetlaczy w większej odległości od celu.</RadiologyExtender.description>
+  <RadiologyExtender_Blueprint.label>przedłużacz promieniowania (plan)</RadiologyExtender_Blueprint.label>
+  <RadiologyExtender_Blueprint_Install.label>przedłużacz promieniowania (plan)</RadiologyExtender_Blueprint_Install.label>
+  <RadiologyExtender_Frame.label>wzmacniacz promieniowania (budynek)</RadiologyExtender_Frame.label>
+  <RadiologyExtender_Frame.description>Urządzenie, które zbiera przychodzące promieniowanie ze wszystkich kierunków i przekierowuje je do przodu z minimalnym rozpraszaniem, umożliwiając umieszczenie naświetlaczy w większej odległości od celu.</RadiologyExtender_Frame.description>
+
+
+</LanguageData>

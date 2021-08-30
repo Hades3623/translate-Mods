@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- override -->
+
+  <AIRobot_Hauler.label>Robot Transportowy (Poziom 1)</AIRobot_Hauler.label>
+  <AIRobot_Hauler.labelPlural>Robot Transportowy (Poziom 1)s</AIRobot_Hauler.labelPlural>
+  <AIRobot_Hauler.labelMale>męski Robot Transportowy (Poziom 1)</AIRobot_Hauler.labelMale>
+  <AIRobot_Hauler.labelMalePlural>męski Robot Transportowy (Poziom 1)s</AIRobot_Hauler.labelMalePlural>
+  <AIRobot_Hauler.labelFemale>żeński Robot Transportowy (Poziom 1)</AIRobot_Hauler.labelFemale>
+  <AIRobot_Hauler.labelFemalePlural>żeński Robot Transportowy (Poziom 1)s</AIRobot_Hauler.labelFemalePlural>
+
+  <AIRobot_Hauler_II.label>Robot Transportowy (Poziom 2)</AIRobot_Hauler_II.label>
+  <AIRobot_Hauler_II.labelPlural>Robot Transportowy (Poziom 2)s</AIRobot_Hauler_II.labelPlural>
+  <AIRobot_Hauler_II.labelMale>męski Robot Transportowy (Poziom 2)</AIRobot_Hauler_II.labelMale>
+  <AIRobot_Hauler_II.labelMalePlural>męski Robot Transportowy (Poziom 2)s</AIRobot_Hauler_II.labelMalePlural>
+  <AIRobot_Hauler_II.labelFemale>żeński Robot Transportowy (Poziom 2)</AIRobot_Hauler_II.labelFemale>
+  <AIRobot_Hauler_II.labelFemalePlural>żeński Robot Transportowy (Poziom 2)s</AIRobot_Hauler_II.labelFemalePlural>
+
+  <AIRobot_Hauler_III.label>Robot Transportowy (Poziom 3)</AIRobot_Hauler_III.label>
+  <AIRobot_Hauler_III.labelPlural>Robot Transportowy (Poziom 3)s</AIRobot_Hauler_III.labelPlural>
+  <AIRobot_Hauler_III.labelMale>męski Robot Transportowy (Poziom 3)</AIRobot_Hauler_III.labelMale>
+  <AIRobot_Hauler_III.labelMalePlural>męski Robot Transportowy (Poziom 3)s</AIRobot_Hauler_III.labelMalePlural>
+  <AIRobot_Hauler_III.labelFemale>żeński Robot Transportowy (Poziom 3)</AIRobot_Hauler_III.labelFemale>
+  <AIRobot_Hauler_III.labelFemalePlural>żeński Robot Transportowy (Poziom 3)s</AIRobot_Hauler_III.labelFemalePlural>
+
+  <AIRobot_Hauler_IV.label>Robot Transportowy (Poziom 4)</AIRobot_Hauler_IV.label>
+  <AIRobot_Hauler_IV.labelPlural>Robot Transportowy (Poziom 4)s</AIRobot_Hauler_IV.labelPlural>
+  <AIRobot_Hauler_IV.labelMale>męski Robot Transportowy (Poziom 4)</AIRobot_Hauler_IV.labelMale>
+  <AIRobot_Hauler_IV.labelMalePlural>męski Robot Transportowy (Poziom 4)s</AIRobot_Hauler_IV.labelMalePlural>
+  <AIRobot_Hauler_IV.labelFemale>żeński Robot Transportowy (Poziom 4)</AIRobot_Hauler_IV.labelFemale>
+  <AIRobot_Hauler_IV.labelFemalePlural>żeński Robot Transportowy (Poziom 4)s</AIRobot_Hauler_IV.labelFemalePlural>
+
+  <AIRobot_Hauler_V.label>Robot Transportowy (Poziom 5)</AIRobot_Hauler_V.label>
+  <AIRobot_Hauler_V.labelPlural>Robot Transportowy (Poziom 5)s</AIRobot_Hauler_V.labelPlural>
+  <AIRobot_Hauler_V.labelMale>męski Robot Transportowy (Poziom 5)</AIRobot_Hauler_V.labelMale>
+  <AIRobot_Hauler_V.labelMalePlural>męski Robot Transportowy (Poziom 5)s</AIRobot_Hauler_V.labelMalePlural>
+  <AIRobot_Hauler_V.labelFemale>żeński Robot Transportowy (Poziom 5)</AIRobot_Hauler_V.labelFemale>
+  <AIRobot_Hauler_V.labelFemalePlural>żeński Robot Transportowy (Poziom 5)s</AIRobot_Hauler_V.labelFemalePlural>
+
+  <AIRobot_Cleaner.label>Robot Sprzątający (Poziom 1)</AIRobot_Cleaner.label>
+  <AIRobot_Cleaner.labelPlural>Robot Sprzątający (Poziom 1)s</AIRobot_Cleaner.labelPlural>
+  <AIRobot_Cleaner.labelMale>męski Robot Sprzątający (Poziom 1)</AIRobot_Cleaner.labelMale>
+  <AIRobot_Cleaner.labelMalePlural>męski Robot Sprzątający (Poziom 1)s</AIRobot_Cleaner.labelMalePlural>
+  <AIRobot_Cleaner.labelFemale>żeński Robot Sprzątający (Poziom 1)</AIRobot_Cleaner.labelFemale>
+  <AIRobot_Cleaner.labelFemalePlural>żeński Robot Sprzątający (Poziom 1)s</AIRobot_Cleaner.labelFemalePlural>
+
+  <AIRobot_Cleaner_II.label>Robot Sprzątający (Poziom 2)</AIRobot_Cleaner_II.label>
+  <AIRobot_Cleaner_II.labelPlural>Robot Sprzątający (Poziom 2)s</AIRobot_Cleaner_II.labelPlural>
+  <AIRobot_Cleaner_II.labelMale>męski Robot Sprzątający (Poziom 2)</AIRobot_Cleaner_II.labelMale>
+  <AIRobot_Cleaner_II.labelMalePlural>męski Robot Sprzątający (Poziom 2)s</AIRobot_Cleaner_II.labelMalePlural>
+  <AIRobot_Cleaner_II.labelFemale>żeński Robot Sprzątający (Poziom 2)</AIRobot_Cleaner_II.labelFemale>
+  <AIRobot_Cleaner_II.labelFemalePlural>żeński Robot Sprzątający (Poziom 2)s</AIRobot_Cleaner_II.labelFemalePlural>
+
+  <AIRobot_Cleaner_III.label>Robot Sprzątający (Poziom 3)</AIRobot_Cleaner_III.label>
+  <AIRobot_Cleaner_III.labelPlural>Robot Sprzątający (Poziom 3)s</AIRobot_Cleaner_III.labelPlural>
+  <AIRobot_Cleaner_III.labelMale>męski Robot Sprzątający (Poziom 3)</AIRobot_Cleaner_III.labelMale>
+  <AIRobot_Cleaner_III.labelMalePlural>męski Robot Sprzątający (Poziom 3)s</AIRobot_Cleaner_III.labelMalePlural>
+  <AIRobot_Cleaner_III.labelFemale>żeński Robot Sprzątający (Poziom 3)</AIRobot_Cleaner_III.labelFemale>
+  <AIRobot_Cleaner_III.labelFemalePlural>żeński Robot Sprzątający (Poziom 3)s</AIRobot_Cleaner_III.labelFemalePlural>
+
+  <AIRobot_Cleaner_IV.label>Robot Sprzątający (Poziom 4)</AIRobot_Cleaner_IV.label>
+  <AIRobot_Cleaner_IV.labelPlural>Robot Sprzątający (Poziom 4)s</AIRobot_Cleaner_IV.labelPlural>
+  <AIRobot_Cleaner_IV.labelMale>męski Robot Sprzątający (Poziom 4)</AIRobot_Cleaner_IV.labelMale>
+  <AIRobot_Cleaner_IV.labelMalePlural>męski Robot Sprzątający (Poziom 4)s</AIRobot_Cleaner_IV.labelMalePlural>
+  <AIRobot_Cleaner_IV.labelFemale>żeński Robot Sprzątający (Poziom 4)</AIRobot_Cleaner_IV.labelFemale>
+  <AIRobot_Cleaner_IV.labelFemalePlural>żeński Robot Sprzątający (Poziom 4)s</AIRobot_Cleaner_IV.labelFemalePlural>
+
+  <AIRobot_Cleaner_V.label>Robot Sprzątający (Poziom 5)</AIRobot_Cleaner_V.label>
+  <AIRobot_Cleaner_V.labelPlural>Robot Sprzątający (Poziom 5)s</AIRobot_Cleaner_V.labelPlural>
+  <AIRobot_Cleaner_V.labelMale>męski Robot Sprzątający (Poziom 5)</AIRobot_Cleaner_V.labelMale>
+  <AIRobot_Cleaner_V.labelMalePlural>męski Robot Sprzątający (Poziom 5)s</AIRobot_Cleaner_V.labelMalePlural>
+  <AIRobot_Cleaner_V.labelFemale>żeński Robot Sprzątający (Poziom 5)</AIRobot_Cleaner_V.labelFemale>
+  <AIRobot_Cleaner_V.labelFemalePlural>żeński Robot Sprzątający (Poziom 5)s</AIRobot_Cleaner_V.labelFemalePlural>
+
+
+  <!-- RPP -->
+
+  <RPP_Bot_Builder_I.label>Robot Budowlany (Poziom 1)</RPP_Bot_Builder_I.label>
+  <RPP_Bot_Builder_I.labelPlural>Robot Budowlany (Poziom 1)s</RPP_Bot_Builder_I.labelPlural>
+  <RPP_Bot_Builder_I.labelMale>męski Robot Budowlany (Poziom 1)</RPP_Bot_Builder_I.labelMale>
+  <RPP_Bot_Builder_I.labelMalePlural>męski Robot Budowlany (Poziom 1)s</RPP_Bot_Builder_I.labelMalePlural>
+  <RPP_Bot_Builder_I.labelFemale>żeński Robot Budowlany (Poziom 1)</RPP_Bot_Builder_I.labelFemale>
+  <RPP_Bot_Builder_I.labelFemalePlural>żeński Robot Budowlany (Poziom 1)s</RPP_Bot_Builder_I.labelFemalePlural>
+
+  <RPP_Bot_Builder_II.label>Robot Budowlany (Poziom 2)</RPP_Bot_Builder_II.label>
+  <RPP_Bot_Builder_II.labelPlural>Robot Budowlany (Poziom 2)s</RPP_Bot_Builder_II.labelPlural>
+  <RPP_Bot_Builder_II.labelMale>męski Robot Budowlany (Poziom 2)</RPP_Bot_Builder_II.labelMale>
+  <RPP_Bot_Builder_II.labelMalePlural>męski Robot Budowlany (Poziom 2)s</RPP_Bot_Builder_II.labelMalePlural>
+  <RPP_Bot_Builder_II.labelFemale>żeński Robot Budowlany (Poziom 2)</RPP_Bot_Builder_II.labelFemale>
+  <RPP_Bot_Builder_II.labelFemalePlural>żeński Robot Budowlany (Poziom 2)s</RPP_Bot_Builder_II.labelFemalePlural>
+
+  <RPP_Bot_Builder_III.label>Robot Budowlany (Poziom 3)</RPP_Bot_Builder_III.label>
+  <RPP_Bot_Builder_III.labelPlural>Robot Budowlany (Poziom 3)s</RPP_Bot_Builder_III.labelPlural>
+  <RPP_Bot_Builder_III.labelMale>męski Robot Budowlany (Poziom 3)</RPP_Bot_Builder_III.labelMale>
+  <RPP_Bot_Builder_III.labelMalePlural>męski Robot Budowlany (Poziom 3)s</RPP_Bot_Builder_III.labelMalePlural>
+  <RPP_Bot_Builder_III.labelFemale>żeński Robot Budowlany (Poziom 3)</RPP_Bot_Builder_III.labelFemale>
+  <RPP_Bot_Builder_III.labelFemalePlural>żeński Robot Budowlany (Poziom 3)s</RPP_Bot_Builder_III.labelFemalePlural>
+
+  <RPP_Bot_Builder_IV.label>Robot Budowlany (Poziom 4)</RPP_Bot_Builder_IV.label>
+  <RPP_Bot_Builder_IV.labelPlural>Robot Budowlany (Poziom 4)s</RPP_Bot_Builder_IV.labelPlural>
+  <RPP_Bot_Builder_IV.labelMale>męski Robot Budowlany (Poziom 4)</RPP_Bot_Builder_IV.labelMale>
+  <RPP_Bot_Builder_IV.labelMalePlural>męski Robot Budowlany (Poziom 4)s</RPP_Bot_Builder_IV.labelMalePlural>
+  <RPP_Bot_Builder_IV.labelFemale>żeński Robot Budowlany (Poziom 4)</RPP_Bot_Builder_IV.labelFemale>
+  <RPP_Bot_Builder_IV.labelFemalePlural>żeński Robot Budowlany (Poziom 4)s</RPP_Bot_Builder_IV.labelFemalePlural>
+
+  <RPP_Bot_Builder_V.label>Robot Budowlany (Poziom 5)</RPP_Bot_Builder_V.label>
+  <RPP_Bot_Builder_V.labelPlural>Robot Budowlany (Poziom 5)s</RPP_Bot_Builder_V.labelPlural>
+  <RPP_Bot_Builder_V.labelMale>męski Robot Budowlany (Poziom 5)</RPP_Bot_Builder_V.labelMale>
+  <RPP_Bot_Builder_V.labelMalePlural>męski Robot Budowlany (Poziom 5)s</RPP_Bot_Builder_V.labelMalePlural>
+  <RPP_Bot_Builder_V.labelFemale>żeński Robot Budowlany (Poziom 5)</RPP_Bot_Builder_V.labelFemale>
+  <RPP_Bot_Builder_V.labelFemalePlural>żeński Robot Budowlany (Poziom 5)s</RPP_Bot_Builder_V.labelFemalePlural>
+
+  <RPP_Bot_Crafter_I.label>Robot rzemieślniczy (Poziom 1)</RPP_Bot_Crafter_I.label>
+  <RPP_Bot_Crafter_I.labelPlural>Robot rzemieślniczy (Poziom 1)s</RPP_Bot_Crafter_I.labelPlural>
+  <RPP_Bot_Crafter_I.labelMale>męski Robot rzemieślniczy (Poziom 1)</RPP_Bot_Crafter_I.labelMale>
+  <RPP_Bot_Crafter_I.labelMalePlural>męski Robot rzemieślniczy (Poziom 1)s</RPP_Bot_Crafter_I.labelMalePlural>
+  <RPP_Bot_Crafter_I.labelFemale>żeński Robot rzemieślniczy (Poziom 1)</RPP_Bot_Crafter_I.labelFemale>
+  <RPP_Bot_Crafter_I.labelFemalePlural>żeński Robot rzemieślniczy (Poziom 1)s</RPP_Bot_Crafter_I.labelFemalePlural>
+
+  <RPP_Bot_Crafter_II.label>Robot rzemieślniczy (Poziom 2)</RPP_Bot_Crafter_II.label>
+  <RPP_Bot_Crafter_II.labelPlural>Robot rzemieślniczy (Poziom 2)s</RPP_Bot_Crafter_II.labelPlural>
+  <RPP_Bot_Crafter_II.labelMale>męski Robot rzemieślniczy (Poziom 2)</RPP_Bot_Crafter_II.labelMale>
+  <RPP_Bot_Crafter_II.labelMalePlural>męski Robot rzemieślniczy (Poziom 2)s</RPP_Bot_Crafter_II.labelMalePlural>
+  <RPP_Bot_Crafter_II.labelFemale>żeński Robot rzemieślniczy (Poziom 2)</RPP_Bot_Crafter_II.labelFemale>
+  <RPP_Bot_Crafter_II.labelFemalePlural>żeński Robot rzemieślniczy (Poziom 2)s</RPP_Bot_Crafter_II.labelFemalePlural>
+
+  <RPP_Bot_Crafter_III.label>Robot rzemieślniczy (Poziom 3)</RPP_Bot_Crafter_III.label>
+  <RPP_Bot_Crafter_III.labelPlural>Robot rzemieślniczy (Poziom 3)s</RPP_Bot_Crafter_III.labelPlural>
+  <RPP_Bot_Crafter_III.labelMale>męski Robot rzemieślniczy (Poziom 3)</RPP_Bot_Crafter_III.labelMale>
+  <RPP_Bot_Crafter_III.labelMalePlural>męski Robot rzemieślniczy (Poziom 3)s</RPP_Bot_Crafter_III.labelMalePlural>
+  <RPP_Bot_Crafter_III.labelFemale>żeński Robot rzemieślniczy (Poziom 3)</RPP_Bot_Crafter_III.labelFemale>
+  <RPP_Bot_Crafter_III.labelFemalePlural>żeński Robot rzemieślniczy (Poziom 3)s</RPP_Bot_Crafter_III.labelFemalePlural>
+
+  <RPP_Bot_Crafter_IV.label>Robot rzemieślniczy (Poziom 4)</RPP_Bot_Crafter_IV.label>
+  <RPP_Bot_Crafter_IV.labelPlural>Robot rzemieślniczy (Poziom 4)s</RPP_Bot_Crafter_IV.labelPlural>
+  <RPP_Bot_Crafter_IV.labelMale>męski Robot rzemieślniczy (Poziom 4)</RPP_Bot_Crafter_IV.labelMale>
+  <RPP_Bot_Crafter_IV.labelMalePlural>męski Robot rzemieślniczy (Poziom 4)s</RPP_Bot_Crafter_IV.labelMalePlural>
+  <RPP_Bot_Crafter_IV.labelFemale>żeński Robot rzemieślniczy (Poziom 4)</RPP_Bot_Crafter_IV.labelFemale>
+  <RPP_Bot_Crafter_IV.labelFemalePlural>żeński Robot rzemieślniczy (Poziom 4)s</RPP_Bot_Crafter_IV.labelFemalePlural>
+
+  <RPP_Bot_Crafter_V.label>Robot rzemieślniczy (Poziom 5)</RPP_Bot_Crafter_V.label>
+  <RPP_Bot_Crafter_V.labelPlural>Robot rzemieślniczy (Poziom 5)s</RPP_Bot_Crafter_V.labelPlural>
+  <RPP_Bot_Crafter_V.labelMale>męski Robot rzemieślniczy (Poziom 5)</RPP_Bot_Crafter_V.labelMale>
+  <RPP_Bot_Crafter_V.labelMalePlural>męski Robot rzemieślniczy (Poziom 5)s</RPP_Bot_Crafter_V.labelMalePlural>
+  <RPP_Bot_Crafter_V.labelFemale>żeński Robot rzemieślniczy (Poziom 5)</RPP_Bot_Crafter_V.labelFemale>
+  <RPP_Bot_Crafter_V.labelFemalePlural>żeński Robot rzemieślniczy (Poziom 5)s</RPP_Bot_Crafter_V.labelFemalePlural>
+
+  <RPP_Bot_ER_I.label>Robot szybkiego reagowania (Poziom 1)</RPP_Bot_ER_I.label>
+  <RPP_Bot_ER_I.labelPlural>Robot szybkiego reagowania (Poziom 1)s</RPP_Bot_ER_I.labelPlural>
+  <RPP_Bot_ER_I.labelMale>męski Robot szybkiego reagowania (Poziom 1)</RPP_Bot_ER_I.labelMale>
+  <RPP_Bot_ER_I.labelMalePlural>męski Robot szybkiego reagowania (Poziom 1)s</RPP_Bot_ER_I.labelMalePlural>
+  <RPP_Bot_ER_I.labelFemale>żeński Robot szybkiego reagowania (Poziom 1)</RPP_Bot_ER_I.labelFemale>
+  <RPP_Bot_ER_I.labelFemalePlural>żeński Robot szybkiego reagowania (Poziom 1)s</RPP_Bot_ER_I.labelFemalePlural>
+
+  <RPP_Bot_ER_II.label>Robot szybkiego reagowania (Poziom 2)</RPP_Bot_ER_II.label>
+  <RPP_Bot_ER_II.labelPlural>Robot szybkiego reagowania (Poziom 2)s</RPP_Bot_ER_II.labelPlural>
+  <RPP_Bot_ER_II.labelMale>męski Robot szybkiego reagowania (Poziom 2)</RPP_Bot_ER_II.labelMale>
+  <RPP_Bot_ER_II.labelMalePlural>męski Robot szybkiego reagowania (Poziom 2)s</RPP_Bot_ER_II.labelMalePlural>
+  <RPP_Bot_ER_II.labelFemale>żeński Robot szybkiego reagowania (Poziom 2)</RPP_Bot_ER_II.labelFemale>
+  <RPP_Bot_ER_II.labelFemalePlural>żeński Robot szybkiego reagowania (Poziom 2)s</RPP_Bot_ER_II.labelFemalePlural>
+
+  <RPP_Bot_ER_III.label>Robot szybkiego reagowania (Poziom 3)</RPP_Bot_ER_III.label>
+  <RPP_Bot_ER_III.labelPlural>Robot szybkiego reagowania (Poziom 3)s</RPP_Bot_ER_III.labelPlural>
+  <RPP_Bot_ER_III.labelMale>męski Robot szybkiego reagowania (Poziom 3)</RPP_Bot_ER_III.labelMale>
+  <RPP_Bot_ER_III.labelMalePlural>męski Robot szybkiego reagowania (Poziom 3)s</RPP_Bot_ER_III.labelMalePlural>
+  <RPP_Bot_ER_III.labelFemale>żeński Robot szybkiego reagowania (Poziom 3)</RPP_Bot_ER_III.labelFemale>
+  <RPP_Bot_ER_III.labelFemalePlural>żeński Robot szybkiego reagowania (Poziom 3)s</RPP_Bot_ER_III.labelFemalePlural>
+
+  <RPP_Bot_ER_IV.label>Robot szybkiego reagowania (Poziom 4)</RPP_Bot_ER_IV.label>
+  <RPP_Bot_ER_IV.labelPlural>Robot SR (Poziom 4)s</RPP_Bot_ER_IV.labelPlural>
+  <RPP_Bot_ER_IV.labelMale>męski Robot SR (Poziom 4)</RPP_Bot_ER_IV.labelMale>
+  <RPP_Bot_ER_IV.labelMalePlural>męski Robot SR (Poziom 4)s</RPP_Bot_ER_IV.labelMalePlural>
+  <RPP_Bot_ER_IV.labelFemale>żeński Robot SR (Poziom 4)</RPP_Bot_ER_IV.labelFemale>
+  <RPP_Bot_ER_IV.labelFemalePlural>żeński Robot SR (Poziom 4)s</RPP_Bot_ER_IV.labelFemalePlural>
+
+  <RPP_Bot_ER_V.label>Robot szybkiego reagowania (Poziom 5)</RPP_Bot_ER_V.label>
+  <RPP_Bot_ER_V.labelPlural>Robot SR (Poziom 5)s</RPP_Bot_ER_V.labelPlural>
+  <RPP_Bot_ER_V.labelMale>męski Robot SR (Poziom 5)</RPP_Bot_ER_V.labelMale>
+  <RPP_Bot_ER_V.labelMalePlural>męski Robot SR (Poziom 5)s</RPP_Bot_ER_V.labelMalePlural>
+  <RPP_Bot_ER_V.labelFemale>żeński Robot SR (Poziom 5)</RPP_Bot_ER_V.labelFemale>
+  <RPP_Bot_ER_V.labelFemalePlural>żeński Robot SR (Poziom 5)s</RPP_Bot_ER_V.labelFemalePlural>
+
+  <RPP_Bot_Kitchen_I.label>Robot Kuchenny (Poziom 1)</RPP_Bot_Kitchen_I.label>
+  <RPP_Bot_Kitchen_I.labelPlural>Robot Kuchenny (Poziom 1)s</RPP_Bot_Kitchen_I.labelPlural>
+  <RPP_Bot_Kitchen_I.labelMale>męski Robot Kuchenny (Poziom 1)</RPP_Bot_Kitchen_I.labelMale>
+  <RPP_Bot_Kitchen_I.labelMalePlural>męski Robot Kuchenny (Poziom 1)s</RPP_Bot_Kitchen_I.labelMalePlural>
+  <RPP_Bot_Kitchen_I.labelFemale>żeński Robot Kuchenny (Poziom 1)</RPP_Bot_Kitchen_I.labelFemale>
+  <RPP_Bot_Kitchen_I.labelFemalePlural>żeński Robot Kuchenny (Poziom 1)s</RPP_Bot_Kitchen_I.labelFemalePlural>
+
+  <RPP_Bot_Kitchen_II.label>Robot Kuchenny (Poziom 2)</RPP_Bot_Kitchen_II.label>
+  <RPP_Bot_Kitchen_II.labelPlural>Robot Kuchenny (Poziom 2)s</RPP_Bot_Kitchen_II.labelPlural>
+  <RPP_Bot_Kitchen_II.labelMale>męski Robot Kuchenny (Poziom 2)</RPP_Bot_Kitchen_II.labelMale>
+  <RPP_Bot_Kitchen_II.labelMalePlural>męski Robot Kuchenny (Poziom 2)s</RPP_Bot_Kitchen_II.labelMalePlural>
+  <RPP_Bot_Kitchen_II.labelFemale>żeński Robot Kuchenny (Poziom 2)</RPP_Bot_Kitchen_II.labelFemale>
+  <RPP_Bot_Kitchen_II.labelFemalePlural>żeński Robot Kuchenny (Poziom 2)s</RPP_Bot_Kitchen_II.labelFemalePlural>
+
+  <RPP_Bot_Kitchen_III.label>Robot Kuchenny (Poziom 3)</RPP_Bot_Kitchen_III.label>
+  <RPP_Bot_Kitchen_III.labelPlural>Robot Kuchenny (Poziom 3)s</RPP_Bot_Kitchen_III.labelPlural>
+  <RPP_Bot_Kitchen_III.labelMale>męski Robot Kuchenny (Poziom 3)</RPP_Bot_Kitchen_III.labelMale>
+  <RPP_Bot_Kitchen_III.labelMalePlural>męski Robot Kuchenny (Poziom 3)s</RPP_Bot_Kitchen_III.labelMalePlural>
+  <RPP_Bot_Kitchen_III.labelFemale>żeński Robot Kuchenny (Poziom 3)</RPP_Bot_Kitchen_III.labelFemale>
+  <RPP_Bot_Kitchen_III.labelFemalePlural>żeński Robot Kuchenny (Poziom 3)s</RPP_Bot_Kitchen_III.labelFemalePlural>
+
+  <RPP_Bot_Kitchen_IV.label>Robot Kuchenny (Poziom 4)</RPP_Bot_Kitchen_IV.label>
+  <RPP_Bot_Kitchen_IV.labelPlural>Robot Kuchenny (Poziom 4)s</RPP_Bot_Kitchen_IV.labelPlural>
+  <RPP_Bot_Kitchen_IV.labelMale>męski Robot Kuchenny (Poziom 4)</RPP_Bot_Kitchen_IV.labelMale>
+  <RPP_Bot_Kitchen_IV.labelMalePlural>męski Robot Kuchenny (Poziom 4)s</RPP_Bot_Kitchen_IV.labelMalePlural>
+  <RPP_Bot_Kitchen_IV.labelFemale>żeński Robot Kuchenny (Poziom 4)</RPP_Bot_Kitchen_IV.labelFemale>
+  <RPP_Bot_Kitchen_IV.labelFemalePlural>żeński Robot Kuchenny (Poziom 4)s</RPP_Bot_Kitchen_IV.labelFemalePlural>
+
+  <RPP_Bot_Kitchen_V.label>Robot Kuchenny (Poziom 5)</RPP_Bot_Kitchen_V.label>
+  <RPP_Bot_Kitchen_V.labelPlural>Robot Kuchenny (Poziom 5)s</RPP_Bot_Kitchen_V.labelPlural>
+  <RPP_Bot_Kitchen_V.labelMale>męski Robot Kuchenny (Poziom 5)</RPP_Bot_Kitchen_V.labelMale>
+  <RPP_Bot_Kitchen_V.labelMalePlural>męski Robot Kuchenny (Poziom 5)s</RPP_Bot_Kitchen_V.labelMalePlural>
+  <RPP_Bot_Kitchen_V.labelFemale>żeński Robot Kuchenny (Poziom 5)</RPP_Bot_Kitchen_V.labelFemale>
+  <RPP_Bot_Kitchen_V.labelFemalePlural>żeński Robot Kuchenny (Poziom 5)s</RPP_Bot_Kitchen_V.labelFemalePlural>
+
+  <RPP_Bot_Omni_V.label>Robot Omni (Poziom 5)</RPP_Bot_Omni_V.label>
+  <RPP_Bot_Omni_V.labelPlural>Robot Omni (Poziom 5)s</RPP_Bot_Omni_V.labelPlural>
+  <RPP_Bot_Omni_V.labelMale>męski Robot Omni (Poziom 5)</RPP_Bot_Omni_V.labelMale>
+  <RPP_Bot_Omni_V.labelMalePlural>męski Robot Omni (Poziom 5)s</RPP_Bot_Omni_V.labelMalePlural>
+  <RPP_Bot_Omni_V.labelFemale>żeński Robot Omni (Poziom 5)</RPP_Bot_Omni_V.labelFemale>
+  <RPP_Bot_Omni_V.labelFemalePlural>żeński Robot Omni (Poziom 5)s</RPP_Bot_Omni_V.labelFemalePlural>
+
+
+</LanguageData>

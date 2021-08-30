@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationVomitMarbleBricks.label>fabryka marmuru</MutationVomitMarbleBricks.label>
+  <MutationVomitMarbleBricks.description>Część ciała kolonisty zmutowała do produkcji marmurowych cegieł. Część tego produktu jest wyrzucana podczas wymiotów. Marmur to miękki, piękny kamień, znany z tego, że łatwo się go rzeźbi.</MutationVomitMarbleBricks.description>
+
+  <MutationVomitSilver.label>fabryka srebra</MutationVomitSilver.label>
+  <MutationVomitSilver.description>Część ciała kolonisty zmutowała, produkując srebrne kawałki. Część tego produktu jest wyrzucana podczas wymiotów. Srebro jest najczęściej używane jako waluta towarowa.</MutationVomitSilver.description>
+
+  <MutationVomitSteel.label>fabryka metalu</MutationVomitSteel.label>
+  <MutationVomitSteel.description>Część ciała kolonisty zmutowała, wytwarzając kawałki stali. Część tego produktu jest wyrzucana podczas wymiotów. Stal jest stopem żelaza i węgla.</MutationVomitSteel.description>
+
+  <MutationVomitComponent.label>fabryka komponentów</MutationVomitComponent.label>
+  <MutationVomitComponent.description>Część ciała kolonisty zmutowała, by produkować różne przekładnie, kondensatory, płytki drukowane, rurki, koła, czujniki, przewody, chipy, procesory i inne części elektroniczne i przemysłowe. Część produktu jest wyrzucana podczas wymiotów, co pozwala na wygodne składanie skomplikowanych maszyn lub elektroniki.</MutationVomitComponent.description>
+
+  <MutationBrewery.label>browar żołądkowy</MutationBrewery.label>
+  <MutationBrewery.description>W żołądku kolonisty wytworzył się browar, który skutecznie czyni go pijanym przez cały czas.</MutationBrewery.description>
+
+
+</LanguageData>

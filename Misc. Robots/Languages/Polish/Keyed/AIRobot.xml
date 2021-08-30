@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!-- AIRobotGenerator -->
+	<AIRobot_Basename_first>Robot</AIRobot_Basename_first>
+	<AIRobot_Basename_last>...</AIRobot_Basename_last>
+	<AIRobot_Basename_nick></AIRobot_Basename_nick>
+	
+	<!-- AIRobotRechargeStation -->
+	<AIRobot_NoOwner>Brak przypisanego właściciela</AIRobot_NoOwner>
+	<AIRobot_RobotIs>Robot:</AIRobot_RobotIs>
+	<AIRobot_Label_SpawnRobot>Aktwyny</AIRobot_Label_SpawnRobot>
+	<AIRobot_SpawnRobot>Aktywuj robota.</AIRobot_SpawnRobot>
+	<AIRobot_Label_SendOwnerToRecharge>Dezaktywuj</AIRobot_Label_SendOwnerToRecharge>
+	<AIRobot_SendOwnerToRecharge>Przywołaj i dezaktywuj aktywnego robota.</AIRobot_SendOwnerToRecharge>
+	<AIRobot_Start>Aktywuj robota</AIRobot_Start>
+	<AIRobot_NoPower>Brak mocy!</AIRobot_NoPower>
+	<AIRobot_Label_RecallAllRobots>Przywołaj wszystko</AIRobot_Label_RecallAllRobots>
+	<AIRobot_RecallAllRobots>Przywołaj i wyłącz wszystkie aktywne roboty.</AIRobot_RecallAllRobots>
+	<AIRobot_Label_ActivateAllRobots>Aktywuj wszystko</AIRobot_Label_ActivateAllRobots>
+	<AIRobot_ActivateAllRobots>Aktywuj wszystkie dostępne roboty.</AIRobot_ActivateAllRobots>
+	<AIRobot_RobotIsDestroyed>Robot jest zniszczony!</AIRobot_RobotIsDestroyed>
+	<AIRobot_Label_FindRobot>Znajdź robota</AIRobot_Label_FindRobot>
+	<AIRobot_FindRobot>Pokazuje pozycję robota.</AIRobot_FindRobot>
+	<AIRobot_Disabled_OnlyStartOnHomeMap>Zacznij tylko na swojej domowej mapie. Mod wyrzuci błędy, gdy wyjdziesz tutaj z aktywnym robotem!</AIRobot_Disabled_OnlyStartOnHomeMap>
+	<AIRobot_Label_ToggleAllowTempMapUsage>OSTRZEŻENIE! Zezwól na roboty</AIRobot_Label_ToggleAllowTempMapUsage>
+	<AIRobot_ToggleAllowTempMapUsage>Spowoduje to włączenie robotów na mapach innych niż domowe.\n\nUWAGA: MUSZĄ zostać przywołane przed opuszczeniem mapy, w przeciwnym razie ryzykujesz poważnymi błędami!\n\nZostałeś ostrzeżony!</AIRobot_ToggleAllowTempMapUsage>
+	
+	<!-- AIRobot_MainButton -->
+	<AIRobot_MainTab_SendRobotToRecharge>Kliknij, aby naładować tego robota.</AIRobot_MainTab_SendRobotToRecharge>
+	
+	<AIRobot_MessageRechargeStationOutsideAreaRestriction>Przydzielony obszar robota nie obejmuje stacji ładowania! Resetuję...</AIRobot_MessageRechargeStationOutsideAreaRestriction>
+	
+	<AIRobot_RenameRobot>Kliknij, aby zmienić nazwę tego robota.</AIRobot_RenameRobot>
+	<AIRobot_RobotIsRenamed>Twój robot ma teraz nazwę {0}.</AIRobot_RobotIsRenamed>
+	<AIRobot_ShutDownRobot>Kliknij, aby wysłać robota do jego bazy w celu wyłączenia.</AIRobot_ShutDownRobot>
+	<AIRobot_ShutDownAllRobots>Kliknij, aby wysłać wszystkie roboty do ich bazy w celu wyłączenia.</AIRobot_ShutDownAllRobots>
+	<AIRobot_RobotIsRecharging>Robot się ładuje. </AIRobot_RobotIsRecharging>
+	
+	<!-- AIRobot_destroyed -->
+	<AIRobot_RepairRobot>Napraw robota </AIRobot_RepairRobot>
+	<AIRobot_RepairRobot_hint>Twój robot jest uszkodzony. Naprawa będzie Cię kosztować: </AIRobot_RepairRobot_hint>
+	<AIRobot_RepairRobotInProgress>Naprawa w toku.. </AIRobot_RepairRobotInProgress>
+	<AIRobot_DismantleRobot>Zdemontuj robota i stację </AIRobot_DismantleRobot>
+	
+	<AIRobot_CannotRepairRobotIsActive>Robot jest aktywny -> Wyłącz, aby go naprawić. </AIRobot_CannotRepairRobotIsActive>
+	
+</LanguageData>

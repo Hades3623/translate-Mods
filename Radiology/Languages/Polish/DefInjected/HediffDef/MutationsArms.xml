@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationEnhancedDex.label>zwiększona sprawność manualna</MutationEnhancedDex.label>
+  <MutationEnhancedDex.description>Promieniowanie wzmocniło ścięgna i mięśnie w ręce kolonisty, dzięki czemu stał się on bardziej zręczny.</MutationEnhancedDex.description>
+
+  <MutationStrengthenedArm.label>wzmocnione ramię</MutationStrengthenedArm.label>
+  <MutationStrengthenedArm.description>Tkanka mięśniowa w ramieniu zmutowała i rozrosła się nienaturalnie, powodując, że kolonista ma zwiększoną siłę i kontrolę.</MutationStrengthenedArm.description>
+
+  <MutationRippedShoulders.label>wielkie ramiona</MutationRippedShoulders.label>
+  <MutationRippedShoulders.description>Ramiona Kolonisty zyskały sporą ilość dodatkowej masy mięśniowej, dając mu dodatkową sprawność w walce wręcz, a także ogólnie poprawiając jego wygląd.</MutationRippedShoulders.description>
+
+  <MutationShootingBoost.label>stabilna ręka</MutationShootingBoost.label>
+  <MutationShootingBoost.description>Specyficzna mutacja ręki kolonisty pozwala na znacznie większą biegłość w strzelaniu, kosztem osłabienia ataków w walce wręcz.</MutationShootingBoost.description>
+
+  <MutationGreenThumb.label>kciuk ogrodnika</MutationGreenThumb.label>
+  <MutationGreenThumb.description>Zielony wzrost na powierzchni dłoni kolonisty zdaje się ożywiać wszystkie rośliny, które dotknie.</MutationGreenThumb.description>
+
+  <MutationTumorousHand.label>Guzowate palce</MutationTumorousHand.label>
+  <MutationTumorousHand.description>Promieniowanie spowodowało wzrost łagodnych guzów na ręce kolonisty, niszcząc nerwy i tkankę mięśniową, co spowodowało, że ręka stała się bezużyteczna.</MutationTumorousHand.description>
+
+  <MutationWeakenedArm.label>Osłabione ramiona</MutationWeakenedArm.label>
+  <MutationWeakenedArm.description>Promieniowanie spowodowało pogorszenie stanu tkanki mięśniowej w ramieniu kolonisty, osłabiając jego siłę i kontrolę.</MutationWeakenedArm.description>
+
+  <MutationRottenHand.label>zgniła ręka</MutationRottenHand.label>
+  <MutationRottenHand.description>Ręka kolonisty jest bliska, ale nie do końca w stadium, w którym gnije i odpada. Czasami można zaobserwować miniaturowe formy życia przemierzające skórę.</MutationRottenHand.description>
+
+  <MutationHandBlade.label>ręczne ostrze</MutationHandBlade.label>
+  <MutationHandBlade.description>Ręka Colonita zmieniła się w długie ostrze, co sprawia, że nie nadaje się ona do wykonywania jakichkolwiek zadań związanych z manipulacją, ale bardzo dobrze sprawdza się jako broń do walki wręcz.</MutationHandBlade.description>
+  <MutationHandBlade.comps.0.tools.0.label>ostrze</MutationHandBlade.comps.0.tools.0.label>
+
+  <MutationBloodBlade.label>krwawe ostrze</MutationBloodBlade.label>
+  <MutationBloodBlade.description>Ręka kolonisty przekształciła się w długie mięsiste ostrze, które zdaje się żyć własnym życiem. Po nakarmieniu żywą materią w warunkach bojowych, ostrze to jest w stanie wytworzyć bardzo silny efekt odnowy, zdolny zregenerować nawet trwałe obrażenia.</MutationBloodBlade.description>
+  <MutationBloodBlade.comps.0.tools.0.label>blade</MutationBloodBlade.comps.0.tools.0.label>
+
+
+</LanguageData>

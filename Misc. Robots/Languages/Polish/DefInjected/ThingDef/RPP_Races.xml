@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- override -->
+
+  <AIRobot_Hauler.label>Robot Transportowy</AIRobot_Hauler.label>
+  <AIRobot_Hauler.description>Prosty robot transportowy.</AIRobot_Hauler.description>
+
+  <AIRobot_Hauler_II.label>Robot Transportowy</AIRobot_Hauler_II.label>
+  <AIRobot_Hauler_II.description>Podstawowy robot transportowy.</AIRobot_Hauler_II.description>
+
+  <AIRobot_Hauler_III.label>Robot Transportowy</AIRobot_Hauler_III.label>
+  <AIRobot_Hauler_III.description>Średniozaawansowany robot transportowy.</AIRobot_Hauler_III.description>
+
+  <AIRobot_Hauler_IV.label>Robot Transportowy</AIRobot_Hauler_IV.label>
+  <AIRobot_Hauler_IV.description>Zaawansowany robot transportowy.</AIRobot_Hauler_IV.description>
+
+  <AIRobot_Hauler_V.label>Robot Transportowy</AIRobot_Hauler_V.label>
+  <AIRobot_Hauler_V.description>Wysokozaawansowany robot transportowy.</AIRobot_Hauler_V.description>
+
+  <AIRobot_Cleaner.label>Robot Sprzątający</AIRobot_Cleaner.label>
+  <AIRobot_Cleaner.description>Prosty Robot Sprzątający.</AIRobot_Cleaner.description>
+
+  <AIRobot_Cleaner_II.label>Robot Sprzątający</AIRobot_Cleaner_II.label>
+  <AIRobot_Cleaner_II.description>Podstawowy Robot Sprzątający.</AIRobot_Cleaner_II.description>
+
+  <AIRobot_Cleaner_III.label>Robot Sprzątający</AIRobot_Cleaner_III.label>
+  <AIRobot_Cleaner_III.description>Średniozaawansowany Robot Sprzątający.</AIRobot_Cleaner_III.description>
+
+  <AIRobot_Cleaner_IV.label>Robot Sprzątający</AIRobot_Cleaner_IV.label>
+  <AIRobot_Cleaner_IV.description>Zaawansowany Robot Sprzątający.</AIRobot_Cleaner_IV.description>
+
+  <AIRobot_Cleaner_V.label>Robot Sprzątający</AIRobot_Cleaner_V.label>
+  <AIRobot_Cleaner_V.description>Wysokozaawansowany Robot Sprzątający.</AIRobot_Cleaner_V.description>
+
+
+  <!-- RPP -->
+
+  <RPP_Bot_Builder_I.label>Robot Budowlany</RPP_Bot_Builder_I.label>
+  <RPP_Bot_Builder_I.description>Prosty poziom 1 (4) umożliwia jednostce zdolność do konstruowania, dekonstruowania, naprawiania i wydobywania.</RPP_Bot_Builder_I.description>
+
+  <RPP_Bot_Builder_II.label>Robot Budowlany</RPP_Bot_Builder_II.label>
+  <RPP_Bot_Builder_II.description>Podstawowy poziom 2 (8) umożliwia jednostce zdolność do konstruowania, dekonstruowania, naprawiania i wydobywania.</RPP_Bot_Builder_II.description>
+
+  <RPP_Bot_Builder_III.label>Robot Budowlany</RPP_Bot_Builder_III.label>
+  <RPP_Bot_Builder_III.description>Średniozaawansowany Poziom 3 (13) umożliwia jednostce zdolność do konstruowania, dekonstruowania, naprawiania i wydobywania.</RPP_Bot_Builder_III.description>
+
+  <RPP_Bot_Builder_IV.label>Robot Budowlany</RPP_Bot_Builder_IV.label>
+  <RPP_Bot_Builder_IV.description>Zaawansowany poziom 4 (16) umożliwia jednostce zdolność do konstruowania, dekonstruowania, naprawiania i wydobywania.</RPP_Bot_Builder_IV.description>
+
+  <RPP_Bot_Builder_V.label>Robot Budowlany</RPP_Bot_Builder_V.label>
+  <RPP_Bot_Builder_V.description>Wysocezaawansowany poziom 5 (20) umożliwia jednostce zdolność do konstruowania, dekonstruowania, naprawiania i wydobywania.</RPP_Bot_Builder_V.description>
+
+  <RPP_Bot_Crafter_I.label>Robot Rzemieślniczy</RPP_Bot_Crafter_I.label>
+  <RPP_Bot_Crafter_I.description>Prosty poziom 1 (4) umożliwia jednostce zdolność do kowalstwa, krawiectwa i rzemiosła.</RPP_Bot_Crafter_I.description>
+
+  <RPP_Bot_Crafter_II.label>Robot Rzemieślniczy</RPP_Bot_Crafter_II.label>
+  <RPP_Bot_Crafter_II.description>Podstawowy poziom 2 (8) umożliwia jednostce zdolność do kowalstwa, krawiectwa i rzemiosła.</RPP_Bot_Crafter_II.description>
+
+  <RPP_Bot_Crafter_III.label>Robot Rzemieślniczy</RPP_Bot_Crafter_III.label>
+  <RPP_Bot_Crafter_III.description>Średniozaawansowany Poziom 3 (13) umożliwia jednostce zdolność do kowalstwa, krawiectwa i rzemiosła.</RPP_Bot_Crafter_III.description>
+
+  <RPP_Bot_Crafter_IV.label>Robot Rzemieślniczy</RPP_Bot_Crafter_IV.label>
+  <RPP_Bot_Crafter_IV.description>Zaawansowany poziom 4 (16) umożliwia jednostce zdolność do kowalstwa, krawiectwa i rzemiosła.</RPP_Bot_Crafter_IV.description>
+
+  <RPP_Bot_Crafter_V.label>Robot Rzemieślniczy</RPP_Bot_Crafter_V.label>
+  <RPP_Bot_Crafter_V.description>Wysocezaawansowany poziom 5 (20) umożliwia jednostce zdolność do kowalstwa, krawiectwa i rzemiosła.</RPP_Bot_Crafter_V.description>
+
+  <RPP_Bot_ER_I.label>Robot SE</RPP_Bot_ER_I.label>
+  <RPP_Bot_ER_I.description>Prosty poziom 1 (4) reagowania kryzysowego umożliwia jednostce zdolność do leczenia pacjentów i gaszenia pożarów. </RPP_Bot_ER_I.description>
+
+  <RPP_Bot_ER_II.label>Robot SE</RPP_Bot_ER_II.label>
+  <RPP_Bot_ER_II.description>Podstawowy poziom 2 (8) reagowania kryzysowego umożliwia jednostce zdolność do leczenia pacjentów i gaszenia pożarów.</RPP_Bot_ER_II.description>
+
+  <RPP_Bot_ER_III.label>Robot SE</RPP_Bot_ER_III.label>
+  <RPP_Bot_ER_III.description>Średniozaawansowany Poziom 3 (13) reagowania kryzysowego umożliwia jednostce zdolność do leczenia pacjentów i gaszenia pożarów.</RPP_Bot_ER_III.description>
+
+  <RPP_Bot_ER_IV.label>Robot SE</RPP_Bot_ER_IV.label>
+  <RPP_Bot_ER_IV.description>Zaawansowany poziom 4 (16) reagowania kryzysowego umożliwia jednostce zdolność do leczenia pacjentów i gaszenia pożarów.</RPP_Bot_ER_IV.description>
+
+  <RPP_Bot_ER_V.label>Robot SE</RPP_Bot_ER_V.label>
+  <RPP_Bot_ER_V.description>Wysocezaawansowany poziom 5 (20) reagowania kryzysowego umożliwia jednostce zdolność do leczenia pacjentów i gaszenia pożarów.</RPP_Bot_ER_V.description>
+
+  <RPP_Bot_Kitchen_I.label>Robot Kuchenny</RPP_Bot_Kitchen_I.label>
+  <RPP_Bot_Kitchen_I.description>Prosty poziom 1 (4) umożliwia jednostce zdolność do gotowania i pielęgnacji roślin. </RPP_Bot_Kitchen_I.description>
+
+  <RPP_Bot_Kitchen_II.label>Robot Kuchenny</RPP_Bot_Kitchen_II.label>
+  <RPP_Bot_Kitchen_II.description>Podstawowy poziom 2 (8) umożliwia jednostce zdolność do gotowania i pielęgnacji roślin.</RPP_Bot_Kitchen_II.description>
+
+  <RPP_Bot_Kitchen_III.label>Robot Kuchenny</RPP_Bot_Kitchen_III.label>
+  <RPP_Bot_Kitchen_III.description>Średniozaawansowany Poziom 3 (13) umożliwia jednostce zdolność do gotowania i pielęgnacji roślin.</RPP_Bot_Kitchen_III.description>
+
+  <RPP_Bot_Kitchen_IV.label>Robot Kuchenny</RPP_Bot_Kitchen_IV.label>
+  <RPP_Bot_Kitchen_IV.description>Zaawansowany poziom 4 (16) umożliwia jednostce zdolność do gotowania i pielęgnacji roślin.</RPP_Bot_Kitchen_IV.description>
+
+  <RPP_Bot_Kitchen_V.label>Robot Kuchenny</RPP_Bot_Kitchen_V.label>
+  <RPP_Bot_Kitchen_V.description>Wysocezaawansowany poziom 5 (20) umożliwia jednostce zdolność do gotowania i pielęgnacji roślin.</RPP_Bot_Kitchen_V.description>
+
+  <RPP_Bot_Omni_V.label>Robot Omni</RPP_Bot_Omni_V.label>
+  <RPP_Bot_Omni_V.description>Wysocezaawansowany Poziom 5 umożliwia jednostce wykonywanie wszystkich czynności.</RPP_Bot_Omni_V.description>
+
+
+  <!--[Duplicate]
+	<AIRobot_Hauler.label>Robot Transportowy</AIRobot_Hauler.label>
+	<AIRobot_Hauler.description>Prosty robot transportowy.</AIRobot_Hauler.description>
+-->
+  <!--[Duplicate]
+	<AIRobot_Cleaner.label>Robot Sprzątający</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner.description>Prosty Robot Sprzątający.</AIRobot_Cleaner.description>
+-->
+
+</LanguageData>

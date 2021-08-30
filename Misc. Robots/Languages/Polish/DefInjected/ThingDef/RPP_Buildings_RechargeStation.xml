@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- override -->
+
+  <AIRobot_RechargeStation_Hauler.label>Stacja Robota Transportowego (I) </AIRobot_RechargeStation_Hauler.label>
+  <AIRobot_RechargeStation_Hauler.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler.description>
+
+  <AIRobot_RechargeStation_Hauler_II.label>Stacja Robota Transportowego (II)</AIRobot_RechargeStation_Hauler_II.label>
+  <AIRobot_RechargeStation_Hauler_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler_II.description>
+
+  <AIRobot_RechargeStation_Hauler_III.label>Stacja Robota Transportowego (III)</AIRobot_RechargeStation_Hauler_III.label>
+  <AIRobot_RechargeStation_Hauler_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler_III.description>
+
+  <AIRobot_RechargeStation_Hauler_IV.label>Stacja Robota Transportowego  (IV)</AIRobot_RechargeStation_Hauler_IV.label>
+  <AIRobot_RechargeStation_Hauler_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler_IV.description>
+
+  <AIRobot_RechargeStation_Hauler_V.label>Stacja Robota Transportowego (V)</AIRobot_RechargeStation_Hauler_V.label>
+  <AIRobot_RechargeStation_Hauler_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler_V.description>
+
+  <AIRobot_RechargeStation_Cleaner.label>Stacja Robota Czyszczącego (I)</AIRobot_RechargeStation_Cleaner.label>
+  <AIRobot_RechargeStation_Cleaner.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner.description>
+
+  <AIRobot_RechargeStation_Cleaner_II.label>Stacja Robota Czyszczącego (II)</AIRobot_RechargeStation_Cleaner_II.label>
+  <AIRobot_RechargeStation_Cleaner_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner_II.description>
+
+  <AIRobot_RechargeStation_Cleaner_III.label>Stacja Robota Czyszczącego (III)</AIRobot_RechargeStation_Cleaner_III.label>
+  <AIRobot_RechargeStation_Cleaner_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner_III.description>
+
+  <AIRobot_RechargeStation_Cleaner_IV.label>Stacja Robota Czyszczącego (IV)</AIRobot_RechargeStation_Cleaner_IV.label>
+  <AIRobot_RechargeStation_Cleaner_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner_IV.description>
+
+  <AIRobot_RechargeStation_Cleaner_V.label>Stacja Robota Czyszczącego (V)</AIRobot_RechargeStation_Cleaner_V.label>
+  <AIRobot_RechargeStation_Cleaner_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner_V.description>
+
+
+  <!-- RPP -->
+
+  <RPP_RechargeStation_Builder_I.label>Stacja Robota Budowlanego  (I)</RPP_RechargeStation_Builder_I.label>
+  <RPP_RechargeStation_Builder_I.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</RPP_RechargeStation_Builder_I.description>
+
+  <RPP_RechargeStation_Builder_II.label>Stacja Robota Budowlanego  (II)</RPP_RechargeStation_Builder_II.label>
+  <RPP_RechargeStation_Builder_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</RPP_RechargeStation_Builder_II.description>
+
+  <RPP_RechargeStation_Builder_III.label>Stacja Robota Budowlanego  (III)</RPP_RechargeStation_Builder_III.label>
+  <RPP_RechargeStation_Builder_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Builder_III.description>
+
+  <RPP_RechargeStation_Builder_IV.label>Stacja Robota Budowlanego  (IV)</RPP_RechargeStation_Builder_IV.label>
+  <RPP_RechargeStation_Builder_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Builder_IV.description>
+
+  <RPP_RechargeStation_Builder_V.label>Stacja Robota Budowlanego (V) </RPP_RechargeStation_Builder_V.label>
+  <RPP_RechargeStation_Builder_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Builder_V.description>
+
+  <RPP_RechargeStation_Crafter_I.label>Stacja Robota Rzemieślniczego  (I)</RPP_RechargeStation_Crafter_I.label>
+  <RPP_RechargeStation_Crafter_I.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</RPP_RechargeStation_Crafter_I.description>
+
+  <RPP_RechargeStation_Crafter_II.label>Stacja Robota Rzemieślniczego  (II)</RPP_RechargeStation_Crafter_II.label>
+  <RPP_RechargeStation_Crafter_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</RPP_RechargeStation_Crafter_II.description>
+
+  <RPP_RechargeStation_Crafter_III.label>Stacja Robota Rzemieślniczego  (III)</RPP_RechargeStation_Crafter_III.label>
+  <RPP_RechargeStation_Crafter_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Crafter_III.description>
+
+  <RPP_RechargeStation_Crafter_IV.label>Stacja Robota Rzemieślniczego  (IV)</RPP_RechargeStation_Crafter_IV.label>
+  <RPP_RechargeStation_Crafter_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Crafter_IV.description>
+
+  <RPP_RechargeStation_Crafter_V.label>Stacja Robota Rzemieślniczego  (V)</RPP_RechargeStation_Crafter_V.label>
+  <RPP_RechargeStation_Crafter_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Crafter_V.description>
+
+  <RPP_RechargeStation_ER_I.label>Stacja Robota SR (I)</RPP_RechargeStation_ER_I.label>
+  <RPP_RechargeStation_ER_I.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</RPP_RechargeStation_ER_I.description>
+
+  <RPP_RechargeStation_ER_II.label>Stacja Robota SR (II)</RPP_RechargeStation_ER_II.label>
+  <RPP_RechargeStation_ER_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</RPP_RechargeStation_ER_II.description>
+
+  <RPP_RechargeStation_ER_III.label>Stacja Robota SR (III)</RPP_RechargeStation_ER_III.label>
+  <RPP_RechargeStation_ER_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_ER_III.description>
+
+  <RPP_RechargeStation_ER_IV.label>Stacja Robota SR (IV)</RPP_RechargeStation_ER_IV.label>
+  <RPP_RechargeStation_ER_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_ER_IV.description>
+
+  <RPP_RechargeStation_ER_V.label>Stacja Robota SR (V)</RPP_RechargeStation_ER_V.label>
+  <RPP_RechargeStation_ER_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_ER_V.description>
+
+  <RPP_RechargeStation_Kitchen_I.label>Stacja Robota Kuchennego (I) </RPP_RechargeStation_Kitchen_I.label>
+  <RPP_RechargeStation_Kitchen_I.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</RPP_RechargeStation_Kitchen_I.description>
+
+  <RPP_RechargeStation_Kitchen_II.label>Stacja Robota Kuchennego (II)</RPP_RechargeStation_Kitchen_II.label>
+  <RPP_RechargeStation_Kitchen_II.description>Ta stacja jest wyposażona w podstawowego wyspecjalizowanego robota.</RPP_RechargeStation_Kitchen_II.description>
+
+  <RPP_RechargeStation_Kitchen_III.label>Stacja Robota Kuchennego (III)</RPP_RechargeStation_Kitchen_III.label>
+  <RPP_RechargeStation_Kitchen_III.description>Ta stacja jest wyposażona w średniozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Kitchen_III.description>
+
+  <RPP_RechargeStation_Kitchen_IV.label>Stacja Robota Kuchennego (IV)</RPP_RechargeStation_Kitchen_IV.label>
+  <RPP_RechargeStation_Kitchen_IV.description>Ta stacja jest wyposażona w zaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Kitchen_IV.description>
+
+  <RPP_RechargeStation_Kitchen_V.label>Stacja Robota Kuchennego (V)</RPP_RechargeStation_Kitchen_V.label>
+  <RPP_RechargeStation_Kitchen_V.description>Ta stacja jest wyposażona w wysokozaawansowanego wyspecjalizowanego robota.</RPP_RechargeStation_Kitchen_V.description>
+
+  <RPP_RechargeStation_Omni_V.label>Stacja Robota Omni (V) </RPP_RechargeStation_Omni_V.label>
+  <RPP_RechargeStation_Omni_V.description>Ta stacja jest wyposażona w wysokozaawansowanego Robota Omni.\nPosiada również wewnętrzny zasilacz z nadmierną jednością.</RPP_RechargeStation_Omni_V.description>
+
+
+  <!--[Duplicate]
+	<AIRobot_RechargeStation_Hauler.label>Hauler(I) Base Station</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler.description>
+-->
+  <!--[Duplicate]
+	<AIRobot_RechargeStation_Cleaner.label>Cleaner(I) Base Station</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>Ta stacja jest wyposażona w prostego wyspecjalizowanego robota.</AIRobot_RechargeStation_Cleaner.description>
+-->
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<AIRobot_RechargeStation_Hauler.label>Stacja bazowa robota transportowego</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>Stanowisko to wyposażone jest w wyspecjalizowanego robota.</AIRobot_RechargeStation_Hauler.description>
+
+	<AIRobot_RechargeStation_Cleaner.label>Stacja bazowa robota czyszczącego</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>Stanowisko to wyposażone jest w wyspecjalizowanego robota</AIRobot_RechargeStation_Cleaner.description>
+
+	<AIRobot_MinifiedRechargeStation.label>Stacja bazowa</AIRobot_MinifiedRechargeStation.label>
+	
+	<AIRobot_Hauler.description>To jest robot transportowy. Przenosi twoje zakupy do domu, a nawet podnosi twoje nowe pianino do pokoju na 20. piętrze.</AIRobot_Hauler.description>
+	<AIRobot_Cleaner.description>Robot sprzątający. Sprząta Twój pokój podczas Twojej nieobecności. UWAGA: Nie pozwól, aby Twoje zwierzęta się do niego zbliżały!</AIRobot_Cleaner.description>
+	
+	<AIRobot_Hauler_disabled.label>RobotTransportowy (wyłączony)</AIRobot_Hauler_disabled.label>
+	<AIRobot_Hauler_disabled.description>To smutny koniec dla robota. Nie jest już przydatny i można go tylko zdemontować.</AIRobot_Hauler_disabled.description>
+	
+	<AIRobot_Cleaner_disabled.label>RobotSprzątający (disabled)</AIRobot_Cleaner_disabled.label>
+	<AIRobot_Cleaner_disabled.description>To smutny koniec dla robota. Nie jest już przydatny i można go tylko zdemontować.</AIRobot_Cleaner_disabled.description>
+	
+	<AIRobot_Hauler.tools.0.label>lewy manipulator</AIRobot_Hauler.tools.0.label>
+	<AIRobot_Hauler.tools.1.label>prawy manipulator</AIRobot_Hauler.tools.1.label>
+	<AIRobot_Hauler.tools.2.label>głowa</AIRobot_Hauler.tools.2.label>
+	
+	<AIRobot_Cleaner.tools.0.label>lewy manipulator</AIRobot_Cleaner.tools.0.label>
+	<AIRobot_Cleaner.tools.1.label>prawy manipulator</AIRobot_Cleaner.tools.1.label>
+	<AIRobot_Cleaner.tools.2.label>głowa</AIRobot_Cleaner.tools.2.label>
+	
+</LanguageData>

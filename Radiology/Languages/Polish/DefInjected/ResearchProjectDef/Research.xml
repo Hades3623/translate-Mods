@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 1 -->
+
+  <RadiologyBasic.label>radiologia</RadiologyBasic.label>
+  <RadiologyBasic.description>Zbuduj komorę radiologiczną i używaj irradiatorów, aby bombardować swoich kolonistów szkodliwym promieniowaniem.</RadiologyBasic.description>
+
+
+  <!-- 2 -->
+
+  <RadiologyBlocking.label>blokady promieniowania</RadiologyBlocking.label>
+  <RadiologyBlocking.description>Zbuduj blokadę, dzięki której przechodzące przez nią promieniowanie nie będzie mogło dotrzeć do określonych części ciała.</RadiologyBlocking.description>
+
+  <RadiologyMonitoring.label>monitor promieniowania</RadiologyMonitoring.label>
+  <RadiologyMonitoring.description>Zbuduj monitor, który pozwala zobaczyć szczegółowe informacje o tym, jaki rodzaj promieniowania jest stosowany w komorze.</RadiologyMonitoring.description>
+
+  <RadiologyFiltering.label>filtrowanie promieniowania</RadiologyFiltering.label>
+  <RadiologyFiltering.description>Zbuduj filtr umożliwiający zmianę przechodzącego przez niego promieniowania.</RadiologyFiltering.description>
+
+
+  <!-- blockers -->
+
+  <RadiologyBlockingIntermediate.label>blokowanie pośrednie</RadiologyBlockingIntermediate.label>
+  <RadiologyBlockingIntermediate.description>Zbuduj pośrednią odmianę blokera, która ma większe szanse na odbicie promieniowania i pozwala wybrać więcej części ciała do ochrony.</RadiologyBlockingIntermediate.description>
+
+  <RadiologyBlockingAdvanced.label>zaawansowany bloker promieniowania</RadiologyBlockingAdvanced.label>
+  <RadiologyBlockingAdvanced.description>Zbuduj zaawansowaną odmianę blokera, która ma większe szanse na odbicie promieniowania i pozwala wybrać więcej części ciała do ochrony.</RadiologyBlockingAdvanced.description>
+
+
+  <!-- filters -->
+
+  <RadiologyFilteringIntermediate.label>filtrowanie pośrednie</RadiologyFilteringIntermediate.label>
+  <RadiologyFilteringIntermediate.description>Odblokowuje dodatkowe tryby pracy dla filtra.</RadiologyFilteringIntermediate.description>
+
+  <RadiologyFilteringTradeoff.label>filtrowanie kompromisowe</RadiologyFilteringTradeoff.label>
+  <RadiologyFilteringTradeoff.description>Odblokowuje dodatkowe tryby pracy dla filtra.</RadiologyFilteringTradeoff.description>
+
+  <RadiologyFilteringAdvanced.label>zaawansowane filtrowanie</RadiologyFilteringAdvanced.label>
+  <RadiologyFilteringAdvanced.description>Odblokowuje dodatkowe tryby pracy dla filtra.</RadiologyFilteringAdvanced.description>
+
+
+  <!-- 3 -->
+
+  <RadiologyIntermediate.label>radiologia pośrednia</RadiologyIntermediate.label>
+  <RadiologyIntermediate.description>Zbuduj ulepszoną wersję irradiatora.</RadiologyIntermediate.description>
+
+
+</LanguageData>

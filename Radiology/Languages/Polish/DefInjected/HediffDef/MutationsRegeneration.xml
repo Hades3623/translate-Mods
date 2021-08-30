@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationRegeneration.label>regeneracja</MutationRegeneration.label>
+  <MutationRegeneration.description>Część ciała stała się domem dla wielu symbiotycznych mikroorganizmów, które zdają się uważać dobro kolonisty za swój najwyższy priorytet, zapewniając mu nieludzkie zdolności regeneracyjne, zdolne do wyleczenia wszelkich trwałych urazów w zdrowej części ciała, a nawet do przywrócenia brakujących części ciała.</MutationRegeneration.description>
+
+  <MutationRegenerationLesser.label>słabsza regeneracja</MutationRegenerationLesser.label>
+  <MutationRegenerationLesser.description>Część ciała stała się domem dla wielu symbiotycznych mikroorganizmów, które zdają się uważać dobro kolonisty za swój najwyższy priorytet, zapewniając mu silne zdolności regeneracyjne, zdolne do wyleczenia wszelkich trwałych obrażeń w zdrowej części ciała.</MutationRegenerationLesser.description>
+
+
+</LanguageData>

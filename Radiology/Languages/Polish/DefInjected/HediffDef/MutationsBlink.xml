@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationBlink.label>niekontrolowane znikanie</MutationBlink.label>
+  <MutationBlink.description>Deformacja nieznanego pochodzenia w części ciała powoduje, że kolonista okresowo przemieszcza się i znika, pojawiając się ponownie w innym miejscu, w sposób niekontrolowany.</MutationBlink.description>
+
+  <MutationBlinkControlled.label>kontrolowane znikanie</MutationBlinkControlled.label>
+  <MutationBlinkControlled.description>Nieznanego pochodzenia deformacja w tej części ciała pozwala koloniście zmieniać się i znikać, pojawiając się ponownie w innym miejscu, według własnego uznania. Kolonista nie jest w stanie kontrolować, gdzie pojawi się ponownie.</MutationBlinkControlled.description>
+
+  <MutationBlinkAimed.label>perfekcyjne znikanie</MutationBlinkAimed.label>
+  <MutationBlinkAimed.description>Deformacja nieznanego pochodzenia w części ciała pozwala koloniście zmieniać się i znikać, pojawiając się ponownie w wybranym miejscu, według własnego uznania.</MutationBlinkAimed.description>
+
+
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandRadiologyAssignChamberLabel>Przydzielać</CommandRadiologyAssignChamberLabel>
+  <CommandRadiologyAssignChamberDesc>Przypisz tę komnatę do użytku przez określonych kolonistów.</CommandRadiologyAssignChamberDesc>
+  <ChamberTestRunLabel>Testowe uruchomienie</ChamberTestRunLabel>
+  <ChamberTestRunDesc>Uruchom, aby proces napromieniowania działał przez krótką chwilę bez pionka, aby otrzymać promieniowanie.</ChamberTestRunDesc>
+
+  <ChamberUnavailable>Nie można obsługiwać: {0}</ChamberUnavailable>
+  <ChamberNoPower>komora nie jest zasilana</ChamberNoPower>
+  <ChamberNoRoom>musi znajdować się w pomieszczeniu</ChamberNoRoom>
+  <ChamberNoIrradiator>brak podłączonego promiennika</ChamberNoIrradiator>
+  <ChamberPawnIsHurt>{0} jest zbyt ranny</ChamberPawnIsHurt>
+  <ChamberPawnNotAssigned>{0} nie jest przypisany</ChamberPawnNotAssigned>
+  <ChamberCooldown>już napromieniowany</ChamberCooldown>
+  <ChamberSleeping>{0} śpi</ChamberSleeping>
+  <ChamberDowned>{0} nie działa</ChamberDowned>
+  <ChamberShieldbelt>{0} ma na sobie pas z tarczą</ChamberShieldbelt>
+  <ChamberPrisonerInaccessible>{0} jest niedostępny</ChamberPrisonerInaccessible>
+
+
+
+  <ChamberDialogAssigned>Przydzielony</ChamberDialogAssigned>
+  <ChamberDialogNotAssigned>Nie przypisano</ChamberDialogNotAssigned>
+
+  <IrradiatorNoPower>promiennik nie jest zasilany</IrradiatorNoPower>
+
+
+  <CommandRadiologyAssignRadiationBlockingLabel>Skonfiguruj blokowanie</CommandRadiologyAssignRadiationBlockingLabel>
+  <CommandRadiologyAssignRadiationBlockingDesc>Skonfiguruj blokowanie</CommandRadiologyAssignRadiationBlockingDesc>
+  <RadiologyFilterEnabled>Zablokowany</RadiologyFilterEnabled>
+  <RadiologyFilterDisabled>Nie zablokowany</RadiologyFilterDisabled>
+
+  <RadiologyFilterBlocking>blokowanie: {0}</RadiologyFilterBlocking>
+  <RadiologyFilterNone>Żaden</RadiologyFilterNone>
+
+  <RadiologyRadiationBurn>Szkodliwe promieniowanie: {0}%</RadiologyRadiationBurn>
+  <RadiologyRadiationNormal>Normalne promieniowanie: {0}%</RadiologyRadiationNormal>
+  <RadiologyRadiationRare>Rzadkie promieniowanie: {0}%</RadiologyRadiationRare>
+
+  <RadiologyFilterOperationModeLabel>Ustawiać</RadiologyFilterOperationModeLabel>
+  <RadiologyFilterOperationModeDesc>Zmień tryb filtrowania.</RadiologyFilterOperationModeDesc>
+  <RadiologyFilterOperationMode>Tryb pracy: {0}</RadiologyFilterOperationMode>
+  <RadiologyFilterOperationModeNone>Żaden</RadiologyFilterOperationModeNone>
+  <RadiologyFilterOperationModeSelected>Włączono</RadiologyFilterOperationModeSelected>
+  <RadiologyFilterOperationModeNotSelected>Nie włączono</RadiologyFilterOperationModeNotSelected>
+
+  <RadiologyCancerNotGrowing>nie rośnie</RadiologyCancerNotGrowing>
+  <RadiologyCancerNotDiagnosed>nie zdiagnozowano</RadiologyCancerNotDiagnosed>
+  <RadiologyCancerDoctorUnsure> (unsure)</RadiologyCancerDoctorUnsure>
+  <RadiologyCancerMisdiagnosed> (misdiagnosed)</RadiologyCancerMisdiagnosed>
+  <RadiologyCancerMissed> (missed)</RadiologyCancerMissed>
+
+
+  <RadiologyMutationBlinkCommand>ktoś znikł!</RadiologyMutationBlinkCommand>
+  <RadiologyMutationBlinkDesc>Natychmiast teleportuj się w losowe miejsce.</RadiologyMutationBlinkDesc>
+  <RadiologyMutationBlinkTargetedDesc>Natychmiast teleportuj się w wybrane miejsce.</RadiologyMutationBlinkTargetedDesc>
+
+  <RadiologyTooltipNoDescription>Nie podano opisu tej mutacji.</RadiologyTooltipNoDescription>
+  <RadiologyTooltipHe>on</RadiologyTooltipHe>
+  <RadiologyTooltipShe>Ona</RadiologyTooltipShe>
+  <RadiologyTooltipHim>mu</RadiologyTooltipHim>
+  <RadiologyTooltipHer>jej</RadiologyTooltipHer>  <!-- reverse of him -->
+
+  <RadiologyTooltipHisHer>jej</RadiologyTooltipHisHer>  <!-- reverse of his -->
+  <RadiologyTooltipHis>jego</RadiologyTooltipHis>
+
+  <RadiologyTooltipSkillDisabled>niepełnosprawny</RadiologyTooltipSkillDisabled>
+
+  <RadiologyLastMutation>Ostatnia mutacja: {0}, {1} temu</RadiologyLastMutation>
+
+</LanguageData>

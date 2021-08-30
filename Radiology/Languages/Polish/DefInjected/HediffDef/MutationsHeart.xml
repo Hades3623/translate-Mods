@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationBloodlust.label>żądza krwi</MutationBloodlust.label>
+  <MutationBloodlust.description>Część ciała kolonisty wykształciła zdolność wyczuwania zapachu krwi poza ciałem kolonisty, a także niezwykłe pragnienie jej. Pobliskie zbiorniki krwi zwiększają zdolność pompowania krwi oraz szybkość poruszania się	.</MutationBloodlust.description>
+
+  <MutationBerserkerMinor.label>nadnercze</MutationBerserkerMinor.label>
+  <MutationBerserkerMinor.description>W części ciała kolonisty wytworzył się dodatkowy gruczoł nadnerczowy, który znacznie zwiększa jego wydolność, gdy organizm jest ranny.</MutationBerserkerMinor.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutationBattery.label>bateria</MutationBattery.label>
+  <MutationBattery.description>Ta część ciała w dziwny sposób wyewoluowała do absorbowania i uwalniania elektryczności z pobliskich odsłoniętych przewodników poprzez rzadkie powietrze.</MutationBattery.description>
+
+  <MutationBatteryLeg.label>bateria</MutationBatteryLeg.label>
+  <MutationBatteryLeg.description>Noga zmutowała, by absorbować elektryczność z pobliskich odsłoniętych przewodników poprzez rzadkie powietrze i wykorzystywać ją do poprawy ogólnej wydajności, pozwalając kolonistom poruszać się szybciej. Jednakże, bez elektryczności, wydajność jest gorsza od podstawowej.</MutationBatteryLeg.description>
+
+  <MutationBatteryHeart.label>bateria</MutationBatteryHeart.label>
+  <MutationBatteryHeart.description>Serce zmutowało, aby absorbować energię elektryczną z pobliskich odsłoniętych przewodników poprzez rzadkie powietrze i wykorzystywać ją do poprawy pompowania krwi. Jednakże, bez elektryczności, wydajność jest gorsza od podstawowej.</MutationBatteryHeart.description>
+
+  <MutationBatteryBrain.label>bateria</MutationBatteryBrain.label>
+  <MutationBatteryBrain.description>Serce zmutowało, aby absorbować energię elektryczną z pobliskich odsłoniętych przewodników poprzez rzadkie powietrze i wykorzystywać ją do poprawy pompowania krwi. Jednakże, bez elektryczności, wydajność jest gorsza od podstawowej.</MutationBatteryBrain.description>
+
+
+</LanguageData>
