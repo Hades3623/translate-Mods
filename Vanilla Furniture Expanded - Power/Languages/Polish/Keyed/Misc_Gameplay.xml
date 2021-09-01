@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Gas pipe system -->
+  <VPE_PipesNotConnected>Rury nie podłączone do generatora lub zbiorników</VPE_PipesNotConnected>
+  <VPE_PipeConnectedRateStored>Pipe grid excess/stored: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <VPE_LiquidTankStored>Magazynowany gaz</VPE_LiquidTankStored>
+  <VPE_LiquidTankEfficiency>Wydajność zbiornika</VPE_LiquidTankEfficiency>
+  <VPE_TankLeakage>Minimalny wyciek szczeliwa</VPE_TankLeakage>
+  <VPE_NutrientNeeded>Zużycie gazu</VPE_NutrientNeeded>
+  <VPE_LiquidOutput>Produkcja gazu</VPE_LiquidOutput>
+  <VPE_MustPlaceOnGasGeyser>Ten budynek powinien znajdować się tylko w polu gazowym Helixin</VPE_MustPlaceOnGasGeyser>
+  <VPE_PlugHole>Zniszcz studnię</VPE_PlugHole>
+  <VPE_PlugHoleDesc>Wypełnij studnię ziemią. Ostrzeżenie: ta czynność zniszczy studnię. Zrób to tylko wtedy, gdy studnia jest wyczerpana lub potrzebujesz tej przestrzeni.</VPE_PlugHoleDesc>
+  <VPE_CancelPlugHole>Anuluj zniszczenie studni</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>Anuluje zniszczenie studni.</VPE_CancelPlugHoleDesc>
+  <VPE_MustPlaceAdjacentToPipe>Budynki gazowe powinny znajdować się obok rur gazowych, a nie nad nimi</VPE_MustPlaceAdjacentToPipe>
+  <VPE_DeconstructGasPipes>Zdemontuj sieć gazową</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>Demontować tylko rury gazowe i podziemne rury gazowe.</VPE_DeconstructGasPipesDesc>
+
+
+  <Fluffy.GasNetwork.GasNetworkInspectString>	Wydobycie/Zapas gazu: {0}/{1}</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.Stored>Magazynowany gaz: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.Production>Wytworzony gaz: {0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Consumption>Zużyty gaz: {0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.GasOff>Brak dopływu gazu</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>Nie podłączony do sieci gazowej</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.ValveOpen>Zawór gazu otwarty.</Fluffy.GasNetwork.ValveOpen>
+  <Fluffy.GasNetwork.ValveClosed>Zawór gazu zamknięty.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Włącz/wyłącz przepływ gazu</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Wydaj polecenie włączenia lub wyłączenia przepływu gazu. Wkrótce pojawi się osadnik i przełączy zawór.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>Target gas storage: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>Gas storage turned off.</Fluffy.GasNetwork.BufferOff>
+
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Preferred unit of wind speed</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>Wind Simulation</Fluffy.GasNetwork.Settings.Wind.Category>
+
+  <!-- Nucular Reactor -->
+  <VPE_RadiationProduced>Uwaga: reaktor emituje promieniowanie radioaktywne w promieniu {0} komórek</VPE_RadiationProduced>
+  <VPE_TempInReactorRoom>Temperatura reaktora: {0}ºC</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>Uwaga: temperatura w reaktorze: {0}ºC</VPE_TempInReactorRoomCritical>
+  <VPE_Meltdown>Uwaga: stopienie prętów reaktora pod wpływem wysokiej temperatury. Przed naprawą reaktor zniszczy całe życie w dużym promieniu</VPE_Meltdown>
+  <VPE_MeltdownLetterLabel>Topienie reaktora</VPE_MeltdownLetterLabel>
+  <VPE_MeltdownLetter>Z powodu wysokiej temperatury w pomieszczeniu reaktora nastąpiło częściowe stopienie się reaktora! Do czasu renowacji ten reaktor będzie niezwykle szkodliwy dla życia w dużym promieniu. \n\nZignorowanie tego może oznaczać koniec twojej kolonii za kilka godzin.</VPE_MeltdownLetter>
+  <VPE_NoReactorRoom>Pomieszczenie reaktora musi być zamknięte i zadaszone</VPE_NoReactorRoom>
+
+  <!-- Misc -->
+  <VPE_MustPlaceRoofed>To urządzenie musi być zbudowane w pomieszczeniu i pod dachem.</VPE_MustPlaceRoofed>
+
+  <!-- Violence Generator -->
+  <VPE_SoulsTime>Souls stored for: </VPE_SoulsTime>
+  <VPE_Producing>Wytwarza {0} W.</VPE_Producing>
+  <VPE_NotProducing>Żadne dusze nie zostały pochłonięte. Boska Maszyna tęskni za ludzkimi duszami.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>Switch Generator</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>Switch Generator between a working and an inactive state</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>Violence generator is toggled off and inactive right now</VPE_GeneratorIsOff>
+
+  <!-- Lightning Generator -->
+  <VPE_LightningTime>Energia błyskawicy jest magazynowana: </VPE_LightningTime>
+  <VPE_Producing>Wytwarza {0} W.</VPE_Producing>
+  <VPE_NotLightningProducing>Energia błyskawicy wykorzystywana do wytwarzania energii elektrycznej jest wyczerpana. Wygląda na to, że musisz poczekać na następną burzę.</VPE_NotLightningProducing>
+
+  <!-- Gas pipe kaboom -->
+
+  <VPE_AGasPipe>rura gazowa</VPE_AGasPipe>
+  <VPE_GasExplosion>Usterka w {0} spowodowała wybuch gazu.</VPE_GasExplosion>
+  <VPE_GasExplosionStartedFire>Usterka w {0} spowodowała wybuch gazu, a następnie pożar.</VPE_GasExplosionStartedFire>
+  <VPE_GasExplosionLostGas>Cały {0} l-d gazu w podłączonych zbiornikach gazu został uwolniony w wyniku gwałtownej eksplozji.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionLWasLarge>Duża ilość gazu spowodowała eksplozję o znacznej sile.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasHuge>To naprawdę ogromna eksplozja. Łał.</VPE_GasExplosionLWasHuge>
+  <VPE_LetterLabelGasExplosion>KABOOM!</VPE_LetterLabelGasExplosion>
+
+  <!-- Chemfuel Pond -->
+
+  <VPE_PondHasFuel>Ten osad paliwa chemicznego zawiera {0} chemiczny jednostek paliwa</VPE_PondHasFuel>
+  <VPE_PondNoFuel>To chemiczne złoże paliwa jest wyczerpane</VPE_PondNoFuel>
+  <VPE_MustPlaceOnChemfuelPond>Budynek ten powinien znajdować się wyłącznie na złożu paliwa chemicznego</VPE_MustPlaceOnChemfuelPond>
+  <VPE_PumpProducing>Ta chemiczna pompa paliwowa będzie produkować {0} chemiczne jednostki paliwowe w {1}</VPE_PumpProducing>
+
+  <!-- Tidal power plant -->
+
+  <VPE_NeedsWater>Ta elektrownia musi być zbudowana na wodzie</VPE_NeedsWater>
+  <VPE_NeedsDistance>Elektrownie wodne należy budować w odległości co najmniej 40 pól</VPE_NeedsDistance>
+
+  <!-- Update Letter -->
+
+  <VPE_GasUpdateNoticeLetterLabel>Aktualizacja Power Mod</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>Mod Vanilla Furniture Expanded: Power został zaktualizowany o bardzo ważną aktualizację dotyczącą Helixien Gas Network. \n \n Oryginalny kod został stworzony przeze mnie (Sarg Bjornson) i był dość niechlujny, powodując wiele błędów i niespójnego zachowania. Dzięki niesamowitemu Fluffy'emu cały kod sieci gazowej został przepisany i powinien teraz działać idealnie. \n \n UWAGA: ponieważ większość klas kontrolujących sieć gazową uległa zmianie, należy ponownie wykonać wszystkie posiadane elementy sieci gazowej. na istniejącym zapisie. Możesz wymieniać budynki bez kosztów, uzyskując dostęp do trybu deweloperskiego i włączając tryb Boga. Następnie po prostu zdekonstruuj swoją obecną sieć gazową (ze wszystkimi obiektami gazowymi) i wymień ją za darmo.</VPE_GasUpdateNoticeLetterText>
+
+
+</LanguageData>

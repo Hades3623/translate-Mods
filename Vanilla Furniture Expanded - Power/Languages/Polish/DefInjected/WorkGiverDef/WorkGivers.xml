@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Workbenches -->
+
+  <VPE_DoBillsGasCrematorium.label>Praca przy krematorium gazowym</VPE_DoBillsGasCrematorium.label>
+  <VPE_DoBillsGasCrematorium.verb>Praca</VPE_DoBillsGasCrematorium.verb>
+  <VPE_DoBillsGasCrematorium.gerund>Praca</VPE_DoBillsGasCrematorium.gerund>
+
+  <VPE_BurnGasCrematorium.label>spalanie w krematorium zasilanym gazem</VPE_BurnGasCrematorium.label>
+  <VPE_BurnGasCrematorium.verb>spal</VPE_BurnGasCrematorium.verb>
+  <VPE_BurnGasCrematorium.gerund>spalanie</VPE_BurnGasCrematorium.gerund>
+
+  <VPE_DoBillsGasSmelter.label>Prace przy zbiorniku topiącym gaz</VPE_DoBillsGasSmelter.label>
+  <VPE_DoBillsGasSmelter.verb>Praca</VPE_DoBillsGasSmelter.verb>
+  <VPE_DoBillsGasSmelter.gerund>Praca</VPE_DoBillsGasSmelter.gerund>
+
+  <VPE_DoBillsGasStove.label>Gotowanie na kuchence gazowej</VPE_DoBillsGasStove.label>
+  <VPE_DoBillsGasStove.verb>Gotowanie</VPE_DoBillsGasStove.verb>
+  <VPE_DoBillsGasStove.gerund>Gotowanie</VPE_DoBillsGasStove.gerund>
+
+  <VPE_DoBillsGasSmithy.label>robienie broni</VPE_DoBillsGasSmithy.label>
+  <VPE_DoBillsGasSmithy.verb>praca</VPE_DoBillsGasSmithy.verb>
+  <VPE_DoBillsGasSmithy.gerund>praca na</VPE_DoBillsGasSmithy.gerund>
+
+  <VPE_DoBillsGasRefinery.label>praca w rafinerii</VPE_DoBillsGasRefinery.label>
+  <VPE_DoBillsGasRefinery.verb>rafinuj chemikalia</VPE_DoBillsGasRefinery.verb>
+  <VPE_DoBillsGasRefinery.gerund>rafinacja chemikaliów w</VPE_DoBillsGasRefinery.gerund>
+
+  <VPE_WorkAtGasExcavator.label>Wiercenie na platformie wiertniczej do gazu</VPE_WorkAtGasExcavator.label>
+  <VPE_WorkAtGasExcavator.verb>Wiertło</VPE_WorkAtGasExcavator.verb>
+  <VPE_WorkAtGasExcavator.gerund>Wiertło</VPE_WorkAtGasExcavator.gerund>
+
+  <VPE_WorkGiverPluggingHole.label>Zniszczyć studnię</VPE_WorkGiverPluggingHole.label>
+  <VPE_WorkGiverPluggingHole.verb>Zniszcz</VPE_WorkGiverPluggingHole.verb>
+  <VPE_WorkGiverPluggingHole.gerund>Zniszcz</VPE_WorkGiverPluggingHole.gerund>
+
+  <VPE_WorkGiverPluggingPond.label>Zniszczyć studnię</VPE_WorkGiverPluggingPond.label>
+  <VPE_WorkGiverPluggingPond.verb>Zniszcz</VPE_WorkGiverPluggingPond.verb>
+  <VPE_WorkGiverPluggingPond.gerund>Zniszcz</VPE_WorkGiverPluggingPond.gerund>
+
+
+</LanguageData>

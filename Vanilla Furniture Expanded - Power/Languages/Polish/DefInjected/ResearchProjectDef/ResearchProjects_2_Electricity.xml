@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_IndustrialGenerators.label>agregaty prądotwórcze</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Umożliwia tworzenie generatorów klasy przemysłowej, zdolnych do przechowywania znacznie większej ilości paliwa i generowania większej ilości energii elektrycznej.</VFE_IndustrialGenerators.description>
+
+  <VFE_AdvancedBatteries.label>zaawansowane baterie</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Umożliwia tworzenie zaawansowanych akumulatorów zdolnych do przechowywania znacznie większej ilości energii elektrycznej niż akumulatory konwencjonalne.</VFE_AdvancedBatteries.description>
+
+  <VFE_AdvancedPowerSources.label>nowoczesna energia</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Umożliwia tworzenie przyjaznych dla środowiska generatorów energii, takich jak zaawansowane panele słoneczne i zaawansowane turbiny wiatrowe.</VFE_AdvancedPowerSources.description>
+
+  <VFE_NuclearPower.label>energia jądrowa</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>Jako alternatywna metoda wytwarzania energii, energia jądrowa jest równie skuteczna, co śmiertelnie niebezpieczna.</VFE_NuclearPower.description>
+
+  <VFE_TidalPower.label>Energia wodna</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Pozwala tworzyć generatory wytwarzające energię elektryczną z sił ruchów wody.</VFE_TidalPower.description>
+
+  <VFE_GasExtraction.label>produkcja gazu</VFE_GasExtraction.label>
+  <VFE_GasExtraction.description>Odkryj możliwość wydobywania gazu Helixin i generowania przy jego pomocy energii elektrycznej.</VFE_GasExtraction.description>
+
+
+</LanguageData>

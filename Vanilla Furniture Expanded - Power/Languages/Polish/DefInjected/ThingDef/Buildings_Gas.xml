@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_GasPipe.label>rura gazowa</VPE_GasPipe.label>
+  <VPE_GasPipe.description>Rura, która przesyła gaz.</VPE_GasPipe.description>
+  <VPE_GasPipe_Blueprint.label>gas pipe (blueprint)</VPE_GasPipe_Blueprint.label>
+  <VPE_GasPipe_Frame.label>gas pipe (building)</VPE_GasPipe_Frame.label>
+  <VPE_GasPipe_Frame.description>Rura, która przesyła gaz.</VPE_GasPipe_Frame.description>
+
+  <VPE_GasPipeSub.label>podziemna rura gazowa</VPE_GasPipeSub.label>
+  <VPE_GasPipeSub.description>Rura, która przesyła gaz helixin. Rura ta jest ukryta przed wzrokiem i jest chroniona przed eksplozjami gazu. Znacznie droższa w budowie niż zwykłe rury.</VPE_GasPipeSub.description>
+  <VPE_GasPipeSub_Blueprint.label>podziemna rura gazowa (blueprint)</VPE_GasPipeSub_Blueprint.label>
+  <VPE_GasPipeSub_Frame.label>podziemna rura gazowa (building)</VPE_GasPipeSub_Frame.label>
+  <VPE_GasPipeSub_Frame.description>Rura, która przesyła gaz helixin. Rura ta jest ukryta przed wzrokiem i jest chroniona przed eksplozjami gazu. Znacznie droższa w budowie niż zwykłe rury</VPE_GasPipeSub_Frame.description>
+
+  <VPE_GasPipeValve.label>zawór gazu</VPE_GasPipeValve.label>
+  <VPE_GasPipeValve.description>Otwiera i odcina dopływ gazu.</VPE_GasPipeValve.description>
+  <VPE_GasPipeValve_Blueprint.label>gas pipe valve (blueprint)</VPE_GasPipeValve_Blueprint.label>
+  <VPE_GasPipeValve_Frame.label>gas pipe valve (building)</VPE_GasPipeValve_Frame.label>
+  <VPE_GasPipeValve_Frame.description>Włącza/wyłącza przepływ gazu.</VPE_GasPipeValve_Frame.description>
+
+  <VPE_GasTank.label>zbiornik paliwa</VPE_GasTank.label>
+  <VPE_GasTank.description>Duży stalowy zbiornik na gaz. Wybucha po uszkodzeniu.</VPE_GasTank.description>
+
+  <VPE_HelixienPump.label>pompa spiralna</VPE_HelixienPump.label>
+  <VPE_HelixienPump.description>Maszyna wydobywcza zamontowana na gejzerze gazowym Helixin. Samodzielnie zasilane urządzenie wypompowuje cenny gaz i musi być połączone z innymi urządzeniami gazowymi za pomocą sieci rur.</VPE_HelixienPump.description>
+
+  <VPE_HelixienGenerator.label>generator zasilany gazem helixin</VPE_HelixienGenerator.label>
+  <VPE_HelixienGenerator.description>Wytwarza energię elektryczną zużywając gaz helixin. Musi być podłączony do sieci gazowej.</VPE_HelixienGenerator.description>
+
+  <VPE_IndustrialHelixienGenerator.label>generator przemysłowy helixin zasilany gazem</VPE_IndustrialHelixienGenerator.label>
+  <VPE_IndustrialHelixienGenerator.description>Wytwarza dużą ilość energii zużywając gaz. Musi być podłączony do sieci gazowej.</VPE_IndustrialHelixienGenerator.description>
+
+  <VPE_GasCrematorium.label>krematorium gazowe</VPE_GasCrematorium.label>
+  <VPE_GasCrematorium.description>Ogromne kamienne krematorium, które odparowuje zwłoki przy pomocy ekstremalnie wysokich temperatur. Działa na gaz.</VPE_GasCrematorium.description>
+
+  <VPE_GasSmelter.label>huta gazowa</VPE_GasSmelter.label>
+  <VPE_GasSmelter.description>Wydobywa użyteczny metal z kawałków żużla i innych mieszanych elementów metalowych. Pracuje na gazie helixin</VPE_GasSmelter.description>
+
+  <VPE_GasStove.label>kuchenka gazowa</VPE_GasStove.label>
+  <VPE_GasStove.description>Stół do gotowania z płytą gazową Helixin.</VPE_GasStove.description>
+
+  <VPE_GasDrill.label>wiertnica gazowa</VPE_GasDrill.label>
+  <VPE_GasDrill.description>Maszyna do wiercenia w głębokich warstwach skorupy ziemskiej, służąca do wydobywania minerałów spod powierzchni. Do wykrywania zasobów użyj skanera penetrującego grunt. Wiertło to wyda kamienne kawałki, jeśli nie ma żadnych zasobów. Może być dowolnie pozycjonowany.</VPE_GasDrill.description>
+
+  <VPE_GasCooler.label>klimatyzator gazowy</VPE_GasCooler.label>
+  <VPE_GasCooler.description>Urządzenie chłodzące powietrzem, które uwalnia schłodzone powietrze wokół siebie. Może być używane do tworzenia zamrażarek typu walk-in. Nie może być regulowana i automatycznie obniża temperaturę nieco poniżej zera.</VPE_GasCooler.description>
+
+  <VPE_GasHeater.label>grzejnik gazowy</VPE_GasHeater.label>
+  <VPE_GasHeater.description>Urządzenie, które zamienia gaz Helixin na ciepło. Może automatycznie włączać się i wyłączać po osiągnięciu ustawionej temperatury.</VPE_GasHeater.description>
+
+  <VPE_GasSunLamp.label>gazowa lampa słoneczna</VPE_GasSunLamp.label>
+  <VPE_GasSunLamp.description>Mocne światło przemysłowe. Oświetla obszar wystarczająco jasno, aby wyhodować rośliny, ale wymaga średniej ilości gazu Helixin. Wyłącza się automatycznie w nocy.</VPE_GasSunLamp.description>
+  <VPE_GasSunLamp.comps.2.offMessage>Off for plant resting period</VPE_GasSunLamp.comps.2.offMessage>
+
+  <VPE_GasSmithy.label>kuźnia gazowa helixen</VPE_GasSmithy.label>
+  <VPE_GasSmithy.description>Zasilana gazem stacja do kowalstwa niemechanicznych broni i narzędzi.</VPE_GasSmithy.description>
+
+  <VPE_GasLamp.label>lampa gazowa stojąca</VPE_GasLamp.label>
+  <VPE_GasLamp.description>Zasilana gazem lampa stojąca, która oświetla dany obszar. Ludzie potrzebują światła, aby poruszać się i pracować na pełnych obrotach. Wymaga podłączenia do sieci gazowej helixin. Może być bezpiecznie umieszczona na zewnątrz.</VPE_GasLamp.description>
+
+  <VPE_GasWallLight.label>gazowa lampa ścienna</VPE_GasWallLight.label>
+  <VPE_GasWallLight.description>Zasilana gazem lampa ścienna, która oświetla cały obszar. Ludzie potrzebują światła, aby poruszać się i pracować na pełnych obrotach. Wymaga podłączenia do sieci gazowej helixin. Może być bezpiecznie umieszczona na zewnątrz.</VPE_GasWallLight.description>
+
+  <VPE_GasWallDarkLight.label>gazowy reflektor ścienny</VPE_GasWallDarkLight.label>
+  <VPE_GasWallDarkLight.description>Zasilana gazem lampa ścienna, która emituje przyćmione światło na dużej powierzchni. Osoby, które wolą pracować w ciemnym świetle, są zadowolone z tego źródła światła. Wymaga podłączenia do sieci gazowej helixin. Może być bezpiecznie umieszczona na zewnątrz.</VPE_GasWallDarkLight.description>
+
+  <VPE_GasFloodlight.label>naświetlacz gazowy</VPE_GasFloodlight.label>
+  <VPE_GasFloodlight.description>Zasilany gazem wysoki reflektor, który oświetla ogromny obszar. Ludzie potrzebują światła, aby poruszać się i pracować na pełnych obrotach. Nie świeci wystarczająco jasno, aby uprawiać rośliny. Wymaga podłączenia do sieci gazowej helixin. Może być bezpiecznie umieszczony na zewnątrz.</VPE_GasFloodlight.description>
+
+  <VPE_GasBiofuelRefinery.label>rafineria zasilana gazem</VPE_GasBiofuelRefinery.label>
+  <VPE_GasBiofuelRefinery.description>Uszlachetnia materię biologiczną, taką jak drewno lub materia roślinna, do postaci paliwa chemicznego. Musi być podłączony do sieci gazowej helixin.</VPE_GasBiofuelRefinery.description>
+
+  <VPE_GasVent.label>odpowietrznik gazowy helixin</VPE_GasVent.label>
+  <VPE_GasVent.description>Naścienny wentylator zdolny do uwalniania toksycznych związków gazu helixin do obszaru docelowego. Szybko opróżnia zasoby gazu helixin i szybko się rozprasza. Wymaga zaworu gazowego zainstalowanego w tej samej sieci, aby ograniczyć przepływ gazu. Gaz helixin jest bardzo lotny i przemieszcza się z wiatrem.</VPE_GasVent.description>
+
+  <VPE_GasPodLauncher.label>gazowa wyrzutnia kapsuł</VPE_GasPodLauncher.label>
+  <VPE_GasPodLauncher.description>Port tankowania umożliwiający wystrzelenie jednej kapsuły transportowej. Wyrzutnie mogą startować jako grupa - ale wyrzutnie muszą być umieszczone obok siebie. Wymaga podłączenia do systemu gazów helixin.</VPE_GasPodLauncher.description>
+
+
+</LanguageData>

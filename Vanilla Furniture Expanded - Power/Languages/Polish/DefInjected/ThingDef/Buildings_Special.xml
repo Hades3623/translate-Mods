@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_SmallVanometricPowerCell.label>small vanometric power cell</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>Generuje bardzo małą ilość darmowej energii, na zawsze, bez użycia paliwa. Technologia ta została opracowana przez archotechników i jest poza zasięgiem nawet większości społeczeństw glitterworld. Nikt nie wie dokładnie jak to działa, ale uczeni uważają, że w jakiś sposób pozyskuje energię bezpośrednio z fluktuacji w pianie kwantowej.</VFE_SmallVanometricPowerCell.description>
+
+  <VFE_LargeVanometricPowerCell.label>duże wanometryczne ogniwo energetyczne</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>Generuje dużą ilość darmowej energii, na zawsze, bez użycia paliwa. Technologia ta została opracowana przez archotechników i jest poza zasięgiem nawet większości społeczeństw glitterworld. Nikt nie wie dokładnie jak to działa, ale uczeni uważają, że w jakiś sposób pozyskuje energię bezpośrednio z fluktuacji w pianie kwantowej.</VFE_LargeVanometricPowerCell.description>
+
+  <VPE_ArchotechViolenceGenerator.label>generator przemocy archotechnicznej</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>Urządzenie to pobiera energię psychiczną z ciał otaczających je humanoidów, zamieniając ją bezpośrednio w energię użytkową. Technologia ta została opracowana przez archotechników i wykracza poza możliwości nawet większości społeczeństw glitterworld.</VPE_ArchotechViolenceGenerator.description>
+
+
+</LanguageData>

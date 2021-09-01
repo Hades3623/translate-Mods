@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_LargeBattery.label>duża bateria</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Przechowuje dużą ilość energii elektrycznej do późniejszego wykorzystania. Naładowane duże akumulatory wybuchają pod wpływem deszczu lub ognia.</VFE_LargeBattery.description>
+
+  <VFE_SmallBattery.label>mała bateria</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>Przechowuje niewielką ilość energii elektrycznej do późniejszego wykorzystania. Naładowane baterie wybuchają pod wpływem deszczu lub ognia.</VFE_SmallBattery.description>
+
+  <VFE_AdvancedBattery.label>zaawansowana bateria</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Przechowuje energię elektryczną do późniejszego wykorzystania. Dzięki postępowi technologicznemu, ten zespół akumulatorów jest znacznie bardziej wydajny. Naładowane zaawansowane akumulatory są wodoodporne i nie wybuchają pod wpływem deszczu.</VFE_AdvancedBattery.description>
+
+  <VFE_LargeAdvancedBattery.label>duża zaawansowana bateria</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Przechowuje duże ilości energii elektrycznej do późniejszego wykorzystania. Dzięki postępowi technologicznemu, ten zespół akumulatorów jest znacznie bardziej wydajny. Naładowane duże zaawansowane akumulatory są wodoodporne i nie wybuchają pod wpływem deszczu.</VFE_LargeAdvancedBattery.description>
+
+
+</LanguageData>

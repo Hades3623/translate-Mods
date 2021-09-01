@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PortableWoodFiredGenerator.label>przenośny generator opalany drewnem</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>Wytwarza niewielką ilość energii elektrycznej, wykorzystując drewno jako paliwo. Musi być tankowany ręcznie. Ten generator jest na tyle lekki, że można go nosić przy sobie.</VFE_PortableWoodFiredGenerator.description>
+
+  <VFE_PortableChemfuelPoweredGenerator.label>przenośny generator paliwa chemicznego</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>Wytwarza niewielką ilość energii elektrycznej zużywając paliwo chemiczne. Musi być tankowany ręcznie. Ten generator jest na tyle lekki, że można go nosić przy sobie.</VFE_PortableChemfuelPoweredGenerator.description>
+
+  <VFE_IndustrialWoodFiredGenerator.label>przemysłowy generator opalany drewnem</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>Wytwarza dużą ilość energii zużywając drewno. Musi być okresowo ładowany ręcznie paliwem drzewnym.</VFE_IndustrialWoodFiredGenerator.description>
+
+  <VFE_IndustrialChemfuelPoweredGenerator.label>generator przemysłowy zasilany paliwem chemicznym</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Wytwarza dużą ilość energii elektrycznej zużywając paliwo chemiczne. Musi być tankowany ręcznie.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+  <VFE_TidalGenerator.label>generator wodny</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.description>Wytwarza energię elektryczną z poruszających się mas wody, szczególnie za pomocą pływów morskich. Musi być umieszczony na wodzie.</VFE_TidalGenerator.description>
+  <VFE_TidalGenerator_Blueprint.label>generator wodny (blueprint)</VFE_TidalGenerator_Blueprint.label>
+  <VFE_TidalGenerator_Frame.label>generator wodny (building)</VFE_TidalGenerator_Frame.label>
+  <VFE_TidalGenerator_Frame.description>Wytwarza energię elektryczną z poruszających się mas wody, szczególnie za pomocą pływów morskich. Musi być umieszczony na wodzie.</VFE_TidalGenerator_Frame.description>
+
+
+</LanguageData>

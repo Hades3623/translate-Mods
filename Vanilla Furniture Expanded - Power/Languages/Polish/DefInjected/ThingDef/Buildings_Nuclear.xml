@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_NuclearGenerator.label>reaktor jądrowy</VPE_NuclearGenerator.label>
+  <VPE_NuclearGenerator.description>Duży reaktor jądrowy przerobiony z rdzenia energetycznego statku. Zużywa uran do produkcji dużej ilości energii. Może być przeciążony, co skutkuje jeszcze większą mocą kosztem lokalnego promieniowania.\n\nReaktor jądrowy szybko się przegrzewa i powinien być chłodzony przez cały czas.Nie może być umieszczony na zewnątrz.</VPE_NuclearGenerator.description>
+
+
+</LanguageData>

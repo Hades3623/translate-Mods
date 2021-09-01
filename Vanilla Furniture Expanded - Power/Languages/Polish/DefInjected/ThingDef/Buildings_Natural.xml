@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_HelixienGeyser.label>pole gazowe helixin</VPE_HelixienGeyser.label>
+  <VPE_HelixienGeyser.description>Naturalne źródło gazu pod wysokim ciśnieniem. Na szczycie można zbudować pompy gazowe Helixien, aby wydobywać gaz.</VPE_HelixienGeyser.description>
+
+  <VPE_ChemfuelPond.label>staw chemopaliwowy</VPE_ChemfuelPond.label>
+  <VPE_ChemfuelPond.description>Naturalne źródło chemicznego paliwa, częściej spotykane w suchych biomach. W tym miejscu można zainstalować pompę do pozyskiwania chemopaliwa. Staw w końcu się wyczerpie.</VPE_ChemfuelPond.description>
+
+
+</LanguageData>

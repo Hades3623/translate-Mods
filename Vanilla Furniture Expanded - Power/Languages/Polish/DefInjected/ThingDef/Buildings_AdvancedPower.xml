@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_AdvancedWindTurbine.label>zaawansowana turbina wiatrowa</VFE_AdvancedWindTurbine.label>
+  <VFE_AdvancedWindTurbine.description>Zaawansowany technologicznie, napędzany wiatrem generator elektryczny. Wymaga dużej wolnej przestrzeni z przodu i z tyłu dla optymalnego przepływu powietrza.</VFE_AdvancedWindTurbine.description>
+
+  <VFE_AdvancedSolarGenerator.label>zaawansowany generator słoneczny</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedSolarGenerator.description>Ten generator słoneczny jest w stanie wydobyć znacznie więcej energii z promieni słonecznych. Nie działa w ciemności lub przy sztucznym oświetleniu.</VFE_AdvancedSolarGenerator.description>
+
+  <VFE_AdvancedWatermillGenerator.label>zaawansowany generator wodny</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>Budynek który produkuje energię elektryczną z rzeki. Musi być umieszczony tak, by jego koło znajdowało się w płynącej wodzie. Jeśli młyny wodne są umieszczone zbyt blisko siebie, turbulencje, które generują będą przeszkadzać i zmniejszać wytwarzanie energii.</VFE_AdvancedWatermillGenerator.description>
+
+  <VPE_AdvancedGeothermalGenerator.label>zaawansowany generator geotermalny</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>Ten zaawansowany technologicznie generator produkuje energię elektryczną z geotermalnych gejzerów parowych. Musi być umieszczony na gejzerze parowym.</VPE_AdvancedGeothermalGenerator.description>
+
+
+</LanguageData>
