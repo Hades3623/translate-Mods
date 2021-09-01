@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cartridge -->
+
+  <MakePolarisCartridgeSurgery.label>zrobić Wkład Polaris</MakePolarisCartridgeSurgery.label>
+  <MakePolarisCartridgeSurgery.description>zrobić Wkład Polaris</MakePolarisCartridgeSurgery.description>
+  <MakePolarisCartridgeSurgery.jobString>wykonanie Wkład Polaris.</MakePolarisCartridgeSurgery.jobString>
+
+
+  <!-- CombatChip -->
+
+  <InstallPolarisCombatChip.label>zainstaluj układ bojowy</InstallPolarisCombatChip.label>
+  <InstallPolarisCombatChip.description>zainstaluj układ bojowy.</InstallPolarisCombatChip.description>
+  <InstallPolarisCombatChip.jobString>instalacja układu bojowego.</InstallPolarisCombatChip.jobString>
+
+
+  <!-- Implants -->
+
+  <InstallPolarisVirtualNetChip.label>zainstaluj wirtualny układ sieciowy</InstallPolarisVirtualNetChip.label>
+  <InstallPolarisVirtualNetChip.description>zainstaluj wirtualny układ sieciowy.</InstallPolarisVirtualNetChip.description>
+  <InstallPolarisVirtualNetChip.jobString>instalowanie wirtualnego układu sieciowego.</InstallPolarisVirtualNetChip.jobString>
+
+  <InstallPolarisPsionwire.label>zainstaluj Chip psioniczny</InstallPolarisPsionwire.label>
+  <InstallPolarisPsionwire.description>zainstaluj Chip psioniczny.</InstallPolarisPsionwire.description>
+  <InstallPolarisPsionwire.jobString>instalowanie Chipu psionicznego.</InstallPolarisPsionwire.jobString>
+
+
+  <!-- heal old wounds -->
+
+  <PolarisCureScars.label>leczyć blizny</PolarisCureScars.label>
+  <PolarisCureScars.description>leczyć blizny.</PolarisCureScars.description>
+  <PolarisCureScars.jobString>leczenie blizn.</PolarisCureScars.jobString>
+
+
+  <!-- restore missing body part -->
+
+  <PolarisRestoreMissingBodyPart.label>przywracać</PolarisRestoreMissingBodyPart.label>
+  <PolarisRestoreMissingBodyPart.description>przywrócić brakującą część ciała.</PolarisRestoreMissingBodyPart.description>
+  <PolarisRestoreMissingBodyPart.jobString>przywracać.</PolarisRestoreMissingBodyPart.jobString>
+
+
+  <!-- remove implant -->
+
+  <PolarisRemoveImplant.label>usunąć implant</PolarisRemoveImplant.label>
+  <PolarisRemoveImplant.description>usuń wszystkie implanty z tej samej części ciała.</PolarisRemoveImplant.description>
+  <PolarisRemoveImplant.jobString>usuwanie implantów.</PolarisRemoveImplant.jobString>
+
+
+  <!-- trans gender -->
+
+  <PolarisTransGenderSurgery.label>Zmień płeć</PolarisTransGenderSurgery.label>
+  <PolarisTransGenderSurgery.description>Zmień płeć</PolarisTransGenderSurgery.description>
+  <PolarisTransGenderSurgery.jobString>przeprowadzanie operacji zmiany płci.</PolarisTransGenderSurgery.jobString>
+
+
+  <!-- <RecipeDef ParentName="PolarisSurgerybase"><defName>PolarisSurgeryAgeDecrease</defName><label>age Decrease</label><description>This operation will decrease the patient's biological age. To predict the age the patient will lose, simply do the following math (use a calculator):\n\nx=(current age/10+1)*3\n\nThen do this:\n\ncurrent age-x=new age.</description><workerClass>Polarisbloc.Recipe_SurgeryAgeDecrease</workerClass><jobString>doing age Decrease surgery</jobString><workAmount>600</workAmount><surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor><deathOnFailedSurgeryChance>0.03</deathOnFailedSurgeryChance><hideBodyPartNames>true</hideBodyPartNames><targetsBodyPart>false</targetsBodyPart><ingredients><li><filter><categories><li>Medicine</li></categories></filter><count>1</count></li></ingredients><fixedIngredientFilter><categories><li>Medicine</li></categories><disallowedThingDefs><li>MedicineHerbal</li></disallowedThingDefs></fixedIngredientFilter><recipeUsers><li>Human</li></recipeUsers><researchPrerequisite>PolarisLongevityResearch</researchPrerequisite></RecipeDef> -->
+
+  <PolarisSurgeryChangeBioAge.label>zmienić wiek biologiczny</PolarisSurgeryChangeBioAge.label>
+  <PolarisSurgeryChangeBioAge.description>zmienić wiek biologiczny</PolarisSurgeryChangeBioAge.description>
+  <PolarisSurgeryChangeBioAge.jobString>Zmień wiek biologiczny</PolarisSurgeryChangeBioAge.jobString>
+
+
+  <!-- special administer -->
+
+  <PolarisAdministerMechSerumTraitreleaser.label>Podać wyzwalacz cech</PolarisAdministerMechSerumTraitreleaser.label>
+  <PolarisAdministerMechSerumTraitreleaser.description>Podaj wyzwalacz cech.</PolarisAdministerMechSerumTraitreleaser.description>
+  <PolarisAdministerMechSerumTraitreleaser.jobString>Podawanie wyzwalacza cech.</PolarisAdministerMechSerumTraitreleaser.jobString>
+
+
+  <!-- extract ability -->
+
+  <PolarisExtractAbility.label>ekstrakcja zdolności</PolarisExtractAbility.label>
+  <PolarisExtractAbility.description>Użyj psytrainera, aby wydobyć zdolność z mózgu kolonisty.</PolarisExtractAbility.description>
+  <PolarisExtractAbility.jobString>wydobywanie zdolności.</PolarisExtractAbility.jobString>
+
+
+  <!-- <RecipeDef ParentName="PolarisSurgerybase"><defName>PolarisSurgeryAgeDecrease</defName><label>age Decrease</label><description>This operation will decrease the patient's biological age. To predict the age the patient will lose, simply do the following math (use a calculator):\n\nx=(current age/10+1)*3\n\nThen do this:\n\ncurrent age-x=new age.</description><workerClass>Polarisbloc.Recipe_SurgeryAgeDecrease</workerClass><jobString>robi wiek Zmniejszyć liczbę operacji</jobString><workAmount>600</workAmount><surgerySuccessChanceFactor>1.1</surgerySuccessChanceFactor><deathOnFailedSurgeryChance>0.03</deathOnFailedSurgeryChance><hideBodyPartNames>true</hideBodyPartNames><targetsBodyPart>false</targetsBodyPart><ingredients><li><filter><categories><li>Medicine</li></categories></filter><count>1</count></li></ingredients><fixedIngredientFilter><categories><li>Medicine</li></categories><disallowedThingDefs><li>MedicineHerbal</li></disallowedThingDefs></fixedIngredientFilter><recipeUsers><li>Human</li></recipeUsers><researchPrerequisite>PolarisLongevityResearch</researchPrerequisite></RecipeDef> -->
+
+</LanguageData>

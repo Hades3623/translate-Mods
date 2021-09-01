@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Stab.label>drzazga</VFES_Stab.label>
+  <VFES_Stab.description>Rana kłuta.</VFES_Stab.description>
+  <VFES_Stab.comps.0.labelTendedWell>zabandażowany</VFES_Stab.comps.0.labelTendedWell>
+  <VFES_Stab.comps.0.labelTendedWellInner>zszyty</VFES_Stab.comps.0.labelTendedWellInner>
+  <VFES_Stab.comps.0.labelSolidTendedWell>zestaw</VFES_Stab.comps.0.labelSolidTendedWell>
+  <VFES_Stab.injuryProps.destroyedLabel>Odciąć</VFES_Stab.injuryProps.destroyedLabel>
+  <VFES_Stab.injuryProps.destroyedOutLabel>Odetnij</VFES_Stab.injuryProps.destroyedOutLabel>
+  <VFES_Stab.labelNoun>rana kłuta</VFES_Stab.labelNoun>
+
+
+</LanguageData>

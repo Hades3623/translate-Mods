@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fruit Trees -->
+
+  <VCE_AppleTree.label>jabłoń</VCE_AppleTree.label>
+  <VCE_AppleTree.description>Drzewo z błyszczącymi, czerwonymi jabłkami, podczas gdy istnieje mnóstwo różnych odmian, ten szczególny gatunek sprzyja ciepłym latom i łagodnym zimom. Jabłka były używane jako przekąska, składnik deserów i warzone do produkcji cydru od wczesnych czasów ludzkości.</VCE_AppleTree.description>
+
+  <VCE_PeachTree.label>drzewo brzoskwiniowe</VCE_PeachTree.label>
+  <VCE_PeachTree.description>Drzewo liściaste o rozmytych, pestkowych owocach znanych jako brzoskwinie, drzewa brzoskwiniowe często wymagają pełnego nasłonecznienia i wysokich temperatur. Starożytne kultury orientalne uprawiały te gaje w czasie, zwracając uwagę na ich zdolność do przetrwania w warunkach suszy.</VCE_PeachTree.description>
+
+  <VCE_CherryTree.label>Wiśniowe drzewo</VCE_CherryTree.label>
+  <VCE_CherryTree.description>Drzewo z maleńkimi fioletowo-czerwonymi czereśniami. Wiśnie wyróżniają się tym, że wymagają krótkiej pory zamarzania, w związku z czym ich owoce szybko stały się ulubieńcami cywilizacji północno-zachodnich. Ten konkretny rodzaj jest dość piękny, nakrapiany różowymi kwiatami, kwitnący w pełni każdej zimy.</VCE_CherryTree.description>
+
+  <VCE_PlumTree.label>Śliwa</VCE_PlumTree.label>
+  <VCE_PlumTree.description>Krzaczaste drzewo o gładkiej fioletowej skórce. Śliwki są szczególnie cierpkie i produkowane w postaci różnych dżemów, galaretek i cydrów. W wielu kulturach śliwki dojrzewają również w suszonych śliwkach w celu ich długotrwałej konserwacji.</VCE_PlumTree.description>
+
+  <VCE_PearTree.label>grusza</VCE_PearTree.label>
+  <VCE_PearTree.description>Grusze to grube drzewo z chrupiącymi zielonymi gruszami, które wyróżniają się tym, że wymagają dużej ilości wody i chłodnej pogody, a także całkiem dobrze radzą sobie w cieniu. Choć początkowo podobne do jabłek, gruszki są nieco bardziej włókniste i mniej słodkie.</VCE_PearTree.description>
+
+  <VCE_Opuntia.label>opuncja</VCE_Opuntia.label>
+  <VCE_Opuntia.description>Częściej nazywana kaktusem „opuncja figowa”, roślina ta jest znana z tego, że jest dość obfita nawet na gorących, suchych pustyniach. Płatki tego wysokiego, kolczastego kaktusa kwitną na różowo, przypominających melony, jadalnych owoców, które w przeszłości były używane zarówno jako przekąski, jak i jako lekarstwa przez mieszkańców pustyni.</VCE_Opuntia.description>
+
+  <VCE_BearBerryBush.label>krzew niedźwiedziej jagody</VCE_BearBerryBush.label>
+  <VCE_BearBerryBush.description>Nisko położony krzew z różowymi jagodami, który rośnie na ubogiej, piaszczystej glebie. Podczas gdy surowe jagody mają kwaśny i mdły smak, po ugotowaniu pojawia się naturalna słodycz, a rezultaty mogą być znacznie przyjemniejsze. Ta roślina może być uprawiana w doniczkach.</VCE_BearBerryBush.description>
+
+  <VCE_BananaTree.label>drzewo bananowe</VCE_BananaTree.label>
+  <VCE_BananaTree.description>Wysokolistne drzewo tropikalne o szerokich liściach, ozdobione gromadą żółtych, wydłużonych jagód zwanych bananami. Banany można łatwo obrać ze skórki, odsłaniając głęboko słodki, prawie papkowaty miąższ i od tysiącleci są ulubieńcami ludzi i innych naczelnych w tropikach. Banany są łatwe w zbieraniu, ponieważ można ciąć całą „rękę” w tym samym czasie.</VCE_BananaTree.description>
+
+  <VCE_OrangeTree.label>drzewo pomarańczowe</VCE_OrangeTree.label>
+  <VCE_OrangeTree.description>Krzaczaste, półtropikalne drzewo usiane pomarańczowymi owocami dobrze przystosowane do uprawy w wilgotnym środowisku i na mokrej glebie. Pomarańcze o kulistych i perforowanych kształtach są notorycznie irytujące przy skórce i dość pulchne, ale znane jako jedne z najbardziej soczystych owoców o jasnym posmaku i kwaskowatym posmaku.</VCE_OrangeTree.description>
+
+
+</LanguageData>

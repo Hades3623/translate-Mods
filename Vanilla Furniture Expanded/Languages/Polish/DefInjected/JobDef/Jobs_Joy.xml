@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Play_Roulette.reportString>Gra w ruletkę.</Play_Roulette.reportString>
+  <Play_Arcade.reportString>Gra w gry zręcznościowe.</Play_Arcade.reportString>
+  <Play_Piano.reportString>Gra na pianinie.</Play_Piano.reportString>
+  <Play_DartsBoard.reportString>Gra w rzutki.</Play_DartsBoard.reportString>
+  <Play_PunchingBag.reportString>Używa worka treningowego.</Play_PunchingBag.reportString>
+  <Play_ComputerIndustrial.reportString>Używa komputerów.</Play_ComputerIndustrial.reportString>
+  <Play_ComputerModern.reportString>Używa komputera.</Play_ComputerModern.reportString>
+
+
+</LanguageData>

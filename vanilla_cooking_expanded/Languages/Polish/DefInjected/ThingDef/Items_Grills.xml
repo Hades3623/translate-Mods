@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleGrill.label>prosty grill</VCE_SimpleGrill.label>
+  <VCE_SimpleGrill.description>Proste mięso z grilla gotowane z kilku składników. Bardzo sycące, grillowane mięsa pozwalają długo nie odczuwać głodu. Zamrożenie ich niszczy ten efekt.</VCE_SimpleGrill.description>
+
+  <VCE_RuinedSimpleGrill.label>zrujnowany prosty grill</VCE_RuinedSimpleGrill.label>
+  <VCE_RuinedSimpleGrill.description>Proste mięso z grilla gotowane z kilku składników. Ten grill został zamrożony i jako taki jest nadal jadalny, ale znacznie mniej sycący. Nie zapewni wzmocnienia „dobrze odżywionego”.</VCE_RuinedSimpleGrill.description>
+
+  <VCE_FineGrill.label>dobry grill</VCE_FineGrill.label>
+  <VCE_FineGrill.description>Złożone mięso z grilla, starannie dobrane z szerokiej gamy składników. Bardzo sycące, grillowane mięsa pozwalają długo nie odczuwać głodu. Zamrożenie ich niszczy ten efekt.</VCE_FineGrill.description>
+
+  <VCE_RuinedFineGrill.label>zrujnowany drobny grill</VCE_RuinedFineGrill.label>
+  <VCE_RuinedFineGrill.description>Złożone mięso z grilla, starannie dobrane z szerokiej gamy składników. Ten grill został zamrożony i jako taki jest nadal jadalny, ale znacznie mniej sycący. Nie zapewni wzmocnienia „dobrze odżywionego”.</VCE_RuinedFineGrill.description>
+
+  <VCE_LavishGrill.label>wystawny grill</VCE_LavishGrill.label>
+  <VCE_LavishGrill.description>To arcydzieło sztuki kulinarnej, to grillowane mięso odżywia ciało, umysł i duszę. Bardzo sycące, grillowane mięsa pozwalają długo nie odczuwać głodu. Zamrożenie ich niszczy ten efekt.</VCE_LavishGrill.description>
+
+  <VCE_RuinedLavishGrill.label>zrujnowany wystawny grill</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedLavishGrill.description>To arcydzieło sztuki kulinarnej, to grillowane mięso odżywia ciało, umysł i duszę. Ten grill został zamrożony i jako taki jest nadal jadalny, ale znacznie mniej sycący. Nie zapewni wzmocnienia „dobrze odżywionego”.</VCE_RuinedLavishGrill.description>
+
+  <VCE_GourmetGrill.label>grill dla smakoszy</VCE_GourmetGrill.label>
+  <VCE_GourmetGrill.description>Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości mięsa z grilla. Bardzo sycące, grillowane mięsa pozwalają długo nie odczuwać głodu. Zamrożenie ich niszczy ten efekt.</VCE_GourmetGrill.description>
+
+  <VCE_RuinedGourmetGrill.label>zrujnowany grill dla smakoszy</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedGourmetGrill.description>Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości mięsa z grilla. Ten grill został zamrożony i jako taki jest nadal jadalny, ale znacznie mniej sycący. Nie zapewni wzmocnienia „dobrze odżywionego”.</VCE_RuinedGourmetGrill.description>
+
+
+</LanguageData>

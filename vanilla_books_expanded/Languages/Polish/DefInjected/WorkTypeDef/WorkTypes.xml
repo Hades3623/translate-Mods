@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Writing.label>Pisanie</VBE_Writing.label>
+  <VBE_Writing.description>Wykonuj prace pisemne.</VBE_Writing.description>
+  <VBE_Writing.labelShort>Pisanie</VBE_Writing.labelShort>
+  <VBE_Writing.pawnLabel>Pisarz</VBE_Writing.pawnLabel>
+  <VBE_Writing.gerundLabel>Pisanie</VBE_Writing.gerundLabel>
+  <VBE_Writing.verb>Napisz na</VBE_Writing.verb>
+
+
+</LanguageData>

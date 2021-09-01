@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PolarisCombatChip -->
+
+  <PolarisCombatChip_NotActive.label>chip bojowy (nieaktywny)</PolarisCombatChip_NotActive.label>
+  <PolarisCombatChip_NotActive.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_NotActive.description>
+  <PolarisCombatChip_NotActive.labelNoun>chip bojowy</PolarisCombatChip_NotActive.labelNoun>
+
+  <PolarisCombatChip_Currency.label>chip bojowy (waluta)</PolarisCombatChip_Currency.label>
+  <PolarisCombatChip_Currency.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Currency.description>
+  <PolarisCombatChip_Currency.labelNoun>chip bojowy</PolarisCombatChip_Currency.labelNoun>
+
+  <PolarisCombatChip_Sniper.label>chip bojowy (snajper)</PolarisCombatChip_Sniper.label>
+  <PolarisCombatChip_Sniper.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Sniper.description>
+  <PolarisCombatChip_Sniper.labelNoun>chip bojowy</PolarisCombatChip_Sniper.labelNoun>
+
+  <PolarisCombatChip_Scouter.label>chip bojowy (scouter)</PolarisCombatChip_Scouter.label>
+  <PolarisCombatChip_Scouter.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Scouter.description>
+  <PolarisCombatChip_Scouter.labelNoun>chip bojowy</PolarisCombatChip_Scouter.labelNoun>
+
+  <PolarisCombatChip_Medical.label>chip bojowy (medyczny)</PolarisCombatChip_Medical.label>
+  <PolarisCombatChip_Medical.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Medical.description>
+  <PolarisCombatChip_Medical.labelNoun>chip bojowy</PolarisCombatChip_Medical.labelNoun>
+
+  <PolarisCombatChip_Charm.label>chip bojowy (urok)</PolarisCombatChip_Charm.label>
+  <PolarisCombatChip_Charm.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Charm.description>
+  <PolarisCombatChip_Charm.labelNoun>chip bojowy</PolarisCombatChip_Charm.labelNoun>
+
+  <PolarisCombatChip_Inspiration.label>chip bojowy (inspiracja)</PolarisCombatChip_Inspiration.label>
+  <PolarisCombatChip_Inspiration.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Inspiration.description>
+  <PolarisCombatChip_Inspiration.labelNoun>chip bojowy</PolarisCombatChip_Inspiration.labelNoun>
+
+  <PolarisCombatChip_Assassin.label>chip bojowy (zabójca)</PolarisCombatChip_Assassin.label>
+  <PolarisCombatChip_Assassin.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip_Assassin.description>
+  <PolarisCombatChip_Assassin.labelNoun>chip bojowy</PolarisCombatChip_Assassin.labelNoun>
+
+  <PolarisCombatChip_Psycaster.label>chip bojowy (psycaster)</PolarisCombatChip_Psycaster.label>
+  <PolarisCombatChip_Psycaster.description>Uniwersalny chip taktyczny, który potrafi wzmocnić każdy aspekt użytkownika. Użycie konwertera aktywuje chip taktyczny, a także zmieni jego tryb.\n\nTen pozwoli ci pozbyć się psychicznego kaca.</PolarisCombatChip_Psycaster.description>
+  <PolarisCombatChip_Psycaster.labelNoun>chip bojowy</PolarisCombatChip_Psycaster.labelNoun>
+
+
+</LanguageData>

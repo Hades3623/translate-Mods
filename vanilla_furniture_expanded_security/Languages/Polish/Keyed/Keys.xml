@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Submersible -->
+  <VFESecurity.Submerged>zanurzony</VFESecurity.Submerged>
+
+  <!-- Long-range artillery -->
+  <VFESecurity.WorldTileRange>Światowy asortyment płytek</VFESecurity.WorldTileRange>
+
+  <VFESecurity.TargetWorldTile>Docelowy kafelek świata</VFESecurity.TargetWorldTile>
+  <VFESecurity.TargetWorldTile_Description>Wybierz kafelek świata, do którego ma strzelać ten {0}.</VFESecurity.TargetWorldTile_Description>
+  <VFESecurity.TargetWorldTile_DescriptionShort>Wybierz kafelek świata, do którego chcesz strzelać.</VFESecurity.TargetWorldTile_DescriptionShort>
+  <VFESecurity.CommandTargetTileFailNoArtillery>Ten {0} nie ma odpowiedniej artylerii.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+  <VFESecurity.TargetWorldTileOutOfRange>Płytka jest poza zasięgiem.</VFESecurity.TargetWorldTileOutOfRange>
+  <VFESecurity.TargetMap>Mapa docelowa</VFESecurity.TargetMap>
+  <VFESecurity.TargetPeaceTalks>Docelowe rozmowy pokojowe</VFESecurity.TargetPeaceTalks>
+  <VFESecurity.TargetSettlement>Docelowe rozliczenie</VFESecurity.TargetSettlement>
+  <VFESecurity.TargetOutpost>Placówka docelowa</VFESecurity.TargetOutpost>
+  <VFESecurity.TargetWorldTileEmpty>Obszar docelowy (bez efektu)</VFESecurity.TargetWorldTileEmpty>
+  <VFESecurity.TargetWorldFlyingObject>Nie można namierzać obiektów latających.</VFESecurity.TargetWorldFlyingObject>
+  <VFESecurity.TargetWorldTileSameTile>Nie można kierować na ten sam kafelek.</VFESecurity.TargetWorldTileSameTile>
+
+  <VFESecurity.MessageTargetWorldTileInvalid>Obszar docelowy jest nieprawidłowy.</VFESecurity.MessageTargetWorldTileInvalid>
+  <VFESecurity.Settlement>osada</VFESecurity.Settlement>
+  <VFESecurity.MessageTargetWorldTileOutOfRange>Docelowy obszar jest poza zakresem {0}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+  <!-- Messages -->
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>zaatakowany przez artylerię</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+  <VFESecurity.Message_ArtilleryBombardmentEnded>{0} z {1} przestali bombardować Twoje osady.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+  <!-- Letters -->
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Sprowokowany {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Wysyłając ostrzał artyleryjski na grupę negocjującą rozmowy pokojowe, stosunki między tobą a {0} uległy pogorszeniu. Mogą w odwecie wysłać grupę rabunkową.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>Odwet artyleryjski</VFESecurity.ArtilleryStrikeSettlement_Letter>
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>Z powodu twojej prowokacji przez ostrzał artyleryjski {0} at {1} zdecydowali się odpowiedzieć ogniem w twoich osadach przy użyciu własnej artylerii {0}
+To bombardowanie potrwa kilka dni lub do momentu zniszczenia osady.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+  <VFESecurity.LetterFactionBaseDefeatedStrike>Baza wroga {0} została zniszczona.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+  <!-- Psychic pylon -->
+  <VFESecurity.PsychicPylonExposure>Odsłonięcie pylonu psychicznego</VFESecurity.PsychicPylonExposure>
+
+  <!-- Ammo crate -->
+  <VFESecurity.AmmoCrate>Skrzynia z amunicją</VFESecurity.AmmoCrate>
+
+  <!-- Rearmable traps -->
+  <VFESecurity.Armed>Uzbrojony</VFESecurity.Armed>
+  <VFESecurity.NeedsRearming>Potrzebuje ponownego uzbrojenia</VFESecurity.NeedsRearming>
+  <VFESecurity.DesignatorRearmTraps>Dozbrajać</VFESecurity.DesignatorRearmTraps>
+  <VFESecurity.DesignatorRearmTraps_Description>Oznacz nieuzbrojone pułapki, które mogą zostać ponownie uzbrojone przez twoich kolonistów.</VFESecurity.DesignatorRearmTraps_Description>
+  <VFESecurity.MessageMustDesignateRearmables>Musi wyznaczyć nieuzbrojone pułapki nadające się do ponownego uzbrojenia.</VFESecurity.MessageMustDesignateRearmables>
+
+</LanguageData>

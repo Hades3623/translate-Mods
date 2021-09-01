@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Generic -->
+
+  <IP_InsertFirstItemDesc>Wstawić</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Wstawić</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Wstawić</IP_InsertThirdItemDesc>
+  <IP_InsertVariable>Wstaw {0}</IP_InsertVariable>
+  <IP_InsertVariableSecond>Wstaw {0} do drugiego gniazda</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Wstaw {0} w 3. gnieździe</IP_InsertVariableThird>
+  <IP_CantFindThing>Na tej mapie nie znaleziono elementów tego rodzaju ({0})</IP_CantFindThing>
+  <IP_BringIngredients>Przynieś składniki</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Przynieś składniki, aby rozpocząć proces</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Anuluj dostarczanie składników</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Anuluj dostarczanie składników do tego budynku</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>Na mapie nie znaleziono żadnego składnika</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Wybierz składnik</IP_ChooseIngredient>
+  <IP_ChooseIngredientSecond>Wybierz drugi składnik</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Wybierz trzeci składnik</IP_ChooseIngredientThird>
+  <IP_IngredientImproperlyDefined>Jeden ze składników został nieprawidłowo zdefiniowany do pracy z procesorem przedmiotów, skontaktuj się z autorem moda</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0} musi być zasilany, aby zacząć działać</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0} musi być naładowany, aby rozpocząć pracę</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>Aby urządzenie {0} zaczęło działać, musi mieć odpowiedni poziom światła</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0} nie musi padać, aby zacząć działać</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0} musi mieć odpowiednią temperaturę ({1} - {2}), aby rozpocząć pracę</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>Rezultat jest zepsuty z powodu awarii zasilania w procesorze item</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>Wynik został zepsuty z powodu awarii zasilania procesora item</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Produkt został przetworzony i oczekuje na odbiór</IP_GenericProductFinished>
+  <IP_IsEmpty>{0} jest pusty</IP_IsEmpty>
+  <IP_FilledWith>{0} jest wypełniony {1}</IP_FilledWith>
+  <IP_FilledWithSecond>Drugi boks {0} jest wypełniony {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>Trzeci boks {0} jest wypełniony {1}</IP_FilledWithThird>
+  <IP_IngredientPercentage> (wypełnione w {0} z {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} działa:</IP_ProcessorWorking>
+  <IP_ProcessingInProgress>{0} przetwarza {1}. {2} będzie gotowy z jakością {3} za {4}</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} przetwarza {1}. {2} będzie gotowy za {3}</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Usuń {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Usuń {0} z {1}. Produkt będzie gotowy na obecnym poziomie jakości ({2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Zresetuj przepisy</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Spowoduje to zresetowanie budynku po zakończeniu bieżącego produktu, dzięki czemu będzie można wybrać nowy składnik wejściowy</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>Nie znaleziono kombinacji tych składników</IP_NoCombination>
+  <IP_SetAutoQuality>Ustaw jakość ekstrakcji produktu. Gdy produkt osiągnie tę jakość, kolonista automatycznie go odzyska i przeniesie do zapasów, jeśli będzie dostępny. Jeśli nie zostanie ustawiona, produkty zostaną wyodrębnione ręcznie lub w jakości legendarnej.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Wybierz jakość automatyczną</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Jakość automatyczna: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Wyłącz automatyczną jakość</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Jakość automatyczna, produkt zostanie wyodrębniony na poziomie jakości: {0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Automatyczne pozyskiwanie składników</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Jeśli ustawiony jako aktywny, ten budynek automatycznie pobierze składniki z sąsiednich lejów i automatycznie rozpocznie pracę ponownie po usunięciu produktu. Jeśli nie, koloniści przetransportują składniki do budynku, który po uzupełnieniu trzeba będzie aktywować ręcznie</IP_ToggleAutoDesc>
+  <IP_ProductWaiting>Czekam na odbiór</IP_ProductWaiting>
+  <IP_OutsideLightRange>Proces w tej maszynie jest przerywany z powodu niewystarczającego poziomu światła i wkrótce zostanie zepsuty</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>Produkt w tym urządzeniu zepsuł się z powodu niewystarczającego poziomu światła</IP_SpoiledDueToLight>
+  <IP_ItRains>Proces w tej maszynie jest przerywany z powodu złej pogody i wkrótce zostanie zepsuty</IP_ItRains>
+  <IP_SpoiledDueToRain>Produkt w tej maszynie zepsuł się z powodu złej pogody</IP_SpoiledDueToRain>
+  <IP_WrongTemp>Proces w tej maszynie jest przerywany z powodu nieodpowiedniej temperatury i wkrótce zostanie zepsuty</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>Produkt w tym urządzeniu zepsuł się z powodu nieodpowiedniej temperatury</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>. Ten fermentor wymaga temperatury od {0} do {1} stopni {2}</IP_TempRangeInThisMachine>
+
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barrier -->
+
+  <VFES_Barrier.label>bariera</VFES_Barrier.label>
+  <VFES_Barrier.description>Zbrojona metalowa barykada utrzymywana na miejscu przez betonową ramę. Zapewnia doskonałą ochronę przed atakami dystansowymi.</VFES_Barrier.description>
+
+
+  <!-- Charge Complex -->
+
+  <VFES_Turret_ChargeComplex.label>działo ładunkowe</VFES_Turret_ChargeComplex.label>
+  <VFES_Turret_ChargeComplex.description>Stacjonarne działo ładunkowe zamontowane na metalowej barierze. Zdolny do podtrzymywania ognia, dopóki lufa nie wymaga wymiany.</VFES_Turret_ChargeComplex.description>
+
+  <VFES_Gun_ChargeComplex.label>broni ładująca</VFES_Gun_ChargeComplex.label>
+  <VFES_Gun_ChargeComplex.description>Pistolet ładujący przeznaczony do zamontowania na wieży.</VFES_Gun_ChargeComplex.description>
+
+  <VFES_Bullet_ChargeComplex.label>strzał naładowany</VFES_Bullet_ChargeComplex.label>
+
+
+</LanguageData>

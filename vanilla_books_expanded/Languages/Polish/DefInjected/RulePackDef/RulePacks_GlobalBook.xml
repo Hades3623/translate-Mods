@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BookUtility.rulePack.rulesStrings.0>maybe_adjective-></VBE_BookUtility.rulePack.rulesStrings.0>
+  <VBE_BookUtility.rulePack.rulesStrings.1>maybe_adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.1>
+  <VBE_BookUtility.rulePack.rulesStrings.2>maybe_adjective->[AdjectiveBadass]</VBE_BookUtility.rulePack.rulesStrings.2>
+  <VBE_BookUtility.rulePack.rulesStrings.3>maybe_adjective->[AdjectiveAngsty]</VBE_BookUtility.rulePack.rulesStrings.3>
+  <VBE_BookUtility.rulePack.rulesStrings.4>Adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.4>
+  <VBE_BookUtility.rulePack.rulesStrings.5>Adjective->[AdjectiveBadass]</VBE_BookUtility.rulePack.rulesStrings.5>
+  <VBE_BookUtility.rulePack.rulesStrings.6>Adjective->[AdjectiveAngsty]</VBE_BookUtility.rulePack.rulesStrings.6>
+  <VBE_BookUtility.rulePack.rulesStrings.7>cover->the cover of this book [depicts] [image]</VBE_BookUtility.rulePack.rulesStrings.7>
+  <VBE_BookUtility.rulePack.rulesStrings.8>cover->this book's cover bears a [depiction] of [image]</VBE_BookUtility.rulePack.rulesStrings.8>
+  <VBE_BookUtility.rulePack.rulesStrings.9>cover->on this book's cover is a [depiction] of [image]</VBE_BookUtility.rulePack.rulesStrings.9>
+  <VBE_BookUtility.rulePack.rulesStrings.10>first_chapters->the first few chapters of this book describe the use of </VBE_BookUtility.rulePack.rulesStrings.10>
+  <VBE_BookUtility.rulePack.rulesStrings.11>first_chapters->first part of the book goes in detail about </VBE_BookUtility.rulePack.rulesStrings.11>
+  <VBE_BookUtility.rulePack.rulesStrings.12>first_chapters->first few pages describe the use of </VBE_BookUtility.rulePack.rulesStrings.12>
+  <VBE_BookUtility.rulePack.rulesStrings.13>first_chapters->the beginning of the book revolves around </VBE_BookUtility.rulePack.rulesStrings.13>
+  <VBE_BookUtility.rulePack.rulesStrings.14>first_chapters->the book starts off with </VBE_BookUtility.rulePack.rulesStrings.14>
+  <VBE_BookUtility.rulePack.rulesStrings.15>first_chapters->the beginning is about </VBE_BookUtility.rulePack.rulesStrings.15>
+  <VBE_BookUtility.rulePack.rulesStrings.16>maybe_cont(p=2)-></VBE_BookUtility.rulePack.rulesStrings.16>
+  <VBE_BookUtility.rulePack.rulesStrings.17>maybe_cont-> within the context of [ConceptAny]</VBE_BookUtility.rulePack.rulesStrings.17>
+  <VBE_BookUtility.rulePack.rulesStrings.18>maybe_cont-> in a [AdjectiveBadass] tone</VBE_BookUtility.rulePack.rulesStrings.18>
+  <VBE_BookUtility.rulePack.rulesStrings.19>maybe_cont-> and the importance of [ConceptAny]</VBE_BookUtility.rulePack.rulesStrings.19>
+  <VBE_BookUtility.rulePack.rulesStrings.20>maybe_cont-> with emphasis on the use of [TerrainFeature]</VBE_BookUtility.rulePack.rulesStrings.20>
+  <VBE_BookUtility.rulePack.rulesStrings.21>maybe_cont-> and how [Vegetable]s can be used to improve it</VBE_BookUtility.rulePack.rulesStrings.21>
+  <VBE_BookUtility.rulePack.rulesStrings.22>maybe_cont-> during the game of [Game]</VBE_BookUtility.rulePack.rulesStrings.22>
+  <VBE_BookUtility.rulePack.rulesStrings.23>maybe_cont-> within the world of the [Animal]s</VBE_BookUtility.rulePack.rulesStrings.23>
+  <VBE_BookUtility.rulePack.rulesStrings.24>maybe_cont-> and the beauty of [Gore]</VBE_BookUtility.rulePack.rulesStrings.24>
+  <VBE_BookUtility.rulePack.rulesStrings.25>maybe_cont-> and compares it to a [NaturalObject]</VBE_BookUtility.rulePack.rulesStrings.25>
+  <VBE_BookUtility.rulePack.rulesStrings.26>maybe_cont-> from the perspective of the [Enemy]</VBE_BookUtility.rulePack.rulesStrings.26>
+  <VBE_BookUtility.rulePack.rulesStrings.27>maybe_cont-> based on experience from the middle of a [Community]</VBE_BookUtility.rulePack.rulesStrings.27>
+  <VBE_BookUtility.rulePack.rulesStrings.28>maybe_cont->, with personal insights from a [Character]</VBE_BookUtility.rulePack.rulesStrings.28>
+  <VBE_BookUtility.rulePack.rulesStrings.29>maybe_cont->, based on the interview with the minor celebrity [NamePerson]</VBE_BookUtility.rulePack.rulesStrings.29>
+  <VBE_BookUtility.rulePack.rulesStrings.30>maybe_cont->, and how color [Color] was always associated with it</VBE_BookUtility.rulePack.rulesStrings.30>
+  <VBE_BookUtility.rulePack.rulesStrings.31>maybe_cont->, and how [Animal] can be used to improve it</VBE_BookUtility.rulePack.rulesStrings.31>
+  <VBE_BookUtility.rulePack.rulesStrings.32>maybe_cont->, describing various applications of [Weapon] within that field</VBE_BookUtility.rulePack.rulesStrings.32>
+  <VBE_BookUtility.rulePack.rulesStrings.33>maybe_cont->, based on the various surveys performed with [AdjectiveFriendly] [PersonJob]s</VBE_BookUtility.rulePack.rulesStrings.33>
+  <VBE_BookUtility.rulePack.rulesStrings.34>maybe_cont-> and the importance of [Apparel]</VBE_BookUtility.rulePack.rulesStrings.34>
+  <VBE_BookUtility.rulePack.rulesStrings.35>maybe_cont-> and how [ConceptPositive] and [ConceptPositive] improve it</VBE_BookUtility.rulePack.rulesStrings.35>
+  <VBE_BookUtility.rulePack.rulesStrings.36>maybe_cont-> written in a [bookstyle_adj] style</VBE_BookUtility.rulePack.rulesStrings.36>
+  <VBE_BookUtility.rulePack.rulesStrings.37>middle_book->The author then proceeds to describe</VBE_BookUtility.rulePack.rulesStrings.37>
+  <VBE_BookUtility.rulePack.rulesStrings.38>middle_book->The following chapters allow the reader to contemplate on</VBE_BookUtility.rulePack.rulesStrings.38>
+  <VBE_BookUtility.rulePack.rulesStrings.39>middle_book->The next chapters discuss</VBE_BookUtility.rulePack.rulesStrings.39>
+  <VBE_BookUtility.rulePack.rulesStrings.40>middle_book->After that, the author went to great lengths to explain</VBE_BookUtility.rulePack.rulesStrings.40>
+  <VBE_BookUtility.rulePack.rulesStrings.41>middle_book->The middle of the book speaks about</VBE_BookUtility.rulePack.rulesStrings.41>
+  <VBE_BookUtility.rulePack.rulesStrings.42>middle_book->The next bit is about</VBE_BookUtility.rulePack.rulesStrings.42>
+  <VBE_BookUtility.rulePack.rulesStrings.43>ending->Near the ending, author summarizes</VBE_BookUtility.rulePack.rulesStrings.43>
+  <VBE_BookUtility.rulePack.rulesStrings.44>ending->By the end of the book, emphasis is placed on</VBE_BookUtility.rulePack.rulesStrings.44>
+  <VBE_BookUtility.rulePack.rulesStrings.45>ending->The last few chapters mention</VBE_BookUtility.rulePack.rulesStrings.45>
+  <VBE_BookUtility.rulePack.rulesStrings.46>ending->Ending of the book is about</VBE_BookUtility.rulePack.rulesStrings.46>
+  <VBE_BookUtility.rulePack.rulesStrings.47>ending->The final chapter revolves around</VBE_BookUtility.rulePack.rulesStrings.47>
+  <VBE_BookUtility.rulePack.rulesStrings.48>ending->The last page mentions</VBE_BookUtility.rulePack.rulesStrings.48>
+  <VBE_BookUtility.rulePack.rulesStrings.49>ending->The last part of the book is about</VBE_BookUtility.rulePack.rulesStrings.49>
+  <VBE_BookUtility.rulePack.rulesStrings.50>ending->Author decided to devote the last part of the book to</VBE_BookUtility.rulePack.rulesStrings.50>
+  <VBE_BookUtility.rulePack.rulesStrings.51>book_context->infused with the idea of [ConceptAny] and is done in a [bookstyle_adj] style</VBE_BookUtility.rulePack.rulesStrings.51>
+  <VBE_BookUtility.rulePack.rulesStrings.52>book_context->written in a [bookstyle_adj] style</VBE_BookUtility.rulePack.rulesStrings.52>
+  <VBE_BookUtility.rulePack.rulesStrings.53>book_context->executed in a [bookstyle_adj] style</VBE_BookUtility.rulePack.rulesStrings.53>
+  <VBE_BookUtility.rulePack.rulesStrings.54>book_context->[bookstyle_adj] with [bookstyle_adj] elements</VBE_BookUtility.rulePack.rulesStrings.54>
+  <VBE_BookUtility.rulePack.rulesStrings.55>book_context->[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.55>
+  <VBE_BookUtility.rulePack.rulesStrings.56>book_context->[bookstyle_adj] yet [bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.56>
+  <VBE_BookUtility.rulePack.rulesStrings.57>maybe_writingstyles(p=3)-></VBE_BookUtility.rulePack.rulesStrings.57>
+  <VBE_BookUtility.rulePack.rulesStrings.58>maybe_writingstyles->, using a large amount of [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.58>
+  <VBE_BookUtility.rulePack.rulesStrings.59>maybe_writingstyles->, riddled with [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.59>
+  <VBE_BookUtility.rulePack.rulesStrings.60>maybe_writingstyles->, without using [bookstyle] even once</VBE_BookUtility.rulePack.rulesStrings.60>
+  <VBE_BookUtility.rulePack.rulesStrings.61>maybe_writingstyles->, written only using [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.61>
+  <VBE_BookUtility.rulePack.rulesStrings.62>maybe_writingstyles->, with a high amount of [bookstyle] and absolutely no [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.62>
+  <VBE_BookUtility.rulePack.rulesStrings.63>maybe_writingstyles->. Author used a number of [bookstyle], mixed in with [bookstyle] and [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.63>
+  <VBE_BookUtility.rulePack.rulesStrings.64>maybe_writingstyles-> with a number of [bookstyle_adj] [bookstyle]</VBE_BookUtility.rulePack.rulesStrings.64>
+  <VBE_BookUtility.rulePack.rulesStrings.65>book->book</VBE_BookUtility.rulePack.rulesStrings.65>
+  <VBE_BookUtility.rulePack.rulesStrings.66>book->work</VBE_BookUtility.rulePack.rulesStrings.66>
+  <VBE_BookUtility.rulePack.rulesStrings.67>book->piece of writing</VBE_BookUtility.rulePack.rulesStrings.67>
+  <VBE_BookUtility.rulePack.rulesStrings.68>book->work of writing</VBE_BookUtility.rulePack.rulesStrings.68>
+  <VBE_BookUtility.rulePack.rulesStrings.69>book->text</VBE_BookUtility.rulePack.rulesStrings.69>
+  <VBE_BookUtility.rulePack.rulesStrings.70>book_general->The purpose of this [book] is to explain in depth </VBE_BookUtility.rulePack.rulesStrings.70>
+  <VBE_BookUtility.rulePack.rulesStrings.71>book_general->This [book] provides the reader with insight into</VBE_BookUtility.rulePack.rulesStrings.71>
+  <VBE_BookUtility.rulePack.rulesStrings.72>book_general->Reading this [book] gives valuable information on</VBE_BookUtility.rulePack.rulesStrings.72>
+  <VBE_BookUtility.rulePack.rulesStrings.73>book_general->This [book] is about</VBE_BookUtility.rulePack.rulesStrings.73>
+  <VBE_BookUtility.rulePack.rulesStrings.74>book_general->Author when writing this [book] wanted readers to focus on</VBE_BookUtility.rulePack.rulesStrings.74>
+  <VBE_BookUtility.rulePack.rulesStrings.75>maybe_ShootingSkill-></VBE_BookUtility.rulePack.rulesStrings.75>
+  <VBE_BookUtility.rulePack.rulesStrings.76>maybe_ShootingSkill-> and [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.76>
+  <VBE_BookUtility.rulePack.rulesStrings.77>maybe_ShootingSkill-> as well as [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.77>
+  <VBE_BookUtility.rulePack.rulesStrings.78>maybe_AnimalsSkill-></VBE_BookUtility.rulePack.rulesStrings.78>
+  <VBE_BookUtility.rulePack.rulesStrings.79>maybe_AnimalsSkill-> and [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.79>
+  <VBE_BookUtility.rulePack.rulesStrings.80>maybe_AnimalsSkill-> as well as [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.80>
+  <VBE_BookUtility.rulePack.rulesStrings.81>maybe_ArtSkill-></VBE_BookUtility.rulePack.rulesStrings.81>
+  <VBE_BookUtility.rulePack.rulesStrings.82>maybe_ArtSkill-> and [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.82>
+  <VBE_BookUtility.rulePack.rulesStrings.83>maybe_ArtSkill-> as well as [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.83>
+  <VBE_BookUtility.rulePack.rulesStrings.84>maybe_ConstructionSkill-></VBE_BookUtility.rulePack.rulesStrings.84>
+  <VBE_BookUtility.rulePack.rulesStrings.85>maybe_ConstructionSkill-> and [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.85>
+  <VBE_BookUtility.rulePack.rulesStrings.86>maybe_ConstructionSkill-> as well as [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.86>
+  <VBE_BookUtility.rulePack.rulesStrings.87>maybe_CookingSkill-></VBE_BookUtility.rulePack.rulesStrings.87>
+  <VBE_BookUtility.rulePack.rulesStrings.88>maybe_CookingSkill-> and [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.88>
+  <VBE_BookUtility.rulePack.rulesStrings.89>maybe_CookingSkill-> as well as [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.89>
+  <VBE_BookUtility.rulePack.rulesStrings.90>maybe_CraftingSkill-></VBE_BookUtility.rulePack.rulesStrings.90>
+  <VBE_BookUtility.rulePack.rulesStrings.91>maybe_CraftingSkill-> and [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.91>
+  <VBE_BookUtility.rulePack.rulesStrings.92>maybe_CraftingSkill-> as well as [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.92>
+  <VBE_BookUtility.rulePack.rulesStrings.93>maybe_GrowingSkill-></VBE_BookUtility.rulePack.rulesStrings.93>
+  <VBE_BookUtility.rulePack.rulesStrings.94>maybe_GrowingSkill-> and [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.94>
+  <VBE_BookUtility.rulePack.rulesStrings.95>maybe_GrowingSkill-> as well as [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.95>
+  <VBE_BookUtility.rulePack.rulesStrings.96>maybe_IntellectualSkill-></VBE_BookUtility.rulePack.rulesStrings.96>
+  <VBE_BookUtility.rulePack.rulesStrings.97>maybe_IntellectualSkill-> and [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.97>
+  <VBE_BookUtility.rulePack.rulesStrings.98>maybe_IntellectualSkill-> as well as [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.98>
+  <VBE_BookUtility.rulePack.rulesStrings.99>maybe_MedicalSkill-></VBE_BookUtility.rulePack.rulesStrings.99>
+  <VBE_BookUtility.rulePack.rulesStrings.100>maybe_MedicalSkill-> and [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.100>
+  <VBE_BookUtility.rulePack.rulesStrings.101>maybe_MedicalSkill-> as well as [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.101>
+  <VBE_BookUtility.rulePack.rulesStrings.102>maybe_MeleeSkill-></VBE_BookUtility.rulePack.rulesStrings.102>
+  <VBE_BookUtility.rulePack.rulesStrings.103>maybe_MeleeSkill-> and [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.103>
+  <VBE_BookUtility.rulePack.rulesStrings.104>maybe_MeleeSkill-> as well as [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.104>
+  <VBE_BookUtility.rulePack.rulesStrings.105>maybe_MiningSkill-></VBE_BookUtility.rulePack.rulesStrings.105>
+  <VBE_BookUtility.rulePack.rulesStrings.106>maybe_MiningSkill-> and [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.106>
+  <VBE_BookUtility.rulePack.rulesStrings.107>maybe_MiningSkill-> as well as [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.107>
+  <VBE_BookUtility.rulePack.rulesStrings.108>maybe_SocialSkill-></VBE_BookUtility.rulePack.rulesStrings.108>
+  <VBE_BookUtility.rulePack.rulesStrings.109>maybe_SocialSkill-> and [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.109>
+  <VBE_BookUtility.rulePack.rulesStrings.110>maybe_SocialSkill-> as well as [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.110>
+  <VBE_BookUtility.rulePack.rulesStrings.111>inspired->Inspired by the bestselling book titled</VBE_BookUtility.rulePack.rulesStrings.111>
+  <VBE_BookUtility.rulePack.rulesStrings.112>inspired->A prequel to the popular book named</VBE_BookUtility.rulePack.rulesStrings.112>
+  <VBE_BookUtility.rulePack.rulesStrings.113>inspired->Based heavily on the book titled</VBE_BookUtility.rulePack.rulesStrings.113>
+  <VBE_BookUtility.rulePack.rulesStrings.114>inspired->In order to contradict the statement in</VBE_BookUtility.rulePack.rulesStrings.114>
+  <VBE_BookUtility.rulePack.rulesStrings.115>context_newspaper->This [newspaper] goes indepth about the [tale_noun] on [DATE].</VBE_BookUtility.rulePack.rulesStrings.115>
+  <VBE_BookUtility.rulePack.rulesStrings.116>context_newspaper->This [newspaper] relates to [tale_noun] on [DATE].</VBE_BookUtility.rulePack.rulesStrings.116>
+  <VBE_BookUtility.rulePack.rulesStrings.117>context_newspaper->This [newspaper] tells the story of [tale_noun] on [DATE].</VBE_BookUtility.rulePack.rulesStrings.117>
+  <VBE_BookUtility.rulePack.rulesStrings.118>context_newspaper->This [newspaper] is about [tale_noun] on [DATE].</VBE_BookUtility.rulePack.rulesStrings.118>
+  <VBE_BookUtility.rulePack.rulesStrings.119>context_newspaper->This [newspaper] informs the reader about [tale_noun] on [DATE].</VBE_BookUtility.rulePack.rulesStrings.119>
+  <VBE_BookUtility.rulePack.rulesStrings.120>newspaper->newspaper</VBE_BookUtility.rulePack.rulesStrings.120>
+  <VBE_BookUtility.rulePack.rulesStrings.121>newspaper->paper</VBE_BookUtility.rulePack.rulesStrings.121>
+  <VBE_BookUtility.rulePack.rulesStrings.122>newspaper->article</VBE_BookUtility.rulePack.rulesStrings.122>
+  <VBE_BookUtility.rulePack.rulesStrings.123>newspaper->magazine</VBE_BookUtility.rulePack.rulesStrings.123>
+  <VBE_BookUtility.rulePack.rulesStrings.124>ShootingBook->[Books] of [maybe_adjective] [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.124>
+  <VBE_BookUtility.rulePack.rulesStrings.125>ShootingBook->[AdjectiveBadass] [Books] of [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.125>
+  <VBE_BookUtility.rulePack.rulesStrings.126>ShootingBook->[AdjectiveLarge] [Books] of [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.126>
+  <VBE_BookUtility.rulePack.rulesStrings.127>ShootingBook->[PeopleBadass]'s [Books] of [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.127>
+  <VBE_BookUtility.rulePack.rulesStrings.128>ShootingBook->[Books] of [maybe_adjective] [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.128>
+  <VBE_BookUtility.rulePack.rulesStrings.129>ShootingBook->[AdjectiveBadass] [Books] of the [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.129>
+  <VBE_BookUtility.rulePack.rulesStrings.130>ShootingBook->The [Adjective] [Noun]: History of	[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.130>
+  <VBE_BookUtility.rulePack.rulesStrings.131>ShootingBook->[ShootingSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.131>
+  <VBE_BookUtility.rulePack.rulesStrings.132>ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.132>
+  <VBE_BookUtility.rulePack.rulesStrings.133>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.133>
+  <VBE_BookUtility.rulePack.rulesStrings.134>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.134>
+  <VBE_BookUtility.rulePack.rulesStrings.135>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.135>
+  <VBE_BookUtility.rulePack.rulesStrings.136>ShootingBook->[ANYPAWN_nameIndef]'s [Books] of the [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.136>
+  <VBE_BookUtility.rulePack.rulesStrings.137>ShootingBook->[ShootingSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.137>
+  <VBE_BookUtility.rulePack.rulesStrings.138>ShootingBook->[ANYPAWN_nameIndef]'s [Books]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.138>
+  <VBE_BookUtility.rulePack.rulesStrings.139>ShootingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.139>
+  <VBE_BookUtility.rulePack.rulesStrings.140>ShootingBook->[Noun] and [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.140>
+  <VBE_BookUtility.rulePack.rulesStrings.141>ShootingBook->[ConceptAny] and [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.141>
+  <VBE_BookUtility.rulePack.rulesStrings.142>AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.142>
+  <VBE_BookUtility.rulePack.rulesStrings.143>AnimalsBook->[AdjectiveBadass] [Books] of [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.143>
+  <VBE_BookUtility.rulePack.rulesStrings.144>AnimalsBook->[AdjectiveLarge] [Books] of [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.144>
+  <VBE_BookUtility.rulePack.rulesStrings.145>AnimalsBook->[PeopleBadass]'s [Books] of [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.145>
+  <VBE_BookUtility.rulePack.rulesStrings.146>AnimalsBook->[Books] of [maybe_adjective] [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.146>
+  <VBE_BookUtility.rulePack.rulesStrings.147>AnimalsBook->[AdjectiveBadass] [Books] of the [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.147>
+  <VBE_BookUtility.rulePack.rulesStrings.148>AnimalsBook->The [Adjective] [Noun]: History of [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.148>
+  <VBE_BookUtility.rulePack.rulesStrings.149>AnimalsBook->[AnimalsSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.149>
+  <VBE_BookUtility.rulePack.rulesStrings.150>AnimalsBook->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.150>
+  <VBE_BookUtility.rulePack.rulesStrings.151>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.151>
+  <VBE_BookUtility.rulePack.rulesStrings.152>AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.152>
+  <VBE_BookUtility.rulePack.rulesStrings.153>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.153>
+  <VBE_BookUtility.rulePack.rulesStrings.154>AnimalsBook->[ANYPAWN_nameIndef]'s [Books] of the [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.154>
+  <VBE_BookUtility.rulePack.rulesStrings.155>AnimalsBook->[AnimalsSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.155>
+  <VBE_BookUtility.rulePack.rulesStrings.156>AnimalsBook->[ANYPAWN_nameIndef]'s [Books]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.156>
+  <VBE_BookUtility.rulePack.rulesStrings.157>AnimalsBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.157>
+  <VBE_BookUtility.rulePack.rulesStrings.158>AnimalsBook->[Noun] and [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.158>
+  <VBE_BookUtility.rulePack.rulesStrings.159>AnimalsBook->[ConceptAny] and [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.159>
+  <VBE_BookUtility.rulePack.rulesStrings.160>ArtBook->[Books] of [maybe_adjective] [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.160>
+  <VBE_BookUtility.rulePack.rulesStrings.161>ArtBook->[AdjectiveBadass] [Books] of [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.161>
+  <VBE_BookUtility.rulePack.rulesStrings.162>ArtBook->[AdjectiveLarge] [Books] of [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.162>
+  <VBE_BookUtility.rulePack.rulesStrings.163>ArtBook->[PeopleBadass]'s [Books] of [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.163>
+  <VBE_BookUtility.rulePack.rulesStrings.164>ArtBook->[Books] of [maybe_adjective] [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.164>
+  <VBE_BookUtility.rulePack.rulesStrings.165>ArtBook->[AdjectiveBadass] [Books] of the [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.165>
+  <VBE_BookUtility.rulePack.rulesStrings.166>ArtBook->The [Adjective] [Noun]: History of	[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.166>
+  <VBE_BookUtility.rulePack.rulesStrings.167>ArtBook->[ArtSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.167>
+  <VBE_BookUtility.rulePack.rulesStrings.168>ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.168>
+  <VBE_BookUtility.rulePack.rulesStrings.169>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.169>
+  <VBE_BookUtility.rulePack.rulesStrings.170>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.170>
+  <VBE_BookUtility.rulePack.rulesStrings.171>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.171>
+  <VBE_BookUtility.rulePack.rulesStrings.172>ArtBook->[ANYPAWN_nameIndef]'s [Books] of the [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.172>
+  <VBE_BookUtility.rulePack.rulesStrings.173>ArtBook->[ArtSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.173>
+  <VBE_BookUtility.rulePack.rulesStrings.174>ArtBook->[ANYPAWN_nameIndef]'s [Books]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.174>
+  <VBE_BookUtility.rulePack.rulesStrings.175>ArtBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.175>
+  <VBE_BookUtility.rulePack.rulesStrings.176>ArtBook->[Noun] and [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.176>
+  <VBE_BookUtility.rulePack.rulesStrings.177>ArtBook->[ConceptAny] and [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.177>
+  <VBE_BookUtility.rulePack.rulesStrings.178>ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.178>
+  <VBE_BookUtility.rulePack.rulesStrings.179>ConstructionBook->[AdjectiveBadass] [Books] of [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.179>
+  <VBE_BookUtility.rulePack.rulesStrings.180>ConstructionBook->[AdjectiveLarge] [Books] of [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.180>
+  <VBE_BookUtility.rulePack.rulesStrings.181>ConstructionBook->[PeopleBadass]'s [Books] of [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.181>
+  <VBE_BookUtility.rulePack.rulesStrings.182>ConstructionBook->[Books] of [maybe_adjective] [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.182>
+  <VBE_BookUtility.rulePack.rulesStrings.183>ConstructionBook->[AdjectiveBadass] [Books] of the [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.183>
+  <VBE_BookUtility.rulePack.rulesStrings.184>ConstructionBook->The [Adjective] [Noun]: History of	[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.184>
+  <VBE_BookUtility.rulePack.rulesStrings.185>ConstructionBook->[ConstructionSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.185>
+  <VBE_BookUtility.rulePack.rulesStrings.186>ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.186>
+  <VBE_BookUtility.rulePack.rulesStrings.187>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.187>
+  <VBE_BookUtility.rulePack.rulesStrings.188>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.188>
+  <VBE_BookUtility.rulePack.rulesStrings.189>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.189>
+  <VBE_BookUtility.rulePack.rulesStrings.190>ConstructionBook->[ANYPAWN_nameIndef]'s [Books] of the [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.190>
+  <VBE_BookUtility.rulePack.rulesStrings.191>ConstructionBook->[ConstructionSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.191>
+  <VBE_BookUtility.rulePack.rulesStrings.192>ConstructionBook->[ANYPAWN_nameIndef]'s [Books]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.192>
+  <VBE_BookUtility.rulePack.rulesStrings.193>ConstructionBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.193>
+  <VBE_BookUtility.rulePack.rulesStrings.194>ConstructionBook->[Noun] and [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.194>
+  <VBE_BookUtility.rulePack.rulesStrings.195>ConstructionBook->[ConceptAny] and [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.195>
+  <VBE_BookUtility.rulePack.rulesStrings.196>CookingBook->[Books] of [maybe_adjective] [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.196>
+  <VBE_BookUtility.rulePack.rulesStrings.197>CookingBook->[AdjectiveBadass] [Books] of [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.197>
+  <VBE_BookUtility.rulePack.rulesStrings.198>CookingBook->[AdjectiveLarge] [Books] of [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.198>
+  <VBE_BookUtility.rulePack.rulesStrings.199>CookingBook->[PeopleBadass]'s [Books] of [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.199>
+  <VBE_BookUtility.rulePack.rulesStrings.200>CookingBook->[Books] of [maybe_adjective] [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.200>
+  <VBE_BookUtility.rulePack.rulesStrings.201>CookingBook->[AdjectiveBadass] [Books] of the [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.201>
+  <VBE_BookUtility.rulePack.rulesStrings.202>CookingBook->The [Adjective] [Noun]: History of	[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.202>
+  <VBE_BookUtility.rulePack.rulesStrings.203>CookingBook->[CookingSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.203>
+  <VBE_BookUtility.rulePack.rulesStrings.204>CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.204>
+  <VBE_BookUtility.rulePack.rulesStrings.205>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.205>
+  <VBE_BookUtility.rulePack.rulesStrings.206>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.206>
+  <VBE_BookUtility.rulePack.rulesStrings.207>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.207>
+  <VBE_BookUtility.rulePack.rulesStrings.208>CookingBook->[ANYPAWN_nameIndef]'s [Books] of the [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.208>
+  <VBE_BookUtility.rulePack.rulesStrings.209>CookingBook->[CookingSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.209>
+  <VBE_BookUtility.rulePack.rulesStrings.210>CookingBook->[ANYPAWN_nameIndef]'s [Books]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.210>
+  <VBE_BookUtility.rulePack.rulesStrings.211>CookingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.211>
+  <VBE_BookUtility.rulePack.rulesStrings.212>CookingBook->[Noun] and [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.212>
+  <VBE_BookUtility.rulePack.rulesStrings.213>CookingBook->[ConceptAny] and [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.213>
+  <VBE_BookUtility.rulePack.rulesStrings.214>CraftingBook->[Books] of [maybe_adjective] [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.214>
+  <VBE_BookUtility.rulePack.rulesStrings.215>CraftingBook->[AdjectiveBadass] [Books] of [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.215>
+  <VBE_BookUtility.rulePack.rulesStrings.216>CraftingBook->[AdjectiveLarge] [Books] of [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.216>
+  <VBE_BookUtility.rulePack.rulesStrings.217>CraftingBook->[PeopleBadass]'s [Books] of [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.217>
+  <VBE_BookUtility.rulePack.rulesStrings.218>CraftingBook->[Books] of [maybe_adjective] [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.218>
+  <VBE_BookUtility.rulePack.rulesStrings.219>CraftingBook->[AdjectiveBadass] [Books] of the [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.219>
+  <VBE_BookUtility.rulePack.rulesStrings.220>CraftingBook->The [Adjective] [Noun]: History of	[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.220>
+  <VBE_BookUtility.rulePack.rulesStrings.221>CraftingBook->[CraftingSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.221>
+  <VBE_BookUtility.rulePack.rulesStrings.222>CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.222>
+  <VBE_BookUtility.rulePack.rulesStrings.223>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.223>
+  <VBE_BookUtility.rulePack.rulesStrings.224>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.224>
+  <VBE_BookUtility.rulePack.rulesStrings.225>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.225>
+  <VBE_BookUtility.rulePack.rulesStrings.226>CraftingBook->[ANYPAWN_nameIndef]'s [Books] of the [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.226>
+  <VBE_BookUtility.rulePack.rulesStrings.227>CraftingBook->[CraftingSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.227>
+  <VBE_BookUtility.rulePack.rulesStrings.228>CraftingBook->[ANYPAWN_nameIndef]'s [Books]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.228>
+  <VBE_BookUtility.rulePack.rulesStrings.229>CraftingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.229>
+  <VBE_BookUtility.rulePack.rulesStrings.230>CraftingBook->[Noun] and [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.230>
+  <VBE_BookUtility.rulePack.rulesStrings.231>CraftingBook->[ConceptAny] and [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.231>
+  <VBE_BookUtility.rulePack.rulesStrings.232>GrowingBook->[Books] of [maybe_adjective] [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.232>
+  <VBE_BookUtility.rulePack.rulesStrings.233>GrowingBook->[AdjectiveBadass] [Books] of [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.233>
+  <VBE_BookUtility.rulePack.rulesStrings.234>GrowingBook->[AdjectiveLarge] [Books] of [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.234>
+  <VBE_BookUtility.rulePack.rulesStrings.235>GrowingBook->[PeopleBadass]'s [Books] of [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.235>
+  <VBE_BookUtility.rulePack.rulesStrings.236>GrowingBook->[Books] of [maybe_adjective] [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.236>
+  <VBE_BookUtility.rulePack.rulesStrings.237>GrowingBook->[AdjectiveBadass] [Books] of the [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.237>
+  <VBE_BookUtility.rulePack.rulesStrings.238>GrowingBook->The [Adjective] [Noun]: History of	[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.238>
+  <VBE_BookUtility.rulePack.rulesStrings.239>GrowingBook->[GrowingSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.239>
+  <VBE_BookUtility.rulePack.rulesStrings.240>GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.240>
+  <VBE_BookUtility.rulePack.rulesStrings.241>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.241>
+  <VBE_BookUtility.rulePack.rulesStrings.242>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.242>
+  <VBE_BookUtility.rulePack.rulesStrings.243>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.243>
+  <VBE_BookUtility.rulePack.rulesStrings.244>GrowingBook->[ANYPAWN_nameIndef]'s [Books] of the [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.244>
+  <VBE_BookUtility.rulePack.rulesStrings.245>GrowingBook->[GrowingSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.245>
+  <VBE_BookUtility.rulePack.rulesStrings.246>GrowingBook->[ANYPAWN_nameIndef]'s [Books]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.246>
+  <VBE_BookUtility.rulePack.rulesStrings.247>GrowingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.247>
+  <VBE_BookUtility.rulePack.rulesStrings.248>GrowingBook->[Noun] and [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.248>
+  <VBE_BookUtility.rulePack.rulesStrings.249>GrowingBook->[ConceptAny] and [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.249>
+  <VBE_BookUtility.rulePack.rulesStrings.250>IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.250>
+  <VBE_BookUtility.rulePack.rulesStrings.251>IntellectualBook->[AdjectiveBadass] [Books] of [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.251>
+  <VBE_BookUtility.rulePack.rulesStrings.252>IntellectualBook->[AdjectiveLarge] [Books] of [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.252>
+  <VBE_BookUtility.rulePack.rulesStrings.253>IntellectualBook->[PeopleBadass]'s [Books] of [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.253>
+  <VBE_BookUtility.rulePack.rulesStrings.254>IntellectualBook->[Books] of [maybe_adjective] [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.254>
+  <VBE_BookUtility.rulePack.rulesStrings.255>IntellectualBook->[AdjectiveBadass] [Books] of the [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.255>
+  <VBE_BookUtility.rulePack.rulesStrings.256>IntellectualBook->The [Adjective] [Noun]: History of	[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.256>
+  <VBE_BookUtility.rulePack.rulesStrings.257>IntellectualBook->[IntellectualSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.257>
+  <VBE_BookUtility.rulePack.rulesStrings.258>IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.258>
+  <VBE_BookUtility.rulePack.rulesStrings.259>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.259>
+  <VBE_BookUtility.rulePack.rulesStrings.260>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.260>
+  <VBE_BookUtility.rulePack.rulesStrings.261>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.261>
+  <VBE_BookUtility.rulePack.rulesStrings.262>IntellectualBook->[ANYPAWN_nameIndef]'s [Books] of the [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.262>
+  <VBE_BookUtility.rulePack.rulesStrings.263>IntellectualBook->[IntellectualSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.263>
+  <VBE_BookUtility.rulePack.rulesStrings.264>IntellectualBook->[ANYPAWN_nameIndef]'s [Books]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.264>
+  <VBE_BookUtility.rulePack.rulesStrings.265>IntellectualBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.265>
+  <VBE_BookUtility.rulePack.rulesStrings.266>IntellectualBook->[Noun] and [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.266>
+  <VBE_BookUtility.rulePack.rulesStrings.267>IntellectualBook->[ConceptAny] and [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.267>
+  <VBE_BookUtility.rulePack.rulesStrings.268>MedicalBook->[Books] of [maybe_adjective] [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.268>
+  <VBE_BookUtility.rulePack.rulesStrings.269>MedicalBook->[AdjectiveBadass] [Books] of [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.269>
+  <VBE_BookUtility.rulePack.rulesStrings.270>MedicalBook->[AdjectiveLarge] [Books] of [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.270>
+  <VBE_BookUtility.rulePack.rulesStrings.271>MedicalBook->[PeopleBadass]'s [Books] of [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.271>
+  <VBE_BookUtility.rulePack.rulesStrings.272>MedicalBook->[Books] of [maybe_adjective] [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.272>
+  <VBE_BookUtility.rulePack.rulesStrings.273>MedicalBook->[AdjectiveBadass] [Books] of the [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.273>
+  <VBE_BookUtility.rulePack.rulesStrings.274>MedicalBook->The [Adjective] [Noun]: History of	[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.274>
+  <VBE_BookUtility.rulePack.rulesStrings.275>MedicalBook->[MedicalSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.275>
+  <VBE_BookUtility.rulePack.rulesStrings.276>MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.276>
+  <VBE_BookUtility.rulePack.rulesStrings.277>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.277>
+  <VBE_BookUtility.rulePack.rulesStrings.278>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.278>
+  <VBE_BookUtility.rulePack.rulesStrings.279>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.279>
+  <VBE_BookUtility.rulePack.rulesStrings.280>MedicalBook->[ANYPAWN_nameIndef]'s [Books] of the [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.280>
+  <VBE_BookUtility.rulePack.rulesStrings.281>MedicalBook->[MedicalSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.281>
+  <VBE_BookUtility.rulePack.rulesStrings.282>MedicalBook->[ANYPAWN_nameIndef]'s [Books]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.282>
+  <VBE_BookUtility.rulePack.rulesStrings.283>MedicalBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.283>
+  <VBE_BookUtility.rulePack.rulesStrings.284>MedicalBook->[Noun] and [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.284>
+  <VBE_BookUtility.rulePack.rulesStrings.285>MedicalBook->[ConceptAny] and [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.285>
+  <VBE_BookUtility.rulePack.rulesStrings.286>MeleeBook->[Books] of [maybe_adjective] [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.286>
+  <VBE_BookUtility.rulePack.rulesStrings.287>MeleeBook->[AdjectiveBadass] [Books] of [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.287>
+  <VBE_BookUtility.rulePack.rulesStrings.288>MeleeBook->[AdjectiveLarge] [Books] of [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.288>
+  <VBE_BookUtility.rulePack.rulesStrings.289>MeleeBook->[PeopleBadass]'s [Books] of [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.289>
+  <VBE_BookUtility.rulePack.rulesStrings.290>MeleeBook->[Books] of [maybe_adjective] [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.290>
+  <VBE_BookUtility.rulePack.rulesStrings.291>MeleeBook->[AdjectiveBadass] [Books] of the [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.291>
+  <VBE_BookUtility.rulePack.rulesStrings.292>MeleeBook->The [Adjective] [Noun]: History of	[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.292>
+  <VBE_BookUtility.rulePack.rulesStrings.293>MeleeBook->[MeleeSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.293>
+  <VBE_BookUtility.rulePack.rulesStrings.294>MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.294>
+  <VBE_BookUtility.rulePack.rulesStrings.295>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.295>
+  <VBE_BookUtility.rulePack.rulesStrings.296>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.296>
+  <VBE_BookUtility.rulePack.rulesStrings.297>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.297>
+  <VBE_BookUtility.rulePack.rulesStrings.298>MeleeBook->[ANYPAWN_nameIndef]'s [Books] of the [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.298>
+  <VBE_BookUtility.rulePack.rulesStrings.299>MeleeBook->[MeleeSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.299>
+  <VBE_BookUtility.rulePack.rulesStrings.300>MeleeBook->[ANYPAWN_nameIndef]'s [Books]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.300>
+  <VBE_BookUtility.rulePack.rulesStrings.301>MeleeBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.301>
+  <VBE_BookUtility.rulePack.rulesStrings.302>MeleeBook->[Noun] and [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.302>
+  <VBE_BookUtility.rulePack.rulesStrings.303>MeleeBook->[ConceptAny] and [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.303>
+  <VBE_BookUtility.rulePack.rulesStrings.304>MiningBook->[Books] of [maybe_adjective] [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.304>
+  <VBE_BookUtility.rulePack.rulesStrings.305>MiningBook->[AdjectiveBadass] [Books] of [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.305>
+  <VBE_BookUtility.rulePack.rulesStrings.306>MiningBook->[AdjectiveLarge] [Books] of [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.306>
+  <VBE_BookUtility.rulePack.rulesStrings.307>MiningBook->[PeopleBadass]'s [Books] of [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.307>
+  <VBE_BookUtility.rulePack.rulesStrings.308>MiningBook->[Books] of [maybe_adjective] [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.308>
+  <VBE_BookUtility.rulePack.rulesStrings.309>MiningBook->[AdjectiveBadass] [Books] of the [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.309>
+  <VBE_BookUtility.rulePack.rulesStrings.310>MiningBook->The [Adjective] [Noun]: History of	[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.310>
+  <VBE_BookUtility.rulePack.rulesStrings.311>MiningBook->[MiningSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.311>
+  <VBE_BookUtility.rulePack.rulesStrings.312>MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.312>
+  <VBE_BookUtility.rulePack.rulesStrings.313>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.313>
+  <VBE_BookUtility.rulePack.rulesStrings.314>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.314>
+  <VBE_BookUtility.rulePack.rulesStrings.315>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.315>
+  <VBE_BookUtility.rulePack.rulesStrings.316>MiningBook->[ANYPAWN_nameIndef]'s [Books] of the [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.316>
+  <VBE_BookUtility.rulePack.rulesStrings.317>MiningBook->[MiningSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.317>
+  <VBE_BookUtility.rulePack.rulesStrings.318>MiningBook->[ANYPAWN_nameIndef]'s [Books]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.318>
+  <VBE_BookUtility.rulePack.rulesStrings.319>MiningBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.319>
+  <VBE_BookUtility.rulePack.rulesStrings.320>MiningBook->[Noun] and [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.320>
+  <VBE_BookUtility.rulePack.rulesStrings.321>MiningBook->[ConceptAny] and [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.321>
+  <VBE_BookUtility.rulePack.rulesStrings.322>SocialBook->[Books] of [maybe_adjective] [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.322>
+  <VBE_BookUtility.rulePack.rulesStrings.323>SocialBook->[AdjectiveBadass] [Books] of [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.323>
+  <VBE_BookUtility.rulePack.rulesStrings.324>SocialBook->[AdjectiveLarge] [Books] of [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.324>
+  <VBE_BookUtility.rulePack.rulesStrings.325>SocialBook->[PeopleBadass]'s [Books] of [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.325>
+  <VBE_BookUtility.rulePack.rulesStrings.326>SocialBook->[Books] of [maybe_adjective] [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.326>
+  <VBE_BookUtility.rulePack.rulesStrings.327>SocialBook->[AdjectiveBadass] [Books] of the [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.327>
+  <VBE_BookUtility.rulePack.rulesStrings.328>SocialBook->The [Adjective] [Noun]: History of	[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.328>
+  <VBE_BookUtility.rulePack.rulesStrings.329>SocialBook->[SocialSkill] [Digit]</VBE_BookUtility.rulePack.rulesStrings.329>
+  <VBE_BookUtility.rulePack.rulesStrings.330>SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.330>
+  <VBE_BookUtility.rulePack.rulesStrings.331>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.331>
+  <VBE_BookUtility.rulePack.rulesStrings.332>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.332>
+  <VBE_BookUtility.rulePack.rulesStrings.333>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.333>
+  <VBE_BookUtility.rulePack.rulesStrings.334>SocialBook->[ANYPAWN_nameIndef]'s [Books] of the [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.334>
+  <VBE_BookUtility.rulePack.rulesStrings.335>SocialBook->[SocialSkill] of [ANYPAWN_nameIndef]</VBE_BookUtility.rulePack.rulesStrings.335>
+  <VBE_BookUtility.rulePack.rulesStrings.336>SocialBook->[ANYPAWN_nameIndef]'s [Books]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.336>
+  <VBE_BookUtility.rulePack.rulesStrings.337>SocialBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.337>
+  <VBE_BookUtility.rulePack.rulesStrings.338>SocialBook->[Noun] and [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.338>
+  <VBE_BookUtility.rulePack.rulesStrings.339>SocialBook->[ConceptAny] and [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.339>
+
+
+</LanguageData>

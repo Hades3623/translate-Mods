@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookSoupSimple.label>przygotować prostą zupę</VCE_CookSoupSimple.label>
+  <VCE_CookSoupSimple.description>Szybko przygotuj prostą niegotowaną zupę z kilku składników.</VCE_CookSoupSimple.description>
+  <VCE_CookSoupSimple.jobString>Przygotowanie prostej zupy.</VCE_CookSoupSimple.jobString>
+
+  <VCE_CookSoupFine.label>przygotować dobrą zupę</VCE_CookSoupFine.label>
+  <VCE_CookSoupFine.description>Przygotuj doskonałą, niegotowaną zupę, starannie złożoną z szerokiej gamy składników.</VCE_CookSoupFine.description>
+  <VCE_CookSoupFine.jobString>Przygotowuję dobrą zupę.</VCE_CookSoupFine.jobString>
+
+  <VCE_CookSoupLavish.label>przygotować wystawną zupę</VCE_CookSoupLavish.label>
+  <VCE_CookSoupLavish.description>Przygotuj wystawną, niegotowaną zupę. Arcydzieło sztuki kulinarnej, ta zupa odżywia ciało, umysł i duszę.</VCE_CookSoupLavish.description>
+  <VCE_CookSoupLavish.jobString>Przygotowuję wystawną zupę.</VCE_CookSoupLavish.jobString>
+
+  <VCE_CookSoupGourmet.label>przygotować wyśmienitą zupę</VCE_CookSoupGourmet.label>
+  <VCE_CookSoupGourmet.description>Przygotuj wyśmienitą niegotowaną zupę. Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją estetycznie zbilansowanej, choć niewielkiej ilości zupy. \n
+Ten przepis nie pozwala na mieszanie składników i zajmuje dużo czasu.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.jobString>Przygotowywanie wyśmienitej zupy.</VCE_CookSoupGourmet.jobString>
+
+
+</LanguageData>

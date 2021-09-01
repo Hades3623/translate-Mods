@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artillery -->
+
+  <VFES_Turret_Artillery.label>artyleria</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Załogowa artyleria wystrzeliwująca wszelkiego rodzaju pociski. Zdolna do zadawania niszczycielskich szkód zarówno siłom wroga, jak i budowlom, ta wojskowa machina doskonale sprawdza się w udzielaniu wsparcia ogniowego żołnierzom w terenie. \n
+Może celować w inne obszary świata w średnim promieniu.</VFES_Turret_Artillery.description>
+
+  <VFES_Artillery_Weapon.label>artyleria</VFES_Artillery_Weapon.label>
+  <VFES_Artillery_Weapon.description>Działo artyleryjskie zdolne do ostrzału dalekiego zasięgu.</VFES_Artillery_Weapon.description>
+
+
+</LanguageData>

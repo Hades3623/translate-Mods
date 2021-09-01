@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredient based thoughts -->
+
+  <VCE_ConsumedSugar.stages.0.label>spożywany cukier</VCE_ConsumedSugar.stages.0.label>
+  <VCE_ConsumedSugar.stages.0.description>Cukier to nie miłość. Ale może się tak wydawać.</VCE_ConsumedSugar.stages.0.description>
+
+  <VCE_ConsumedChocolateSyrup.stages.0.label>konsumowany syrop czekoladowy</VCE_ConsumedChocolateSyrup.stages.0.label>
+  <VCE_ConsumedChocolateSyrup.stages.0.description>Czekolada TO miłość.</VCE_ConsumedChocolateSyrup.stages.0.description>
+
+  <VCE_ConsumedInsectJelly.stages.0.label>konsumowane galaretki z owadów</VCE_ConsumedInsectJelly.stages.0.label>
+  <VCE_ConsumedInsectJelly.stages.0.description>Cóż za niesamowicie słodki i bogaty smak!</VCE_ConsumedInsectJelly.stages.0.description>
+
+  <VCE_SmokeleafButterHigh.stages.0.label>bogate w masło dymne</VCE_SmokeleafButterHigh.stages.0.label>
+  <VCE_SmokeleafButterHigh.stages.0.description>Jestem naćpany, stary.</VCE_SmokeleafButterHigh.stages.0.description>
+
+  <VCE_ConsumedSalt.stages.0.label>spożyta sól</VCE_ConsumedSalt.stages.0.label>
+  <VCE_ConsumedSalt.stages.0.description>Szczypta soli naprawdę wzmacnia smak potrawy.</VCE_ConsumedSalt.stages.0.description>
+
+  <VCE_ConsumedMayo.stages.0.label>konsumowany majonez</VCE_ConsumedMayo.stages.0.label>
+  <VCE_ConsumedMayo.stages.0.description>Zjadłem pyszny majonez. Bardzo sycące!</VCE_ConsumedMayo.stages.0.description>
+
+  <VCE_ConsumedAgave.stages.0.label>spożyta agawa</VCE_ConsumedAgave.stages.0.label>
+  <VCE_ConsumedAgave.stages.0.description>Zjadłem pyszny nektar z agawy.</VCE_ConsumedAgave.stages.0.description>
+
+  <VCE_ConsumedSpices.stages.0.label>spożywane przyprawy</VCE_ConsumedSpices.stages.0.label>
+  <VCE_ConsumedSpices.stages.0.description>Ten posiłek był ostry!</VCE_ConsumedSpices.stages.0.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>nanity wskrzeszające</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Czuję się niepokonany!</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+
+
+  <!-- Gourmet based thoughts -->
+
+  <VCE_AteGourmetMeal.stages.0.label>zjadłem wykwintny posiłek</VCE_AteGourmetMeal.stages.0.label>
+  <VCE_AteGourmetMeal.stages.0.description>Niezwykłe kulinarne przeżycie. Moje podniebienie zostało obdarzone doznaniami wykraczającymi poza ten świat.</VCE_AteGourmetMeal.stages.0.description>
+
+
+  <!-- Dessert based thoughts -->
+
+  <VCE_AteSimpleDessert.stages.0.label>zjadł prosty deser</VCE_AteSimpleDessert.stages.0.label>
+  <VCE_AteSimpleDessert.stages.0.description>Ten deser był bardzo prosty, ale z pewnością smaczny.</VCE_AteSimpleDessert.stages.0.description>
+
+  <VCE_AteFineDessert.stages.0.label>zjadł dobry deser</VCE_AteFineDessert.stages.0.label>
+  <VCE_AteFineDessert.stages.0.description>Ten deser był naprawdę dobry! Chcę więcej!</VCE_AteFineDessert.stages.0.description>
+
+  <VCE_AteLavishDessert.stages.0.label>zjadł obfity deser</VCE_AteLavishDessert.stages.0.label>
+  <VCE_AteLavishDessert.stages.0.description>Ten deser był niewiarygodnie dobry, nie mogę się doczekać, żeby zjeść go więcej!</VCE_AteLavishDessert.stages.0.description>
+
+  <VCE_AteGourmetDessert.stages.0.label>zjadłem wyśmienity deser</VCE_AteGourmetDessert.stages.0.label>
+  <VCE_AteGourmetDessert.stages.0.description>O mój Boże! Moje podniebienie nigdy nie doświadczyło takiej eksplozji orgazmicznych smaków. To było porno z czystym jedzeniem. Potrzebuję więcej!</VCE_AteGourmetDessert.stages.0.description>
+
+
+  <!-- Grill based thoughts -->
+
+  <VCE_AteSimpleGrill.stages.0.label>zjadłem prosty grill</VCE_AteSimpleGrill.stages.0.label>
+  <VCE_AteSimpleGrill.stages.0.description>Prosty grill. Meh.</VCE_AteSimpleGrill.stages.0.description>
+
+  <VCE_AteFineGrill.stages.0.label>zjadłem drobny grill</VCE_AteFineGrill.stages.0.label>
+  <VCE_AteFineGrill.stages.0.description>Zjadłem bardzo dobre mięso z grilla z dodatkiem warzyw. Super smaczne.</VCE_AteFineGrill.stages.0.description>
+
+  <VCE_AteLavishGrill.stages.0.label>zjadłem obfity grill</VCE_AteLavishGrill.stages.0.label>
+  <VCE_AteLavishGrill.stages.0.description>Zjadłam niesamowite danie z fachowo ugotowanym mięsem z grilla i kilkoma warzywami. Pyszne!</VCE_AteLavishGrill.stages.0.description>
+
+  <VCE_AteGourmetGrill.stages.0.label>zjadłem grilla dla smakoszy</VCE_AteGourmetGrill.stages.0.label>
+  <VCE_AteGourmetGrill.stages.0.description>To ... to było nie z tego świata. Mięso rozpłynęło się w ustach. Po prostu niesamowite.</VCE_AteGourmetGrill.stages.0.description>
+
+
+  <!-- Fried and canned food based thoughts -->
+
+  <VCE_AteFriedGoods.stages.0.label>zjadłem smażone w głębokim tłuszczu jedzenie</VCE_AteFriedGoods.stages.0.label>
+  <VCE_AteFriedGoods.stages.0.description>Tłuste jedzenie. Tak pyszne.</VCE_AteFriedGoods.stages.0.description>
+
+  <VCE_ConsumedCannedGoods.stages.0.label>jedli konserwy</VCE_ConsumedCannedGoods.stages.0.label>
+  <VCE_ConsumedCannedGoods.stages.0.description>Jedzenie bezpośrednio z puszki jest jak jedzenie bez stołu.</VCE_ConsumedCannedGoods.stages.0.description>
+
+
+</LanguageData>

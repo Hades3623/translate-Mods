@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Turret_Ballista.label>balista</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Starożytna wojskowa machina oblężnicza w postaci kuszy osadzonej na drewnianej konstrukcji. Pociski wystrzelone z tej maszyny eksplodują w drzazgi przy uderzeniu.</VFES_Turret_Ballista.description>
+
+  <VFES_Bullet_Ballista.label>śruba balisty</VFES_Bullet_Ballista.label>
+
+  <VFES_Gun_BallistaTurret.label>balista</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Starożytna wojskowa machina oblężnicza w formie kuszy osadzonej na drewnianej konstrukcji.</VFES_Gun_BallistaTurret.description>
+
+
+  <!-- Catapult -->
+
+  <VFES_Turret_Catapult.label>katapulta</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Katapulta to urządzenie balistyczne używane do wystrzeliwania pocisku na dużą odległość bez pomocy prochu strzelniczego lub innych materiałów miotających. Używana od czasów starożytnych katapulta okazała się jednym z najbardziej trwałych mechanizmów bojowych.</VFES_Turret_Catapult.description>
+
+  <VFES_Artillery_Catapult.label>katapulta</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Katapulta to urządzenie balistyczne używane do wystrzeliwania pocisku na dużą odległość bez pomocy prochu strzelniczego lub innych materiałów miotających. Używana od czasów starożytnych katapulta okazała się jednym z najbardziej trwałych mechanizmów bojowych.</VFES_Artillery_Catapult.description>
+
+  <VFES_Artillery_Rock.label>masywny głaz</VFES_Artillery_Rock.label>
+
+
+</LanguageData>

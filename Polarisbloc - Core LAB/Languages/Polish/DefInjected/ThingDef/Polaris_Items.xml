@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cartridge -->
+
+  <PolarisCartridge.label>Wkład Polaris</PolarisCartridge.label>
+  <PolarisCartridge.description>Wkład może być noszony przez pionka i chroni noszącego przed pewną śmiercią. Noszący zostanie wskrzeszony natychmiast po śmierci. Podany trupowi Wkład naprawi i uruchomi ciało z powrotem do życia. \n
+Więc, czy życie jest równe? Czy naprawdę dobrze jest zamienić swoje życie na życie innej osoby?</PolarisCartridge.description>
+  <PolarisCartridge.comps.2.useLabel>Użyj wkładu</PolarisCartridge.comps.2.useLabel>
+
+  <PolarisBondorudoDiary.label>Dziennik Bondorudo</PolarisBondorudoDiary.label>
+  <PolarisBondorudoDiary.description>„To jest… wspaniałe…”</PolarisBondorudoDiary.description>
+  <PolarisBondorudoDiary.comps.1.useLabel>Rozszyfruj pamiętnik diary</PolarisBondorudoDiary.comps.1.useLabel>
+
+  <PolarisWhiteFlute.label>biały flet</PolarisWhiteFlute.label>
+
+
+  <!-- combat chip -->
+
+  <PolarisCombatChip.label>chip bojowy</PolarisCombatChip.label>
+  <PolarisCombatChip.description>Uniwersalny chip taktyczny, który ma możliwość wzmocnienia dowolnych aspektów użytkownika. Użycie konwertera uaktywni układ taktyczny, a także zmieni jego tryb.</PolarisCombatChip.description>
+
+  <PolarisCombatChipConverter.label>przetwornik</PolarisCombatChipConverter.label>
+  <PolarisCombatChipConverter.description>Taktyczny konwerter chipów do konwersji taktycznego chipa zainstalowanego w czyjejś głowie. Konwerter aktywuje się i konwertuje tryb chipa na zarejestrowany w konwerterze. Jest wielokrotnego użytku.</PolarisCombatChipConverter.description>
+  <PolarisCombatChipConverter.comps.1.useLabel>Użyj konwertera</PolarisCombatChipConverter.comps.1.useLabel>
+  <PolarisCombatChipConverter.verbs.0.label>użyj konwertera</PolarisCombatChipConverter.verbs.0.label>
+
+
+  <!-- medicines -->
+
+  <PolarisHealingPotion.label>silna mikstura lecznicza</PolarisHealingPotion.label>
+  <PolarisHealingPotion.description>Szybka mikstura regeneracji i leczenia, która automatycznie leczy rany. Efekt tej mikstury jest bardzo silny.</PolarisHealingPotion.description>
+  <PolarisHealingPotion.ingestible.ingestCommandString>Pij {0}</PolarisHealingPotion.ingestible.ingestCommandString>
+  <PolarisHealingPotion.ingestible.ingestReportString>Picie {0}.</PolarisHealingPotion.ingestible.ingestReportString>
+
+  <PolarisAntibiotic.label>połączony antybiotyk</PolarisAntibiotic.label>
+  <PolarisAntibiotic.description>Połączenie wielu antybiotyków, które mogą wyleczyć większość powszechnych chorób.</PolarisAntibiotic.description>
+  <PolarisAntibiotic.ingestible.ingestCommandString>Wybierz {0}</PolarisAntibiotic.ingestible.ingestCommandString>
+  <PolarisAntibiotic.ingestible.ingestReportString>Biorąc {0}.</PolarisAntibiotic.ingestible.ingestReportString>
+
+  <PolarisReceptorAntagonist.label>receptor antagonisty</PolarisReceptorAntagonist.label>
+  <PolarisReceptorAntagonist.description>receptor antagonistya jest lekiem, który blokuje zapotrzebowanie na leki poprzez wiązanie się z receptorem i blokowanie go, zamiast aktywować go jak agonista. Więc ten lek zaspokoi potrzeby chemiczne i jednocześnie złagodzi uzależnienie od narkotyków.</PolarisReceptorAntagonist.description>
+  <PolarisReceptorAntagonist.ingestible.ingestCommandString>Wybierz {0}</PolarisReceptorAntagonist.ingestible.ingestCommandString>
+  <PolarisReceptorAntagonist.ingestible.ingestReportString>Biorąc {0}.</PolarisReceptorAntagonist.ingestible.ingestReportString>
+
+  <PolarisRestorer.label>konserwator polaris</PolarisRestorer.label>
+  <PolarisRestorer.description>Tajemnicze narkotyki z Polarisbloc, które mogą uwolnić cię od wszelkiego rodzaju złych sytuacji.</PolarisRestorer.description>
+  <PolarisRestorer.ingestible.ingestCommandString>Wstrzyknąć {0}</PolarisRestorer.ingestible.ingestCommandString>
+  <PolarisRestorer.ingestible.ingestReportString>Wstrzykiwanie {0}.</PolarisRestorer.ingestible.ingestReportString>
+
+
+  <!-- healing bottle and gas -->
+
+  <PolarisProj_HealingPotion.label>silna mikstura lecznicza</PolarisProj_HealingPotion.label>
+  <PolarisGas_Healing.label>leczniczy dym</PolarisGas_Healing.label>
+
+  <Polaris_HealingPotionBelt.label>pas mikstur leczących</Polaris_HealingPotionBelt.label>
+  <Polaris_HealingPotionBelt.description>Nomal pasował do niektórych mikstur leczących, pozwalał ci rzucać butelką, aby zrobić dużo leczniczego popiołu, który leczy ludzi.</Polaris_HealingPotionBelt.description>
+  <Polaris_HealingPotionBelt.verbs.0.label>rzuć miksturą leczniczą</Polaris_HealingPotionBelt.verbs.0.label>
+
+
+  <!-- Implants -->
+
+  <PolarisVirtualNetChip.label>wirtualny układ sieciowy</PolarisVirtualNetChip.label>
+  <PolarisVirtualNetChip.description>Chip połączony z siecią wirtualną, którego można używać do rozrywki w razie potrzeby. Co więcej, uspokoi użytkownika, jeśli kiedykolwiek dozna załamania psychicznego.</PolarisVirtualNetChip.description>
+
+  <PolarisPsionwire.label>Chip psioniczny</PolarisPsionwire.label>
+  <PolarisPsionwire.description>Chip zdolny do stymulowania zdolności psionicznych. Korzystanie z tego chipa może zwiększyć świadomość biologiczną i odporność na ogień.</PolarisPsionwire.description>
+
+
+  <!-- psychic berserk pulser -->
+
+  <PolarisPsychicBerserkPulser.label>psychiczny berserk pulser</PolarisPsychicBerserkPulser.label>
+  <PolarisPsychicBerserkPulser.description>Artefakt jednorazowego użytku, który generuje silny impuls psychiczny, który doprowadza do szału wszystkich ludzi (nie dotyczy kolonistów).</PolarisPsychicBerserkPulser.description>
+
+
+  <!-- orbital trader caller -->
+
+  <PolarisOrbitalTraderCaller.label>Wezwanie orbitralnego handlowca</PolarisOrbitalTraderCaller.label>
+  <PolarisOrbitalTraderCaller.description>Uruchomi transmisję zawierającą informacje o współrzędnych i skieruje określonego najbliższego orbitalnego handlowca do źródła transmisji.</PolarisOrbitalTraderCaller.description>
+  <PolarisOrbitalTraderCaller.comps.1.useLabel>Użyj rozmówcy, aby zadzwonić do {0}</PolarisOrbitalTraderCaller.comps.1.useLabel>
+
+
+  <!-- traitreleaser -->
+
+  <PolarisMechSerumTraitreleaser.label>wyzwalacz cech</PolarisMechSerumTraitreleaser.label>
+  <PolarisMechSerumTraitreleaser.description>Jednorazowa super dawka mechanitów dostosowanych do uzyskania określonej cechy. Podmiot decyduje się na otrzymanie nagranej cechy lub  usunięcie z niej cechy. Usuwając cechę, mechanici zapiszą ją i zastąpią wcześniej istniejącą cechę. Jednak ta funkcja jest możliwa tylko 3 razy.</PolarisMechSerumTraitreleaser.description>
+  <PolarisMechSerumTraitreleaser.comps.1.useLabel>Użyj serum wyzwalacza cech, aby uzyskać {0}</PolarisMechSerumTraitreleaser.comps.1.useLabel>
+
+
+  <!-- momery rester -->
+
+  <PolarisMomeryRester.label>Rester pamięci</PolarisMomeryRester.label>
+  <PolarisMomeryRester.description>Jednorazowa super dawka mechanitów dostrojona do zmiany historii obiektu na nagrane.</PolarisMomeryRester.description>
+  <PolarisMomeryRester.comps.1.useLabel>Użyj Momery Rester, aby uzyskać {0}</PolarisMomeryRester.comps.1.useLabel>
+
+
+  <!-- devil cookie -->
+
+  <PolarisDevilCookie.label>diabelskie ciasteczko</PolarisDevilCookie.label>
+  <PolarisDevilCookie.description>Czy targowałbyś się z diabłem tylko dlatego, że jesteś głodny? \n
+To tajemnicze ciastko i nikt nie wie, jak się pojawiło na świecie. I nie zniknie nawet po zjedzeniu. \n 
+Zgodnie z danymi naukowca z Polarisbloc, to ciasteczko odbierze trochę siły życiowej temu, kto je zjadł. Może to był powód, dla którego pełni zaspokoi jego głód.</PolarisDevilCookie.description>
+
+
+  <!-- void key -->
+
+  <PolarisVoidKey.label>pusty klucz</PolarisVoidKey.label>
+  <PolarisVoidKey.description>Projekt 193 
+ 
+Na początku stworzyliśmy coś, co może połączyć duszę zmarłych, chociaż martwy musi być w naszej wiedzy. \n A potem pomyśleliśmy, dlaczego nie możemy wskrzesić zagubionej duszy? \n Próbowaliśmy użyć "kasety" Proj.013, ale to się nie udało. 
+Podjęto kilka dodatkowych prób, ale wszystkie zawiodły, nawet gdy używaliśmy żywych obiektów. Żaden z nich nie mógł zapewnić siły życiowej i mocy potrzebnej do wskrzeszenia zagubionej duszy. \n Na koniec nie mieliśmy innego wyjścia, jak tylko użyć Kamienia Filozoficznego, aby odzyskać naszego kolegę (chociaż był trochę nieprzytomny).</PolarisVoidKey.description>
+  <PolarisVoidKey.comps.1.useLabel>Użyj pustego klucza</PolarisVoidKey.comps.1.useLabel>
+
+
+  <!-- decoder -->
+
+  <PolarisDecoder.label>dekoder biokodu</PolarisDecoder.label>
+  <PolarisDecoder.description>Dekoder do dekodowania biokodu w specjalnej broni. \n Ma szansę na zmianę biokodu w zależności od poziomu intelektualnego użytkownika i jakości przedmiotu. \n Istnieje szansa, że ​​rekoder ulegnie zniszczeniu po użyciu. Po drugie, gdyby można było zakodować broń, ten dekoder mógłby również zakodować biokod i nigdy nie zniszczyć.</PolarisDecoder.description>
+  <PolarisDecoder.comps.1.useLabel>Użyj dekodera biokodu</PolarisDecoder.comps.1.useLabel>
+
+
+  <!-- special thing -->
+
+  <VanyaDataCenter.label>Centrum danych</VanyaDataCenter.label>
+
+
+</LanguageData>

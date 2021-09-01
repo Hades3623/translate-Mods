@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Military Turret -->
+
+  <VFES_Turret_MilitaryTurret.label>wieżyczka wojskowa</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Wojskowa dwulufowa automatyczna wieża. Wymaga stali do regeneracji luf po intensywnym użytkowaniu. Może wybuchnąć po uszkodzeniu. Jego głupi mózg AI nie może być bezpośrednio kontrolowany, więc uważaj na ostrzał.</VFES_Turret_MilitaryTurret.description>
+
+  <VFES_Gun_MilitaryTurret.label>dwubiegunowa wieżyczka wojskowa</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Dwa proste pistolety automatyczne przeznaczone do zamontowania na wieży.</VFES_Gun_MilitaryTurret.description>
+
+
+  <!-- Searchlight -->
+
+  <VFES_Turret_Searchlight.label>reflektor</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Aparat łączący niezwykle świecącą lampę i lustrzany odbłyśnik paraboliczny, przydatny do oświetlania i oślepiania celów.</VFES_Turret_Searchlight.description>
+
+  <VFES_Gun_Searchlight.label>reflektor</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Reflektor na wieżyczkę.</VFES_Gun_Searchlight.description>
+
+
+  <!-- Flame Turret -->
+
+  <VFES_Turret_Flame.label>wieżyczka ognia</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Przenośna wieżyczka miotacza ognia. Może wybuchnąć po uszkodzeniu. Jego głupi mózg AI nie może być bezpośrednio kontrolowany, więc uważaj na ostrzał.</VFES_Turret_Flame.description>
+
+  <VFES_Gun_FlameTurret.label>działko płomieniowe</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Miotacz ognia przeznaczony do zamontowania na wieży.</VFES_Gun_FlameTurret.description>
+
+
+  <!-- Sentry Gun -->
+
+  <VFES_Turret_SentryGun.label>działko strażnicze</VFES_Turret_SentryGun.label>
+  <VFES_Turret_SentryGun.description>Wieżyczka z własnym napędem i małym działem Gatlinga zamontowanym na górze. Wystarczająco lekki, aby można go było przenosić i rozmieszczać w dowolnym miejscu. Może wybuchnąć po uszkodzeniu. Jego głupi mózg AI nie może być bezpośrednio kontrolowany, więc uważaj na ostrzał.</VFES_Turret_SentryGun.description>
+
+  <VFES_Gun_SentryTurret.label>działko strażnicze</VFES_Gun_SentryTurret.label>
+  <VFES_Gun_SentryTurret.description>W pełni zautomatyzowane działo gatlinga przeznaczone do zamontowania na wieży.</VFES_Gun_SentryTurret.description>
+
+
+  <!--<VFES_Bullet_FlameTurret.label>paliwo do miotacza ognia</VFES_Bullet_FlameTurret.label>-->
+
+</LanguageData>

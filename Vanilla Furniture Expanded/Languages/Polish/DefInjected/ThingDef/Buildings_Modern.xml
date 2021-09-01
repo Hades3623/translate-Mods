@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Ergonomic.label>Ergonomiczne łóżko</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Ergonomicznie wyprofilowane łóżko, które podtrzymuje kręgosłup, rozkłada ciężar ciała i tym samym poprawia jakość snu.</Bed_Ergonomic.description>
+
+  <Bed_DoubleErgonomic.label>Ergonomiczne podwójne łóżko</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Podwójne łóżko o ergonomicznym kształcie, które podtrzymuje kręgosłup, rozkłada ciężar ciała i poprawia jakość snu. Odpowiednie dla dwóch osób.</Bed_DoubleErgonomic.description>
+
+  <Table_Wardrobe.label>Szafa</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Duża szafa do przechowywania ubrań i innych przedmiotów. Daje niewielki bonus efektywności snu wszystkim pobliskim łóżkom. Umieszczenie więcej niż jednej szafy w pobliżu tego samego łóżka nie daje żadnego efektu.</Table_Wardrobe.description>
+
+  <Seat_ModernChair.label>Ergonomiczne krzesło</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Elastyczne, ergonomiczne krzesło, które dopasowuje się do krzywizn ludzkiego ciała i znacznie poprawia komfort użytkowania.</Seat_ModernChair.description>
+
+  <Light_ModernLamp.label>Nowoczesna lampa</Light_ModernLamp.label>
+  <Light_ModernLamp.description>Energooszczędna lampa, która efektywnie zamienia energię elektryczną w światło i nadaje się do oświetlenia pomieszczeń.</Light_ModernLamp.description>
+
+
+  <!--<Bed_Ergonomic_Blueprint.label>Ergonomiczne łóżko (projekt)</Bed_Ergonomic_Blueprint.label>-->
+  <!--<Bed_Ergonomic_Blueprint_Install.label>Ergonomiczne łóżko (projekt)</Bed_Ergonomic_Blueprint_Install.label>-->
+  <!--<Bed_Ergonomic_Frame.label>Ergonomiczne łóżko (konstrukcja)</Bed_Ergonomic_Frame.label>-->
+  <!--<Bed_Ergonomic_Frame.description>Ergonomicznie wyprofilowane łóżko, które podtrzymuje kręgosłup, rozkłada ciężar ciała i tym samym poprawia jakość snu.</Bed_Ergonomic_Frame.description>-->
+  <!--<Bed_DoubleErgonomic_Blueprint.label>Ergonomiczne podwójne łóżko (projekt)</Bed_DoubleErgonomic_Blueprint.label>-->
+  <!--<Bed_DoubleErgonomic_Blueprint_Install.label>Ergonomiczne podwójne łóżko(projekt)</Bed_DoubleErgonomic_Blueprint_Install.label>-->
+  <!--<Bed_DoubleErgonomic_Frame.label>Ergonomiczne podwójne łóżko(konstrukcja)</Bed_DoubleErgonomic_Frame.label>-->
+  <!--<Bed_DoubleErgonomic_Frame.description>Podwójne łóżko o ergonomicznym kształcie, które podtrzymuje kręgosłup, rozkłada ciężar ciała i poprawia jakość snu. Odpowiedni dla dwóch osób.</Bed_DoubleErgonomic_Frame.description>-->
+  <!--<Table_Wardrobe_Blueprint.label>Szafa (projekt)</Table_Wardrobe_Blueprint.label>-->
+  <!--<Table_Wardrobe_Blueprint_Install.label>Szafa (projekt)</Table_Wardrobe_Blueprint_Install.label>-->
+  <!--<Table_Wardrobe_Frame.label>Szafa (konstrukcja)</Table_Wardrobe_Frame.label>-->
+  <!--<Table_Wardrobe_Frame.description>Duża szafa do przechowywania ubrań i innych przedmiotów. Daje niewielki bonus efektywności snu wszystkim pobliskim łóżkom. Umieszczenie więcej niż jednej szafy w pobliżu tego samego łóżka nie daje żadnego efektu.</Table_Wardrobe_Frame.description>-->
+  <!--<Seat_ModernChair_Blueprint.label>Ergonomiczne krzesło (projekt)</Seat_ModernChair_Blueprint.label>-->
+  <!--<Seat_ModernChair_Blueprint_Install.label>Ergonomiczne krzesło (projekt)</Seat_ModernChair_Blueprint_Install.label>-->
+  <!--<Seat_ModernChair_Frame.label>Ergonomiczne krzesło (konstrukcja)</Seat_ModernChair_Frame.label>-->
+  <!--<Seat_ModernChair_Frame.description>Elastyczne, ergonomiczne krzesło, które dopasowuje się do krzywizn ludzkiego ciała i znacznie poprawia komfort użytkowania.</Seat_ModernChair_Frame.description>-->
+  <!--<Light_ModernLamp_Blueprint.label>Nowoczesna lampa (projekt)</Light_ModernLamp_Blueprint.label>-->
+  <!--<Light_ModernLamp_Blueprint_Install.label>Nowoczesna lampa (projekt)</Light_ModernLamp_Blueprint_Install.label>-->
+  <!--<Light_ModernLamp_Frame.label>Nowoczesna lampa (konstrukcja)</Light_ModernLamp_Frame.label>-->
+  <!--<Light_ModernLamp_Frame.description>Energooszczędna lampa, która efektywnie zamienia energię elektryczną w światło i nadaje się do oświetlenia pomieszczeń.</Light_ModernLamp_Frame.description>-->
+
+</LanguageData>

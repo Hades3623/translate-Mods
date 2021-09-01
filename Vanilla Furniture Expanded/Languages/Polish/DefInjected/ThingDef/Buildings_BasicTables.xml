@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_1x1c.label>Stół (1x1)</Table_1x1c.label>
+
+  <Table_Counter.label>Blat</Table_Counter.label>
+  <Table_Counter.description>Gładka, sięgająca do pasa powierzchnia do jedzenia, tak jak jest to powszechnie spotykane w kuchniach i barach.</Table_Counter.description>
+
+
+  <!--<Table_1x1c.description>Ludzie jedzą przy stołach, gdy jest jak przy nich usiąść.</Table_1x1c.description>-->
+  <!--<Table_1x1c_Blueprint.label>Stół (1x1) (projekt)</Table_1x1c_Blueprint.label>-->
+  <!--<Table_1x1c_Blueprint_Install.label>Stół (1x1) (projekt)</Table_1x1c_Blueprint_Install.label>-->
+  <!--<Table_1x1c_Frame.label>Stół (1x1) (konstrukcja)</Table_1x1c_Frame.label>-->
+  <!--<Table_1x1c_Frame.description>Ludzie jedzą przy stołach, gdy jest jak przy nich usiąść.</Table_1x1c_Frame.description>-->
+  <!--<Table_Counter_Blueprint.label>Blat (projekt)</Table_Counter_Blueprint.label>-->
+  <!--<Table_Counter_Blueprint_Install.label>Blat (projekt)</Table_Counter_Blueprint_Install.label>-->
+  <!--<Table_Counter_Frame.label>Blat (konstrukcja)</Table_Counter_Frame.label>-->
+  <!--<Table_Counter_Frame.description>Gładka, sięgająca do pasa powierzchnia do jedzenia, tak jak jest to powszechnie spotykane w kuchniach i barach.</Table_Counter_Frame.description>-->
+
+</LanguageData>

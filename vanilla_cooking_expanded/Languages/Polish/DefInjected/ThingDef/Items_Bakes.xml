@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleBake.label>proste wypieki</VCE_SimpleBake.label>
+  <VCE_SimpleBake.description>Prosty piec szybko ugotowany z kilku składników i mąki.</VCE_SimpleBake.description>
+
+  <VCE_FineBake.label>dobrze upiec</VCE_FineBake.label>
+  <VCE_FineBake.description>Złożony wypiek złożony z pieczołowitości z szerokiego wyboru składników i mąki.</VCE_FineBake.description>
+
+  <VCE_LavishBake.label>wystawny piec</VCE_LavishBake.label>
+  <VCE_LavishBake.description>Arcydzieło sztuki kulinarnej, ten wypiek odżywia ciało, umysł i duszę.</VCE_LavishBake.description>
+
+  <VCE_GourmetBake.label>piec dla smakoszy</VCE_GourmetBake.label>
+  <VCE_GourmetBake.description>Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz kunsztownym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości wypieku.</VCE_GourmetBake.description>
+
+
+</LanguageData>

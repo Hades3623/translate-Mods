@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Light_Streetlamp.label>lampa uliczna</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Lampa elektryczna, która oświetla obszar i może być umieszczona na zewnątrz. Jest idealna do oświetlenia ulic i włącza się tylko w nocy.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.1.offMessage>Off during daylight hours</Light_Streetlamp.comps.1.offMessage>
+
+  <Misc_FileCabinet.label>szafka na akta</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Mebel do organizowania dokumentów papierowych i akt.</Misc_FileCabinet.description>
+
+
+  <!-- <ThingDef ParentName="BuildingBase">
+    <defName>Stone_Campfire</defName>
+    <label>stone campfire</label>
+    <description>Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</description>    
+    <thingClass>Building_WorkTable</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Other/StoneCampfire/StoneCampfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+	  <shaderType>CutoutComplex</shaderType>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Other/StoneCampfire/StoneCampfire_MenuIcon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <fillPercent>0.20</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+      <WorkTableWorkSpeedFactor>0.6</WorkTableWorkSpeedFactor>
+    </statBases>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	<costStuffCount>20</costStuffCount>
+    <selectable>true</selectable>
+    <costList>
+      <WoodLog>30</WoodLog> 
+    </costList>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <placeWorkers>
+      <li>PlaceWorker_Heater</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>8.0</fuelConsumptionRate>
+        <fuelCapacity>30.0</fuelCapacity>
+        <fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>12</glowRadius>
+        <glowColor>(252,187,113,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>15</heatPerSecond>
+        <heatPushMaxTemperature>24</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_FireOverlay">
+        <fireSize>1</fireSize>
+		<offset>(0,0,0.2)</offset>
+      </li>
+      <li>
+        <compClass>CompGatherSpot</compClass>
+      </li>
+    </comps>
+    <designationCategory>Temperature</designationCategory>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <recipes>
+      <li>CookMealSimple</li>
+      <li>Make_Pemmican</li>
+      <li>BurnApparel</li>
+      <li>BurnDrugs</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <isMealSource>true</isMealSource>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+  </ThingDef> -->
+
+  <Shelf_1x1c.label>półka (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>Mała półka do przechowywania różnych przedmiotów. Przechowywane w niej przedmioty nie niszczą się na zewnątrz.</Shelf_1x1c.description>
+
+  <Shelf_WeaponRack.label>Stojak na broń</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Bardzo stabilna półka do przechowywania broni. Przechowywana w nim broń nie niszczą się na świeżym powietrzu.</Shelf_WeaponRack.description>
+
+  <Bin_Small.label>Mały kosz na śmieci</Bin_Small.label>
+  <Bin_Small.description>Mały kosz na śmieci, który utrzymuje teren w czystości. Powoli usuwa śmieci i brud w promieniu 10 komórek.</Bin_Small.description>
+
+  <Bin_Large.label>Duży kosz na śmieci</Bin_Large.label>
+  <Bin_Large.description>Mały kosz na śmieci, który utrzymuje teren w czystości. Powoli usuwa śmieci i brud w promieniu 20 komórek.</Bin_Large.description>
+
+
+  <!--<Light_Streetlamp.comps.2.offMessage>Wyłączona w świetle dziennym</Light_Streetlamp.comps.2.offMessage>-->
+  <!--<Light_Streetlamp_Blueprint.label>lampa uliczna (projekt)</Light_Streetlamp_Blueprint.label>-->
+  <!--<Light_Streetlamp_Blueprint_Install.label>lampa uliczna (projekt)</Light_Streetlamp_Blueprint_Install.label>-->
+  <!--<Light_Streetlamp_Frame.label>lampa uliczna (konstrukcja)</Light_Streetlamp_Frame.label>-->
+  <!--<Light_Streetlamp_Frame.description>Lampa elektryczna, która oświetla obszar i może być umieszczona na zewnątrz. Jest idealna do oświetlenia ulic i włącza się tylko w nocy.</Light_Streetlamp_Frame.description>-->
+  <!--<Misc_FileCabinet_Blueprint.label>szafka na akta (projekt)</Misc_FileCabinet_Blueprint.label>-->
+  <!--<Misc_FileCabinet_Blueprint_Install.label>Aktenschrank (projekt)</Misc_FileCabinet_Blueprint_Install.label>-->
+  <!--<Misc_FileCabinet_Frame.label>szafka na akta (konstrukcja)</Misc_FileCabinet_Frame.label>-->
+  <!--<Misc_FileCabinet_Frame.description>Mebel do organizowania dokumentów papierowych i akt.</Misc_FileCabinet_Frame.description>-->
+  <!--<Shelf_1x1c_Blueprint.label>półka (1x1) (projekt)</Shelf_1x1c_Blueprint.label>-->
+  <!--<Shelf_1x1c_Blueprint_Install.label>półka (1x1) (projekt)</Shelf_1x1c_Blueprint_Install.label>-->
+  <!--<Shelf_1x1c_Frame.label>półka (1x1) (konstrukcja)</Shelf_1x1c_Frame.label>-->
+  <!--<Shelf_1x1c_Frame.description>Mała półka do przechowywania różnych przedmiotów. Przechowywane w niej przedmioty nie niszczą się na zewnątrz.</Shelf_1x1c_Frame.description>-->
+  <!--<Shelf_WeaponRack_Blueprint.label>Stojak na broń (projekt)</Shelf_WeaponRack_Blueprint.label>-->
+  <!--<Shelf_WeaponRack_Blueprint_Install.label>Stojak na broń (projekt)</Shelf_WeaponRack_Blueprint_Install.label>-->
+  <!--<Shelf_WeaponRack_Frame.label>Stojak na broń (konstrukcja)</Shelf_WeaponRack_Frame.label>-->
+  <!--<Shelf_WeaponRack_Frame.description>Bardzo stabilna półka do przechowywania broni. Przechowywana w nim broń nie niszczą się na świeżym powietrzu.</Shelf_WeaponRack_Frame.description>-->
+  <!--<Bin_Small_Blueprint.label>Mały kosz na śmieci (projekt)</Bin_Small_Blueprint.label>-->
+  <!--<Bin_Small_Blueprint_Install.label>Mały kosz na śmieci (projekt)</Bin_Small_Blueprint_Install.label>-->
+  <!--<Bin_Small_Frame.label>Mały kosz na śmieci (konstrukcja)</Bin_Small_Frame.label>-->
+  <!--<Bin_Small_Frame.description>Mały kosz na śmieci, który utrzymuje teren w czystości. Powoli usuwa śmieci i brud w promieniu 10 komórek.</Bin_Small_Frame.description>-->
+  <!--<Bin_Large_Blueprint.label>Duży kosz na śmieci (projekt)</Bin_Large_Blueprint.label>-->
+  <!--<Bin_Large_Blueprint_Install.label>Duży kosz na śmieci (projekt)</Bin_Large_Blueprint_Install.label>-->
+  <!--<Bin_Large_Frame.label>Duży kosz na śmieci (konstrukcja)</Bin_Large_Frame.label>-->
+  <!--<Bin_Large_Frame.description>Mały kosz na śmieci, który utrzymuje teren w czystości. Powoli usuwa śmieci i brud w promieniu 20 komórek.</Bin_Large_Frame.description>-->
+
+</LanguageData>

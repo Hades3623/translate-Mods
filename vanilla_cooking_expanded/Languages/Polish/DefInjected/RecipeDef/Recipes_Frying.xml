@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DeepFryMeats.label>mięso smażone na głębokim tłuszczu x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>Smaż na głębokim oleju duże kawałki mięsa. Smażone jedzenie jest bardzo smaczne, ale niezbyt dobre dla zdrowia.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>Mięsa do smażenia na głębokim oleju.</VCE_DeepFryMeats.jobString>
+
+  <VCE_DeepFryVegetables.label>warzywa smażone na głębokim tłuszczu x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>Warzywa smażone na głębokim tłuszczu. Smażone jedzenie jest bardzo smaczne, ale niezbyt dobre dla zdrowia.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>Warzywa do smażenia na głębokim oleju.</VCE_DeepFryVegetables.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tale_UsedPunchingBag.label>używany worek treningowy</Tale_UsedPunchingBag.label>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] wyładowuje swój gniew na [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.0>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] patrząc ze złością na [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.1>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.2>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.3>image->[PAWN_nameFull] skoncentrowany na [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.3>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.4>image->[PAWN_nameFull] wykrawanie [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.4>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.5>circumstance_phrase->spięty z energią</Tale_UsedPunchingBag.rulePack.rulesStrings.5>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive] ciało luźne i zrelaksowane</Tale_UsedPunchingBag.rulePack.rulesStrings.6>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.7>circumstance_phrase->delikatnie masując [PAWN_possessive] nadgarstki</Tale_UsedPunchingBag.rulePack.rulesStrings.7>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.8>circumstance_phrase->[angstyverb] z wyrażeniem [AdjectiveAngsty]</Tale_UsedPunchingBag.rulePack.rulesStrings.8>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.9>circumstance_phrase->owijając swoje ręce taśmą</Tale_UsedPunchingBag.rulePack.rulesStrings.9>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.10>circumstance_phrase->[angstyverb]</Tale_UsedPunchingBag.rulePack.rulesStrings.10>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.11>desc_sentence->[Color]W tle świeci zorza.</Tale_UsedPunchingBag.rulePack.rulesStrings.11>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.12>desc_sentence->W oddali widoczna jest [Community]</Tale_UsedPunchingBag.rulePack.rulesStrings.12>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.13>desc_sentence->W oddali widoczny jest[TerrainFeature].</Tale_UsedPunchingBag.rulePack.rulesStrings.13>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.14>desc_sentence->Funkcje [PAWN_nameDef] są przesadzone.</Tale_UsedPunchingBag.rulePack.rulesStrings.14>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] wieże nad sceną.</Tale_UsedPunchingBag.rulePack.rulesStrings.15>
+
+  <Tale_UsedComputer.label>używa komputera</Tale_UsedComputer.label>
+  <Tale_UsedComputer.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] koncentruje się mocno na [OBJECT_label] przed nim</Tale_UsedComputer.rulePack.rulesStrings.0>
+  <Tale_UsedComputer.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] patrzy ze złością na [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.1>
+  <Tale_UsedComputer.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.2>
+  <Tale_UsedComputer.rulePack.rulesStrings.3>image->[PAWN_nameFull] unosi się nad [OBJECT_label], [circumstance_group]</Tale_UsedComputer.rulePack.rulesStrings.3>
+  <Tale_UsedComputer.rulePack.rulesStrings.4>image->[PAWN_nameFull] intensywnie wpisuje [OBJECT_label], [circumstance_group]</Tale_UsedComputer.rulePack.rulesStrings.4>
+  <Tale_UsedComputer.rulePack.rulesStrings.5>circumstance_phrase->koncentruje</Tale_UsedComputer.rulePack.rulesStrings.5>
+  <Tale_UsedComputer.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive] ciało luźne i zrelaksowane</Tale_UsedComputer.rulePack.rulesStrings.6>
+  <Tale_UsedComputer.rulePack.rulesStrings.7>circumstance_phrase->odchylając się z powrotem [PAWN_possessive] na krzesło</Tale_UsedComputer.rulePack.rulesStrings.7>
+  <Tale_UsedComputer.rulePack.rulesStrings.8>desc_sentence->[Color] W tle świeci zorza.</Tale_UsedComputer.rulePack.rulesStrings.8>
+  <Tale_UsedComputer.rulePack.rulesStrings.9>desc_sentence->W oddali widoczna jest [Community].</Tale_UsedComputer.rulePack.rulesStrings.9>
+  <Tale_UsedComputer.rulePack.rulesStrings.10>desc_sentence->W oddali widoczny jest[TerrainFeature].</Tale_UsedComputer.rulePack.rulesStrings.10>
+  <Tale_UsedComputer.rulePack.rulesStrings.11>desc_sentence->Funkcje [PAWN_nameDef] są przesadzone.</Tale_UsedComputer.rulePack.rulesStrings.11>
+  <Tale_UsedComputer.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef] wieże nad sceną.</Tale_UsedComputer.rulePack.rulesStrings.12>
+
+
+</LanguageData>

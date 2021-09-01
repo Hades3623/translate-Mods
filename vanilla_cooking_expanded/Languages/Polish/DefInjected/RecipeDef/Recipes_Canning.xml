@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CanMeats.label>konserwy mięsne x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>Bezpiecznie przechowuj kawałki mięsa w stalowej puszce. Żywność w puszkach wydłuża okres przydatności do spożycia prawie na czas nieokreślony.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>Konserwy mięsne.</VCE_CanMeats.jobString>
+
+  <VCE_CanProduce.label>może produkować x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>Bezpiecznie przechowuj warzywa w stalowej puszce. Żywność w puszkach wydłuża okres przydatności do spożycia prawie na czas nieokreślony.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>Produkty konserwowe.</VCE_CanProduce.jobString>
+
+  <VCE_CanFruit.label>może owocować x20</VCE_CanFruit.label>
+  <VCE_CanFruit.description>Bezpiecznie przechowuj owoce w stalowej puszce. Konserwy wydłużają okres przydatności do spożycia prawie na czas nieokreślony. \n
+Konserwowane owoce można wykorzystać do produkcji deserów.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>Produkty konserwowe.</VCE_CanFruit.jobString>
+
+  <VCE_CanEggs.label>puszka jajka x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>Bezpiecznie przechowuj jajka na twardo w stalowej puszce. Żywność w puszkach wydłuża okres przydatności do spożycia prawie na czas nieokreślony.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>Jajka w puszkach.</VCE_CanEggs.jobString>
+
+
+</LanguageData>

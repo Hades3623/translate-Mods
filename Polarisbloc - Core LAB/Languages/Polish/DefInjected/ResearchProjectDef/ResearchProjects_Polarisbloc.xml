@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- base -->
+
+  <PolarisSecretArchives.label>Kopia archiwów Polarisbloc</PolarisSecretArchives.label>
+  <PolarisSecretArchives.description>Od Polarisbloc wyciągnięto pewne specjalne zapisy z testów, może to nam pomoże.</PolarisSecretArchives.description>
+
+
+  <!-- medicines -->
+
+  <PolarisDrugFormula.label>formuła leku</PolarisDrugFormula.label>
+  <PolarisDrugFormula.description>Ten projekt zawiera zapisy dotyczące wytwarzania niektórych leków.</PolarisDrugFormula.description>
+
+  <PolarisAntibioticProduction.label>produkcja antybiotyków</PolarisAntibioticProduction.label>
+  <PolarisAntibioticProduction.description>Naucz się produkować połączony antybiotyk.</PolarisAntibioticProduction.description>
+
+  <PolarisHealingPotionProduction.label>produkcja mikstur leczniczych</PolarisHealingPotionProduction.label>
+  <PolarisHealingPotionProduction.description>Naucz się wytwarzać miksturę leczniczą.</PolarisHealingPotionProduction.description>
+
+  <PolarisReceptorAntagonistProduction.label>produkcja receptor antagonisty</PolarisReceptorAntagonistProduction.label>
+  <PolarisReceptorAntagonistProduction.description>Dowiedz się, jak wyprodukować receptor antagonisty. \n Jest to lek, który blokuje zapotrzebowanie na leki, wiążąc się z receptorem i blokując go, zamiast aktywować go jak agonista. Więc ten lek zaspokoi potrzeby chemiczne i jednocześnie złagodzi uzależnienie od narkotyków.</PolarisReceptorAntagonistProduction.description>
+
+
+  <!-- surgical program -->
+
+  <PolarisSurgicalProgram.label>program chirurgiczny</PolarisSurgicalProgram.label>
+  <PolarisSurgicalProgram.description>Ten projekt zarejestrował kilka specjalnych operacji.</PolarisSurgicalProgram.description>
+
+  <PolarisTransGenderSurgery.label>operacja trans płciowa</PolarisTransGenderSurgery.label>
+  <PolarisTransGenderSurgery.description>Dowiedz się, jak przeprowadzić operację zmiany płci.</PolarisTransGenderSurgery.description>
+
+  <PolarisCureScarsSurgery.label>leczyć blizny</PolarisCureScarsSurgery.label>
+  <PolarisCureScarsSurgery.description>Dowiedz się, jak leczyć blizny i stare rany.</PolarisCureScarsSurgery.description>
+
+  <PolarisRestoreMissingPartSurgery.label>przywrócić brakującą część ciała</PolarisRestoreMissingPartSurgery.label>
+  <PolarisRestoreMissingPartSurgery.description>Dowiedz się, jak przywrócić brakującą część ciała, narząd lub kość.</PolarisRestoreMissingPartSurgery.description>
+
+  <PolarisLongevityResearch.label>badania nad długowiecznością</PolarisLongevityResearch.label>
+  <PolarisLongevityResearch.description>Dowiedz się, jak manipulować wiekiem biologicznym komórek. Mając tę ​​wiedzę, możesz manipulować wiekiem biologicznym każdej żywej istoty za pomocą złożonej, ale prostej operacji.</PolarisLongevityResearch.description>
+
+  <PolarisRemoveImplants.label>usunięcie implantów</PolarisRemoveImplants.label>
+  <PolarisRemoveImplants.description>Dowiedz się, jak usunąć implanty z organizmu człowieka.</PolarisRemoveImplants.description>
+
+  <PolarisPsionwire.label>Chip psioniczny</PolarisPsionwire.label>
+  <PolarisPsionwire.description>Dowiedz się, jak zrobić Chip psioniczny.</PolarisPsionwire.description>
+
+  <PolarisExtractAbility.label>ekstrakcja zdolności</PolarisExtractAbility.label>
+  <PolarisExtractAbility.description>Dowiedz się, jak używać psytrainera do wydobywania zdolności z mózgu kolonisty.</PolarisExtractAbility.description>
+
+
+  <!-- special device -->
+
+  <PolarisSpecialDevice.label>specjalne urządzenie</PolarisSpecialDevice.label>
+  <PolarisSpecialDevice.description>Ten projekt nagrał kilka specjalnych urządzeń.</PolarisSpecialDevice.description>
+
+
+  <!-- <ResearchProjectDef><tab>Polarisbloc</tab><defName>PolarisLyraeCurer</defName><label>lyrae curer</label><description>Learn how to build a curer to tend pawns near the curer.</description><baseCost>1920</baseCost><techLevel>Spacer</techLevel><prerequisites><li>PolarisSpecialDevice</li><li>MedicineProduction</li></prerequisites><researchViewX>2</researchViewX><researchViewY>2.25</researchViewY><requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding><requiredResearchFacilities><li>MultiAnalyzer</li></requiredResearchFacilities></ResearchProjectDef> -->
+
+  <PolarisThermostat.label>termostat</PolarisThermostat.label>
+  <PolarisThermostat.description>Dowiedz się, jak zbudować termostat Polarisbloc.</PolarisThermostat.description>
+
+  <PolarisTraitreleaserProduction.label>produkcja wyzwalacza cech</PolarisTraitreleaserProduction.label>
+  <PolarisTraitreleaserProduction.description>Naucz się produkować serum do mechów wyzwalacz cech. Jednorazowa superdawka mechanitów dostrojona, by uzyskać określoną cechę. \nMożesz wydać produkt wyzwalacz cech w laboratorium leków.</PolarisTraitreleaserProduction.description>
+
+  <PolarisMendingShelf.label>naprawa półki</PolarisMendingShelf.label>
+  <PolarisMendingShelf.description>Naucz się budować specjalną półkę, aby naprawić niektóre uszkodzone przedmioty</PolarisMendingShelf.description>
+
+
+  <!-- cant research -->
+
+  <ResearchProject_PolarisCartridge.label>Wkład Polaris</ResearchProject_PolarisCartridge.label>
+  <ResearchProject_PolarisCartridge.description>Wkład Polaris wskrzesi noszącego, jeśli kiedykolwiek umrze. Czy więc życie jest równe? Czy naprawdę dobrze jest zamienić swoje życie na życie innej osoby? \n (To jest coś, co zyskuje się dzięki operacji). \n
+Wskazówka: Tę technologię można zdobyć tylko po rozszyfrowaniu dziennika Bondorudo.</ResearchProject_PolarisCartridge.description>
+
+
+  <!--<PolarisLyraeCurer.label>Lyrae Curer</PolarisLyraeCurer.label>-->
+  <!--<PolarisLyraeCurer.description>Dowiedz się, jak zbudować uzdrowiciela, który będzie opiekował się pionkami w pobliżu uzdrowiciela.</PolarisLyraeCurer.description>-->
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CannedMeat.label>konserwa mięsna</VCE_CannedMeat.label>
+  <VCE_CannedMeat.description>Mięso zamknięte próżniowo i zabezpieczone w stali może skutecznie wydłużać okres przydatności do spożycia w nieskończoność. Chociaż jadalne zimno prosto z puszki, jest o wiele bardziej odżywcze, zmieszane z posiłkiem i podgrzane. Spożycie zbyt dużej ilości konserw może spowodować wzrost ciśnienia krwi.</VCE_CannedMeat.description>
+
+  <VCE_CannedProduce.label>produkty w puszkach</VCE_CannedProduce.label>
+  <VCE_CannedProduce.description>Produkcja próżniowo zamknięta i zabezpieczona w stali może skutecznie wydłużać okres przydatności do spożycia w nieskończoność. Chociaż jadalne zimno prosto z puszki, jest o wiele bardziej odżywcze, zmieszane z posiłkiem i podgrzane. Spożycie zbyt dużej ilości konserw może spowodować wzrost ciśnienia krwi.</VCE_CannedProduce.description>
+
+  <VCE_CannedFruit.label>owoce w puszkach</VCE_CannedFruit.label>
+  <VCE_CannedFruit.description>Owoce gotowane i konserwowane w hermetycznie zamkniętym, trwałym pojemniku. Konserwowana żywność wystarcza na nieograniczony czas bez chłodzenia. \n
+Owoce różnią się od innych produktów tym, że są szczególnie potrzebne do produkcji deserów.</VCE_CannedFruit.description>
+
+  <VCE_CannedAP.label>jajka w puszkach</VCE_CannedAP.label>
+  <VCE_CannedAP.description>Jajka na twardo zapieczętowane próżniowo i zabezpieczone w stali mogą skutecznie wydłużać okres przydatności do spożycia w nieskończoność. Chociaż jadalne na zimno prosto z puszki, jest o wiele bardziej odżywcze, zmieszane z posiłkiem i podgrzane. Spożycie zbyt dużej ilości konserw może spowodować wzrost ciśnienia krwi.</VCE_CannedAP.description>
+
+  <VCE_CannedFish.label>ryba w puszce</VCE_CannedFish.label>
+  <VCE_CannedFish.description>Ryby zamknięte próżniowo i zabezpieczone w stali mogą skutecznie wydłużać okres przydatności do spożycia w nieskończoność. Chociaż jadalne zimno prosto z puszki, jest o wiele bardziej odżywcze, zmieszane z posiłkiem i podgrzane. Spożycie zbyt dużej ilości konserw może spowodować wzrost ciśnienia krwi.</VCE_CannedFish.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Various -->
+
+  <VCE_PlumsDrying>Suszenie śliwek</VCE_PlumsDrying>
+  <VCE_PlumsCurrentlyFrozen>Te śliwki są zamrożone i nie wysychają na śliwki</VCE_PlumsCurrentlyFrozen>
+  <VCE_PlumsCurrentlyRefrigerated>Te śliwki są przechowywane w lodówce i nie wysychają na śliwki tak szybko, jak mogłyby (wysychają w {0})</VCE_PlumsCurrentlyRefrigerated>
+  <VCE_PlumsDryingCorrectly>Te śliwki suszą się prawidłowo (wysychają w {0})</VCE_PlumsDryingCorrectly>
+
+
+
+
+</LanguageData>

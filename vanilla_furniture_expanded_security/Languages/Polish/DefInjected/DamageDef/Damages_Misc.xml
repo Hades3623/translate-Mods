@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Splinter -->
+
+  <VFES_SplinterArrow.label>drzazga</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} został przeszyty na śmierć przez gigantyczną strzałę.</VFES_SplinterArrow.deathMessage>
+
+
+  <!-- Rock -->
+
+  <VFES_Rock.label>Kamień</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} został zmiażdżony przez gigantyczną skałę.</VFES_Rock.deathMessage>
+
+
+  <!-- Flame -->
+
+  <VFES_HauntingFlame.label>ogień</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} spłonął na śmierć.</VFES_HauntingFlame.deathMessage>
+
+
+  <!-- None -->
+
+  <VFES_NoDMG.deathMessage>{0} Został zabity.</VFES_NoDMG.deathMessage>
+
+
+</LanguageData>

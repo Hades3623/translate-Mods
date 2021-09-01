@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radio_Industrial.label>Radio przemysłowe</Radio_Industrial.label>
+  <Radio_Industrial.description>Stare urządzenie z minionej epoki. Może odbierać i odtwarzać fale radiowe. Nawet na obrzeżach często jest jakaś stacja radiowa, która coś nadaje.</Radio_Industrial.description>
+
+  <Radio_Spacer.label>Radio długofalowe</Radio_Spacer.label>
+  <Radio_Spacer.description>Zaawansowane technologicznie radio, które może odbierać nawet bardzo słabe sygnały i odtwarzać je w krystalicznie czystej jakości.</Radio_Spacer.description>
+
+  <Joy_Arcade.label>Automat zręcznościowy</Joy_Arcade.label>
+  <Joy_Arcade.description>Wysoka szafka z małym wyświetlaczem i panelem sterowania do grania w różne fabrycznie zainstalowane gry.</Joy_Arcade.description>
+
+  <Joy_InudstrialComputer.label>Stary komputer</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Komputer stacjonarny oparty na starym projekcie, który jest bardzo nieefektywny i podatny na awarie. Po użyciu daje niewielki impuls do nauki.</Joy_InudstrialComputer.description>
+
+  <Joy_ModernComputer.label>Nowoczesny komputer</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Zaawansowany technicznie komputer z monitorem LCD i mocniejszymi częściami, które są mniej podatne na awarie. Po użyciu pobudza naukę.</Joy_ModernComputer.description>
+
+  <Joy_Piano.label>fortepian</Joy_Piano.label>
+  <Joy_Piano.description>Świetny grywalny fortepian do ćwiczeń, bardzo zabawny i świetny sposób na rozwijanie talentu artystycznego.</Joy_Piano.description>
+
+  <Joy_RouletteTable.label>Stół do ruletki</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Stół z miękkimi krawędziami i kołem do gry w ruletkę, doskonały sposób na ćwiczenie umiejętności społecznych i szczęścia.</Joy_RouletteTable.description>
+
+  <Joy_DartsBoard.label>Tarcza do rzutek</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>To popularna gra w Rim World, która polega na rzucaniu strzałami w okrągłą tarcze. To relaksujące i trenujące strzelanie szybciej niż podkowy czy rzucanie kamieniami.</Joy_DartsBoard.description>
+
+  <Joy_PunchingBag.label>Worek treningowy</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Worek treningowy wypełniony tkaniną, aby wyładować złość. Jest bardzo uspokajający i pomaga rozwinąć umiejętności walki wręcz.</Joy_PunchingBag.description>
+
+
+  <!--<Radio_Industrial_Blueprint.label>Radio przemysłowe (projekt)</Radio_Industrial_Blueprint.label>-->
+  <!--<Radio_Industrial_Blueprint_Install.label>Radio przemysłowe (projekt)</Radio_Industrial_Blueprint_Install.label>-->
+  <!--<Radio_Industrial_Frame.label>Radio przemysłowe (konstrukcja)</Radio_Industrial_Frame.label>-->
+  <!--<Radio_Industrial_Frame.description>Stare urządzenie z minionej epoki. Może odbierać i odtwarzać fale radiowe. Nawet na obrzeżach często jest jakaś stacja radiowa, która coś nadaje.</Radio_Industrial_Frame.description>-->
+  <!--<Radio_Spacer_Blueprint.label>Radio długofalowe (projekt)</Radio_Spacer_Blueprint.label>-->
+  <!--<Radio_Spacer_Blueprint_Install.label>Radio długofalowe (projekt)</Radio_Spacer_Blueprint_Install.label>-->
+  <!--<Radio_Spacer_Frame.label>Radio długofalowe (konstrukcja)</Radio_Spacer_Frame.label>-->
+  <!--<Radio_Spacer_Frame.description>Zaawansowane technologicznie radio, które może odbierać nawet bardzo słabe sygnały i odtwarzać je w krystalicznie czystej jakości.</Radio_Spacer_Frame.description>-->
+  <!--<Joy_Arcade_Blueprint.label>Automat zręcznościowy (projekt)</Joy_Arcade_Blueprint.label>-->
+  <!--<Joy_Arcade_Blueprint_Install.label>Automat zręcznościowy (projekt)</Joy_Arcade_Blueprint_Install.label>-->
+  <!--<Joy_Arcade_Frame.label>Automat zręcznościowy (konstrukcja)</Joy_Arcade_Frame.label>-->
+  <!--<Joy_Arcade_Frame.description>Wysoka szafka z małym wyświetlaczem i panelem sterowania do grania w różne fabrycznie zainstalowane gry.</Joy_Arcade_Frame.description>-->
+  <!--<Joy_InudstrialComputer_Blueprint.label>Stary komputer (projekt)</Joy_InudstrialComputer_Blueprint.label>-->
+  <!--<Joy_InudstrialComputer_Blueprint_Install.label>Stary komputer (projekt)</Joy_InudstrialComputer_Blueprint_Install.label>-->
+  <!--<Joy_InudstrialComputer_Frame.label>Stary komputer (konstrukcja)</Joy_InudstrialComputer_Frame.label>-->
+  <!--<Joy_InudstrialComputer_Frame.description>Komputer stacjonarny oparty na starym projekcie, który jest bardzo nieefektywny i podatny na awarie. Po użyciu daje niewielki impuls do nauki.</Joy_InudstrialComputer_Frame.description>-->
+  <!--<Joy_ModernComputer_Blueprint.label>Nowoczesny komputer (projekt)</Joy_ModernComputer_Blueprint.label>-->
+  <!--<Joy_ModernComputer_Blueprint_Install.label>Nowoczesny komputer (projekt)</Joy_ModernComputer_Blueprint_Install.label>-->
+  <!--<Joy_ModernComputer_Frame.label>Nowoczesny komputer (konstrukcja)</Joy_ModernComputer_Frame.label>-->
+  <!--<Joy_ModernComputer_Frame.description>Zaawansowany technicznie komputer z monitorem LCD i mocniejszymi częściami, które są mniej podatne na awarie. Po użyciu pobudza naukę.</Joy_ModernComputer_Frame.description>-->
+  <!--<Joy_Piano_Blueprint.label>fortepian (projekt)</Joy_Piano_Blueprint.label>-->
+  <!--<Joy_Piano_Blueprint_Install.label>fortepian (projekt)</Joy_Piano_Blueprint_Install.label>-->
+  <!--<Joy_Piano_Frame.label>fortepian (konstrukcja)</Joy_Piano_Frame.label>-->
+  <!--<Joy_Piano_Frame.description>Świetny grywalny fortepian do ćwiczeń, bardzo zabawny i świetny sposób na rozwijanie talentu artystycznego.</Joy_Piano_Frame.description>-->
+  <!--<Joy_RouletteTable_Blueprint.label>Stół do ruletki (projekt)</Joy_RouletteTable_Blueprint.label>-->
+  <!--<Joy_RouletteTable_Blueprint_Install.label>Stół do ruletki (projekt)</Joy_RouletteTable_Blueprint_Install.label>-->
+  <!--<Joy_RouletteTable_Frame.label>Stół do ruletki (konstrukcja)</Joy_RouletteTable_Frame.label>-->
+  <!--<Joy_RouletteTable_Frame.description>Stół z miękkimi krawędziami i kołem do gry w ruletkę, doskonały sposób na ćwiczenie umiejętności społecznych i szczęścia.</Joy_RouletteTable_Frame.description>-->
+  <!--<Joy_DartsBoard_Blueprint.label>Tarcza do rzutek(projekt)</Joy_DartsBoard_Blueprint.label>-->
+  <!--<Joy_DartsBoard_Blueprint_Install.label>Tarcza do rzutek (projekt)</Joy_DartsBoard_Blueprint_Install.label>-->
+  <!--<Joy_DartsBoard_Frame.label>Tarcza do rzutek (konstrukcja)</Joy_DartsBoard_Frame.label>-->
+  <!--<Joy_DartsBoard_Frame.description>To popularna gra w Rim World, która polega na rzucaniu strzałami w okrągłą tarcze. To relaksujące i trenujące strzelanie szybciej niż podkowy czy rzucanie kamieniami.</Joy_DartsBoard_Frame.description>-->
+  <!--<Joy_PunchingBag_Blueprint.label>Worek treningowy (projekt)</Joy_PunchingBag_Blueprint.label>-->
+  <!--<Joy_PunchingBag_Blueprint_Install.label>Worek treningowy (projekt)</Joy_PunchingBag_Blueprint_Install.label>-->
+  <!--<Joy_PunchingBag_Frame.label>Worek treningowy (konstrukcja)</Joy_PunchingBag_Frame.label>-->
+  <!--<Joy_PunchingBag_Frame.description>Worek treningowy wypełniony tkaniną, aby wyładować złość. Jest bardzo uspokajający i pomaga rozwinąć umiejętności walki wręcz.</Joy_PunchingBag_Frame.description>-->
+
+</LanguageData>

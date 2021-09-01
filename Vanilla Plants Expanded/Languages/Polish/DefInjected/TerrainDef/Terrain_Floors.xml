@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_TilledSoil.label>uprawiana gleba</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>Uprawa roli to rolnicze przygotowanie gleby poprzez różnego rodzaju mechaniczne mieszanie, zwiększające żyzność terenu. Uprawę gleby można przeprowadzić tylko na glebie normalnej (nie bogatej). Kiedy roślina jest zbierana na zaoranej glebie, podłoga ponownie staje się normalną glebą i musi być ponownie zaorana ręcznie.</VCE_TilledSoil.description>
+  <VCE_TilledSoil.tools.0.label>ziemia</VCE_TilledSoil.tools.0.label>
+
+
+</LanguageData>

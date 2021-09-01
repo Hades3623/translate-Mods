@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- orbital trader caller -->
+
+  <UsePolarisOrbitalTraderCaller.reportString>użyj dzwoniącego.</UsePolarisOrbitalTraderCaller.reportString>
+
+
+  <!-- traitreleaser -->
+
+  <UsePolarisTraitreleaser.reportString>użyj wyzwalacza cech.</UsePolarisTraitreleaser.reportString>
+
+
+  <!-- momery rester -->
+
+  <UsePolarisMomeryRester.reportString>użyj restera pamięci.</UsePolarisMomeryRester.reportString>
+
+
+  <!-- decoder -->
+
+  <PolarisDecode.reportString>rozkoduj TargetA.</PolarisDecode.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AirConditioningUnit.label>klimatyzacja</AirConditioningUnit.label>
+  <AirConditioningUnit.description>Klimatyzator, który pasuje do ściany. Chłodzi powietrze bez wdmuchiwania ciepłego powietrza do innego pomieszczenia. Może być używany do chłodzenia pomieszczeń latem lub do stworzenia zamrażarki.</AirConditioningUnit.description>
+
+
+  <!--<AirConditioningUnit_Blueprint.label>klimatyzacja (Entwurf)</AirConditioningUnit_Blueprint.label>-->
+  <!--<AirConditioningUnit_Frame.label> klimatyzacja (im Bau)</AirConditioningUnit_Frame.label>-->
+  <!--<AirConditioningUnit_Frame.description>Klimatyzator, który pasuje do ściany. Chłodzi powietrze bez wdmuchiwania ciepłego powietrza do innego pomieszczenia. Może być używany do chłodzenia pomieszczeń latem lub do stworzenia zamrażarki.</AirConditioningUnit_Frame.description>-->
+
+</LanguageData>

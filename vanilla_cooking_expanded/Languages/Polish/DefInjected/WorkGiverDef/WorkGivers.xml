@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_DoBillsGrill.label>gotować na grillu</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.verb>grill</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsGrill.gerund>grillowanie przy</VCE_DoBillsGrill.gerund>
+
+  <VCE_DoBillsFryer.label>gotować we frytkownicy</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.verb>głębokie smażenie</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsFryer.gerund>smażenie w głębokim tłuszczu</VCE_DoBillsFryer.gerund>
+
+  <VCE_DoBillsCanning.label>praca na maszynie do konserw</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.verb>jedzenie w puszce</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsCanning.gerund>konserwy o godz</VCE_DoBillsCanning.gerund>
+
+  <VCE_DoBillsPrep.label>pracować nad przyprawami</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.verb>przyprawy</VCE_DoBillsPrep.verb>
+  <VCE_DoBillsPrep.gerund>pracuje nad przyprawami</VCE_DoBillsPrep.gerund>
+
+
+</LanguageData>

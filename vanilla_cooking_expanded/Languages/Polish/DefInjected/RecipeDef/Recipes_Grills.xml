@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookGrillSimple.label>gotować prosty grill</VCE_CookGrillSimple.label>
+  <VCE_CookGrillSimple.description>Ugotuj dwa proste grille szybko ugotowane z kilku składników mięsnych.</VCE_CookGrillSimple.description>
+  <VCE_CookGrillSimple.jobString>Gotowanie prostego grilla.</VCE_CookGrillSimple.jobString>
+
+  <VCE_CookGrillSimpleBulk.label>gotuj prosty grill x4</VCE_CookGrillSimpleBulk.label>
+  <VCE_CookGrillSimpleBulk.description>Ugotuj 4 proste grille szybko ugotowane z kilku składników mięsnych.</VCE_CookGrillSimpleBulk.description>
+  <VCE_CookGrillSimpleBulk.jobString>Gotowanie prostego grilla x4.</VCE_CookGrillSimpleBulk.jobString>
+
+  <VCE_CookGrillFine.label>ugotuj drobny grill</VCE_CookGrillFine.label>
+  <VCE_CookGrillFine.description>Gotuj złożony grill złożony z pieczołowicie z szerokiej gamy składników.</VCE_CookGrillFine.description>
+  <VCE_CookGrillFine.jobString>Gotowanie drobnego grilla.</VCE_CookGrillFine.jobString>
+
+  <VCE_CookGrillFineBulk.label>gotuj dobrze grill x4</VCE_CookGrillFineBulk.label>
+  <VCE_CookGrillFineBulk.description>Gotuj 4 złożone grille, starannie dobrane z szerokiej gamy składników.</VCE_CookGrillFineBulk.description>
+  <VCE_CookGrillFineBulk.jobString>Gotowanie drobnego grilla x4.</VCE_CookGrillFineBulk.jobString>
+
+  <VCE_CookGrillLavish.label>ugotuj wystawny grill</VCE_CookGrillLavish.label>
+  <VCE_CookGrillLavish.description>Gotuj arcydzieło sztuki kulinarnej, ten grill odżywia ciało, umysł i duszę.</VCE_CookGrillLavish.description>
+  <VCE_CookGrillLavish.jobString>Gotowanie wystawnego grilla.</VCE_CookGrillLavish.jobString>
+
+  <VCE_CookGrillLavishhBulk.label>gotować obfity grill x4</VCE_CookGrillLavishhBulk.label>
+  <VCE_CookGrillLavishhBulk.description>Ugotuj 4 arcydzieła sztuki kulinarnej, te grille odżywi ciało, umysł i duszę.</VCE_CookGrillLavishhBulk.description>
+  <VCE_CookGrillLavishhBulk.jobString>Gotowanie wystawnego grilla x4.</VCE_CookGrillLavishhBulk.jobString>
+
+  <VCE_CookGrillGourmet.label>gotować z grilla dla smakoszy</VCE_CookGrillGourmet.label>
+  <VCE_CookGrillGourmet.description>Gotuj kulinarne dzieła sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją estetycznie wyważonego, choć niewielkiej ilości grilla.</VCE_CookGrillGourmet.description>
+  <VCE_CookGrillGourmet.jobString>Gotowanie z grilla dla smakoszy.</VCE_CookGrillGourmet.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_LightEndTable.label>Stolik nocny z lampką</Table_LightEndTable.label>
+  <Table_LightEndTable.description>Mały stolik nocny ozdobiony lampą, aby łóżka były wygodniejsze w pobliżu. Musi być umieszczony tuż obok łóżka. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_LightEndTable.description>
+
+
+  <!--<Table_LightEndTable_Blueprint.label>Stolik nocny z lampką (projekt)</Table_LightEndTable_Blueprint.label>-->
+  <!--<Table_LightEndTable_Frame.label>Stolik nocny z lampką (konstrukcja)</Table_LightEndTable_Frame.label>-->
+  <!--<Table_LightEndTable_Frame.description>Mały stolik nocny ozdobiony lampą, aby łóżka były wygodniejsze w pobliżu. Musi być umieszczony tuż obok łóżka. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_LightEndTable_Frame.description>-->
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <VFES_SiegeEquipment.label>sprzęt oblężniczy</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Zbuduj średniowieczny sprzęt oblężniczy.</VFES_SiegeEquipment.description>
+
+
+  <!-- Industrial -->
+
+  <VFES_TrenchWarfare.label>wojna w okopach</VFES_TrenchWarfare.label>
+  <VFES_TrenchWarfare.description>Dostosuj doktrynę walki w okopach, wybierając broń do walki w zwarciu, a także możliwość kopania okopów.</VFES_TrenchWarfare.description>
+
+  <VFES_Artillery.label>artyleria</VFES_Artillery.label>
+  <VFES_Artillery.description>Dowiedz się, jak konstruować artylerię polową zdolną do bombardowania odległych celów w regionie lokalizacji na świecie.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>działka strażnicze</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Twórz niezawodne działka strażnicze z własnym zasilaniem do użytku w terenie.</VFES_SentryGuns.description>
+
+  <VFES_MetalAlloysBarricades.label>barykady ze stopów metali</VFES_MetalAlloysBarricades.label>
+  <VFES_MetalAlloysBarricades.description>Zbuduj wzmocnione metalowe barykady.</VFES_MetalAlloysBarricades.description>
+
+  <VFES_ConcealedDefenses.label>ukryta ochrona</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Konstruuj zanurzalne bariery i wieżyczki, idealne do obrony w pomieszczeniach.</VFES_ConcealedDefenses.description>
+
+  <VFES_MissileBarrage.label>wieżyczka rakietowa</VFES_MissileBarrage.label>
+  <VFES_MissileBarrage.description>Adaptacja technologii wybuchowej w postaci wyrzutni rakiet ziemia-ziemia.</VFES_MissileBarrage.description>
+
+
+  <!-- Spacer -->
+
+  <VFES_PulseChargedDefenses.label>obrona naładowana impulsem</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Opracuj zaawansowane działa ładujące, które będą utrzymywać stałą prędkość ognia.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>Rozkręcane działo</VFES_Railgun.label>
+  <VFES_Railgun.description>Dostosuj uzbrojenie statków kosmicznych do swoich systemów obronnych.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>Armata EMP</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Rozwijaj armaty EMP, przydatne w całej galaktyce z możliwością ogłuszania mechanoidów.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>technologia repulsorów</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Buduj generatory tarcz, które rzucają pola energetyczne zdolne do odpychania pocisków.</VFES_RepulsorTechnology.description>
+
+
+</LanguageData>

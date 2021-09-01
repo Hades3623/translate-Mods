@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AgaveNectar.label>nektar z agawy</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Cienki i półsłodki nektar, znany ze swoich właściwości leczniczych i przeciwzapalnych. Chociaż jest zdrowszy niż cukier, jego wysoka zawartość fruktozy może być szkodliwa, jeśli jest stale przyjmowana.</VCE_AgaveNectar.description>
+
+  <VCE_RawSugar.label>cukier</VCE_RawSugar.label>
+  <VCE_RawSugar.description>Prosty, krystaliczny cukier trzcinowy, dodaje pożądanej słodyczy. Chociaż cukier jest dobry dla języka, nie działa tak dobrze na nerki i może szybko spowodować cukrzycę, gdy jest spożywany na masę. Cukier jest łatwo przekształcany w energię przez organizm, co może skutkować ładnym zastrzykiem energii.</VCE_RawSugar.description>
+
+  <VCE_RawSpices.label>przyprawy</VCE_RawSpices.label>
+  <VCE_RawSpices.description>Różnorodne aromatyczne i ostre przyprawy, dodają kilku ostrych nut na języku i dodają odrobinę wprawy.</VCE_RawSpices.description>
+
+  <VCE_Salt.label>Sól</VCE_Salt.label>
+  <VCE_Salt.description>Sól kamienna, podobnie jak sól kuchenna, wzmacnia profil smakowy innych składników, z którymi jest gotowana. Stałe spożycie może powodować wzrost ciśnienia krwi.</VCE_Salt.description>
+
+  <VCE_Mayo.label>mayo</VCE_Mayo.label>
+  <VCE_Mayo.description>Gęsta emulsja zawierająca jajko, olej i inne zioła. Majonez, choć dla ciebie okropny, dodaje przyjemnego posmaku i jest bardzo gęsty kalorycznie.</VCE_Mayo.description>
+
+  <VCE_InsectJellyPreserves.label>konfitury z galaretek z owadów</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Galaretka owadowa pocięta ze słodzikiem, a następnie zamknięta jako konfitura. Bardzo bogaty i słodki, a jednocześnie zaskakująco zdrowy.</VCE_InsectJellyPreserves.description>
+
+  <VCE_SmokeleafButter.label>masło wędzone</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Zagęszczona, tłusta substancja uzyskana przez ubijanie mleka w bardzo gęstą śmietanę, łączenie z olejem wędzarniczym i pozostawienie do zestalenia. Bardzo niezdrowe i uderza nieco mocniej niż jointa.</VCE_SmokeleafButter.description>
+
+  <VCE_ChocolateSyrup.label>syrop czekoladowy</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Mieszanka kakao, wody i cukru, tworząca gorzko-słodki syrop rozlewny, doskonały do ​​oblewania deserów. Chociaż nadal nie jest dla ciebie dobry, syrop czekoladowy nie jest tak zły jak zwykły cukier.</VCE_ChocolateSyrup.description>
+
+  <VCE_DigestibleResurrectorNanites.label>strawne nanity wskrzeszające</VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>Ekstremalnie zaawansowana technologicznie mikstura glitterworld, niebezpieczna do bezpośredniego spożycia z powodu gorzkiego smaku i łagodnego przypadku krwotoku dokomorowego. Jednak po prawidłowym ugotowaniu w żywności efekty te w niewytłumaczalny sposób wydają się zniwelowane. Wszelkie pionki z tą obecnością po śmierci zostaną natychmiast wskrzeszone, jak gdyby cudem.</VCE_DigestibleResurrectorNanites.description>
+
+
+</LanguageData>

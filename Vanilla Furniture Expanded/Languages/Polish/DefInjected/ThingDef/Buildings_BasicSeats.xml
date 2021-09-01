@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_Cushion.label>Poduszka do siedzenia</Seat_Cushion.label>
+  <Seat_Cushion.description>Prosta poduszka do siedzenia, popularna wśród plemion. Może być używana przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_Cushion.description>
+
+  <Seat_Bench.label>Ławka</Seat_Bench.label>
+  <Seat_Bench.description>Prosta ławka, na której może siedzieć kilka osób jednocześnie, niezbyt wygodna, ale lepsza niż nic. Może być używana przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_Bench.description>
+
+  <Seat_SquareChair.label>Kwadratowe krzesło</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Wygodne i atrakcyjne krzesło, które nie jest specjalnie używane do jedzenia. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_SquareChair.description>
+
+
+  <!--<Seat_Cushion_Blueprint.label>Poduszka do siedzenia (projekt)</Seat_Cushion_Blueprint.label>-->
+  <!--<Seat_Cushion_Blueprint_Install.label>poduszka do siedzeni (projekt)</Seat_Cushion_Blueprint_Install.label>-->
+  <!--<Seat_Cushion_Frame.label>poduszka do siedzeni (konstrukcja)</Seat_Cushion_Frame.label>-->
+  <!--<Seat_Cushion_Frame.description>Prosta poduszka do siedzenia, popularna wśród plemion. Może być używana przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_Cushion_Frame.description>-->
+  <!--<Seat_Bench_Blueprint.label>Ławka (projekt)</Seat_Bench_Blueprint.label>-->
+  <!--<Seat_Bench_Blueprint_Install.label>Ławka (projekt)</Seat_Bench_Blueprint_Install.label>-->
+  <!--<Seat_Bench_Frame.label>Ławka (konstrukcja)</Seat_Bench_Frame.label>-->
+  <!--<Seat_Bench_Frame.description>Prosta ławka, na której może siedzieć kilka osób jednocześnie, niezbyt wygodna, ale lepsza niż nic. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_Bench_Frame.description>-->
+  <!--<Seat_SquareChair_Blueprint.label>Kwadratowe krzesło (projekt)</Seat_SquareChair_Blueprint.label>-->
+  <!--<Seat_SquareChair_Blueprint_Install.label>Kwadratowe krzesło (projekt)</Seat_SquareChair_Blueprint_Install.label>-->
+  <!--<Seat_SquareChair_Frame.label>Kwadratowe krzesło (konstrukcja)</Seat_SquareChair_Frame.label>-->
+  <!--<Seat_SquareChair_Frame.description>Wygodne i atrakcyjne krzesło, które nie jest specjalnie używane do jedzenia. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_SquareChair_Frame.description>-->
+
+</LanguageData>

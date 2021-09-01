@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_BasicFurniture.label>Podstawowe meble</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>Wykonuj proste meble, takie jak proste łóżka, proste stoły, stołki, ławki i inne.</MF_BasicFurniture.description>
+
+  <ComplexFurniture.label>complex furniture</ComplexFurniture.label>
+  <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
+
+  <MF_RoyalFurniture.label>Meble królewskie</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>Twórz luksusowe meble, które są bardzo estetyczne i piękne. Przeznaczone są nie tylko dla zamożnej elity. Zawiera łóżka z baldachimem, królewskie krzesła, stoły i fotele.</MF_RoyalFurniture.description>
+
+  <MF_ModernFurniture.label>Nowoczesne meble</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>Twórz nowoczesne meble, takie jak stoły do ​​ruletki, szafki, tarcze do rzutek, worki treningowe i ergonomiczne łóżka, które są zaprojektowane z myślą o praktyczności i pięknie.</MF_ModernFurniture.description>
+
+  <MF_WasteDisposal.label>Wywóz śmieci</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>Twórz kosze na śmieci, duże i małe, które powoli oczyszczają środowisko, w którym się znajdują.</MF_WasteDisposal.description>
+
+  <TubeTelevision.label>podstawy elektroniki</TubeTelevision.label>
+  <TubeTelevision.description>Zbuduj podstawowe elektroniczne źródła radości, takie jak telewizory lampowe, radia przemysłowe, arkady i inne.</TubeTelevision.description>
+
+  <FlatscreenTelevision.label>złożona elektronika</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Zbuduj złożone elektroniczne źródła radości, takie jak płaskie telewizory, radia długofalowe i inne.</FlatscreenTelevision.description>
+
+
+  <!--[Core] <ComplexFurniture.label>Komplexe Möbel</ComplexFurniture.label>-->
+  <!--[Core] <ComplexFurniture.description>Baue komplexere Möbelstücke wie z.B. Betten, Nachttische, Esszimmerstühle, Kommoden, Werkzeugschränke, Billard- und Pokertische, Ventilatoren, Sarkophage und vieles mehr.</ComplexFurniture.description>-->
+  <!--[Core] <TubeTelevision.label>Röhrenfernseher</TubeTelevision.label>-->
+  <!--[Core] <TubeTelevision.description>Stelle Röhrenfernseher her. Es geht nichts über einen guten Film zum Entspannen.</TubeTelevision.description>-->
+  <!--[Core] <FlatscreenTelevision.label>Flachbildfernseher</FlatscreenTelevision.label>-->
+  <!--[Core] <FlatscreenTelevision.description>Stelle hochauflösende Flachbildschirm-Fernseher her. Hiermit kann man sich noch besser entspannen.</FlatscreenTelevision.description>-->
+
+</LanguageData>

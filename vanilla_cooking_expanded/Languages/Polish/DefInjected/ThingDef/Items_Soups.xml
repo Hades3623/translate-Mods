@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_UncookedSoupSimple.label>niegotowana prosta zupa</VCE_UncookedSoupSimple.label>
+  <VCE_UncookedSoupSimple.description>Niegotowana prosta zupa. To musi być ugotowane w garnku elektrycznym, aby było jadalne.</VCE_UncookedSoupSimple.description>
+
+  <VCE_CookedSoupSimple.label>prosta zupa</VCE_CookedSoupSimple.label>
+  <VCE_CookedSoupSimple.description>Prosta zupa wolno gotowana z kilku składników.</VCE_CookedSoupSimple.description>
+
+  <VCE_UncookedSoupFine.label>niegotowana dobra zupa</VCE_UncookedSoupFine.label>
+  <VCE_UncookedSoupFine.description>Niegotowana dobra zupa. To musi być ugotowane w garnku elektrycznym, aby było jadalne.</VCE_UncookedSoupFine.description>
+
+  <VCE_CookedSoupFine.label>dobra zupa</VCE_CookedSoupFine.label>
+  <VCE_CookedSoupFine.description>Zupa złożona, starannie dobrana z szerokiego wyboru składników.</VCE_CookedSoupFine.description>
+
+  <VCE_UncookedSoupLavish.label>niegotowana wystawna zupa</VCE_UncookedSoupLavish.label>
+  <VCE_UncookedSoupLavish.description>Niegotowana wystawna zupa. To musi być ugotowane w garnku elektrycznym, aby było jadalne.</VCE_UncookedSoupLavish.description>
+
+  <VCE_CookedSoupLavish.label>wystawna zupa</VCE_CookedSoupLavish.label>
+  <VCE_CookedSoupLavish.description>Arcydzieło sztuki kulinarnej, ta zupa odżywia ciało, umysł i duszę.</VCE_CookedSoupLavish.description>
+
+  <VCE_UncookedSoupGourmet.label>niegotowana zupa dla smakoszy</VCE_UncookedSoupGourmet.label>
+  <VCE_UncookedSoupGourmet.description>Niegotowana zupa dla smakoszy. To musi być ugotowane w garnku elektrycznym, aby było jadalne.</VCE_UncookedSoupGourmet.description>
+
+  <VCE_CookedSoupGourmet.label>zupa dla smakoszy</VCE_CookedSoupGourmet.label>
+  <VCE_CookedSoupGourmet.description>Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją wyważonej estetycznie, choć niewielkiej ilości zupy.</VCE_CookedSoupGourmet.description>
+
+
+</LanguageData>

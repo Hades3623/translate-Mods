@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Cartridge-->
+  <PolarisMessageSomeoneResurrected>{0} pomyślnie wskrzesił {1}.</PolarisMessageSomeoneResurrected>
+  <PolarisMessageFailedMakeCartridge>{0} musi mieć więcej niż 60 punktów opinii z {1}.</PolarisMessageFailedMakeCartridge>
+  <PolarisFoundNoResearchProject>Nie udało się znaleźć projektu badawczego.</PolarisFoundNoResearchProject>
+  <!--CombatChip-->
+  <PolarisConvertCombatChipTitle>Wybierz taktyczny tryb chipowy</PolarisConvertCombatChipTitle>
+  <PolarisConvertCombatChipDESC>Wybierz tryb taktycznego układu, na który chcesz przekształcić, korzystając z poniższych opcji.</PolarisConvertCombatChipDESC>
+  <PolarisMessageFailedConvertCombatChip>{0} nie ma zainstalowanego ani dostępnego chipa taktycznego.</PolarisMessageFailedConvertCombatChip>
+  <PolarisConvertCombatHasNoChip>Brak chipa bojowego</PolarisConvertCombatHasNoChip>
+  <!--orbital trader caller-->
+  <PolarisOrbitalTraderCouldNotArrival>Nie ma wystarczająco dużo miejsca, aby wezwać nowy statek orbitalny.</PolarisOrbitalTraderCouldNotArrival>
+  <!--heal old wounds-->
+  <PolarisMessageSuccessfullyRemovedHediffIsOld>{0} pomyślnie wyleczył {1} {2}.</PolarisMessageSuccessfullyRemovedHediffIsOld>
+  <!--age-->
+  <!--<PolarisMessageSuccessfullyAgeDecrease>{0} został zmniejszony o {1} lat.</PolarisMessageSuccessfullyAgeDecrease>-->
+  <!--Traitreleaser-->
+  <PolarisTraitreleaserEffectDESC>Możesz wybrać, czy chcesz uzyskać zarejestrowaną cechę, czy usunąć cechę z obiektu. Usuwając cechę, mechanici zapiszą ją i zastąpią wcześniej istniejącą cechę.</PolarisTraitreleaserEffectDESC>
+  <PolarisTraitreleaserAddTraitOption>Dodaj {0}</PolarisTraitreleaserAddTraitOption>
+  <PolarisTraitreleaserAlreadyHadTrait>już ma</PolarisTraitreleaserAlreadyHadTrait>
+  <PolarisTraitreleaserHasNoEnoughSlots>za mało slotów na cechy</PolarisTraitreleaserHasNoEnoughSlots>
+  <PolarisTraitreleaserRemoveTraitOption>Usuń cechę (dostępne czasy: {0})</PolarisTraitreleaserRemoveTraitOption>
+  <PolarisTraitreleaserChoseRemoveTrait>Wybierz cechę, którą chcesz usunąć z tematu.</PolarisTraitreleaserChoseRemoveTrait>
+  <PolarisTraitreleaserUsedRemovedTrait>{0} stracił cechę: {1}.</PolarisTraitreleaserUsedRemovedTrait>
+  <PolarisTraitreleaserUsedReplaceConflitTraits>Aby uzyskać {1}, {0} stracił następujące cechy: {2}.</PolarisTraitreleaserUsedReplaceConflitTraits>
+  <PolarisTraitreleaserUsedAddTrait>{0} uzyskał cechę: {1}.</PolarisTraitreleaserUsedAddTrait>
+  <PolarisTraitreleaserTraitConflictingTraits>W konflikcie z: {0}</PolarisTraitreleaserTraitConflictingTraits>
+  <PolarisTraitreleaserTraitDisabledWorkTypes>Rodzaje pracy dla osób niepełnosprawnych: {0}</PolarisTraitreleaserTraitDisabledWorkTypes>
+  <PolarisTraitreleaserUsedbyHasNullTraits>Podmiot nie mógł zmienić cech</PolarisTraitreleaserUsedbyHasNullTraits>
+  <!--momery rester-->
+  <PolarisMomeryResterHaveNoAvaliableOption>{0} dostępnych opcji</PolarisMomeryResterHaveNoAvaliableOption>
+  <PolarisMomeryResterStoryDisabledWorkTypes>Rodzaje pracy dla osób niepełnosprawnych: {0}</PolarisMomeryResterStoryDisabledWorkTypes>
+  <PolarisMomeryResterChildhoodModeActiveLabel>Tryb: historia z dzieciństwa</PolarisMomeryResterChildhoodModeActiveLabel>
+  <PolarisMomeryResterChildhoodModeActiveDesc>W tym trybie zmieni to historię z dzieciństwa obiektu. Kliknij ikonę, aby przejść do trybu fabularnego dla dorosłych.</PolarisMomeryResterChildhoodModeActiveDesc>
+  <PolarisMomeryResterAdulthoodModeActiveLabel>Tryb: historia dorosłości</PolarisMomeryResterAdulthoodModeActiveLabel>
+  <PolarisMomeryResterAdulthoodModeActiveDesc>W tym trybie zmieni historię dorosłości obiektu. Kliknij ikonę, aby przejść do trybu historii z dzieciństwa.</PolarisMomeryResterAdulthoodModeActiveDesc>
+  <PolarisMomeryResterStorySuccessfullyChanged>{0} użytkownika {1} został zmieniony na {2}.</PolarisMomeryResterStorySuccessfullyChanged>
+  <PolarisMomeryResterHaveNoAvaliableStory>{0} nie ma dostępnej historii, którą można by zmienić. Ustaw historię za pomocą {1}.</PolarisMomeryResterHaveNoAvaliableStory>
+  <PolarisMomeryResterUnknownError>{1} Nieznany błąd</PolarisMomeryResterUnknownError>
+  <!--curer-->
+  <PolarisCurerApplyToHumanLabel>dotyczy człowieka</PolarisCurerApplyToHumanLabel>
+  <PolarisCurerApplyToHumanDESC>Jeśli zostanie aktywowany, lekarstwo będzie opatrywać ludzkie rany.</PolarisCurerApplyToHumanDESC>
+  <!--restorer-->
+  <PolarisRestorerIngest>Program {0} pozyskał moduł przywracający Polaris.</PolarisRestorerIngest>
+  <!--net chip-->
+  <PolarisForceCalmDown>{0} został uspokojony przez ich {1}.</PolarisForceCalmDown>
+  <!--void key-->
+  <PolarisVoidKeyLinkedTo>Połączony</PolarisVoidKeyLinkedTo>
+  <PolarisVoidKeyTryLinkGizmoLabel>Łączyć z...</PolarisVoidKeyTryLinkGizmoLabel>
+  <PolarisVoidKeyTryLinkGizmoDesc>Spróbuj znaleźć brakujące dane pionka, który był twoim kolonistą lub zwierzęciem.</PolarisVoidKeyTryLinkGizmoDesc>
+  <PolarisVoidKeyWindowTitle>Void key</PolarisVoidKeyWindowTitle>
+  <PolarisVoidKeyWindowInformation>Możesz zobaczyć wszystkie zaginione pionki, które były twoim kolonistą lub zwierzęciem, i wybrać, którego chcesz wskrzesić.</PolarisVoidKeyWindowInformation>
+  <PolarisVoidKeyPullVoidPawnData>Połącz klucz z danymi {0}.</PolarisVoidKeyPullVoidPawnData>
+  <PolarisVoidKeyPullDataDone>Otrzymałem dane {0} z void.</PolarisVoidKeyPullDataDone>
+  <PolarisVoidKeyFoundNoColonist>nie znaleziono żadnych danych</PolarisVoidKeyFoundNoColonist>
+  <PolarisVoidKeyITabChoosePawn>Zmień link na ...</PolarisVoidKeyITabChoosePawn>
+  <PolarisVoidKeyITabPawnInfo>Detale</PolarisVoidKeyITabPawnInfo>
+  <!--Change age window-->
+  <PolarisTargetBioAge>Docelowy wiek: {0}</PolarisTargetBioAge>
+  <PolarisMessageSuccessfullyChangeBioAge>Wiek biologiczny użytkownika {0} został zmieniony.</PolarisMessageSuccessfullyChangeBioAge>
+  <!--decoder-->
+  <PolarisDecoderSuccessedUsedForPawn>Pomyślnie przekodowano biokod {1} dla {0}.</PolarisDecoderSuccessedUsedForPawn>
+  <PolarisDecoderFailedUsedForPawn>{0} próbował dekodować {1}, ale nie udało się.</PolarisDecoderFailedUsedForPawn>
+  <PolarisDecoderSelfDestroyed>Dekoder biokodu przestał działać.</PolarisDecoderSelfDestroyed>
+  <PolarisDecoderSkillRequirementNoSatisfies>wymagają {0} poziomu {1}</PolarisDecoderSkillRequirementNoSatisfies>
+  <!--extract ability-->
+  <PolarisExtractAbilitySuccessfully>Pomyślnie wyodrębniono {1} z {0}.</PolarisExtractAbilitySuccessfully>
+  <PolarisExtractAbilityFailed>Nie można wyodrębnić zdolności {0}.</PolarisExtractAbilityFailed>
+  <PolarisGoodwillChangedReason_ExtractedAbility>wyodrębniono umiejętność {0}</PolarisGoodwillChangedReason_ExtractedAbility>
+  <!--remove implant-->
+  <PolarisMessageSuccessfullyRemovedImplants>{1} pomyślnie usunął {1} {2}.</PolarisMessageSuccessfullyRemovedImplants>
+  <!--shield belt-->
+  <PlrsForceResetLabel>wymuś reset</PlrsForceResetLabel>
+  <PlrsForceResetDESC>Wymuszenie resetowania stanu tarczy, ta czynność będzie kosztować kilka punktów życia.</PlrsForceResetDESC>
+  <PlrsNoEnoughHitPointsToReset>Nie ma wystarczającej liczby punktów życia do zresetowania.</PlrsNoEnoughHitPointsToReset>
+</LanguageData>

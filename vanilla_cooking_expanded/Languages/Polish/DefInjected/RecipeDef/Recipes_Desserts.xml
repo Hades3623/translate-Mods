@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookDessertSimple.label>ugotuj prosty deser</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>Szybko ugotuj prosty deser z kilku owoców i innych składników.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>Gotowanie prostego deseru.</VCE_CookDessertSimple.jobString>
+
+  <VCE_CookDessertSimpleBulk.label>gotuj prosty deser x4</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>Ugotuj 4 proste desery szybko przygotowane z kilku owoców i innych składników.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>Gotowanie prostego deseru x4.</VCE_CookDessertSimpleBulk.jobString>
+
+  <VCE_CookDessertFine.label>ugotuj dobry deser</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>Ugotuj złożony deser starannie złożony z szerokiej gamy składników. \n
+Zwróć uwagę, że ponieważ czekolada ma 0,10 wartości odżywczej na jednostkę, część zostanie zmarnowana podczas gotowania tego przepisu. Zamiast tego rozważ użycie wersji zbiorczej (x4) tego przepisu, aby uniknąć marnotrawstwa.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>Gotowanie dobrego deseru.</VCE_CookDessertFine.jobString>
+
+  <VCE_CookDessertFineBulk.label>gotować dobry deser x4</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>Gotuj 4 złożone desery, starannie dobrane z szerokiej gamy składników.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>Gotowanie dobrego deseru x4.</VCE_CookDessertFineBulk.jobString>
+
+  <VCE_CookDessertLavish.label>gotować obfity deser</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>Gotuj arcydzieło sztuki kulinarnej, ten deser odżywia ciało, umysł i duszę. \n 
+Uwaga: ponieważ czekolada ma 0,10 wartości odżywczej na sztukę, część zostanie zmarnowana podczas gotowania tego przepisu. Zamiast tego rozważ użycie wersji zbiorczej (x4) tego przepisu, aby uniknąć marnotrawstwa.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>Gotowanie wystawnego deseru.</VCE_CookDessertLavish.jobString>
+
+  <VCE_CookDessertLavishBulk.label>gotować obfity deser x4</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>Ugotuj 4 arcydzieła sztuki kulinarnej, ten deser odżywia ciało, umysł i duszę.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>Gotowanie wystawnego deseru x4.</VCE_CookDessertLavishBulk.jobString>
+
+  <VCE_CookDessertGourmet.label>gotować deser dla smakoszy</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>Ugotuj kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz wyszukanym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości deseru.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>Gotowanie wyśmienitego deseru.</VCE_CookDessertGourmet.jobString>
+
+
+</LanguageData>

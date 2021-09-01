@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Kingsize.label>Królewskie łóżko z baldachimem</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Łóżko dla króla, równo ze złotymi, inkrustowanymi poduszkami i wysokim zagłówkiem. Bardzo wygodny i piękny, to prawdziwy luksus dla dwojga.</Bed_Kingsize.description>
+
+  <Table_RoyalEndTable.label>Królewski stolik nocny</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Mały stolik nocny ozdobiony luksusowymi złotymi okuciami, dzięki czemu łóżka w pobliżu są wygodniejsze. Musi być umieszczony tuż obok łóżka. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_RoyalEndTable.description>
+
+  <Table_RoyalDresser.label>Królewska komoda</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Luksusowa komoda ozdobiona solidnym złotem i eleganckim designem, który sprawia, że ​​łóżka są wygodniejsze w pobliżu. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_RoyalDresser.description>
+
+  <Seat_RoyalChair.label>Królewskie krzesło</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Wygodne, tapicerowane siedzisko z wysokim oparciem osadzonym w złotej ramie. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_RoyalChair.description>
+
+  <Seat_RoyalArmchair.label>Fotel królewski</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Duże, miękkie, luksusowe siedzisko ze złotą ramą tylko dla najbogatszej elity. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_RoyalArmchair.description>
+
+  <Table_Royal1x1c.label>Stół królewski (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal1x1c.description>
+
+  <Table_Royal2x2c.label>Stół królewski (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal2x2c.description>
+
+  <Table_Royal1x2c.label>Stół królewski (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal1x2c.description>
+
+  <Table_Royal3x3c.label>Stół królewski (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal3x3c.description>
+
+  <Table_Royal2x4c.label>Stół królewski (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal2x4c.description>
+
+
+  <!--<Bed_Kingsize_Blueprint.label>Królewskie łóżko z baldachimem (projekt)</Bed_Kingsize_Blueprint.label>-->
+  <!--<Bed_Kingsize_Blueprint_Install.label>Królewskie łóżko z baldachimem (projekt)</Bed_Kingsize_Blueprint_Install.label>-->
+  <!--<Bed_Kingsize_Frame.label>Królewskie łóżko z baldachimem (konstrukcja)</Bed_Kingsize_Frame.label>-->
+  <!--<Bed_Kingsize_Frame.description>Łóżko dla króla, równo ze złotymi, inkrustowanymi poduszkami i wysokim zagłówkiem. Bardzo wygodny i piękny, to prawdziwy luksus dla dwojga.</Bed_Kingsize_Frame.description>-->
+  <!--<Table_RoyalEndTable_Blueprint.label>Królewski stolik nocny (projekt)</Table_RoyalEndTable_Blueprint.label>-->
+  <!--<Table_RoyalEndTable_Blueprint_Install.label>Królewski stolik nocny (projekt)</Table_RoyalEndTable_Blueprint_Install.label>-->
+  <!--<Table_RoyalEndTable_Frame.label>Królewski stolik nocny (konstrukcja)</Table_RoyalEndTable_Frame.label>-->
+  <!--<Table_RoyalEndTable_Frame.description>Mały stolik nocny ozdobiony luksusowymi złotymi okuciami, dzięki czemu łóżka w pobliżu są wygodniejsze. Musi być umieszczony tuż obok łóżka. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_RoyalEndTable_Frame.description>-->
+  <!--<Table_RoyalDresser_Blueprint.label>Królewska komoda (projekt)</Table_RoyalDresser_Blueprint.label>-->
+  <!--<Table_RoyalDresser_Blueprint_Install.label>Królewska komoda (projekt)</Table_RoyalDresser_Blueprint_Install.label>-->
+  <!--<Table_RoyalDresser_Frame.label>Królewska komoda (konstrukcja)</Table_RoyalDresser_Frame.label>-->
+  <!--<Table_RoyalDresser_Frame.description>Luksusowa komoda ozdobiona solidnym złotem i eleganckim designem, który sprawia, że ​​łóżka są wygodniejsze w pobliżu. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_RoyalDresser_Frame.description>-->
+  <!--<Seat_RoyalChair_Blueprint.label>Królewskie krzesło (projekt)</Seat_RoyalChair_Blueprint.label>-->
+  <!--<Seat_RoyalChair_Blueprint_Install.label>Królewskie krzesło (projekt)</Seat_RoyalChair_Blueprint_Install.label>-->
+  <!--<Seat_RoyalChair_Frame.label>Królewskie krzesło (konstrukcja)</Seat_RoyalChair_Frame.label>-->
+  <!--<Seat_RoyalChair_Frame.description>Wygodne, tapicerowane siedzisko z wysokim oparciem osadzonym w złotej ramie. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_RoyalChair_Frame.description>-->
+  <!--<Seat_RoyalArmchair_Blueprint.label>Fotel królewski (projekt)</Seat_RoyalArmchair_Blueprint.label>-->
+  <!--<Seat_RoyalArmchair_Blueprint_Install.label>Fotel królewski (projekt)</Seat_RoyalArmchair_Blueprint_Install.label>-->
+  <!--<Seat_RoyalArmchair_Frame.label>Fotel królewski (konstrukcja)</Seat_RoyalArmchair_Frame.label>-->
+  <!--<Seat_RoyalArmchair_Frame.description>Duże, miękkie, luksusowe siedzisko ze złotą ramą tylko dla najbogatszej elity. Może być używany przy stołach, stacjach roboczych i gdziekolwiek indziej.</Seat_RoyalArmchair_Frame.description>-->
+  <!--<Table_Royal1x1c_Blueprint.label>Stół królewski (1x1) (projekt)</Table_Royal1x1c_Blueprint.label>-->
+  <!--<Table_Royal1x1c_Blueprint_Install.label>Stół królewski (1x1) (projekt)</Table_Royal1x1c_Blueprint_Install.label>-->
+  <!--<Table_Royal1x1c_Frame.label>Stół królewski (1x1) (konstrukcja)</Table_Royal1x1c_Frame.label>-->
+  <!--<Table_Royal1x1c_Frame.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych..</Table_Royal1x1c_Frame.description>-->
+  <!--<Table_Royal2x2c_Blueprint.label>Stół królewski (2x2) (projekt)</Table_Royal2x2c_Blueprint.label>-->
+  <!--<Table_Royal2x2c_Blueprint_Install.label>Stół królewski (2x2) (projekt)</Table_Royal2x2c_Blueprint_Install.label>-->
+  <!--<Table_Royal2x2c_Frame.label>Stół królewski (2x2) (konstrukcja)</Table_Royal2x2c_Frame.label>-->
+  <!--<Table_Royal2x2c_Frame.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal2x2c_Frame.description>-->
+  <!--<Table_Royal1x2c_Blueprint.label>Stół królewski (1x2) (projekt)</Table_Royal1x2c_Blueprint.label>-->
+  <!--<Table_Royal1x2c_Blueprint_Install.label>Stół królewski (1x2) (projekt)</Table_Royal1x2c_Blueprint_Install.label>-->
+  <!--<Table_Royal1x2c_Frame.label>Stół królewski (1x2) (konstrukcja)</Table_Royal1x2c_Frame.label>-->
+  <!--<Table_Royal1x2c_Frame.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal1x2c_Frame.description>-->
+  <!--<Table_Royal3x3c_Blueprint.label>Stół królewski (3x3) (projekt)</Table_Royal3x3c_Blueprint.label>-->
+  <!--<Table_Royal3x3c_Blueprint_Install.label>Stół królewski (3x3) (projekt)</Table_Royal3x3c_Blueprint_Install.label>-->
+  <!--<Table_Royal3x3c_Frame.label>Stół królewski (3x3) (konstrukcja)</Table_Royal3x3c_Frame.label>-->
+  <!--<Table_Royal3x3c_Frame.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal3x3c_Frame.description>-->
+  <!--<Table_Royal2x4c_Blueprint.label>Stół królewski (2x4) (projekt)</Table_Royal2x4c_Blueprint.label>-->
+  <!--<Table_Royal2x4c_Blueprint_Install.label>Stół królewski (2x4) (projekt)</Table_Royal2x4c_Blueprint_Install.label>-->
+  <!--<Table_Royal2x4c_Frame.label>Stół królewski (2x4) (konstrukcja)</Table_Royal2x4c_Frame.label>-->
+  <!--<Table_Royal2x4c_Frame.description>Imponująco wyglądający stół do jadalni o złotej krawędzi zewnętrznej i zaokrąglonych krawędziach, odpowiedni dla najbogatszych.</Table_Royal2x4c_Frame.description>-->
+
+</LanguageData>

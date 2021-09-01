@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CondimentsResearch.label>przyprawy do żywności</VCE_CondimentsResearch.label>
+  <VCE_CondimentsResearch.description>Przyprawa to przyprawa, sos lub preparat dodawany do potraw, po lub podczas gotowania, w celu nadania określonego smaku, wzmocnienia smaku lub uzupełnienia potrawy. Wszystkie przyprawy są przygotowywane na stole do przygotowywania przypraw.</VCE_CondimentsResearch.description>
+
+  <VCE_SoupCooking.label>gotowanie zupy</VCE_SoupCooking.label>
+  <VCE_SoupCooking.description>Zupa to głównie płynna potrawa, zwykle podawana na ciepło lub na gorąco, która powstaje z połączenia składników mięsa lub warzyw z bulionem lub wodą. Gorące zupy charakteryzują się dodatkowo gotowaniem stałych składników w płynach w garnku do momentu wydobycia się smaków. Badania te dają również dostęp do elektrycznego garnka niezbędnego do gotowania zup.</VCE_SoupCooking.description>
+
+  <VCE_Grilling.label>pieczenie na rożnie</VCE_Grilling.label>
+  <VCE_Grilling.description>Grillowanie to forma gotowania polegająca na stosowaniu ciepła na sucho na powierzchni potrawy, zwykle od góry, od dołu lub z boku. Grillowanie zwykle wiąże się ze znaczną ilością bezpośredniego promieniowania cieplnego i zwykle jest używane do szybkiego gotowania mięsa i warzyw. Te badania dają dostęp do grilla.</VCE_Grilling.description>
+
+  <VCE_DeepFrying.label>smażenie na głębokim oleju</VCE_DeepFrying.label>
+  <VCE_DeepFrying.description>Smażenie w głębokim tłuszczu (nazywane również smażeniem w głębokim tłuszczu) to metoda gotowania, w której żywność zanurzana jest w gorącym tłuszczu, najczęściej w oleju, w przeciwieństwie do płytkiego oleju używanego do tradycyjnego smażenia na patelni. Te badania dają dostęp do frytkownicy.</VCE_DeepFrying.description>
+
+  <VCE_Canning.label>konserwowanie</VCE_Canning.label>
+  <VCE_Canning.description>Konserwowanie to metoda konserwowania żywności, w której zawartość żywności jest przetwarzana i zamykana w hermetycznym pojemniku (słoiki takie jak słoiki Mason oraz stalowe i blaszane puszki). Konserwowanie zapewnia kilkuletni okres przydatności do spożycia. Liofilizowany produkt w puszkach, taki jak suszona soczewica w puszkach, może trwać nawet 30 lat w stanie jadalnym. Te badania dają dostęp do maszyny do konserw.</VCE_Canning.description>
+
+  <VCE_CheeseMaking.label>produkcja sera</VCE_CheeseMaking.label>
+  <VCE_CheeseMaking.description>Sernictwo (lub kazeologia) to rzemiosło wytwarzania sera. Produkcja sera, podobnie jak wiele innych procesów konserwowania żywności, pozwala na zachowanie wartości odżywczej i ekonomicznej mleka w postaci skoncentrowanej. Serowarstwo pozwala na produkcję serów o zróżnicowanych smakach i konsystencjach. Te badania dają dostęp do prasy do serów.</VCE_CheeseMaking.description>
+
+
+</LanguageData>

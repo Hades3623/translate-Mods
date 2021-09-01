@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ConsumedMayo.label>spożyty Mayo (z posiłku)</VCE_ConsumedMayo.label>
+  <VCE_ConsumedMayo.description>Mayo to gęsta emulsja złożona z jajka, oleju i innych ziół. Majonez, choć dla ciebie okropny, dodaje przyjemnego posmaku i jest bardzo gęsty kalorycznie. Obniża głód o 15% na 24 godziny.</VCE_ConsumedMayo.description>
+
+  <VCE_ConsumedAgave.label>spożyty nektar z agawy (z posiłku)</VCE_ConsumedAgave.label>
+  <VCE_ConsumedAgave.description>Nektar z agawy to cienki i półsłodki nektar, znany ze swoich właściwości leczniczych i przeciwzapalnych. Daje 15% premię do szybkości zwiększania odporności na 24 godziny.</VCE_ConsumedAgave.description>
+
+  <VCE_ConsumedSpices.label>spożyte przyprawy (z posiłku)</VCE_ConsumedSpices.label>
+  <VCE_ConsumedSpices.description>Spożywał różnorodne aromatyczne i ostre przyprawy. Zwiększa statystyki manipulacji na 24 godziny.</VCE_ConsumedSpices.description>
+
+
+  <!-- This one is unused, I keep it for compat purposes -->
+
+  <VCE_WellFed.label>dobrze karmione (z grilla)</VCE_WellFed.label>
+  <VCE_WellFed.description>Zjadłam przepyszne i sycące mięso z grilla. Obniża głód o 35% na 12 godzin.</VCE_WellFed.description>
+
+  <VCE_WellFedSimple.label>dobrze karmione (z grilla)</VCE_WellFedSimple.label>
+  <VCE_WellFedSimple.description>Zjadłam przepyszne i sycące mięso z grilla. Obniża głód o 35% na 12 godzin.</VCE_WellFedSimple.description>
+
+  <VCE_WellFedFine.label>dobrze karmione (z grilla)</VCE_WellFedFine.label>
+  <VCE_WellFedFine.description>Zjadłam przepyszne i sycące mięso z grilla. Obniża głód o 35% na 12 godzin.</VCE_WellFedFine.description>
+
+  <VCE_WellFedLavish.label>dobrze karmione (z grilla)</VCE_WellFedLavish.label>
+  <VCE_WellFedLavish.description>Zjadłam przepyszne i sycące mięso z grilla. Obniża głód o 35% na 12 godzin.</VCE_WellFedLavish.description>
+
+  <VCE_WellFedGourmet.label>dobrze karmione (z grilla)</VCE_WellFedGourmet.label>
+  <VCE_WellFedGourmet.description>Zjadłam przepyszne i sycące mięso z grilla. Obniża głód o 35% na 12 godzin.</VCE_WellFedGourmet.description>
+
+  <VCE_ConsumedDigestibleResurrectorNanites.label>zużyte nanity wskrzeszające (z posiłku)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.description>Nanity wskrzeszające wskrzeszą tę osobę, dopóki są aktywne. Efekt utrzymuje się przez 12 godzin.</VCE_ConsumedDigestibleResurrectorNanites.description>
+
+  <VCE_SugarRush.label>spożyty cukier (z posiłku)</VCE_SugarRush.label>
+  <VCE_SugarRush.description>Cukier jest łatwo przekształcany w energię przez organizm, co może skutkować ładnym zastrzykiem energii. Zwiększa statystykę ruchu o 15% na 24 godziny.</VCE_SugarRush.description>
+
+  <VCE_AteGourmetMeal.label>konsumowane jedzenie dla smakoszy (z posiłku)</VCE_AteGourmetMeal.label>
+  <VCE_AteGourmetMeal.description>Ten kolonista zjadł niesamowite jedzenie.</VCE_AteGourmetMeal.description>
+
+
+</LanguageData>

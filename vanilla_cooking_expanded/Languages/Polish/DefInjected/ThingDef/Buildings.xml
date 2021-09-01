@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ElectricPot.label>garnek elektryczny</VCE_ElectricPot.label>
+  <VCE_ElectricPot.description>Garnek elektryczny, zwany także termosem, to niewielkie urządzenie służące do gotowania wody i utrzymywania jej w stałej temperaturze. Zwykle służy do duszenia zupy przez dłuższy czas. Składniki zanurza się w wodzie i pozostawia do gotowania przez dłuższy czas, dzięki czemu ich smaki stopniowo się pogłębiają i mieszają z czasem. \n
+Zupa na garnku elektrycznym bez zasilania zepsuje się bardzo szybko. Uważaj na rozbłyski słoneczne!</VCE_ElectricPot.description>
+
+  <VCE_Grill.label>grill</VCE_Grill.label>
+  <VCE_Grill.description>Grill to urządzenie do gotowania potraw poprzez doprowadzanie ciepła od dołu. Jest to grill opalany drewnem, który potrzebuje drewna jako paliwa do pracy.</VCE_Grill.description>
+
+  <VCE_DeepFrier.label>frytkownica</VCE_DeepFrier.label>
+  <VCE_DeepFrier.description>Frytkownica to urządzenie kuchenne służące do smażenia w głębokim tłuszczu. Głębokie smażenie to metoda gotowania polegająca na zanurzeniu żywności w oleju przy wysokiej temperaturze, zwykle w temperaturze od 350 ° F do 375 ° F (175 ° C do 190 ° C).</VCE_DeepFrier.description>
+
+  <VCE_CanningMachine.label>maszyna do konserw</VCE_CanningMachine.label>
+  <VCE_CanningMachine.description>Puszkownica to urządzenie do przechowywania konserwowanej żywności w metalowych puszkach. Każda operacja konserwowania wymaga określonej ilości stali.</VCE_CanningMachine.description>
+
+  <VCE_CondimentPrepTable.label>stół do przygotowywania przypraw</VCE_CondimentPrepTable.label>
+  <VCE_CondimentPrepTable.description>Stół roboczy do krojenia, krojenia i przygotowywania przypraw używanych w wykwintnych przepisach.</VCE_CondimentPrepTable.description>
+
+  <VCE_CheesePress.label>prasa do sera</VCE_CheesePress.label>
+  <VCE_CheesePress.description>Prasa do serów to urządzenie do wyciskania serwatki z twarogu podczas produkcji sera. Prasowanie wpływa na twardość i konsystencję sera, a także określa kształt bloku lub koła sera. Ta prasa działa również jako komora dojrzewania, więc im dłużej ser dojrzewa, tym wyższa będzie jego jakość.</VCE_CheesePress.description>
+
+
+</LanguageData>

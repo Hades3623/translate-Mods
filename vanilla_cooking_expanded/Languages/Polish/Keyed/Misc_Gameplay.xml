@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Soups -->
+
+  <VCE_InsertSoup>włóż zupę</VCE_InsertSoup>
+  <VCE_InsertSoupDesc>Zupa do gotowania</VCE_InsertSoupDesc>
+  <VCE_NoSoupsFound>Na tej mapie nie ma takich zup.</VCE_NoSoupsFound>
+  <VCE_UncookedSoupSimple>prosta zupa</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupFine>dobra zupa</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupLavish>wystawna zupa</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupGourmet>zupa dla smakoszy</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupSimple_InsertSoup>włóż prostą zupę</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_UncookedSoupFine_InsertSoup>włóż dobrą zupę</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupLavish_InsertSoup>włóż wystawną zupę</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>włóż wyśmienitą zupę</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_SelectSoup>Wybierz rodzaj zupy do ugotowania</VCE_SelectSoup>
+  <VCE_StartInsertion>Przynieś zupę</VCE_StartInsertion>
+  <VCE_StartInsertionDesc>Przynieś zupę do elektrycznego garnka, aby rozpocząć gotowanie</VCE_StartInsertionDesc>
+  <VCE_RemoveSoup>Usuń zupę</VCE_RemoveSoup>
+  <VCE_RemoveSoupDesc>Wyjąć zupę z garnka. Można to zrobić tylko przed rozpoczęciem gotowania.</VCE_RemoveSoupDesc>
+  <VCE_CancelBringingSoup>Anuluj przynoszenie zupy</VCE_CancelBringingSoup>
+  <VCE_CancelBringingSoupDesc>Anuluj wnoszenie zupy do elektrycznego garnka.</VCE_CancelBringingSoupDesc>
+  <VCE_WaitTillJobsEnd>Poczekaj, aż zupa zostanie przyniesiona do garnka elektrycznego lub anuluj zadanie.</VCE_WaitTillJobsEnd>
+  <VCE_NotPowered>Garnek elektryczny nie jest zasilany</VCE_NotPowered>
+  <VCE_Engage>Gotuj Zupę</VCE_Engage>
+  <VCE_EngageDesc>Zacznij gotować zupę. Ten proces trwa 3 dni i nie można go przerwać, inaczej zupa zostanie zniszczona.</VCE_EngageDesc>
+  <VCE_SoupFailurePower>Zupa zepsuła się z powodu awarii zasilania w garnku elektrycznym</VCE_SoupFailurePower>
+  <VCE_SoupFailurePowerWarning>Zupa szybko się psuje z powodu braku paliwa w kotle elektrycznym</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFinished>Zupa gotowana w garnku elektrycznym</VCE_SoupFinished>
+  <VCE_SoupInProgress>Gotuje {0}. Będzie gotowe za {1}</VCE_SoupInProgress>
+  <VCE_SoupReady>Zupa skończyła się gotować i czeka na odbiór</VCE_SoupReady>
+
+  <!-- Cheese making -->
+
+  <VCE_InsertMilkDesc>Wybierz mleko, aby wcisnąć w prasę do sera. Różne rodzaje mleka mogą dawać różne rodzaje sera.</VCE_InsertMilkDesc>
+  <VCE_InsertMilk>Wybierz Milk</VCE_InsertMilk>
+  <VCE_InsertMilkVariable>Wstaw {0}</VCE_InsertMilkVariable>
+  <VCE_NoMilksFound>Na tej mapie nie znaleziono takiego mleka.</VCE_NoMilksFound>
+  <VCE_SelectMilk>Wybierz rodzaj mleka do wyciśnięcia</VCE_SelectMilk>
+  <VCE_StartInsertionMilk>Przynieś mleko</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilkDesc>Przynieś mleko do prasy do sera, aby rozpocząć prasowanie</VCE_StartInsertionMilkDesc>
+  <VCE_RemoveMilk>Usuń mleko</VCE_RemoveMilk>
+  <VCE_RemoveMilkDesc>Wyciągnij mleko z prasy. Można to zrobić tylko przed rozpoczęciem naciskania.</VCE_RemoveMilkDesc>
+  <VCE_CancelBringingMilk>Anuluj przynoszenie mleka</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilkDesc>Anuluj dostarczanie mleka do prasy do serów.</VCE_CancelBringingMilkDesc>
+  <VCE_WaitTillJobsEndMilk>Poczekaj, aż mleko dotrze do prasy do sera lub anuluj zadanie.</VCE_WaitTillJobsEndMilk>
+  <VCE_EngageMilk>Wciśnij do sera</VCE_EngageMilk>
+  <VCE_EngageMilkDesc>Zacznij wciskać mleko do sera. Proces ten zajmuje zmienny czas, a jakość sera rośnie wraz z dojrzewaniem. Możesz go usunąć w dowolnym momencie po początkowym okresie.</VCE_EngageMilkDesc>
+  <VCE_CheeseFinished>Ser zakończył dojrzewanie w prasie do serów</VCE_CheeseFinished>
+  <VCE_CheeseInProgress>Prasa do sera naciska {0}. Będzie gotowy z jakością {1} za {2}</VCE_CheeseInProgress>
+  <VCE_CheeseReady>Ser ten osiągnął pożądany stopień dojrzałości i czeka na odbiór</VCE_CheeseReady>
+  <VCE_MilkImproperlyDefined>To mleko zostało nieprawidłowo zdefiniowane do pracy z prasą do serów, skontaktuj się z autorem modyfikacji mleka</VCE_MilkImproperlyDefined>
+  <VCE_RemoveCheese>Usuń ser ({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheeseDesc>Usuń ser z prasy do serów. Ser będzie gotowy na obecnym poziomie jakości ({0})</VCE_RemoveCheeseDesc>
+
+  <VCE_CheesePressEmpty>Prasa do serów jest teraz pusta</VCE_CheesePressEmpty>
+  <VCE_CheesePressFilled>Prasa do sera wypełniona {0}</VCE_CheesePressFilled>
+  <VCE_CheesePressWorking>Prasa do serów działa:</VCE_CheesePressWorking>
+  <VCE_ResourcePercentage> (wypełnione w {0} z {1})</VCE_ResourcePercentage>
+
+</LanguageData>

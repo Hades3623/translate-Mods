@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_SimpleDessert.label>prosty deser</VCE_SimpleDessert.label>
+  <VCE_SimpleDessert.description>Prosty deser szybko zrobiony z kilku owoców i innych składników.</VCE_SimpleDessert.description>
+
+  <VCE_FineDessert.label>dobry deser</VCE_FineDessert.label>
+  <VCE_FineDessert.description>Złożony deser skomponowany z dbałością o szeroki wybór składników.</VCE_FineDessert.description>
+
+  <VCE_LavishDessert.label>obfity deser</VCE_LavishDessert.label>
+  <VCE_LavishDessert.description>Arcydzieło sztuki kulinarnej, ten deser odżywia ciało, umysł i duszę.</VCE_LavishDessert.description>
+
+  <VCE_GourmetDessert.label>deser dla smakoszy</VCE_GourmetDessert.label>
+  <VCE_GourmetDessert.description>Kulinarne dzieło sztuki, charakteryzujące się wyrafinowanym, wręcz misternym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości deseru.</VCE_GourmetDessert.description>
+
+
+</LanguageData>

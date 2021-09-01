@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_StoneSlab.label>Łóżko z płyty</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>Duża płyta wygładzonego kamienia, bardzo niewygodna i tylko nieznacznie lepsza niż spanie na podłodze.</Bed_StoneSlab.description>
+
+  <Bed_Simple.label>Proste łóżko</Bed_Simple.label>
+  <Bed_Simple.description>Lekka, wygodna siatka i poduszka przymocowana do solidnej ramy.</Bed_Simple.description>
+
+
+  <!--<Bed_StoneSlab_Blueprint.label>Łóżko z płyty (projekt)</Bed_StoneSlab_Blueprint.label>-->
+  <!--<Bed_StoneSlab_Blueprint_Install.label>Łóżko z płyty (projekt)</Bed_StoneSlab_Blueprint_Install.label>-->
+  <!--<Bed_StoneSlab_Frame.label>Łóżko z płyty (konstrukcja)</Bed_StoneSlab_Frame.label>-->
+  <!--<Bed_StoneSlab_Frame.description>Duża płyta wygładzonego kamienia, bardzo niewygodna i tylko nieznacznie lepsza niż spanie na podłodze.</Bed_StoneSlab_Frame.description>-->
+  <!--<Bed_Simple_Blueprint.label>Proste łóżko (projekt)</Bed_Simple_Blueprint.label>-->
+  <!--<Bed_Simple_Blueprint_Install.label>Proste łóżko (projekt)</Bed_Simple_Blueprint_Install.label>-->
+  <!--<Bed_Simple_Frame.label>Proste łóżko (konstrukcja)</Bed_Simple_Frame.label>-->
+  <!--<Bed_Simple_Frame.description>Lekka, wygodna siatka i poduszka przymocowana do solidnej ramy.</Bed_Simple_Frame.description>-->
+
+</LanguageData>

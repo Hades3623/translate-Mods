@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WritersTable.label>stół pisarzy</VBE_WritersTable.label>
+  <VBE_WritersTable.description>Stanowisko pracy ze sprzętem niezbędnym do pisania książek.</VBE_WritersTable.description>
+
+  <VBE_TypewritersTable.label>stół do pisania</VBE_TypewritersTable.label>
+  <VBE_TypewritersTable.description>Stanowisko pracy ze sprzętem niezbędnym do pisania książek. Stacja ta wyposażona jest w maszynę do pisania, która znacznie przyspiesza pracę, ale wymaga podłączenia do prądu.</VBE_TypewritersTable.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsCookStone_Campfire.label>Gotuj jedzenie przy ognisku (kamień)</DoBillsCookStone_Campfire.label>
+  <DoBillsCookStone_Campfire.verb>Gotowanie</DoBillsCookStone_Campfire.verb>
+  <DoBillsCookStone_Campfire.gerund>gotuje dalej</DoBillsCookStone_Campfire.gerund>
+
+  <DoBillsHaulStone_Campfire.label>Wykonuj zadania przy ognisku (Kamień)</DoBillsHaulStone_Campfire.label>
+  <DoBillsHaulStone_Campfire.verb>praca</DoBillsHaulStone_Campfire.verb>
+  <DoBillsHaulStone_Campfire.gerund>działa</DoBillsHaulStone_Campfire.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_ChopCondiments.label>wymieszaj przyprawy w krokiety</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>Wymieszaj partię różnych przypraw w ledwo jadalną masę organiczną, którą można karmić zwierzętami. Nadal lepsza niż karma dla zwierząt z supermarketu.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>Mieszanie przypraw w krokiety.</VCE_ChopCondiments.jobString>
+
+  <VCE_MakeSalt.label>zrobić sól</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>Miel i przetwarzaj kamień naturalny, aby wydobyć jadalne sole z kawałków kamienia. \n
+Używa umiejętności Gotowanie.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>Robię sól.</VCE_MakeSalt.jobString>
+
+  <VCE_MakeSaltfromBlocks.label>zrobić sól (bloki)</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>Miel i przetwarzaj kamień naturalny, aby wydobyć jadalne sole z bloków kamiennych. \n 
+Używa umiejętności Gotowanie.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>Robienie soli z bloków.</VCE_MakeSaltfromBlocks.jobString>
+
+  <VCE_AgaveNectar.label>zrobić nektar z agawy</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Utwórz nektar z agawy z agawy. Nektar z agawy to cienki i półsłodki nektar, znany ze swoich właściwości leczniczych i przeciwzapalnych.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>Przygotowanie nektaru z agawy.</VCE_AgaveNectar.jobString>
+
+  <VCE_InsectJellyPreserves.label>robić przetwory z galaretki z owadów</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Twórz galaretki z galaretek z owadów. Bardzo bogaty i słodki, a jednocześnie zaskakująco zdrowy.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>Wykonywanie konfitur z galaretki z owadów</VCE_InsectJellyPreserves.jobString>
+
+  <VCE_Mayo.label>zrobić majonez</VCE_Mayo.label>
+  <VCE_Mayo.description>Stwórz majonez z jajek. Gęsta emulsja zawierająca jajko, olej i inne zioła. Majonez, choć dla ciebie okropny, dodaje przyjemnego posmaku i jest bardzo gęsty kalorycznie.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>Robię majonez.</VCE_Mayo.jobString>
+
+  <VCE_SmokeleafButter.label>zrobić masło dymne</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Zrób masło dymne z wędzarni i mleka. Zagęszczona, tłusta substancja uzyskana przez ubijanie mleka w bardzo gęstą śmietanę, łączenie z olejem wędzarniczym i pozostawienie do zestalenia. Bardzo niezdrowe i uderza nieco mocniej niż jointa.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>Przygotowanie masła dymnego.</VCE_SmokeleafButter.jobString>
+
+  <VCE_ChocolateSyrup.label>zrobić syrop czekoladowy</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Twórz syrop czekoladowy z genetycznie modyfikowanej czekolady. Chociaż nadal nie jest dla ciebie dobry, syrop czekoladowy nie jest tak zły jak zwykły cukier.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>Robienie syropu czekoladowego.</VCE_ChocolateSyrup.jobString>
+
+
+</LanguageData>

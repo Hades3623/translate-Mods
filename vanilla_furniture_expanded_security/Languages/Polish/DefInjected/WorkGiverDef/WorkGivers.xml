@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_ConstructRearmTrap.label>przezbrajanie pułapek</VFES_ConstructRearmTrap.label>
+  <VFES_ConstructRearmTrap.verb>dozbroić</VFES_ConstructRearmTrap.verb>
+  <VFES_ConstructRearmTrap.gerund>dozbrajanie</VFES_ConstructRearmTrap.gerund>
+
+  <VFES_RearmTrap.label>przezbrajanie pułapek</VFES_RearmTrap.label>
+  <VFES_RearmTrap.verb>dozbroić</VFES_RearmTrap.verb>
+  <VFES_RearmTrap.gerund>dozbrajanie</VFES_RearmTrap.gerund>
+
+
+</LanguageData>

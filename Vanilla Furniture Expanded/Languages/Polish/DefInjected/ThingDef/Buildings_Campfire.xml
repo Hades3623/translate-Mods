@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stone_Campfire.label>Ognisko (Kamienne)</Stone_Campfire.label>
+  <Stone_Campfire.description>Na tym ognisku można gotować potrawy, które wytwarza trochę ciepła, ale więcej światła, spala się wolniej niż zwykłe ognisko. Podobnie jak w przypadku wszystkich źródeł ciepła, należy go umieścić w pomieszczeniu, aby mógł ogrzewać zamknięte pomieszczenie. Wielokrotnego napełniania.</Stone_Campfire.description>
+  <Stone_Campfire_Blueprint.label>Ognisko (Kamienne) (projekt)</Stone_Campfire_Blueprint.label>
+  <Stone_Campfire_Frame.label>Ognisko (Kamienne) (konstrukcja)</Stone_Campfire_Frame.label>
+  <Stone_Campfire_Frame.description>Na tym ognisku można gotować potrawy, które wytwarza trochę ciepła, ale więcej światła, spala się wolniej niż zwykłe ognisko. Podobnie jak w przypadku wszystkich źródeł ciepła, należy go umieścić w pomieszczeniu, aby mógł ogrzewać zamknięte pomieszczenie. Wielokrotnego napełniania.</Stone_Campfire_Frame.description>
+
+
+</LanguageData>

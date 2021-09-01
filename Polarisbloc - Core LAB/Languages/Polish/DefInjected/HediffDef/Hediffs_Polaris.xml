@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cartridge -->
+
+  <Hediff_PloarisCartridge.label>Wkład Ploaris</Hediff_PloarisCartridge.label>
+  <Hediff_PloarisCartridge.description>Wkład może być noszony przez pionka i chroni noszącego przed pewną śmiercią. Noszący zostanie wskrzeszony natychmiast po śmierci. Podany trupowi wkład naprawi i uruchomi ciało z powrotem do życia. \n 
+Więc, czy życie jest równe? Czy naprawdę dobrze jest zamienić swoje życie na życie innej osoby?</Hediff_PloarisCartridge.description>
+
+
+  <!-- medicines -->
+
+  <PolarisHealingPotion.label>silna mikstura lecznicza</PolarisHealingPotion.label>
+  <PolarisHealingPotion.description>Szybka mikstura regeneracji i leczenia, która automatycznie leczy rany. Efekt tej mikstury jest bardzo silny.</PolarisHealingPotion.description>
+
+  <PolarisAntibiotic.label>połączony antybiotyk</PolarisAntibiotic.label>
+  <PolarisAntibiotic.description>Połączenie wielu antybiotyków, które mogą wyleczyć większość powszechnych chorób.</PolarisAntibiotic.description>
+
+  <PolarisReceptorAntagonist.label>Receptor antagonisty</PolarisReceptorAntagonist.label>
+  <PolarisReceptorAntagonist.description>Receptor antagonisty jest lekiem, który blokuje zapotrzebowanie na leki poprzez wiązanie się z receptorem i blokowanie go, zamiast aktywować go jak agonista. Więc ten lek zaspokoi potrzeby chemiczne i jednocześnie złagodzi uzależnienie od narkotyków.</PolarisReceptorAntagonist.description>
+
+
+  <!-- Implants -->
+
+  <PolarisVirtualNetChip.label>wirtualny układ sieciowy</PolarisVirtualNetChip.label>
+  <PolarisVirtualNetChip.description>Chip połączony z siecią wirtualną, którego można używać do rozrywki w razie potrzeby. Co więcej, uspokoi użytkownika, jeśli kiedykolwiek dozna załamania psychicznego.</PolarisVirtualNetChip.description>
+  <PolarisVirtualNetChip.labelNoun>wirtualny układ sieciowy</PolarisVirtualNetChip.labelNoun>
+
+  <PolarisPsionwire.label>Chip psioniczny</PolarisPsionwire.label>
+  <PolarisPsionwire.description>Chip zdolny do stymulowania zdolności psionicznych. Korzystanie z tego chipa może zwiększyć świadomość biologiczną i odporność na ogień.</PolarisPsionwire.description>
+  <PolarisPsionwire.labelNoun>Chip psioniczny</PolarisPsionwire.labelNoun>
+
+
+</LanguageData>

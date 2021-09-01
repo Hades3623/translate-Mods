@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_CookBakeSimple.label>gotuj proste pieczenie x2</VCE_CookBakeSimple.label>
+  <VCE_CookBakeSimple.description>Ugotuj dwa proste zapiekanki szybko ugotowane z mąki.</VCE_CookBakeSimple.description>
+  <VCE_CookBakeSimple.jobString>Gotowanie prostego pieczenia x2.</VCE_CookBakeSimple.jobString>
+
+  <VCE_CookBakeSimpleBulk.label>gotuj proste pieczenie x8</VCE_CookBakeSimpleBulk.label>
+  <VCE_CookBakeSimpleBulk.description>Ugotuj 8 prostych zapiekanek szybko ugotowanych z mąki.</VCE_CookBakeSimpleBulk.description>
+  <VCE_CookBakeSimpleBulk.jobString>Gotowanie prostego pieczenia x8.</VCE_CookBakeSimpleBulk.jobString>
+
+  <VCE_CookBakeFine.label>gotować dobrze piec x2</VCE_CookBakeFine.label>
+  <VCE_CookBakeFine.description>Ugotuj dwa złożone wypieki starannie ułożone z szerokiej gamy składników i mąki.</VCE_CookBakeFine.description>
+  <VCE_CookBakeFine.jobString>Gotowanie dobrze piec x2.</VCE_CookBakeFine.jobString>
+
+  <VCE_CookBakeFineBulk.label>gotować dobrze piec x8</VCE_CookBakeFineBulk.label>
+  <VCE_CookBakeFineBulk.description>Ugotuj 8 złożonych pieczeni starannie ułożonych z szerokiej gamy składników i mąki.</VCE_CookBakeFineBulk.description>
+  <VCE_CookBakeFineBulk.jobString>Gotowanie dobrze upiec x8.</VCE_CookBakeFineBulk.jobString>
+
+  <VCE_CookBakeLavish.label>gotować obficie piec x2</VCE_CookBakeLavish.label>
+  <VCE_CookBakeLavish.description>Ugotuj dwa arcydzieła sztuki kulinarnej, te wypieki odżywi ciało, umysł i duszę.</VCE_CookBakeLavish.description>
+  <VCE_CookBakeLavish.jobString>Gotowanie wystawnego pieczenia x2.</VCE_CookBakeLavish.jobString>
+
+  <VCE_CookBakeLavishBulk.label>gotować obficie piec x8</VCE_CookBakeLavishBulk.label>
+  <VCE_CookBakeLavishBulk.description>Ugotuj 8 arcydzieł sztuki kulinarnej, te wypieki odżywi ciało, umysł i duszę.</VCE_CookBakeLavishBulk.description>
+  <VCE_CookBakeLavishBulk.jobString>Gotowanie wystawnego pieczenia x8.</VCE_CookBakeLavishBulk.jobString>
+
+  <VCE_CookBakeGourmet.label>gotować wyśmienity piec x2</VCE_CookBakeGourmet.label>
+  <VCE_CookBakeGourmet.description>Ugotuj dwa kulinarne dzieła sztuki, charakteryzujące się wyrafinowanym, nawet wyszukanym przygotowaniem i prezentacją wyważonego estetycznie, choć niewielkiej ilości wypieku. \n
+Ten przepis nie pozwala na mieszanie składników.</VCE_CookBakeGourmet.description>
+  <VCE_CookBakeGourmet.jobString>Gotowanie dla smakoszy piec x2.</VCE_CookBakeGourmet.jobString>
+
+
+</LanguageData>

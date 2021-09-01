@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_EnergyShieldEnergyMax.label>osłona maks. energia</VFES_EnergyShieldEnergyMax.label>
+  <VFES_EnergyShieldEnergyMax.description>Maksymalna energia, jaką generator tarczy może mieć w danym momencie. Więcej energii pochłania więcej obrażeń.</VFES_EnergyShieldEnergyMax.description>
+
+  <VFES_EnergyShieldRechargeRate.label>szybkość ładowania tarczy</VFES_EnergyShieldRechargeRate.label>
+  <VFES_EnergyShieldRechargeRate.description>Szybkość, z jaką tarcza zyskuje energię, dopóki nie zostanie złamana.</VFES_EnergyShieldRechargeRate.description>
+  <VFES_EnergyShieldRechargeRate.formatString>{0}/s</VFES_EnergyShieldRechargeRate.formatString>
+
+  <VFES_EnergyShieldRadius.label>promień tarczy</VFES_EnergyShieldRadius.label>
+  <VFES_EnergyShieldRadius.description>Obszar pokryty, gdy tarcza energetyczna jest aktywna.</VFES_EnergyShieldRadius.description>
+  <VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+
+
+</LanguageData>

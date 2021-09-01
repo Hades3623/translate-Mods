@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_Cholesterol.label>cholesterol</VCE_Cholesterol.label>
+  <VCE_Cholesterol.description>Organizm ludzki potrzebuje cholesterolu do budowy zdrowych komórek, ale wysoki poziom cholesterolu może zwiększać ryzyko chorób serca. Przy wysokim poziomie cholesterolu w naczyniach krwionośnych powstają złogi tłuszczowe. W końcu te złogi rosną, utrudniając przepływ wystarczającej ilości krwi przez tętnice.</VCE_Cholesterol.description>
+  <VCE_Cholesterol.stages.0.label>pomijalny (brak efektu)</VCE_Cholesterol.stages.0.label>
+  <VCE_Cholesterol.stages.1.label>drobne (bez efektu)</VCE_Cholesterol.stages.1.label>
+  <VCE_Cholesterol.stages.2.label>poważny</VCE_Cholesterol.stages.2.label>
+  <VCE_Cholesterol.stages.3.label>skrajny</VCE_Cholesterol.stages.3.label>
+
+  <VCE_Diabetes.label>cukrzyca</VCE_Diabetes.label>
+  <VCE_Diabetes.description>Cukrzyca to grupa zaburzeń metabolicznych charakteryzujących się wysokim poziomem cukru we krwi przez dłuższy okres czasu. Objawy często obejmują częste oddawanie moczu, zwiększone pragnienie i zwiększony apetyt.</VCE_Diabetes.description>
+  <VCE_Diabetes.stages.0.label>pomijalny (brak efektu)</VCE_Diabetes.stages.0.label>
+  <VCE_Diabetes.stages.1.label>drobne (bez efektu)</VCE_Diabetes.stages.1.label>
+  <VCE_Diabetes.stages.2.label>poważny</VCE_Diabetes.stages.2.label>
+  <VCE_Diabetes.stages.3.label>skrajny</VCE_Diabetes.stages.3.label>
+
+  <VCE_HighBloodPressure.label>wysokie ciśnienie krwi</VCE_HighBloodPressure.label>
+  <VCE_HighBloodPressure.description>Wysokie ciśnienie krwi, zwane również nadciśnieniem, jest częstym stanem, w którym długotrwała siła krwi na ścianach tętnic jest na tyle duża, że ​​ostatecznie może powodować problemy zdrowotne, takie jak choroby serca.</VCE_HighBloodPressure.description>
+  <VCE_HighBloodPressure.stages.0.label>pomijalny (brak efektu)</VCE_HighBloodPressure.stages.0.label>
+  <VCE_HighBloodPressure.stages.1.label>drobne (bez efektu)</VCE_HighBloodPressure.stages.1.label>
+  <VCE_HighBloodPressure.stages.2.label>poważny</VCE_HighBloodPressure.stages.2.label>
+  <VCE_HighBloodPressure.stages.3.label>skrajny</VCE_HighBloodPressure.stages.3.label>
+
+
+</LanguageData>

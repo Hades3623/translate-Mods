@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Food crops -->
+
+  <VCE_Sugarcane.label>roślina trzciny cukrowej</VCE_Sugarcane.label>
+  <VCE_Sugarcane.description>Gęsta, wysoka, tropikalna trawa ze złączonymi łodygami. Chociaż sama w sobie nie jest najbardziej pożywną rzeczą do spożycia, ta genetycznie modyfikowana trzcina cukrowa jest łatwo mielona na cukier, a następnie używana do różnych kulinarnych kreacji - zwłaszcza deserów.</VCE_Sugarcane.description>
+
+  <VCE_Allspice.label>ziele angielskie</VCE_Allspice.label>
+  <VCE_Allspice.description>Anomalne, liściaste winorośl o malutkich, niesmacznych zielonych owocach. Drobno zmielone podczas gotowania owoce wydzielają złożony, pieprzny smak, idealny do przyprawiania potraw.</VCE_Allspice.description>
+
+  <VCE_Wheat.label>roślina pszenicy</VCE_Wheat.label>
+  <VCE_Wheat.description>Bursztynowa roślina zbożowa, której owocowanie trwa prawie cały sezon wegetacyjny. Choć krucha i czasochłonna, ta pszenica została genetycznie zmodyfikowana, aby delikatnie rozpadać się na mąkę jednym dotknięciem.</VCE_Wheat.description>
+
+
+</LanguageData>

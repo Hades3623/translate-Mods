@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Deployable Barrier -->
+
+  <VFES_DeployableBarrier.label>przenośna bariera</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Podwodna bariera, która działa jak zwykła płytka podłogowa, gdy nie jest zasilana. Zapewnia doskonałą osłonę przed atakami dystansowymi. Po zanurzeniu otrzymuje o połowę mniej obrażeń.</VFES_DeployableBarrier.description>
+
+
+  <!-- Deployable Turret -->
+
+  <VFES_Turret_FloorTurret.label>odczepiana wieżyczka</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Podwodna, wojskowa, automatyczna wieżyczka o podwójnej lufie, która działa jak zwykła płytka podłogowa, gdy nie jest zasilana. Po zanurzeniu otrzymuje o połowę mniej obrażeń. Wymaga stali do odnawiania luf po intensywnym użytkowaniu. Może eksplodować po uszkodzeniu. Jej głupi mózg SI nie może być bezpośrednio kontrolowany, więc uważaj.</VFES_Turret_FloorTurret.description>
+
+  <VFES_Gun_FloorTurret.label>podwodna wojskowa wieżyczka z podwójnym karabinem</VFES_Gun_FloorTurret.label>
+  <VFES_Gun_FloorTurret.description>Dwa proste działa automatyczne przeznaczone do montażu na wieżyczce.</VFES_Gun_FloorTurret.description>
+
+
+  <!-- HMG Complex (3.15,1.45) -->
+
+  <VFES_Turret_HMGComplex.label>Kompleks HMG</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Stacjonarny ciężki karabin maszynowy wsparty kilkoma workami z piaskiem dla osłony.</VFES_Turret_HMGComplex.description>
+
+  <VFES_Gun_HMGComplex.label>zamontowany HMG</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Montowana odmiana ciężkiego karabinu maszynowego.</VFES_Gun_HMGComplex.description>
+
+  <VFES_Bullet_HMGComplex.label>Pocisk HMG</VFES_Bullet_HMGComplex.label>
+
+
+</LanguageData>
