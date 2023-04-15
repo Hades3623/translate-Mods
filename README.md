@@ -9,6 +9,9 @@ Chcesz dołączyć do społeczności gry RimWorld?
 
 Zapraszamy! LINK: https://discord.gg/WZksa8G
 
+
+
+
 [EN]
 
 Github dedicated to Polish translations of Rimworld modifications
