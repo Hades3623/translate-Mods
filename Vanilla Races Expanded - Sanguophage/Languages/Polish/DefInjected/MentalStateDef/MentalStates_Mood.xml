@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Hemohunter.label>hemołowca</VRE_Hemohunter.label>
+  <VRE_Hemohunter.beginLetter>{0} stał się hemołowcą! \n\n[PAWN_pronoun] będzie pozyskiwał hemogen od każdej osoby, którą zobaczy, aż poziom hemogenu [PAWN_pronoun] osiągnie bezpieczny poziom.</VRE_Hemohunter.beginLetter>
+  <VRE_Hemohunter.recoveryMessage>Hemołowca {0} odzyskał/odzyskała zdrowie psychiczne.</VRE_Hemohunter.recoveryMessage>
+  <VRE_Hemohunter.baseInspectLine>Stan psychiczny: Hemołowca</VRE_Hemohunter.baseInspectLine>
+
+
+</LanguageData>

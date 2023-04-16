@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Coagulate_SingleUse.label>krzepnięcie</VRE_Coagulate_SingleUse.label>
+  <VRE_Coagulate_SingleUse.description>Użyj specjalnych gruczołów w nadgarstkach, aby szybko zatroszczyć się o czyjeś rany.</VRE_Coagulate_SingleUse.description>
+
+  <VRE_PiercingSpine_SingleUse.label>przebijający kolec</VRE_PiercingSpine_SingleUse.label>
+  <VRE_PiercingSpine_SingleUse.description>Wykorzystaj hemogeniczną reakcję chemiczną, aby wystrzelić kolczastą kręgosłupową igłę w kierunku celu. Igła wychodzi przez skórę z otworu między obojczykami. Dzięki temu, że jest wystrzeliwana, jest zaskakująco łatwa do nakierowania.</VRE_PiercingSpine_SingleUse.description>
+
+  <VRE_AcidSpray_SingleUse.label>toksyczny spray</VRE_AcidSpray_SingleUse.label>
+  <VRE_AcidSpray_SingleUse.description>Spryskaj kleistą kwasową substancję z gruczołów w szyi poprzez usta i na całą obszar celu. Kwas będzie przylegać do celów i je parzyć.</VRE_AcidSpray_SingleUse.description>
+
+  <VRE_ToxicCloud_SingleUse.label>toksyczna chmura</VRE_ToxicCloud_SingleUse.label>
+  <VRE_ToxicCloud_SingleUse.description>Wydzielaj gęsty toksyczny dym z specjalnych organicznych zbiorników w płucach. Gaz trujący jest śmiercionośny dla niemal każdego stworzenia.</VRE_ToxicCloud_SingleUse.description>
+
+  <VRE_FilterInfection_SingleUse.label>filtracja infekcji</VRE_FilterInfection_SingleUse.label>
+  <VRE_FilterInfection_SingleUse.description>Dotknij celu i pomóż mu walczyć z infekcjami. Działa na zwierzęta i ludzi.</VRE_FilterInfection_SingleUse.description>
+
+  <VRE_Ecstasy_SingleUse.label>ekstasy</VRE_Ecstasy_SingleUse.label>
+  <VRE_Ecstasy_SingleUse.description>Przywołaj u celu uczucie skrajnego uniesienia na krótki czas, co sprawi, że osoba ta zakocha się w rzucającym czarodzieju.</VRE_Ecstasy_SingleUse.description>
+
+  <VRE_Hemosmosis_SingleUse.label>hemosmoza</VRE_Hemosmosis_SingleUse.label>
+  <VRE_Hemosmosis_SingleUse.description>Wysysaj brudną krew z obszaru wokół sanguofaga i przetwarzaj ją w hemogen.</VRE_Hemosmosis_SingleUse.description>
+
+  <VRE_ViscuousGoo_SingleUse.label>lepkie wymiociny</VRE_ViscuousGoo_SingleUse.label>
+  <VRE_ViscuousGoo_SingleUse.description>Wypuść pocisk, który eksploduje przy uderzeniu i tworzy dużą ilość brudu, co znacznie spowalnia ludzi próbujących przez niego przejść.</VRE_ViscuousGoo_SingleUse.description>
+
+  <VRE_HeartCrush_SingleUse.label>złamanie serca</VRE_HeartCrush_SingleUse.label>
+  <VRE_HeartCrush_SingleUse.description>Wyryj serce wroga z bliskiej odległości, co natychmiastowo zabije go i pokryje okolicę krwią.</VRE_HeartCrush_SingleUse.description>
+
+
+</LanguageData>

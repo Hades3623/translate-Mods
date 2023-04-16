@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_AnimalFeeder.label>pokarm zwierzęcy</VRE_AnimalFeeder.label>
+  <VRE_AnimalFeeder.description>Nosiciele tego genu mają małe chowane kły i organ na podniebieniu, który może pobierać hemogen ze świeżej, ciepłej krwi. Mogą ugryźć każde zwierzę, wyssać krew i bezpośrednio pozyskać hemogen. Może to czasem sprawić, że zwierzę zaatakuje nosiciela genu.</VRE_AnimalFeeder.description>
+
+  <VRE_CorpseFeeder.label>pokarm ze zwłok</VRE_CorpseFeeder.label>
+  <VRE_CorpseFeeder.description>Nosiciele tego genu mają małe chowane kły i organ na podniebieniu, który może pobierać hemogen z zimnej, gnijącej krwi. Mogą ugryźć każde ludzkie zwłoki, wyssać krew i bezpośrednio pozyskać hemogen.</VRE_CorpseFeeder.description>
+
+  <VRE_SanguoFeeder.label>pokarm z sanguine</VRE_SanguoFeeder.label>
+  <VRE_SanguoFeeder.description>Nosiciele tego genu mają małe chowane kły i organ na podniebieniu, który może pobierać hemogen ze świeżej, ciepłej krwi innych sangwiników. Mogą ugryźć niestawiającego oporu sanguine, wyssać krew i bezpośrednio pozyskać hemogen.</VRE_SanguoFeeder.description>
+
+
+</LanguageData>

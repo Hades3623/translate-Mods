@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_HemogenPipe.label>rura hemogenu</VRE_HemogenPipe.label>
+  <VRE_HemogenPipe.description>Rura używana do transportu hemogenu między kranami, odpływami, zbiornikami a konstrukcjami zasilanymi hemogenem.</VRE_HemogenPipe.description>
+  <VRE_HemogenPipe_Blueprint.label>rura hemogenu (schemat)</VRE_HemogenPipe_Blueprint.label>
+  <VRE_HemogenPipe_Frame.label>rura hemogenu (budowa)</VRE_HemogenPipe_Frame.label>
+  <VRE_HemogenPipe_Frame.description>Rura używana do transportu hemogenu między kranami, odpływami, zbiornikami a konstrukcjami zasilanymi hemogenem.</VRE_HemogenPipe_Frame.description>
+
+  <VRE_UndergroundHemogenPipe.label>podziemna rura hemogenu</VRE_UndergroundHemogenPipe.label>
+  <VRE_UndergroundHemogenPipe.description>Podziemne stalowe rury zaprojektowane do transportu hemogenu między kranami, odpływami, zbiornikami a konstrukcjami zasilanymi hemogenem.</VRE_UndergroundHemogenPipe.description>
+  <VRE_UndergroundHemogenPipe_Blueprint.label>podziemna rura hemogenu (schemat)</VRE_UndergroundHemogenPipe_Blueprint.label>
+  <VRE_UndergroundHemogenPipe_Frame.label>podziemna rura hemogenu (budowa)</VRE_UndergroundHemogenPipe_Frame.label>
+  <VRE_UndergroundHemogenPipe_Frame.description>Podziemne stalowe rury zaprojektowane do transportu hemogenu między kranami, odpływami, zbiornikami a konstrukcjami zasilanymi hemogenem.</VRE_UndergroundHemogenPipe_Frame.description>
+
+  <VRE_HemogenValve.label>zawór hemogenu</VRE_HemogenValve.label>
+  <VRE_HemogenValve.description>Przełącza przepływ hemogenu on/off.</VRE_HemogenValve.description>
+  <VRE_HemogenValve_Blueprint.label>zawór hemogenu (schemat)</VRE_HemogenValve_Blueprint.label>
+  <VRE_HemogenValve_Frame.label>zawór hemogenu (budowa)</VRE_HemogenValve_Frame.label>
+  <VRE_HemogenValve_Frame.description>Przełącza przepływ hemogenu on/off.</VRE_HemogenValve_Frame.description>
+
+  <VRE_HemogenVat.label>zbiornik na hemogen</VRE_HemogenVat.label>
+  <VRE_HemogenVat.description>Przemysłowy zbiornik na ciecz, przeznaczony do przechowywania hemogenu dostarczanego przez sieć rur hemogenu. Zbiorniki mogą być oznaczone do pobierania hemogenu do użytku w miarę potrzeb.</VRE_HemogenVat.description>
+
+  <VRE_HemogenTap.label>kran hemogenu</VRE_HemogenTap.label>
+  <VRE_HemogenTap.description>Zbiornik do przechowywania hemogenu, przeznaczony do jego wykorzystania w przyszłości.</VRE_HemogenTap.description>
+
+  <VRE_HemogenDrain.label>odpływ hemogenu</VRE_HemogenDrain.label>
+  <VRE_HemogenDrain.description>Zbiornik do przechowywania hemogenu, przeznaczony do wprowadzania go do sieci, zapełniając połączone zbiorniki.</VRE_HemogenDrain.description>
+
+  <VRE_Draincasket.label>trumna odsysająca hemogen</VRE_Draincasket.label>
+  <VRE_Draincasket.description>Złowrogi wynalazek przeznaczony do wydobywania hemogenu z osoby, jednocześnie utrzymujący minimalny poziom jej siły życiowej. Ta mroczna i złowieszcza trumna utrzymuje swojego mieszkańca w stanie zmierzchu egzystencji, a jego ciało stopniowo jest pozbawiane cennego hemogenu. Więź z Draincasketem oznacza, że przetrwanie mieszkańca zależy od regularnego karmienia, ponieważ nadal może on umrzeć z głodu.\n\nProdukuje 1 opakowanie hemogenu dziennie, pod warunkiem, że mieszkaniec ma jedzenie, a trumna jest podłączona do sieci hemogenu. Jeśli zostanie pozbawiony jedzenia, trumna zabije swojego mieszkańca w ciągu około 2 dni.\n\nJeśli posiadasz rozszerzenie Vanilla Nutrient Paste Expanded, to będzie pobierać składniki odżywcze z tej sieci, o ile jest więcej niż 1 jednostka posiłku dostępna.</VRE_Draincasket.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_HemogenPack_Animal.label>pakiet hemogenu (zwierzęcy)</VRE_HemogenPack_Animal.label>
+  <VRE_HemogenPack_Animal.description>Hemogen zwierzęcy. Zwiększa zdolność regeneracji i walki użytkownika, ale znacznie ogranicza zdolność do komunikowania się z innymi.</VRE_HemogenPack_Animal.description>
+
+  <VRE_HemogenPack_Corpse.label>pakiet hemogenu (zwłoki)</VRE_HemogenPack_Corpse.label>
+  <VRE_HemogenPack_Corpse.description>Zanieczyszczony, gnijący hemogen z ciała. Znacznie osłabia nosiciela tego rodzaju hemogenu, ale znacznie zwiększa filtrację krwi.</VRE_HemogenPack_Corpse.description>
+
+  <VRE_HemogenPack_Sanguophage.label>pakiet hemogenu (sanguofag)</VRE_HemogenPack_Sanguophage.label>
+  <VRE_HemogenPack_Sanguophage.description>Czysty, gęsty hemogen innego krewopijcy. Najrzadszy ze wszystkich rodzajów hemogenu, daje nosicielowi potężny impuls do wszystkich zdolności.</VRE_HemogenPack_Sanguophage.description>
+
+
+</LanguageData>

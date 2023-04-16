@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_AnimalFeed.label>pasza ze zwierząt</VRE_AnimalFeed.label>
+  <VRE_AnimalFeed.description>Ugryź zwierzę docelowe i wyciśnij z jego krwi hemogen bezpośrednio. Zwierzę straci krew i będzie przerażone interakcją, co może spowodować, że zacznie się buntować. Szybko działający środek krzepnący zatka ranę, aby zapobiec krwawieniu.\n\nMożna używać tylko przeciwko zwierzętom.</VRE_AnimalFeed.description>
+
+  <VRE_CorpseFeed.label>pasza ze zwłok</VRE_CorpseFeed.label>
+  <VRE_CorpseFeed.description>Ugryź cel - zwłoki - i wyciśnij bezpośrednio hemogen z ich krwi. Zwłoki stracą całą pozostałą krew.\n\nMożna używać tylko przeciwko ludzkim zwłokom.</VRE_CorpseFeed.description>
+
+  <VRE_SanguoFeed.label>pasza z ciała</VRE_SanguoFeed.label>
+  <VRE_SanguoFeed.description>Ugryź cel i wyciśnij bezpośrednio hemogen z jego krwi. Cel straci krew i będzie obrażony przez interakcję. Szybko działający środek krzepnący zatka ranę, aby zapobiec krwawieniu.\n\nMożna używać tylko przeciwko hemogenicznym ludziom.</VRE_SanguoFeed.description>
+
+  <VRE_Ecstasy.label>ekstaza</VRE_Ecstasy.label>
+  <VRE_Ecstasy.description>Przyznaj celowi uczucie skrajnej ekstazy na krótki czas, co sprawia, że zakochują się w czarowniku bez pamiętania.</VRE_Ecstasy.description>
+
+  <VRE_HeartCrush.label>złamanie serca</VRE_HeartCrush.label>
+  <VRE_HeartCrush.description>Wyryj serce wroga z bliskiej odległości, co natychmiastowo zabije go i pokryje okolicę krwią.</VRE_HeartCrush.description>
+
+  <VRE_FilterInfection.label>filtracja infekcji</VRE_FilterInfection.label>
+  <VRE_FilterInfection.description>Połóż ręce na celu i pomóż mu walczyć z infekcjami. Działa na zwierzęta i ludzi.</VRE_FilterInfection.description>
+
+  <VRE_Hemosmosis.label>hemosmoza</VRE_Hemosmosis.label>
+  <VRE_Hemosmosis.description>Wysysaj brudną krew z obszaru wokół sanguofaga i przetwarzaj ją w hemogen</VRE_Hemosmosis.description>
+
+  <VRE_Resurrect.label>wskrzeszenie</VRE_Resurrect.label>
+  <VRE_Resurrect.description>Użyj architów obecnych we krwiobiegu, aby wprawić ciało zmarłego w nowe życie, naprawiając zdegenerowane struktury komórkowe i ponownie uruchamiając funkcje życiowe. Im starsze i bardziej zdegradowane ciało, tym bardziej prawdopodobne, że zmartwychwstały będzie cierpiał na utratę pamięci lub problemy zdrowotne. Ta umiejętność wyczerpuje architów w jakimś stopniu, więc można jej użyć bardzo rzadko</VRE_Resurrect.description>
+
+  <VRE_ToxicCloud.label>toksyczna chmura</VRE_ToxicCloud.label>
+  <VRE_ToxicCloud.description>Wydalaj z płuc gęsty, toksyczny dym z specjalnych organicznych zbiorników. Gaz trujący jest zabójczy dla prawie każdego stworzenia.</VRE_ToxicCloud.description>
+
+  <VRE_ViscuousGoo.label>lepkie wymiociny</VRE_ViscuousGoo.label>
+  <VRE_ViscuousGoo.description>Wypuść pocisk, który eksploduje przy uderzeniu i tworzy dużą ilość brudu, co znacznie spowalnia ludzi próbujących przez niego przejść.</VRE_ViscuousGoo.description>
+
+
+</LanguageData>
