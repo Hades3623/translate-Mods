@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[journey] to the [ruins]</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.0>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.1>journey-&gt;Journey</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.1>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.2>journey-&gt;Expedition</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.2>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.3>journey-&gt;Treasure hunt</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.3>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.4>journey-&gt;Adventure</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.4>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.5>ruins-&gt;Sealed vault</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.5>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.6>ruins-&gt;Locked vault</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.6>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.7>ruins-&gt;Ancient vault</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.7>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.8>ruins-&gt;Secured vault</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.8>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.9>ruins-&gt;Hidden vault</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.9>
+  <VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;We've intercepted messages about a sealed vault not far from [map_definite]. The site is full of ancient technology and relics.\n\nIt seems that it is still defended by ancient soldiers.</VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings.0>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.3.name>asker</VFEA_OpportunitySite_SealedVault.root.nodes.3.name>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.3.elseNode.nodes.0.name>askerIsNull</VFEA_OpportunitySite_SealedVault.root.nodes.3.elseNode.nodes.0.name>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.9.node.nodes.0.label>Quest expired: [resolvedQuestName]</VFEA_OpportunitySite_SealedVault.root.nodes.9.node.nodes.0.label>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.9.node.nodes.0.text>Intercepted communications indicate the sealed vault has been opened and scavenged by others. The quest [resolvedQuestName] has expired.</VFEA_OpportunitySite_SealedVault.root.nodes.9.node.nodes.0.text>
+
+
+</LanguageData>

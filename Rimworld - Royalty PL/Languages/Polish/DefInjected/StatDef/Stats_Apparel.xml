@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JumpRange.label>Zakres skoku</JumpRange.label>
+  <JumpRange.description>Maksymalna odległość skoku.</JumpRange.description>
+  <JumpRange.formatString>{0} c</JumpRange.formatString>
+
+
+</LanguageData>

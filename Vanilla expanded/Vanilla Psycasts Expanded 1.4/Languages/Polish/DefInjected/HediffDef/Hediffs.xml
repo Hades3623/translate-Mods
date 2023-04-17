@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Recharge.label>doładowanie</VPE_Recharge.label>
+  <VPE_Recharge.description>Energia elektryczna jest kierowana do pobliskiej baterii.</VPE_Recharge.description>
+
+  <VPE_Vortex.label>wir</VPE_Vortex.label>
+  <VPE_Vortex.description>Wir elektryczny powoduje trudności w poruszaniu się.</VPE_Vortex.description>
+
+  <VPE_Hurricane.label>huragan</VPE_Hurricane.label>
+  <VPE_Hurricane.description>Huragan powoduje trudności w poruszaniu się i widzeniu.</VPE_Hurricane.description>
+
+  <VPE_Bliss.label>błogostan</VPE_Bliss.label>
+  <VPE_Bliss.description>Fale spokoju emanują głęboko z wnętrza, przynosząc spokój umysłu i obniżając świadomość.</VPE_Bliss.description>
+
+  <VPE_AgeSickness.label>choroba starcza</VPE_AgeSickness.label>
+  <VPE_AgeSickness.description>Choroba psychiczna związana z wiekiem znacznie zmniejsza manipulację i świadomość.</VPE_AgeSickness.description>
+
+  <VPE_PsychicDrone.label>dron psychiczny</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.description>Silna siła psychiczna wpływająca na każdego podobnego do człowieka wroga w okolicy, sprawiając, że czują się bardziej zaniepokojeni, przerażeni i paranoiczni.</VPE_PsychicDrone.description>
+
+  <VPE_IceShield.label>lodowa tarcza</VPE_IceShield.label>
+  <VPE_IceShield.description>Psychiczna tarcza, która chroni przed hipotermią i zamrażającymi wrogami, którzy wchodzą z nią w interakcję.</VPE_IceShield.description>
+
+  <VPE_FrostRay.label>mroźny promień</VPE_FrostRay.label>
+  <VPE_FrostRay.description>Silnie niszczący i mroźny promień mrozu.</VPE_FrostRay.description>
+
+  <VPE_IceBlock.label>zamrożona bryła</VPE_IceBlock.label>
+  <VPE_IceBlock.description>Istota jest całkowicie zamrożona w bryle lodu i nie będzie mogła się poruszać, dopóki się nie roztopi.</VPE_IceBlock.description>
+
+  <VPE_BlizzardSource.label>rzucający zamieć</VPE_BlizzardSource.label>
+  <VPE_BlizzardSource.description>Ta istota rzuca zamieć.</VPE_BlizzardSource.description>
+
+  <VPE_Blizzard.label>zamieć</VPE_Blizzard.label>
+  <VPE_Blizzard.description>Ogromny wiatr z ekstremalnym śniegiem, który obniża wzrok, manipulację i szybkość poruszania się.</VPE_Blizzard.description>
+
+  <VPE_Haywire.label>pogmatwany</VPE_Haywire.label>
+  <VPE_Haywire.description>Psychicznie zhakowane oprogramowanie, które zakłóca operacje IFF.</VPE_Haywire.description>
+
+  <VPE_InfinitePower.label>zasilanie</VPE_InfinitePower.label>
+  <VPE_InfinitePower.description>Generowanie nieskończonych dostaw energii elektrycznej do danej konstrukcji.</VPE_InfinitePower.description>
+
+  <VPE_AnimalOvershield.label>tarcza zwierząt</VPE_AnimalOvershield.label>
+  <VPE_AnimalOvershield.description>Osłona chroniąca zwierzę przed atakami dystansowymi.</VPE_AnimalOvershield.description>
+
+  <VPE_Smartbuzz.label>inteligentny szum</VPE_Smartbuzz.label>
+  <VPE_Smartbuzz.description>Wywołane psychicznie uczucia jasności i ciekawości. Poprawia to szybkość badań, a także szybkość zdobywania umiejętności.</VPE_Smartbuzz.description>
+
+  <VPE_Essence.label>Esencja</VPE_Essence.label>
+  <VPE_Essence.description>Psychicznie rozszczepiony fragment czyjejś osobowości przepojony tym właśnie bytem.</VPE_Essence.description>
+
+  <VPE_Darkvision.label>mroczna wizja</VPE_Darkvision.label>
+  <VPE_Darkvision.description>Psychicznie indukowana zdolność widzenia przez ciemność i cienie.</VPE_Darkvision.description>
+
+  <VPE_Darkvision_Display.label>mroczna wizja</VPE_Darkvision_Display.label>
+  <VPE_Darkvision_Display.description>Widzenie w nocy wywołane psychicznie.</VPE_Darkvision_Display.description>
+
+  <VPE_Productivity.label>wydajność psychiczna</VPE_Productivity.label>
+  <VPE_Productivity.description>Wywołana ssychicznie poprawa szybkości pracy.</VPE_Productivity.description>
+
+  <VPE_PsychicSoothe.label>psychiczne ukojenie</VPE_PsychicSoothe.label>
+  <VPE_PsychicSoothe.description>Wywołane psychicznie, samozadowolone zniekształcenia percepcyjne, dające chwilowy wzrost nastroju.</VPE_PsychicSoothe.description>
+
+  <VPE_GroupLink.label>psychiczne przywiązanie</VPE_GroupLink.label>
+  <VPE_GroupLink.description>Psychicznie wywołany związek między kilkoma bytami. Każde „słowo” psychocastu będzie rezonować między wszystkimi powiązanymi osobami.</VPE_GroupLink.description>
+
+  <VPE_PsychicPain.label>ból psychiczny</VPE_PsychicPain.label>
+  <VPE_PsychicPain.description>Wywołany psychicznie ekstremalny ból fizyczny.</VPE_PsychicPain.description>
+
+  <VPE_Protection.label>ochrona psychiczna</VPE_Protection.label>
+  <VPE_Protection.description>Psychicznie indukowana fizyczna ochrona przed nadchodzącymi obrażeniami.</VPE_Protection.description>
+
+  <VPE_Hallucination.label>halucynacja</VPE_Hallucination.label>
+  <VPE_Hallucination.description>Silna sugestia psychiczna, która zmienia rzeczywistość w oczach dotkniętych nią osób, sprawiając, że postrzegają swoje codzienne życie jako luksus.</VPE_Hallucination.description>
+
+  <VPE_Liferot.label>zgnilizna</VPE_Liferot.label>
+  <VPE_Liferot.description>Masowa martwica wywołana psychicznie, powodująca gnicie żywych i zdrowych kończyn i narządów w ofierze.</VPE_Liferot.description>
+
+  <VPE_Rot.label>gnić</VPE_Rot.label>
+  <VPE_Rot.description>Zgnilizna.</VPE_Rot.description>
+  <VPE_Rot.comps.1.labelTendedWell>zabandażowany</VPE_Rot.comps.1.labelTendedWell>
+  <VPE_Rot.comps.1.labelTendedWellInner>pielęgnowany</VPE_Rot.comps.1.labelTendedWellInner>
+  <VPE_Rot.comps.1.labelSolidTendedWell>pielęgnowany</VPE_Rot.comps.1.labelSolidTendedWell>
+  <VPE_Rot.injuryProps.destroyedLabel>Zgniły</VPE_Rot.injuryProps.destroyedLabel>
+  <VPE_Rot.injuryProps.destroyedOutLabel>Zgniły</VPE_Rot.injuryProps.destroyedOutLabel>
+
+  <VPE_GainedVitality.label>witalność psychiczna</VPE_GainedVitality.label>
+  <VPE_GainedVitality.description>Psychicznie wywołana kradzież witalność innej osobie.</VPE_GainedVitality.description>
+
+  <VPE_LostVitality.label>psychiczna słabość</VPE_LostVitality.label>
+  <VPE_LostVitality.description>Osłabienie psychiczne wywołane kradzieżą witalności przez inną osobę.</VPE_LostVitality.description>
+
+  <VPE_Ghostwalk.label>spacer duchów</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.description>Psychicznie wywołane fazowanie materii.</VPE_Ghostwalk.description>
+
+  <VPE_CorpseTalk.label>rozmowa trupa</VPE_CorpseTalk.label>
+  <VPE_CorpseTalk.description>Psychicznie wywołany związek z duchem zmarłej osoby.</VPE_CorpseTalk.description>
+
+  <VPE_BodiesConsumed.label>konsumowane ciał</VPE_BodiesConsumed.label>
+  <VPE_BodiesConsumed.description>Ilość ciał, które zostały skonsumowane za pomocą psychocastu konsumowanie ciał. Każde skonsumowane ciało zwiększa maksymalną ilość ciepła neuronowego o 1.</VPE_BodiesConsumed.description>
+
+  <VPE_DeathShield.label>tarcza śmierci</VPE_DeathShield.label>
+  <VPE_DeathShield.description>Psychicznie wywołana nieśmiertelność, która trwa jeden dzień.</VPE_DeathShield.description>
+
+  <VPE_Obscured.label>niewidzialność</VPE_Obscured.label>
+  <VPE_Obscured.description>Niewidzialność wywołana psychicznie.</VPE_Obscured.description>
+
+  <VPE_Shadowfocus.label>skupienie cienia</VPE_Shadowfocus.label>
+  <VPE_Shadowfocus.description>Psychicznie wywołany wzrost wrażliwości psychicznej, wynikający z braku światła wokół psycastera.</VPE_Shadowfocus.description>
+
+
+</LanguageData>

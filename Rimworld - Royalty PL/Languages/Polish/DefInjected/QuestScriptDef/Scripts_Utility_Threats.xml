@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Util_ManhunterPack.questDescriptionRules.rulesStrings.0>threatDescription-&gt;a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat) will arrive.</Util_ManhunterPack.questDescriptionRules.rulesStrings.0>
+  <Util_Infestation.questDescriptionRules.rulesStrings.0>threatDescription-&gt;(*Threat)[hivesCount] insect hives(/Threat) will burrow up from underground.</Util_Infestation.questDescriptionRules.rulesStrings.0>
+
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.0>threatDescription-&gt;a new site will appear nearby, where [allSitePartsDescriptions] This threat will remain until you go destroy it.</Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.0>
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.1>defaultSiteAppearedLetterText-&gt;A new site has appeared nearby.\n\n[allSitePartsDescriptions]</Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.1>
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.2>defaultSiteAppearedLetterLabel-&gt;Site appeared: [site_label]</Util_SpawnSiteThreat.questDescriptionRules.rulesStrings.2>
+  <Util_SpawnSiteThreat.root.nodes.1.name>siteDistRange</Util_SpawnSiteThreat.root.nodes.1.name>
+  <Util_SpawnSiteThreat.root.nodes.2.name>hiddenSitePartsPossible</Util_SpawnSiteThreat.root.nodes.2.name>
+  <Util_SpawnSiteThreat.root.nodes.3.node.name>sitePartsTags</Util_SpawnSiteThreat.root.nodes.3.node.name>
+  <Util_SpawnSiteThreat.root.nodes.3.elseNode.node.name>sitePartsTags</Util_SpawnSiteThreat.root.nodes.3.elseNode.node.name>
+  <Util_SpawnSiteThreat.root.nodes.3.elseNode.elseNode.nodes.0.name>sitePartsTags</Util_SpawnSiteThreat.root.nodes.3.elseNode.elseNode.nodes.0.name>
+  <Util_SpawnSiteThreat.root.nodes.3.elseNode.elseNode.nodes.1.name>hiddenSitePartsPossible</Util_SpawnSiteThreat.root.nodes.3.elseNode.elseNode.nodes.1.name>
+  <Util_SpawnSiteThreat.root.nodes.6.node.elseNode.node.name>hiddenSitePartsPossible</Util_SpawnSiteThreat.root.nodes.6.node.elseNode.node.name>
+  <Util_SpawnSiteThreat.root.nodes.10.node.node.name>customLetterText</Util_SpawnSiteThreat.root.nodes.10.node.node.name>
+  <Util_SpawnSiteThreat.root.nodes.11.node.node.name>customLetterLabel</Util_SpawnSiteThreat.root.nodes.11.node.node.name>
+  <Util_SpawnSiteThreat.root.nodes.12.label>$customLetterLabel</Util_SpawnSiteThreat.root.nodes.12.label>
+  <Util_SpawnSiteThreat.root.nodes.12.text>$customLetterText</Util_SpawnSiteThreat.root.nodes.12.text>
+
+
+  <!-- Initiate a random negative game condition. Duration will be something typical for that condition.
+    Params:
+      map                     : Map to get the condition
+    Out:
+      gameConditionDifficulty : A rating of the difficulty of the chosen game condition, per day. Useful for calculating rewards -->
+
+  <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings.0>threatDescription-&gt;[gameConditionDescriptionFuture].</Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings.0>
+
+
+</LanguageData>

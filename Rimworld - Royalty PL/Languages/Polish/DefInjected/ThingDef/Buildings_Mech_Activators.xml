@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActivatorCountdown.label>aktywator odliczania</ActivatorCountdown.label>
+  <ActivatorCountdown.description>Czasowa jednostka aktywująca mechanoidy. Po odliczeniu obudzi pobliskie uśpione mechanoidy i struktury.</ActivatorCountdown.description>
+
+  <ActivatorProximity.label>aktywator zbliżeniowy</ActivatorProximity.label>
+  <ActivatorProximity.description>Alarm zbliżeniowy dla uśpionych mechanoidów. Jeśli wykryje w pobliżu podobne do człowieka zagrożenie, obudzi znajdujące się w pobliżu uśpione mechanoidy lub struktury.</ActivatorProximity.description>
+
+
+</LanguageData>

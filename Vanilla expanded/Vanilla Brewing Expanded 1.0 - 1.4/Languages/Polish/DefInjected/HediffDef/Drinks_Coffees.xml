@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.label>wysoka gorąca kawa</VBE_HotCoffeeHigh.label>
+  <VBE_HotCoffeeHigh.description>Kofeina naturalnie występująca w kawie po zmetabolizowaniu zwiększa bodźce w układzie nerwowym, tłumiąc potrzebę snu, a także oczyszczając umysł. Zwiększa szybkość uczenia się o 15% i zmniejsza o 15% wskaźnik spadku w stanie spoczynku. Gorąca kawa zmniejsza hipotermię, a zimno ogranicza udar cieplny.</VBE_HotCoffeeHigh.description>
+  <VBE_HotCoffeeHigh.labelNoun>wysoka kawa</VBE_HotCoffeeHigh.labelNoun>
+
+  <VBE_IcedCoffeeHigh.label>wysoka kawa mrożona</VBE_IcedCoffeeHigh.label>
+  <VBE_IcedCoffeeHigh.description>Kofeina naturalnie występująca w kawie po zmetabolizowaniu zwiększa bodźce w układzie nerwowym, tłumi potrzebę snu, a także oczyszcza umysł. Zwiększa szybkość uczenia się o 15% i zmniejsza o 15% wskaźnik spadku w stanie spoczynku. Gorąca kawa zmniejsza hipotermię, a zimno ogranicza udar cieplny.</VBE_IcedCoffeeHigh.description>
+  <VBE_IcedCoffeeHigh.labelNoun>wysoka kawa</VBE_IcedCoffeeHigh.labelNoun>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineTolerance.label>tolerancja na kofeinę</VBE_CaffeineTolerance.label>
+  <VBE_CaffeineTolerance.description>Narastająca tolerancja na kofeinę. Im ostrzejsza jest ta tolerancja, tym więcej kofeiny potrzeba, aby uzyskać ten sam efekt.</VBE_CaffeineTolerance.description>
+
+  <VBE_CaffeineAddiction.label>uzależnienie od kofeiny</VBE_CaffeineAddiction.label>
+  <VBE_CaffeineAddiction.description>Chemiczne uzależnienie od kofeiny. Długotrwała obecność kofeiny spowodowała neurologiczne adaptacje na poziomie komórkowym, więc mózg nie może już prawidłowo funkcjonować bez tej substancji.
+\n Bez regularnych dawek kofeiny zaczną się objawy odstawienia. Jednak przedłużona abstynencja zmusi mózg do powrotu do normalnego stanu, rozwiązując nałóg.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.stages.1.label>zejście</VBE_CaffeineAddiction.stages.1.label>
+
+
+</LanguageData>

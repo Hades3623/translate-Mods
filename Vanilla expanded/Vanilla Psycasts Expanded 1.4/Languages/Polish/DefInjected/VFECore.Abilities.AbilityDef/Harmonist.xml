@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Mindcontrol.label>kontrola umysłu</VPE_Mindcontrol.label>
+  <VPE_Mindcontrol.description>Psychicznie dominuje nad celem przez krótki czas, skalując się z jego psychiczną wrażliwością, dając rzucającemu drugie ciało. Jednak trudno jest być dwiema osobami naraz.</VPE_Mindcontrol.description>
+
+  <VPE_PsychicGuidance.label>psychiczne przewodnictwo</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.description>Tłumi wzrok, słuch, ruch i manipulację rzucającego w zamian za przeładowanie fizycznych zdolności celu.</VPE_PsychicGuidance.description>
+
+  <VPE_TransmuteStone.label>kamień transmutujący</VPE_TransmuteStone.label>
+  <VPE_TransmuteStone.description>Wyznacza obszar kamienia, w którym minerały zostaną wymienione na pojedynczy, losowy typ z podziemnych warstw.</VPE_TransmuteStone.description>
+
+  <VPE_HeatFocus.label>skupienie na cieple</VPE_HeatFocus.label>
+  <VPE_HeatFocus.description>Rozpoczyna harmonijną medytację, która po 10 sekundach przekształca całe zgromadzone ciepło w psychofokusie.</VPE_HeatFocus.description>
+
+  <VPE_LuckTransfer.label>transfer szczęścia</VPE_LuckTransfer.label>
+  <VPE_LuckTransfer.description>Tworzy wyrwę w równowadze karmicznej, przesuwając negatywną karmę z pierwszego celu na drugi cel, a także otrzymując ich pozytywną karmę. Wpływa tylko na walkę i skalowanie czasu trwania z wrażliwością psychiczną pierwszego celu.</VPE_LuckTransfer.description>
+
+  <VPE_BendProbability.label>prawdopodobieństwo zgięcia</VPE_BendProbability.label>
+  <VPE_BendProbability.description>Tworzy falę o kosmicznej skali, która zmusi coś do działania.</VPE_BendProbability.description>
+
+  <VPE_LocationSwap.label>zamiana lokalizacji</VPE_LocationSwap.label>
+  <VPE_LocationSwap.description>Tworzy dwie precyzyjne bramki jednorazowego użytku pomiędzy rzucającym a widocznym celem, umożliwiając im zamienianie się miejscami.</VPE_LocationSwap.description>
+
+  <VPE_HealthSwap.label>zamiana zdrowia</VPE_HealthSwap.label>
+  <VPE_HealthSwap.description>Tworzy nierównowagę między siłami życiowymi dwojga ludzi, powodując przepływ wszystkich negatywnych warunków zdrowotnych z jednego na drugi. Stany, których nie można przenieść, zostają wyleczone.</VPE_HealthSwap.description>
+
+  <VPE_Transmutation.label>transmutacja</VPE_Transmutation.label>
+  <VPE_Transmutation.description>Wykorzystując alchemiczną podstawę ekwiwalentnej wymiany, zamienia wybrany przedmiot lub stos przedmiotów w przedmiot o równej lub mniejszej wartości. W przeciwnym razie niezwykle nieprzewidywalny i niekontrolowany.</VPE_Transmutation.description>
+
+  <VPE_SkillRoll.label>rola umiejętności</VPE_SkillRoll.label>
+  <VPE_SkillRoll.description>Inicjuje zmianę w wiedzy i nagromadzonych umiejętnościach celu, próbując je nieco chaotycznie zrównoważyć za pomocą korzystnych wskazówek. Wysiłek powoduje, że rzucający zapada w śpiączkę na jeden dzień, ale można go zmniejszyć dzięki wrażliwości psychicznej.</VPE_SkillRoll.description>
+
+
+</LanguageData>

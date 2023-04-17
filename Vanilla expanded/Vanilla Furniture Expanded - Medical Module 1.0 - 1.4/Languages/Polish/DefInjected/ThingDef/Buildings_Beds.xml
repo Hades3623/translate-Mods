@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_OperatingTable.label>stół operacyjny</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>Prymitywny stół zaśmiecony instrumentami, które podobno ułatwiają operację, jednak czystość stołu jest wątpliwa. Nieznacznie poprawia wyniki leczenia w porównaniu z normalnymi łóżkami.</Bed_OperatingTable.description>
+
+  <Bed_CryptoBed.label>Wiązki crypto snu</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>Lek, który wykorzystuje częściowy zasypianie Crypto, aby spowolnić degradację ran i pomóc organizmowi goić się, chociaż z tymi samymi skutkami ubocznymi, co Crypto sen, choć w mniejszym nasileniu.</Bed_CryptoBed.description>
+
+
+</LanguageData>

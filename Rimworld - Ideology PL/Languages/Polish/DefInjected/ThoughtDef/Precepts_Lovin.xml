@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <GotLovin_Abhorrent.stages.0.label>pożądliwy akt</GotLovin_Abhorrent.stages.0.label>
+  <GotLovin_Abhorrent.stages.0.description>Popełniłem lubieżny czyn, który był absolutnie odrażający.</GotLovin_Abhorrent.stages.0.description>
+
+  <Lovin_Know_Abhorrent.stages.0.label>pożądliwy akt</Lovin_Know_Abhorrent.stages.0.label>
+
+  <GotLovin_Horrible.stages.0.label>pożądliwy akt</GotLovin_Horrible.stages.0.label>
+  <GotLovin_Horrible.stages.0.description>Popełniłem lubieżny czyn, który był głęboko zły.</GotLovin_Horrible.stages.0.description>
+
+  <Lovin_Know_Horrible.stages.0.label>pożądliwy akt</Lovin_Know_Horrible.stages.0.label>
+
+  <GotLovin_Disapproved.stages.0.label>akt pożądania</GotLovin_Disapproved.stages.0.label>
+  <GotLovin_Disapproved.stages.0.description>Popełniłem akt pożądania, ale to była zła rzecz.</GotLovin_Disapproved.stages.0.description>
+
+  <Lovin_Know_Disapproved.stages.0.label>akt pożądania</Lovin_Know_Disapproved.stages.0.label>
+  <Lovin_Know_Approved.stages.0.label>inicjowany kochanie</Lovin_Know_Approved.stages.0.label>
+
+
+</LanguageData>

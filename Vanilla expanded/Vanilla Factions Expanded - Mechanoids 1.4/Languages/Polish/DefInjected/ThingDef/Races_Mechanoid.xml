@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <VFE_Mech_Centipede.label>skolopendra</VFE_Mech_Centipede.label>
+  <VFE_Mech_Centipede.description>Ciężkie mechanoidy bojowe, które ślizgają się na dziesiątkach małych nóg. Ich ciężki pancerz i siła ognia sprawiają, że są bardzo skuteczni przeciwko zbitym statycznym obrońcom. Są nieco podatni na taktyki mobilne polegające na uderzeniu i ucieczce. Ta konkretna jednostka wydaje się być świeżo wyprodukowana i będzie działać solidniej.</VFE_Mech_Centipede.description>
+  <VFE_Mech_Centipede.tools.0.label>głowa</VFE_Mech_Centipede.tools.0.label>
+
+
+  <!-- Lancer - fast mid-range shooter -->
+
+  <VFE_Mech_Lancer.label>Mech_Lancer</VFE_Mech_Lancer.label>
+  <VFE_Mech_Lancer.description>Szybkie mechanoidy bojowe wielkości człowieka stworzone do walki na średnim i długim dystansie. Ich ciała są lekkie, co czyni je wrażliwymi celami z bliskiej odległości - szczególnie w walce wręcz. Wydaje się, że ta konkretna jednostka jest świeżo wyprodukowana i będzie działać solidniej.</VFE_Mech_Lancer.description>
+  <VFE_Mech_Lancer.tools.0.label>lewa pięść</VFE_Mech_Lancer.tools.0.label>
+  <VFE_Mech_Lancer.tools.1.label>prawa pięść</VFE_Mech_Lancer.tools.1.label>
+  <VFE_Mech_Lancer.tools.2.label>głowa</VFE_Mech_Lancer.tools.2.label>
+
+
+  <!-- Knight - slow short-range shooter -->
+
+  <VFE_Mech_Knight.label>Mech_Knight</VFE_Mech_Knight.label>
+  <VFE_Mech_Knight.description>Dwunożny mechanoid średniej prędkości, nieco większy od przeciętnego człowieka, zaprojektowany do otrzymywania obrażeń zarówno od walczących na dystans, jak i w zwarciu. Grube pancerne poszycie jest dodatkowo ośmielone przez zaprzeczający logice pas tarczowy, zdolny do zatrzymywania pocisków. Rycerz, wyposażony w ładowany karabin średniodystansowy, najlepiej jest odpierać wybuchową salwą lub minami dalekiego zasięgu.</VFE_Mech_Knight.description>
+  <VFE_Mech_Knight.tools.0.label>lewa pięść</VFE_Mech_Knight.tools.0.label>
+  <VFE_Mech_Knight.tools.1.label>prawa pięść</VFE_Mech_Knight.tools.1.label>
+  <VFE_Mech_Knight.tools.2.label>głowa</VFE_Mech_Knight.tools.2.label>
+
+
+  <!-- Inquisitor - armored short-range flamer -->
+
+  <VFE_Mech_Inquisitor.label>inkwizytor</VFE_Mech_Inquisitor.label>
+  <VFE_Mech_Inquisitor.description>Powolny, powolny, superciężki mechanoid przeznaczony do zaprzeczania obszarom i niszczenia bunkrów za pomocą miotacza ognia. Chociaż sama chmura płomienia ma krótki zasięg, spotkanie Inkwizytora z bliskiej odległości jest nierozsądne, ponieważ zamontowane z tyłu zbiorniki na chemikalia są zaprogramowane tak, aby eksplodowały w przypadku awarii systemu.</VFE_Mech_Inquisitor.description>
+  <VFE_Mech_Inquisitor.tools.0.label>lewa pięść</VFE_Mech_Inquisitor.tools.0.label>
+  <VFE_Mech_Inquisitor.tools.1.label>prawa pięść</VFE_Mech_Inquisitor.tools.1.label>
+  <VFE_Mech_Inquisitor.tools.2.label>głowa</VFE_Mech_Inquisitor.tools.2.label>
+
+
+  <!-- Scyther - fast melee -->
+
+  <VFE_Mech_Scyther.label>scyther</VFE_Mech_Scyther.label>
+  <VFE_Mech_Scyther.description>Szybkie, wrzecionowate mechanoidy bojowe wielkości człowieka, specjalizujące się w szybkim podejściu i walce na krótkim dystansie. Ich ciała są pokryte ostrzami i ostrzami, ale najczęściej używają dwóch ostrzy do odcinania kończyn lub patroszenia ofiar żywcem. Ta konkretna jednostka wydaje się być świeżo wyprodukowana i będzie działać solidniej.</VFE_Mech_Scyther.description>
+  <VFE_Mech_Scyther.tools.0.label>lewe ostrze</VFE_Mech_Scyther.tools.0.label>
+  <VFE_Mech_Scyther.tools.1.label>prawe ostrze</VFE_Mech_Scyther.tools.1.label>
+  <VFE_Mech_Scyther.tools.2.label>głowa</VFE_Mech_Scyther.tools.2.label>
+
+
+  <!-- Pikeman - slow sniper weak at close range -->
+
+  <VFE_Mech_Pikeman.label>pikinier</VFE_Mech_Pikeman.label>
+  <VFE_Mech_Pikeman.description>Niezgrabny wielonożny mechanoid bojowy wyspecjalizowany jako platforma broni dalekiego zasięgu. Choć skuteczny na dystans, jest słaby w walce na krótkim dystansie i w zwarciu. Weterani wojen mechanoidalnych wiedzą, że często najbezpieczniejszym miejscem do przebywania w pobliżu pikiniera jest jego dotknięcie. Ta konkretna jednostka wydaje się być świeżo wyprodukowana i będzie działać solidniej.</VFE_Mech_Pikeman.description>
+  <VFE_Mech_Pikeman.tools.0.label>przednia lewa noga</VFE_Mech_Pikeman.tools.0.label>
+  <VFE_Mech_Pikeman.tools.1.label>przednia prawa noga</VFE_Mech_Pikeman.tools.1.label>
+  <VFE_Mech_Pikeman.tools.2.label>głowa</VFE_Mech_Pikeman.tools.2.label>
+
+
+  <!-- Carpenter - slow deconstructor -->
+
+  <VFE_Mech_Carpenter.label>Stolarz</VFE_Mech_Carpenter.label>
+  <VFE_Mech_Carpenter.description>Szybki, czworonożny, podobny do chrząszcza mechanoid użytkowy przeznaczony do montażu i demontażu konstrukcji nawet w środku ciężkiego ognia krzyżowego za pomocą serii pazurów, palników i wierteł. Mechy stolarskie analizują pobliskie konstrukcje pod kątem sprzecznych parametrów projektowych, zanim zaczną je rozmontowywać. Weterani wojen mechanoidalnych twierdzą, że elektrownie i wieżyczki, których montaż zajmuje kilka dni, a nawet tygodni, zniknęły w ciągu kilku minut, gdy zbliżył się do nich stolarz. Ta konkretna jednostka wydaje się być świeżo wyprodukowana i będzie działać solidniej.</VFE_Mech_Carpenter.description>
+  <VFE_Mech_Carpenter.tools.0.label>przednia lewa noga</VFE_Mech_Carpenter.tools.0.label>
+  <VFE_Mech_Carpenter.tools.1.label>przednia prawa noga</VFE_Mech_Carpenter.tools.1.label>
+  <VFE_Mech_Carpenter.tools.2.label>głowa</VFE_Mech_Carpenter.tools.2.label>
+
+
+  <!-- Termite -->
+
+  <VFE_Mech_Termite.label>termit</VFE_Mech_Termite.label>
+  <VFE_Mech_Termite.description>Średniej wielkości mechanoid. Termity specjalizują się w grzebaniu, kopaniu i przełamywaniu struktur obronnych. Obrońcy muszą zdecydować, czy spróbować wyeliminować termity, zanim przebiją się przez ich obronę, czy też zająć się nimi tam, gdzie się pojawią. Ta konkretna jednostka wydaje się być świeżo wyprodukowana i będzie działać mocniej.</VFE_Mech_Termite.description>
+  <VFE_Mech_Termite.tools.0.label>głowa</VFE_Mech_Termite.tools.0.label>
+
+
+</LanguageData>

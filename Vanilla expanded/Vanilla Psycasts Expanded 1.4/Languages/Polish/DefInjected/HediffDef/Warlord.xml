@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SpeedBoost.label>sprawność psychiczna</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.description>Wzmocnienie zwinności wywołane psychicznie, znacznie zwiększające prędkość ruchu.</VPE_SpeedBoost.description>
+
+  <VPE_BladeFocus.label>ostrość ostrza</VPE_BladeFocus.label>
+  <VPE_BladeFocus.description>Psychicznie indukowane skupienie się na walce, znacznie zwiększające możliwości walki w zwarciu.</VPE_BladeFocus.description>
+
+  <VPE_FiringFocus.label>ostrość naboi</VPE_FiringFocus.label>
+  <VPE_FiringFocus.description>Psychicznie indukowane skupienie się na walce, znacznie zwiększające możliwości walki na dystans.</VPE_FiringFocus.description>
+
+  <VPE_AdrenalineRush.label>psychiczny pośpiech</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.description>Psychicznie wywołany zastrzyk adrenaliny, zwiększający możliwości wzroku, słuchu i ruchu.</VPE_AdrenalineRush.description>
+
+  <VPE_ControlledFrenzy.label>psychiczny szał</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.description>Chwilowe, wywołane psychicznie szaleństwo. Energia odnawia się z każdym kolejnym zabójstwem.</VPE_ControlledFrenzy.description>
+
+  <VPE_GuidedShot.label>strzał z przewodnikiem</VPE_GuidedShot.label>
+  <VPE_GuidedShot.description>Psychicznie wywołana szalona dokładność.</VPE_GuidedShot.description>
+
+
+</LanguageData>

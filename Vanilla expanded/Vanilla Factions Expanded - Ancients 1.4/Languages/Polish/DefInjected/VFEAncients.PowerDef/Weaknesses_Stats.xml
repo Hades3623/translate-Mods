@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Unstable.label>nietrwały</Unstable.label>
+  <Unstable.description>Mózg podmiotu został wysoce dostrojony do długości fal psychicznych, czyniąc go podatnym na psychiczne ataki Mechanoidów, ale także znacznie bardziej zdolnym psychooperatorem.</Unstable.description>
+
+  <ExtremelyFlammable.label>skrajnie łatwopalny</ExtremelyFlammable.label>
+  <ExtremelyFlammable.description>Całe ciało obiektu stało się wysoce łatwopalne, a najmniejsza iskra może sprawić, że stanie w płomieniach.</ExtremelyFlammable.description>
+
+  <ToxinIntolerance.label>nietolerancja toksyn</ToxinIntolerance.label>
+  <ToxinIntolerance.description>Narządom obiektu stale brakuje pewnych minerałów (np. jodu) i swobodnie wchłaniają je z powietrza, nawet jeśli są napromieniowane lub związane z toksycznymi chemikaliami.</ToxinIntolerance.description>
+
+  <HeatIntolerance.label>nietolerancja ciepła</HeatIntolerance.label>
+  <HeatIntolerance.description>Obiekt nie może się już prawidłowo pocić, co oznacza, że ​​bardzo łatwo się przegrzewa, ponieważ jego ciało nie może się już ochłodzić. Obniża to ich maksymalną komfortową temperaturę o 10 stopni.</HeatIntolerance.description>
+
+  <ColdIntolerance.label>nietolerancja zimna</ColdIntolerance.label>
+  <ColdIntolerance.description>Mięśnie obiektu nie drżą już mimowolnie, co oznacza, że ​​nie mogą się już ogrzać pod wpływem niskich temperatur. Podnosi to ich minimalną komfortową temperaturę o 10 stopni.</ColdIntolerance.description>
+
+  <ImmunologicalDisorder.label>zaburzenie immunologiczne</ImmunologicalDisorder.label>
+  <ImmunologicalDisorder.description>Układ odpornościowy osobnika został zrujnowany, co wymaga częstego przyjmowania leków i stałej opieki medycznej, ponieważ nawet podciąganie nosem może je zabić.</ImmunologicalDisorder.description>
+
+  <Hypermetabolism.label>hipermetabolizm</Hypermetabolism.label>
+  <Hypermetabolism.description>Metabolizm podmiotu wszedł w nadmierną dynamikę, zmuszając go do zjedzenia dwa razy więcej jedzenia niż wcześniej, nawet jeśli nie potrzebują tak dużo dodatkowej energii.</Hypermetabolism.description>
+
+  <Finicky.label>wybredny</Finicky.label>
+  <Finicky.description>Temat stał się niesamowicie wybredny, domagając się zwracania dodatkowej uwagi na najbardziej błahe zadania i trwającego trzy razy dłużej niż zwykle.</Finicky.description>
+
+  <Unsure.label>niepewny</Unsure.label>
+  <Unsure.description>Podmiot stał się niewiarygodnie niepewny i często cierpi na zaklęcia powodujące zawroty głowy, a zdobywanie celów za pomocą broni zajmuje dwa razy więcej czasu, gdy ponownie sprawdzają, czy są gotowe do strzału.</Unsure.description>
+
+  <AlwaysKnowsBetter.label>wszystko wiedzący</AlwaysKnowsBetter.label>
+  <AlwaysKnowsBetter.description>Podmiot rozwinął nieco niesłuszne poczucie dumy z powodu swojej terapii genowej i odmawia uczenia się niczego nowego, twierdząc, że wie lepiej niż wszyscy i nikt nie może poprawić doskonałości.</AlwaysKnowsBetter.description>
+
+
+</LanguageData>

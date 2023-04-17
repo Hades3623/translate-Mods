@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CureBloodRot.label>leczyć zgniliznę krwi</CureBloodRot.label>
+  <CureBloodRot.description>Ta specjalna operacja medyczna leczy zgniliznę krwi za pomocą potężnej infuzji bakteriofagów.</CureBloodRot.description>
+  <CureBloodRot.jobString>Leczenie zgnilizny krwi.</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0} skutecznie wyleczył zgniliznę krwi {1}.</CureBloodRot.successfullyRemovedHediffMessage>
+
+  <CureAbasia.label>wlew przeciw abazji mechanicznej</CureAbasia.label>
+  <CureAbasia.description>Ta specjalna operacja medyczna wykorzystuje ogromną dawkę mechanizmów, aby nasycić tkankę mózgową i przeprowadzić skoordynowaną restrukturyzację aktywności nerwowej bez uszkodzenia mózgu. Trwale leczy paraliż wywołany abazją pacjenta, ale zużywa dużą ilość lekarstwa glitterworld.</CureAbasia.description>
+  <CureAbasia.jobString>Infuzja mechanizmów przeciwdziałających abazji.</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0} pomyślnie wyleczył abazję paralityczną {1}.</CureAbasia.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

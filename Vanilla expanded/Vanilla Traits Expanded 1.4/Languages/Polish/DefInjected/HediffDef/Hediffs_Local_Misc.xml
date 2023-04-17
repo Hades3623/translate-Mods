@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_SlowWorkSpeed.label>Ślamazara</VTE_SlowWorkSpeed.label>
+  <VTE_SlowWorkSpeed.description>Ślamazara</VTE_SlowWorkSpeed.description>
+  <VTE_SlowWorkSpeed.labelNoun>Ślamazara</VTE_SlowWorkSpeed.labelNoun>
+
+  <VTE_RestSlowFallFactor.label>Bezsenność</VTE_RestSlowFallFactor.label>
+  <VTE_RestSlowFallFactor.description>Wyraźny niepokój psychiczny lub fizyczny z powoduje bezsenność, Bezsenność oznacza, że ​​często czujesz się ospały lub wyczerpany i ledwo może zasnąć.</VTE_RestSlowFallFactor.description>
+  <VTE_RestSlowFallFactor.labelNoun>Bezsenność</VTE_RestSlowFallFactor.labelNoun>
+
+  <VTE_SlowerBleedingRate.label>Hiperkoagulacja</VTE_SlowerBleedingRate.label>
+  <VTE_SlowerBleedingRate.description>Wyższa liczba czerwonych krwinek oznacza hiperkoagulację, powoduje że rana mniej krwawi.</VTE_SlowerBleedingRate.description>
+  <VTE_SlowerBleedingRate.labelNoun>Hiperkoagulacja</VTE_SlowerBleedingRate.labelNoun>
+
+  <VTE_HigherBleedingRate.label>Hemofilia</VTE_HigherBleedingRate.label>
+  <VTE_HigherBleedingRate.description>Hemofilia to niezdolność krwi do prawidłowego krzepnięcia, powodująca obfite krwawienie rany.</VTE_HigherBleedingRate.description>
+  <VTE_HigherBleedingRate.labelNoun>Hemophilia</VTE_HigherBleedingRate.labelNoun>
+
+
+</LanguageData>

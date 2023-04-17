@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hindu.label>Hindus</Hindu.label>
+  <Christian.label>chrześcijanin</Christian.label>
+  <Islamic.label>islamski</Islamic.label>
+  <Buddhist.label>buddyjski</Buddhist.label>
+  <Morbid.label>chorobowy</Morbid.label>
+  <Totemic.label>totemiczny</Totemic.label>
+  <Spikecore.label>spikecore</Spikecore.label>
+  <Rustic.label>rustykalny</Rustic.label>
+  <Animalist.label>animalista</Animalist.label>
+  <Techist.label>technik</Techist.label>
+
+
+</LanguageData>

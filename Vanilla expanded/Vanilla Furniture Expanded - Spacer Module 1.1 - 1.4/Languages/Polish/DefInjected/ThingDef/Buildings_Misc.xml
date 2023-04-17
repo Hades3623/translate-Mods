@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Spacer_SunLamp.label>lampa słoneczna biolab</Spacer_SunLamp.label>
+  <Spacer_SunLamp.description>Duża lampa słoneczna, która oświetla duży obszar wystarczająco jasno, aby wyhodować rośliny, a także zapewnia ciepło dla tego obszaru, zużywając tylko umiarkowaną ilość energii. Nigdy nie wyłącza się w nocy i nie powoduje zwarcia podczas deszczu.</Spacer_SunLamp.description>
+
+  <Light_SpacerLamp.label>lampa dystansowa</Light_SpacerLamp.label>
+  <Light_SpacerLamp.description>Potężna, zaawansowana lampa do efektywnego oświetlania pomieszczeń, wykorzystująca zintegrowany moduł regulacji temperatury, który utrzymuje temperaturę w pomieszczeniach do maksymalnej temperatury 15 ° C. Nie powoduje zwarcia podczas deszczu.</Light_SpacerLamp.description>
+
+  <Shelf_RepairRack.label>półka naprawcza</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>Zaawansowana technologicznie półka, która wykorzystuje mechanizmy do powolnego leczenia wszelkich uszkodzeń odzieży, zbroi lub broni umieszczonej na niej.</Shelf_RepairRack.description>
+
+  <Spacer_OutdoorLamp.label>zewnętrzna lampa solarna</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>Samowystarczalna lampa do użytku na zewnątrz, słabsza niż zwykła lampa przemysłowa, ale nie wymagająca żadnej mocy, magazynująca energię w ciągu dnia, aby zasilać się przez całą dobę. Nie powoduje zwarcia podczas deszczu.</Spacer_OutdoorLamp.description>
+
+  <Reinforced_WallAT.label>wzmocniona ściana</Reinforced_WallAT.label>
+  <Reinforced_WallAT.description>Wzmocniona nieprzejezdna ściana, utworzona przez nałożenie warstw materiałów na siebie. Potrafi utrzymać dach.</Reinforced_WallAT.description>
+  <Reinforced_WallAT_Blueprint.label>wzmocniona ściana (projekt)</Reinforced_WallAT_Blueprint.label>
+  <Reinforced_WallAT_Frame.label>wzmocniona ściana (budynek)</Reinforced_WallAT_Frame.label>
+  <Reinforced_WallAT_Frame.description>Wzmocniona nieprzejezdna ściana, utworzona przez nałożenie warstw materiałów na siebie. Potrafi utrzymać dach.</Reinforced_WallAT_Frame.description>
+
+
+</LanguageData>

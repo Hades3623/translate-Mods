@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_TableMachiningLarge.label>duży stół warsztatowy</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Stół warsztatowy wyposażony w zaawansowane narzędzia i wystarczająco dużo miejsca do produkcji cudów technologii z prostszych materiałów w krótszym czasie. Zużywa energię.</VFE_TableMachiningLarge.description>
+
+  <VFE_TableSmithyLarge.label>duża kuźnia elektryczna</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Centrum pracy z napędem elektrycznym do kucia niemechanicznej broni i narzędzi. Zużywa dużo energii.</VFE_TableSmithyLarge.description>
+
+  <VFE_TableStoveLarge.label>duży piec</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Duży piec produkcyjny oraz kilka piekarników do przygotowywania posiłków i znacznie szybszego gotowania.</VFE_TableStoveLarge.description>
+
+  <VFE_TableTailorLarge.label>duży stół krawiecki</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Wielkoformatowy stół warsztatowy z kilkoma narzędziami dla projektantów i maszyną do szybkiego szycia ubrań. Może pracować bez prądu przy 33% normalnej prędkości.</VFE_TableTailorLarge.description>
+
+
+</LanguageData>

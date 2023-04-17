@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cut tree -->
+
+  <CutTree_Know_Prohibited.stages.0.label>ścięte drzewo</CutTree_Know_Prohibited.stages.0.label>
+
+  <CutTree_Horrible.stages.0.label>ścięte drzewo</CutTree_Horrible.stages.0.label>
+  <CutTree_Horrible.stages.0.description>Musiałem ściąć drzewo. To było straszne, aby w ten sposób zranić naturę.</CutTree_Horrible.stages.0.description>
+
+  <CutTree_Know_Prohibited_Mood.stages.0.label>ścięte drzewo</CutTree_Know_Prohibited_Mood.stages.0.label>
+  <CutTree_Know_Prohibited_Mood.stages.0.description>Ścinamy drzewo. Takie rzeczy, które naruszają naturę, nigdy nie powinny być dokonywane.</CutTree_Know_Prohibited_Mood.stages.0.description>
+
+  <CutTree_Know_Horrible.stages.0.label>ścięte drzewo</CutTree_Know_Horrible.stages.0.label>
+
+  <CutTree_Know_Horrible_Mood.stages.0.label>ścięte drzewo</CutTree_Know_Horrible_Mood.stages.0.label>
+  <CutTree_Know_Horrible_Mood.stages.0.description>Ścinamy drzewo. Błędem jest ranić naturę w ten sposób.</CutTree_Know_Horrible_Mood.stages.0.description>
+
+  <CutTree_Disapproved.stages.0.label>ścięte drzewo</CutTree_Disapproved.stages.0.label>
+  <CutTree_Disapproved.stages.0.description>Musiałem ściąć drzewo. Błędem było ranić naturę w ten sposób.</CutTree_Disapproved.stages.0.description>
+
+  <CutTree_Know_Disapproved.stages.0.label>ścięte drzewo</CutTree_Know_Disapproved.stages.0.label>
+
+  <CutTree_Know_Disapproved_Mood.stages.0.label>ścięte drzewo</CutTree_Know_Disapproved_Mood.stages.0.label>
+  <CutTree_Know_Disapproved_Mood.stages.0.description>Ścinamy drzewo. Szkodzenie w ten sposób przyrodzie nie było dobre.</CutTree_Know_Disapproved_Mood.stages.0.description>
+
+
+</LanguageData>

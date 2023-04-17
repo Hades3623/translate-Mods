@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[asker_nameDef]'s [intel] about Mechanoid [storage]</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.1>questName- &gt; Mechanoid [przechowywanie]</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.2>intel-&gt;Intel</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.3>intel-&gt;Clue</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.4>intel-&gt;Advice</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.5>intel-&gt;Information</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.6>przechowywanie- &gt; Miejsce przechowywania</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.7>przechowywanie - &gt; witryna recyklingu</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.8>przechowywanie - &gt; Pick-up Coordinates</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.9>storage-&gt;Treasure</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.10>storage-&gt;Supplies</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.0>questDescription (askerIsNull == true) - &gt; Przechwyciliśmy zaszyfrowaną komunikację dotyczącą dużej ilości surowych zasobów o wartości [itemStashContentsValue] gotowych do pobrania niedaleko od [map_definite]. Kolekcja składa się z: 
+ 
+ [itemStashContents] 
+ 
+Wydaje się, że mechanoidy strzegą lokalizacji, zanim zasoby zostaną podniesione i wysłane na orbitę.</VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.1>questDescription (asker_factionLeader == True) - &gt; [asker_nameDef], [asker_faction_leaderTitle] z [asker_faction_name], poinformował nas o mechanoidalnych zasobach [itemStashContentsValue] niedaleko od nas. Kolekcja składa się z: 
+ 
+ [itemStashContents] 
+ 
+ [asker_label] informuje nas, że mechanoidy strzegą lokalizacji, zanim zasoby zostaną odebrane i wysłane na orbitę.</VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.5.name>pytający</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.5.name>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.5.elseNode.nodes.0.name>askerIsNull</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.5.elseNode.nodes.0.name>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.7.node.name>siteThreatChance</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.7.node.name>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.7.elseNode.name>siteThreatChance</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.7.elseNode.name>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.label>Misja wygasła: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.text>Przechwycone komunikaty wskazują, że skrytka z przedmiotami została przeniesiona na orbitę. Zadanie [resolvedQuestName] wygasło.</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.text>
+
+
+</LanguageData>

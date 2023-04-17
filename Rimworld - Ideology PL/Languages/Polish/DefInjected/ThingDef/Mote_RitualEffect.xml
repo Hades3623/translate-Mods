@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualGlowRays.label>Pyłek</Mote_RitualGlowRays.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualGlowSingleRay.label>Pyłek</Mote_RitualGlowSingleRay.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmoke.label>Pyłek</Mote_RitualSmoke.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeDust.label>Pyłek</Mote_RitualSmokeDust.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeDustVague.label>Pyłek</Mote_RitualSmokeDustVague.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeThick.label>Pyłek</Mote_RitualSmokeThick.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeThickSlim.label>Pyłek</Mote_RitualSmokeThickSlim.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineA.label>Pyłek</Mote_RitualTechLineA.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineB.label>Pyłek</Mote_RitualTechLineB.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineC.label>Pyłek</Mote_RitualTechLineC.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RolePawnHighlight.label>Pyłek</Mote_RolePawnHighlight.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RolePositionHighlight.label>Pyłek</Mote_RolePositionHighlight.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFastBright.label>Pyłek</Mote_SparkThrownFastBright.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SpikePipe.label>Pyłek</Mote_SpikePipe.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TotemOutline.label>Pyłek</Mote_TotemOutline.label>
+  
+</LanguageData>

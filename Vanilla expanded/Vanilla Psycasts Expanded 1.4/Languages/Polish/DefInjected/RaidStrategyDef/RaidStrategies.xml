@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_ImmediateAttack_Psycasters.letterLabelEnemy>Najazd (Psycaster)</VPE_ImmediateAttack_Psycasters.letterLabelEnemy>
+  <VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>Ci grabieżcy wydają się być prowadzeni przez potężnego Psycastera. Psycasterzy mogą używać mocy psychicznych do manipulowania polem bitwy i łatwo przechylić szalę konfliktu. Powinieneś uważać na nich, a w pierwszej kolejności celować w nich, gdy widzisz, że mają zamiar rzucić psycast.
+
+Nadprzyrodzeni w tej grupie:
+</VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>
+  <VPE_ImmediateAttack_Psycasters.letterLabelFriendly>Towarzyskie (Psycaster)</VPE_ImmediateAttack_Psycasters.letterLabelFriendly>
+  <VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>Wprowadzają się, aby natychmiast ci pomóc.</VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>
+
+
+</LanguageData>

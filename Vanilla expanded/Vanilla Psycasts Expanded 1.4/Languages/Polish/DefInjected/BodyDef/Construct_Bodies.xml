@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RockConstructBody.label>konstrukcja skalna</VPE_RockConstructBody.label>
+  <VPE_RockConstructBody.corePart.parts.1.customLabel>skaliste ciało</VPE_RockConstructBody.corePart.parts.1.customLabel>
+
+  <VPE_MetalConstructBody.label>konstrukcja metalowa</VPE_MetalConstructBody.label>
+  <VPE_MetalConstructBody.corePart.parts.1.customLabel>metalowy korpus</VPE_MetalConstructBody.corePart.parts.1.customLabel>
+
+
+</LanguageData>

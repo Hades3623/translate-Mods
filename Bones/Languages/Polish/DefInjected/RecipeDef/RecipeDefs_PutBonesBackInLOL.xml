@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HUMERUS SURGERY RECIPE -->
+
+  <TransplantHumanHumerus.label>przeszczep kości ramiennej</TransplantHumanHumerus.label>
+  <TransplantHumanHumerus.description>Chirurgicznie przeszczep kości ramiennej.</TransplantHumanHumerus.description>
+  <TransplantHumanHumerus.jobString>Przeszczepianie kości ramiennej.</TransplantHumanHumerus.jobString>
+
+
+  <!-- RADIUS SURGERY RECIPE -->
+
+  <TransplantHumanRadius.label>przeszczep kości promieniowej</TransplantHumanRadius.label>
+  <TransplantHumanRadius.description>Chirurgicznie przeszczep kość promieniową.</TransplantHumanRadius.description>
+  <TransplantHumanRadius.jobString>Przeszczep kości promieniowej.</TransplantHumanRadius.jobString>
+
+
+  <!-- ULNA SURGERY RECIPE -->
+
+  <TransplantHumanUlna.label>przeszczep kości łokciowej</TransplantHumanUlna.label>
+  <TransplantHumanUlna.description>Chirurgiczne przeszczepienie kości łokciowej.</TransplantHumanUlna.description>
+  <TransplantHumanUlna.jobString>Przeszczepianie kości łokciowej.</TransplantHumanUlna.jobString>
+
+
+  <!-- FEMUR SURGERY RECIPE -->
+
+  <TransplantHumanFemur.label>przeszczep kości udowej</TransplantHumanFemur.label>
+  <TransplantHumanFemur.description>Chirurgicznie przeszczep kości udowej.</TransplantHumanFemur.description>
+  <TransplantHumanFemur.jobString>Przeszczepianie kości udowej.</TransplantHumanFemur.jobString>
+
+
+  <!-- PATELLA SURGERY RECIPE -->
+
+  <TransplantHumanPatella.label>przeszczep rzepki</TransplantHumanPatella.label>
+  <TransplantHumanPatella.description>Chirurgicznie przeszczep rzepkę.</TransplantHumanPatella.description>
+  <TransplantHumanPatella.jobString>Przeszczepianie rzepki.</TransplantHumanPatella.jobString>
+
+
+  <!-- TIBIA SURGERY RECIPE -->
+
+  <TransplantHumanTibia.label>przeszczep piszczeli</TransplantHumanTibia.label>
+  <TransplantHumanTibia.description>Chirurgiczny przeszczep kości piszczelowej.</TransplantHumanTibia.description>
+  <TransplantHumanTibia.jobString>Przeszczepianie kości piszczelowej.</TransplantHumanTibia.jobString>
+
+
+  <!-- FIBULA SURGERY RECIPE -->
+
+  <TransplantHumanFibula.label>przeszczep strzałkowy</TransplantHumanFibula.label>
+  <TransplantHumanFibula.description>Chirurgicznie przeszczep kości strzałkowej.</TransplantHumanFibula.description>
+  <TransplantHumanFibula.jobString>Przeszczepianie kości strzałkowej.</TransplantHumanFibula.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_FireBeam.label>wiązka ognia</VPE_FireBeam.label>
+  <VPE_FireTornado.label>ogniste tornado</VPE_FireTornado.label>
+  <VPE_Vortex.label>wir</VPE_Vortex.label>
+  <VPE_HurricaneMaker.label>producent huraganów</VPE_HurricaneMaker.label>
+  <VPE_TimeSphere.label>sfera czasu</VPE_TimeSphere.label>
+  <VPE_SkyChanger.label>zmieniacz nieba</VPE_SkyChanger.label>
+  <VPE_BrambleSpawner.label>wyłaniające się</VPE_BrambleSpawner.label>
+  <VPE_WildPlantSpawner.label>wyłaniające się</VPE_WildPlantSpawner.label>
+  <VPE_TreeSpawner.label>wyłaniające się</VPE_TreeSpawner.label>
+  <VPE_Shrineshield_Small.label>mała tarcza świątynna</VPE_Shrineshield_Small.label>
+  <VPE_Shrineshield_Large.label>duża tarcza świątynna</VPE_Shrineshield_Large.label>
+  <VPE_Darkness.label>ciemność</VPE_Darkness.label>
+  <VPE_Decoy.label>maniak</VPE_Decoy.label>
+
+
+</LanguageData>

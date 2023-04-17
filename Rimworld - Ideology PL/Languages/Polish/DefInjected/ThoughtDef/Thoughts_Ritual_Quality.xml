@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PARTY -->
+
+  <TerribleParty.stages.0.label>okropna impreza</TerribleParty.stages.0.label>
+  <TerribleParty.stages.0.description>Ta impreza była okropna. Zła muzyka, niezręczny taniec... ugh.</TerribleParty.stages.0.description>
+
+  <BoringParty.stages.0.label>nudna impreza</BoringParty.stages.0.label>
+  <BoringParty.stages.0.description>Ta impreza nie była dobra. Nieciekawa muzyka, kiepski taniec. Chciałbym, żebym nigdy nie poszedł.</BoringParty.stages.0.description>
+
+  <FunParty.stages.0.label>zabawna impreza</FunParty.stages.0.label>
+  <FunParty.stages.0.description>To była zabawna impreza. Dobra przerwa od codzienności.</FunParty.stages.0.description>
+
+  <UnforgettableParty.stages.0.label>niezapomniana impreza</UnforgettableParty.stages.0.label>
+  <UnforgettableParty.stages.0.description>Ta impreza była niesamowita! Muzyka, nastrój... Wszystko było idealne.</UnforgettableParty.stages.0.description>
+
+
+  <!-- FUNERAL -->
+
+  <TerribleFuneral.stages.0.label>haniebny pogrzeb</TerribleFuneral.stages.0.label>
+  <TerribleFuneral.stages.0.description>Ten pogrzeb był skrajnie obraźliwy dla wszystkich zaangażowanych.</TerribleFuneral.stages.0.description>
+
+  <LacklusterFuneral.stages.0.label>nijaki pogrzeb</LacklusterFuneral.stages.0.label>
+  <LacklusterFuneral.stages.0.description>Ten pogrzeb był naprawdę pozbawiony inspiracji i niczego nie rozwiązał.</LacklusterFuneral.stages.0.description>
+
+  <GoodFuneral.stages.0.label>dobry pogrzeb</GoodFuneral.stages.0.label>
+  <GoodFuneral.stages.0.description>Ten pogrzeb poszedł dobrze - dobry sposób na pożegnanie.</GoodFuneral.stages.0.description>
+
+  <HeartwarmingFuneral.stages.0.label>serdeczny pogrzeb</HeartwarmingFuneral.stages.0.label>
+  <HeartwarmingFuneral.stages.0.description>Tamten pogrzeb przebiegł perfekcyjnie – przywołał wiele dobrych wspomnień i wskazał drogę do przodu.</HeartwarmingFuneral.stages.0.description>
+
+
+  <!-- FESTIVAL -->
+
+  <TerribleFestival.stages.0.label>okropny festiwal</TerribleFestival.stages.0.label>
+  <TerribleFestival.stages.0.description>Ten festiwal był okropny. Wciąż kule się od niezręcznych retrospekcji.</TerribleFestival.stages.0.description>
+
+  <BoringFestival.stages.0.label>nudny festiwal</BoringFestival.stages.0.label>
+  <BoringFestival.stages.0.description>Ten festiwal był niezręczny. Chciałbym móc odejść.</BoringFestival.stages.0.description>
+
+  <FunFestival.stages.0.label>zabawny festiwal</FunFestival.stages.0.label>
+  <FunFestival.stages.0.description>Ubawiłem się! Musimy posiedzieć i odpocząć.</FunFestival.stages.0.description>
+
+  <UnforgettableFestival.stages.0.label>niezapomniany festiwal</UnforgettableFestival.stages.0.label>
+  <UnforgettableFestival.stages.0.description>Ten festiwal był czymś, czego nigdy nie zapomnę.</UnforgettableFestival.stages.0.description>
+
+
+  <!-- SACRIFICE -->
+
+  <TerribleSacrifice.stages.0.label>straszna ofiara</TerribleSacrifice.stages.0.label>
+  <TerribleSacrifice.stages.0.description>Ta ofiara była spartaczona, a nastrój był zły. Co za okropna, niezręczna śmierć.</TerribleSacrifice.stages.0.description>
+
+  <BoringSacrifice.stages.0.label>nudna ofiara</BoringSacrifice.stages.0.label>
+  <BoringSacrifice.stages.0.description>Tej ofierze brakowało pasji, a technika nie była świetna.</BoringSacrifice.stages.0.description>
+
+  <SatisfyingSacrifice.stages.0.label>satysfakcjonująca ofiara</SatisfyingSacrifice.stages.0.label>
+  <SatisfyingSacrifice.stages.0.description>Ta ofiara była satysfakcjonująca - dobrze wykonana i odpowiednio krwawa.</SatisfyingSacrifice.stages.0.description>
+
+  <SpectacularSacrifice.stages.0.label>spektakularna ofiara</SpectacularSacrifice.stages.0.label>
+  <SpectacularSacrifice.stages.0.description>Krew! Wydanie! To poświęcenie sprawiło, że poczułem się, jakbyśmy łączyli się z innym światem.</SpectacularSacrifice.stages.0.description>
+
+
+  <!-- SKYLANTERNS -->
+
+  <TerribleSkyLanterns.stages.0.label>okropny festiwal skylantern</TerribleSkyLanterns.stages.0.label>
+  <TerribleSkyLanterns.stages.0.description>Nienawidziłam robić tego skylantern, a i tak wyglądały jak śmieci.</TerribleSkyLanterns.stages.0.description>
+
+  <UnimpressiveSkyLanterns.stages.0.label>nudne latarnie na niebie</UnimpressiveSkyLanterns.stages.0.label>
+  <UnimpressiveSkyLanterns.stages.0.description>Te latarnie nie zrobiły na mnie wrażenia. Po prostu strata czasu i zasobów.</UnimpressiveSkyLanterns.stages.0.description>
+
+  <BeautifulSkyLanterns.stages.0.label>piękny festiwal skylantern</BeautifulSkyLanterns.stages.0.label>
+  <BeautifulSkyLanterns.stages.0.description>Poczułem spokój, gdy zobaczyłem, jak odpływają latarnie.</BeautifulSkyLanterns.stages.0.description>
+
+  <UnforgettableSkyLanterns.stages.0.label>niezapomniany festiwal skylantern</UnforgettableSkyLanterns.stages.0.label>
+  <UnforgettableSkyLanterns.stages.0.description>Poczucie wspólnoty podczas budowy, moment wyzwolenia - jakby moje kłopoty odpłynęły z tymi lampionami.</UnforgettableSkyLanterns.stages.0.description>
+
+
+  <!-- SCARIFICATION -->
+
+  <TerribleScarification.stages.0.label>straszna skaryfikacja</TerribleScarification.stages.0.label>
+  <TerribleScarification.stages.0.description>Wertykulacja została spartaczona, a nastrój zepsuty. Co za niezręczna ceremonia.</TerribleScarification.stages.0.description>
+
+  <BoringScarification.stages.0.label>nudna skaryfikacja</BoringScarification.stages.0.label>
+  <BoringScarification.stages.0.description>Tej skaryfikacji brakowało pasji, a technika nie była świetna.</BoringScarification.stages.0.description>
+
+  <SatisfyingScarification.stages.0.label>satysfakcjonująca skaryfikacja</SatisfyingScarification.stages.0.label>
+  <SatisfyingScarification.stages.0.description>Ta wertykulacja była satysfakcjonująca - czysta i odpowiednio bolesna.</SatisfyingScarification.stages.0.description>
+
+  <SpectacularScarification.stages.0.label>spektakularna skaryfikacja</SpectacularScarification.stages.0.label>
+  <SpectacularScarification.stages.0.description>Ciało zwinęło się i uformowało jak magia pod nożem. To była prawdziwa przemiana poprzez cierpienie!</SpectacularScarification.stages.0.description>
+
+
+  <!-- BLINDING -->
+
+  <TerribleBlinding.stages.0.label>okropne oślepianie</TerribleBlinding.stages.0.label>
+  <TerribleBlinding.stages.0.description>To oślepienie było spartaczone, a nastrój zepsuty. Co za niezręczna ceremonia.</TerribleBlinding.stages.0.description>
+
+  <BoringBlinding.stages.0.label>nudne oślepianie</BoringBlinding.stages.0.label>
+  <BoringBlinding.stages.0.description>Oślepieniu brakowało pasji, a technika nie była świetna.</BoringBlinding.stages.0.description>
+
+  <SatisfyingBlinding.stages.0.label>satysfakcjonujące oślepianie</SatisfyingBlinding.stages.0.label>
+  <SatisfyingBlinding.stages.0.description>To oślepianie było satysfakcjonujące. Rana była głęboka i wydawała satysfakcjonujący odgłos ssania wilgoci.</SatisfyingBlinding.stages.0.description>
+
+  <SpectacularBlinding.stages.0.label>spektakularne oślepienie</SpectacularBlinding.stages.0.label>
+  <SpectacularBlinding.stages.0.description>Intonowane głosy, straszliwe i niesamowite ostrze, bolesne dreszcze i cięcie – Ta oślepiająca ceremonia była wysublimowana!</SpectacularBlinding.stages.0.description>
+
+
+  <!-- CONVERSION -->
+
+  <EffectiveConversion.stages.0.label>efektywna konwersja</EffectiveConversion.stages.0.label>
+  <EffectiveConversion.stages.0.description>Ten rytuał nawrócenia przebiegł dobrze. Przemówienie było poruszające i przyjemne do słuchania.</EffectiveConversion.stages.0.description>
+
+  <MasterfulConversion.stages.0.label>mistrzowskie nawrócenie</MasterfulConversion.stages.0.label>
+  <MasterfulConversion.stages.0.description>Mistrzowski! Stare wierzenia zostały w strzępach, a nasza prawdziwa wiedza została zaakceptowana bez cienia wątpliwości.</MasterfulConversion.stages.0.description>
+
+
+  <!-- DUEL -->
+
+  <TerribleDuel.stages.0.label>okropny pojedynek</TerribleDuel.stages.0.label>
+  <TerribleDuel.stages.0.description>Ten pojedynek był okropny. Ciągle kuleję się myśląc o nieudolnym tchórzostwie, które widziałem.</TerribleDuel.stages.0.description>
+
+  <BoringDuel.stages.0.label>nudny pojedynek</BoringDuel.stages.0.label>
+  <BoringDuel.stages.0.description>Ten pojedynek był niezręczny. Brak agresywnej energii, tylko próby przetrwania.</BoringDuel.stages.0.description>
+
+  <GoodDuel.stages.0.label>dobry pojedynek</GoodDuel.stages.0.label>
+  <GoodDuel.stages.0.description>Ten pojedynek był udany. Bojownicy naprawdę okazali serce.</GoodDuel.stages.0.description>
+
+  <UnforgettableDuel.stages.0.label>niezapomniany pojedynek</UnforgettableDuel.stages.0.label>
+  <UnforgettableDuel.stages.0.description>Odwaga... krew... śmierć... nigdy tego nie zapomnę.</UnforgettableDuel.stages.0.description>
+
+
+  <!-- EXECUTIONS -->
+
+  <AwkwardExecution.stages.0.label>niezręczna egzekucja</AwkwardExecution.stages.0.label>
+  <AwkwardExecution.stages.0.description>Ta egzekucja była niezręczna. Pokazana niekompetencja sprawiła, że ​​cała sprawa wydawała się nieuzasadniona.</AwkwardExecution.stages.0.description>
+
+  <SatisfyingExecution.stages.0.label>satysfakcjonujące wykonanie</SatisfyingExecution.stages.0.label>
+  <SatisfyingExecution.stages.0.description>Ta egzekucja była satysfakcjonująca. Wydawało się, że sprawiedliwość została doręczona.</SatisfyingExecution.stages.0.description>
+
+  <SpectacularExecution.stages.0.label>spektakularna egzekucja</SpectacularExecution.stages.0.label>
+  <SpectacularExecution.stages.0.description>Ta egzekucja była elektryzująca! Nigdy nie czułem takiego poczucia sprawiedliwości.</SpectacularExecution.stages.0.description>
+
+
+</LanguageData>

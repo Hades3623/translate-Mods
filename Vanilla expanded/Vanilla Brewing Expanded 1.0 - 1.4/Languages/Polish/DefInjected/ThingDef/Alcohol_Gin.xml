@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Gin.label>Gin</VBE_Gin.label>
+  <VBE_Gin.description>Szczególnie łagodny i bezbarwny spirytus, mówiąc aromatycznie, butelka ta ma zapach przypominający sosnę, a także subtelne nuty owocowe. Ten trunek ma reputację lekkiego i przyjemnego w piciu i powoduje tak zwane „upojenie dżinem”, podczas którego odczuwa się zwiększoną empatię i zrozumienie.</VBE_Gin.description>
+  <VBE_Gin.tools.0.label>butelka</VBE_Gin.tools.0.label>
+  <VBE_Gin.tools.1.label>szyja</VBE_Gin.tools.1.label>
+  <VBE_Gin.ingestible.ingestCommandString>Pij {0}</VBE_Gin.ingestible.ingestCommandString>
+  <VBE_Gin.ingestible.ingestReportString>Picie {0}.</VBE_Gin.ingestible.ingestReportString>
+
+
+</LanguageData>

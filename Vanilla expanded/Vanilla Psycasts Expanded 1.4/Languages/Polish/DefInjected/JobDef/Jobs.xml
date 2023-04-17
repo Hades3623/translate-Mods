@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_UseSkipdoor.reportString>używanie TargetA do teleportacji do TargetB</VPE_UseSkipdoor.reportString>
+  <VPE_EssenceTransfer.reportString>przenoszenie esencji do TargetA</VPE_EssenceTransfer.reportString>
+  <VPE_StandFreeze.reportString>stojący.</VPE_StandFreeze.reportString>
+
+
+</LanguageData>

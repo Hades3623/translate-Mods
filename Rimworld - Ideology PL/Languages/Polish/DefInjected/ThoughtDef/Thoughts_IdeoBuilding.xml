@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IdeoBuildingMissing.stages.0.label>Brak etykiety {BUILDING_label}</IdeoBuildingMissing.stages.0.label>
+  <IdeoBuildingMissing.stages.0.description>Musimy mieć {BUILDING_labelIndef}.</IdeoBuildingMissing.stages.0.description>
+
+  <IdeoBuildingDisrespected.stages.0.label>{BUILDING_labelCap} disrespected</IdeoBuildingDisrespected.stages.0.label>
+  <IdeoBuildingDisrespected.stages.0.description>Mamy {BUILDING_labelIndef}, ale musi być umieszczony w pomieszczeniu, które spełnia odpowiednie wymagania.</IdeoBuildingDisrespected.stages.0.description>
+
+
+</LanguageData>

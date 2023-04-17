@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WillDiminished.stages.0.label>zmniejszy się</WillDiminished.stages.0.label>
+
+  <FailedConvertAbilityInitiator.stages.0.label>nie udało się przekonwertować {0}</FailedConvertAbilityInitiator.stages.0.label>
+  <FailedConvertAbilityInitiator.stages.0.description>Próbowałem kogoś nawrócić i nie wyszło. Niezręczny.</FailedConvertAbilityInitiator.stages.0.description>
+
+  <FailedConvertAbilityRecipient.stages.0.label>{0} próbował mnie przekonwertować</FailedConvertAbilityRecipient.stages.0.label>
+  <FailedConvertAbilityRecipient.stages.0.description>Ktoś próbował mnie nawrócić. Chciałbym, żeby zostawili mnie w spokoju.</FailedConvertAbilityRecipient.stages.0.description>
+
+
+  <!-- Counsel -->
+
+  <Counselled.stages.0.label>doradzany przez {0}</Counselled.stages.0.label>
+  <Counselled.stages.0.description>Otrzymałem poradę w sprawie czegoś, co mnie niepokoi.</Counselled.stages.0.description>
+
+  <CounselFailed.stages.0.label>nieudana pociecha przez {0}</CounselFailed.stages.0.label>
+  <CounselFailed.stages.0.description>W jakiś sposób ta próba pomocy pogorszyła sytuację.</CounselFailed.stages.0.description>
+
+  <Counselled_MoodBoost.stages.0.label>doradzany przez {0}</Counselled_MoodBoost.stages.0.label>
+  <Counselled_MoodBoost.stages.0.description>Otrzymałem poradę od kogoś. Miło było być wysłuchanym.</Counselled_MoodBoost.stages.0.description>
+
+  <TendedByMedicalSpecialist.stages.0.label>pod opieką {0}</TendedByMedicalSpecialist.stages.0.label>
+  <TendedByMedicalSpecialist.stages.0.description>Otrzymałem pomoc medyczną od osoby, która posiada specjalny status uzdrowiciela mojej ideolicji.</TendedByMedicalSpecialist.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagData>
+  <VPE.MustTargetBattery>Musi celować w baterię</VPE.MustTargetBattery>
+  <VPE.StopHurricane>Zatrzymaj huragan</VPE.StopHurricane>
+  <VPE.NoChunks>Brak kawałków w pobliżu</VPE.NoChunks>
+  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef} musi mieć żyjących członków rodziny.</VPE.MustHaveLivingFamilyMembers>
+  <VPE.ThingsOfLevel>{0} rzeczy na poziomie {1}</VPE.ThingsOfLevel>
+  <VPE.TooCheap>Niewystarczająca wartość, musi być wart co najmniej $1 za przedmiot.</VPE.TooCheap>
+  <VPE_BreakLink>Przerwij link</VPE_BreakLink>
+  <VPE_BreakLinkDesc>Przerwij połączenie i natychmiast zabij budującego</VPE_BreakLinkDesc>
+  <VPE.PsySetNext>Następny zestaw Psy</VPE.PsySetNext>
+  <VPE.PsySetPrev>Poprzedni zestaw Psy</VPE.PsySetPrev>
+  <VPE.Nearby>Blisko</VPE.Nearby>
+  <VPE.WealthNearby>{0} bogactwo w pobliżu z {1} całkowitego bogactwa</VPE.WealthNearby>
+  <VPE.GroupFocus>{0} inne pionki w pobliżu</VPE.GroupFocus>
+  <VPE.All>Wszystko</VPE.All>
+  <VPE.PsySetDesc>Przejdź do następnego PsySet. Kliknij prawym przyciskiem myszy, aby wybrać konkretną.\nBieżący: {0}, Następny: {1}</VPE.PsySetDesc>
+  <VPE.MustHaveQuality>Cel musi mieć jakość</VPE.MustHaveQuality>
+  <VPE.QualityTooHigh>Zbyt wysoka jakość docelowa, musi być niższa niż doskonała.</VPE.QualityTooHigh>
+  <VPE.NotEnoughHeat>Za mało dostępnego ciepła neuronowego.</VPE.NotEnoughHeat>
+  <VPE.MustConsumePower>Musi zużywać energię.</VPE.MustConsumePower>
+  <VPE.MustBeStoneChunk>Celuj w kawałek kamienia</VPE.MustBeStoneChunk>
+  <VPE.MustBeSteelSlag>Docelowy żużel stalowniczy</VPE.MustBeSteelSlag>
+  <VPE.PsylinkGained>Osiągnięty poziom Psylink: {0}</VPE.PsylinkGained>
+  <VPE.PsylinkGained.Desc>{0} osiągnął nowy poziom psylink. Po osiągnięciu tego poziomu {1} nieznacznie podniosło statystyki związane z rzucaniem psychiki. {1} może teraz przydzielić punkt, aby nauczyć się nowej psycastingu, jeszcze bardziej poprawić statystyki psycastingu lub odblokować nowe skupienie na medytacji.\n\nDoświadczenie psycastingu potrzebne na następnym poziomie to: {2}.</VPE.PsylinkGained.Desc>
+  <VPE.UnlockedByPoints>Odblokowany za pomocą punktów Psycaster</VPE.UnlockedByPoints>
+  <VPE.MustEltex>Musi celować w eltex</VPE.MustEltex>
+  <VPE.NotPsycaster>Nie jest to psyche.</VPE.NotPsycaster>
+  <VPE.AlreadyPsyring>Już nosisz psyring</VPE.AlreadyPsyring>
+  <VPE.Research>Musi nadawać się do badań</VPE.Research>
+  <VPE.AlreadyResearch>Już badane</VPE.AlreadyResearch>
+  <VPE.MustBeAllyOrNeutral>Cel musi być sojusznikiem lub neutralnym.</VPE.MustBeAllyOrNeutral>
+  <VPE.MustBeDowned>Cel musi być leżący.</VPE.MustBeDowned>
+  <VPE.MustHavePsychicLevel>Cel musi mieć co najmniej jeden poziom psycastera.</VPE.MustHavePsychicLevel>
+  <VPE.MustHaveHeatAmount>Musi mieć co najmniej {0} ciepła neuronowego.</VPE.MustHaveHeatAmount>
+  <VPE.MustBeCorpse>Celem musi być trup.</VPE.MustBeCorpse>
+  <VPE.MustBeCorpseHumanlike>Trup musi być podobny do człowieka.</VPE.MustBeCorpseHumanlike>
+  <VPE.PackSummon>Przyzwana Paczka!</VPE.PackSummon>
+  <VPE.PackSummon.Desc>{0} wezwał stado dzikich zwierząt do obrony kolonii.</VPE.PackSummon.Desc>
+  <VPE.NoAvailableFingers>Brak dostępnych palców</VPE.NoAvailableFingers>
+  <VPE.CurrentChanneling>Obecnie kanał {0}</VPE.CurrentChanneling>
+  <VPE.MustBeInDark>Cel musi być w ciemności</VPE.MustBeInDark>
+  <VPE.MustBePsycaster>Musi być psycaster</VPE.MustBePsycaster>
+  <VPE.AlreadyHasPsycast>Już wie {0}</VPE.AlreadyHasPsycast>
+  <VPE.MustBeAlly>Cel musi należeć do tej samej frakcji.</VPE.MustBeAlly>
+  <VPE.MustHaveDamagedEquipment>Wyposażenie celu musi być uszkodzone.</VPE.MustHaveDamagedEquipment>
+  <VPE.NoAnimals>Nie można celować w zwierzęta</VPE.NoAnimals>
+  <VPE.MustBeDamaged>Cel musi być uszkodzony</VPE.MustBeDamaged>
+
+</LanguagData>

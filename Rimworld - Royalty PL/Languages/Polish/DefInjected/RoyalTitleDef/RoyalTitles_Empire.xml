@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Empire titles - Player gettable non-psycaster -->
+
+  <Freeholder.label>właściciel</Freeholder.label>
+  <Freeholder.description>Imperialny tytuł freeholder jest używany przez Imperium do oznaczenia w pełni szanowanej osoby. Większość obywateli Imperium zarabia je w młodości poprzez pracę ochotniczą lub służbę wojskową. Tytuł oferowany jest także osobom postronnym, które w oczach Imperium działają z honorem.</Freeholder.description>
+
+
+  <!-- Empire titles - Player gettable psycaster -->
+
+  <Yeoman.label>Yeoman</Yeoman.label>
+  <Yeoman.description>Cesarski tytuł wójta posiadają ci, którzy służą szlachetnemu panu w ważny, specyficzny sposób. Chociaż nie jest to tytuł szlachecki, daje on posiadaczowi prawo do używania zdolności parapsychicznych niskiego poziomu.\n\nTen tytuł często posiadają starsi żołnierze, piloci Warskiff, szpiedzy, doradcy, dyplomaci, intruzi i inni kluczowi osoby. Wiele ważnych osób spędza całe życie jako ziemianie, szukając sukcesu poza granicami szlachty.</Yeoman.description>
+
+  <Esquire.label>akolita</Esquire.label>
+  <Esquire.description>Tytuł akolity jest pierwszym tytułem szlacheckiej służby i obejmuje szeroki zakres stanowisk praktycznych. Niektórzy akolici to wyłącznie studenci, uczący się dowodzić oddziałami, zarządzać społecznościami lub używać psychokastów w specjalistycznych szkołach. Inni pochodzą z zamożnych rodzin i mogą być właścicielami budynków miejskich lub kompleksów rolniczych.\n\nW czasie wojny akolita może dowodzić plutonem wojsk, kapitanem małej fregaty lub służyć jako doradca swojego pana.\n\nIch niski stopień w hierarchii szlachta czyni ich paradoksalnie mniej użytecznymi jako dyplomaci niż kandydaci. Wysłanie do negocjacji niskiego rangą akolitę samo w sobie może być postrzegane jako zniewaga, podczas gdy nieszlachetny negocjator ziemski jest postrzegany jedynie jako rzecznik jego pana.</Esquire.description>
+
+  <Knight.label>rycerz</Knight.label>
+  <Knight.labelFemale>dama</Knight.labelFemale>
+  <Knight.description>Tytuł rycerza posiada szlachta, która w dużej mierze przeszła szkolenie, ale nie wspięła się na wyższe stanowiska przywódcze. Wielu rycerzy nigdy nie awansuje dalej i spędza życie jako szanowani menedżerowie, doradcy lub wojownicy.\n\nWiększość rycerzy ma trochę bogactwa, ale niektórzy pozostają dość biedni, podczas gdy inni mogą być bardzo bogaci.\n\nW czasie pokoju rycerz może zarządzać kompleksem fabrycznym, dzielnicą handlową lub małym regionem rolniczym. Podczas wojny niektórzy rycerze prowadzą kompanie wojsk i eskadry szturmowe, podczas gdy rycerze skupieni na parapsychologii angażują się w szpiegostwo, sabotaż i walkę psychiczną na polu bitwy.</Knight.description>
+
+  <Praetor.label>pretor</Praetor.label>
+  <Praetor.description>Tytuł pretora jest pomostem między zorientowanymi na służbę niższymi tytułami poniżej a dzierżącą władzę szlachtą powyżej.\n\nW czasie pokoju pretor zwykle zarządza dzielnicą miasta, sektorem asteroid lub regionem rolniczym. W czasie wojny przejmują władzę nad najmniejszymi jednostkami bojowymi, które walczą samodzielnie – kohortami oddziałów lądowych lub kosmicznymi niszczycielami lub grupami bojowymi.</Praetor.description>
+
+  <Baron.label>baron</Baron.label>
+  <Baron.labelFemale>baronowa</Baron.labelFemale>
+  <Baron.description>Tytuł barona jest najniższym ze średniej szlachty. Podczas gdy niższe tytuły koncentrują się na osobistej służbie na wojnie lub handlu pod panowaniem, baronowie posiadają tytuł jako półniezależni władcy. Każdy baron jest podporządkowany swojemu seniorowi, ale jego obowiązki polegają głównie na dostarczaniu bogactwa i wojska, a nie na służbie osobistej.\n\nW Imperium baron zazwyczaj posiada sektor miejski, kolonię górniczą lub podobne wyposażenie. W czasie wojny baron może z imienia dowodzić wielkim statkiem lub kontrolować pułk wojsk.</Baron.description>
+
+  <Count.label>hrabia</Count.label>
+  <Count.labelFemale>hrabina</Count.labelFemale>
+  <Count.description>Tytuł hrabiego to średnia ranga średniej szlachty.\n\nW czasie pokoju hrabiowie mają tytuł miasta lub kolonii i mogą mieć małą osobistą flotę, w tym prawdopodobnie statki.</Count.description>
+
+
+  <!-- Empire titles - NPC only psycaster -->
+
+  <Duke.label>książę</Duke.label>
+  <Duke.labelFemale>księżna</Duke.labelFemale>
+  <Duke.description>Cesarski tytuł księcia jest najwyższym spośród średniej szlachty.\n\nW Imperium książęta kontrolują prowincje, megamiasta lub księżyce. Na wojnie książę może wystawić siły na poziomie dywizji lub flotę z dużymi statkami i dziesiątkami jednostek wsparcia.</Duke.description>
+
+  <Consul.label>konsul</Consul.label>
+  <Consul.description>Imperialny tytuł konsula to niższy poziom wysokiej szlachty.\n\nW Imperium konsulowie kontrolują planety. W czasie wojny konsul może zwykle wystawić kilkudywizyjne siły wielkości armii, wspierane przez kilka flot. Niektórzy dowodzą ze statku super-stolicy lub kontrolują megastruktury kosmiczne.</Consul.description>
+
+  <Stellarch.label>gwiezdny</Stellarch.label>
+  <Stellarch.description>Imperialny tytuł gwiezdnej gwiezdnej reprezentuje panowanie nad całym systemem gwiezdnym.\n\nW Imperium, ponieważ podróże międzygwiezdne trwają lata, gwiezdne rządzą swoimi systemami z dużym stopniem niezależności. Każdy z nich przysięga wierność Imperatorowi, ale ponieważ Imperator może być oddalony o wiele lat świetlnych, gwiezdny może przejść przez lata lub dekady bez interakcji z nim.</Stellarch.description>
+
+
+  <!-- Emperor should never appear in the game in any way, it's just here for completeness on UI lists etc. -->
+
+  <Emperor.label>cesarz</Emperor.label>
+  <Emperor.labelFemale>cesarzowa</Emperor.labelFemale>
+  <Emperor.description>Cesarski tytuł cesarza wskazuje na suwerenne panowanie nad całym Imperium, wszystkimi jego ludami, planetami i flotami. Wszyscy inni lordowie przysięgają wierność wysokiemu lordowi, podczas gdy Imperator przysięga wierność nikomu. Jednak nawet Cesarz zależy od poparcia niższej szlachty, aby utrzymać się przy władzy.</Emperor.description>
+
+
+</LanguageData>

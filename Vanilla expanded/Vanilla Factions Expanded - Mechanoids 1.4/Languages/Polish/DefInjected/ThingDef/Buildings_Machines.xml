@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_AutocleanerBase.label>stacja ładująca autocleaner</VFE_Mechanoids_AutocleanerBase.label>
+  <VFE_Mechanoids_AutocleanerBase.description>Stanowisko do montażu i ładowania autoklawów.</VFE_Mechanoids_AutocleanerBase.description>
+
+  <VFE_Mechanoids_AutohaulerBase.label>stacja ładowania autohaulera</VFE_Mechanoids_AutohaulerBase.label>
+  <VFE_Mechanoids_AutohaulerBase.description>Stanowisko do montażu i ładowania autohaulerów.</VFE_Mechanoids_AutohaulerBase.description>
+
+  <VFE_Mechanoids_AutominerBase.label>stacja ładująca autominer</VFE_Mechanoids_AutominerBase.label>
+  <VFE_Mechanoids_AutominerBase.description>Stanowisko do montażu i ładowania autominerów.</VFE_Mechanoids_AutominerBase.description>
+
+  <VFE_Mechanoids_CombatBase.label>stacja ładowania mechanoidów bojowych</VFE_Mechanoids_CombatBase.label>
+  <VFE_Mechanoids_CombatBase.description>Stanowisko do montażu i ładowania mechanoidów bojowych.</VFE_Mechanoids_CombatBase.description>
+
+  <VFE_Mechanoids_RiotBase.label>stacja ładowania mechanoidów do zamieszek</VFE_Mechanoids_RiotBase.label>
+  <VFE_Mechanoids_RiotBase.description>Stanowisko do montażu i ładowania mechanoidów zamieszek.</VFE_Mechanoids_RiotBase.description>
+
+  <VFE_Mechanoids_TurretBase.label>mobilna stacja ładująca wieżyczkowa</VFE_Mechanoids_TurretBase.label>
+  <VFE_Mechanoids_TurretBase.description>Stanowisko do montażu i ładowania wieżyczek mobilnych.</VFE_Mechanoids_TurretBase.description>
+
+  <VFE_Mechanoids_Autosower.label>autosower</VFE_Mechanoids_Autosower.label>
+  <VFE_Mechanoids_Autosower.description>Niezwykle duża, wolno poruszająca się konstrukcja przypominająca koryto zamontowana na szeregu kół. Zraszacze podwieszane i dibblery z napędem tłokowym umożliwiają szybkie sadzenie bardzo szerokiej gamy upraw. W szczególności ta maszyna jest zaprogramowana do poruszania się we wcześniej określonym kierunku i na odległość.</VFE_Mechanoids_Autosower.description>
+
+  <VFE_Mechanoids_Autoharvester.label>autoharvester</VFE_Mechanoids_Autoharvester.label>
+  <VFE_Mechanoids_Autoharvester.description>Niezwykle duża, wolno poruszająca się łukowata konstrukcja zamontowana na szeregu kół. Podwieszane zacieraczki i kosy umożliwiają szybkie zbieranie zarówno upraw, jak i drewna. W szczególności ta maszyna jest zaprogramowana do poruszania się we wcześniej określonym kierunku i na odległość.</VFE_Mechanoids_Autoharvester.description>
+
+  <VFE_Mechanoids_AutostriderBase.label>stacja ładowania autostrider</VFE_Mechanoids_AutostriderBase.label>
+  <VFE_Mechanoids_AutostriderBase.description>Stacja do montażu i ładowania autostriderów.</VFE_Mechanoids_AutostriderBase.description>
+
+  <VFE_Mechanoids_AutoMedicBase.label>stacja ładowania auto-medika</VFE_Mechanoids_AutoMedicBase.label>
+  <VFE_Mechanoids_AutoMedicBase.description>Stacja do montażu i ładowania auto-medyków.</VFE_Mechanoids_AutoMedicBase.description>
+
+
+  <!-- <ThingDef ParentName="BuildingBase">
+		<thingClass>VFE.Mechanoids.Buildings.Building_BedMachine</thingClass>
+		<defName>VFE_Mechanoids_AutobuilderBase</defName>
+		<label>autobuilder charging station</label>
+		<description>A station for assembling and recharging autobuilders.</description>
+		<graphicData>
+			<texPath>Things/Automation/AutobuilderChargingStation</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shadowData>
+				<volume>(0.5,0.3,0.7)</volume>
+				<offset>(0,0,-0.15)</offset>
+			</shadowData>
+			<damageData>
+				<rect>(0.234375,0,0.515625,0.984375)</rect>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<passability>Standable</passability>
+		<blockWind>false</blockWind>
+		<rotatable>false</rotatable>
+		<fillPercent>0.1</fillPercent>
+		<thingCategories>
+			<li>BuildingsProduction</li>
+		</thingCategories>
+		<statBases>
+			<WorkToBuild>1000</WorkToBuild>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Mass>6</Mass>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<building>
+			<destroySound>BuildingDestroyed_Metal_Small</destroySound>
+			<bed_humanlike>false</bed_humanlike>
+			<bed_showSleeperBody>True</bed_showSleeperBody>
+			<sowTag>SupportPlantsOnly</sowTag>
+			<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+			<ai_chillDestination>false</ai_chillDestination>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+		</building>
+		<costList>
+			<Steel>45</Steel>
+			<Plasteel>30</Plasteel>
+			<VFE_ComponentMechanoid>1</VFE_ComponentMechanoid>
+			<ComponentSpacer>2</ComponentSpacer>
+		</costList>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>200</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="VFE.Mechanoids.CompProperties_MachineChargingStation">
+				<pawnToSpawn>VFE_Mechanoids_Autobuilder</pawnToSpawn>
+				<allowedWorkTypes>
+					<li>Construction</li>
+				</allowedWorkTypes>
+				<extraChargingPower>1600</extraChargingPower>
+				<hoursToRecharge>12</hoursToRecharge>
+			</li>
+		</comps>
+		<designationCategory>VFE_Factory</designationCategory>
+		<researchPrerequisites>
+			<li>VFE_AdvancedDroneAssembly</li>
+		</researchPrerequisites>
+		<constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+	</ThingDef> -->
+
+  <VFE_Mechanoids_RaiderBase.label>stacja ładowania mechanoidów raider</VFE_Mechanoids_RaiderBase.label>
+  <VFE_Mechanoids_RaiderBase.description>Stacja do składania i ładowania mechanoidów raiderów.</VFE_Mechanoids_RaiderBase.description>
+
+  <VFE_Mechanoids_AutobroadcasterBase.label>stacja ładowania autobroadcaster</VFE_Mechanoids_AutobroadcasterBase.label>
+  <VFE_Mechanoids_AutobroadcasterBase.description>Stanowisko do montażu i ładowania autobroadów.</VFE_Mechanoids_AutobroadcasterBase.description>
+
+  <VFE_Mechanoids_PyroBase.label>stacja ładowania pyro mechanoidów</VFE_Mechanoids_PyroBase.label>
+  <VFE_Mechanoids_PyroBase.description>Stacja do montażu i ładowania pyro mechanoidów.</VFE_Mechanoids_PyroBase.description>
+
+
+</LanguageData>

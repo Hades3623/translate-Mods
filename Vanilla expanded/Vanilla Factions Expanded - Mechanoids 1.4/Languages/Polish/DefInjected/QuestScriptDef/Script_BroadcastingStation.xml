@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>questName-&gt;The [abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>questName-&gt;[abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>questName-&gt;[asker_nameDef] and the [abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>abandoned-&gt;Abandoned</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>abandoned-&gt;Old</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>abandoned-&gt;Decomissioned</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>abandoned-&gt;Ruined</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>broadcasting-&gt;Broadcasting</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>broadcasting-&gt;Radar</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>broadcasting-&gt;Calculation</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>broadcasting-&gt;Supercomputer</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>station-&gt;Station</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>station-&gt;Facility</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>station-&gt;Antenna</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>station-&gt;Outpost</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>
+  <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] z [asker_faction_name], wysłał nam wiadomość. Według nich [siteFaction_pawnsPlural] używa pobliskiej stacji nadawczej jako bazy operacyjnej. Baza jest kontrolowana przez [siteFaction_name]. Gwarantujemy, że zawiera niektóre nadal działające jednostki superkomputerów.
+\n [asker_nameDef] prosi nas o zajęcie się wrogami i nie przejmuje się losem starego aparatu elektronicznego. [asker_label]  [sitePart0_description].</VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.label>Misja wygasła: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.text>Obóz bandytów spakował się i ruszył dalej. Zadanie [resolvedQuestName] wygasło.</VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.label>Zadanie nie powiodło się: [rozwiązano nazwaQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.text>Po odkryciu obóz bandytów rozproszył się. Zadanie [resolvedQuestName] zakończyło się.</VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.text>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>Ci koloniści brali udział w zwycięstwie w zadaniu [resolvedQuestName]. [asker_definite] chce wiedzieć, kto powinien otrzymać [royalFavorReward_amount] [asker_faction_royalFavorLabel] za tę usługę.</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+
+
+</LanguageData>

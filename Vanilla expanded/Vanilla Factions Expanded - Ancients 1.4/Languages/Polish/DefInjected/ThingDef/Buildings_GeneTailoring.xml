@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_GeneTailoringPod.label>Statyw Dopasowywania Genów</VFEA_GeneTailoringPod.label>
+  <VFEA_GeneTailoringPod.description>Podstawowy element projektu Pradawnych, mającego na celu stworzenie superżołnierzy. Genetyczna kapsuła jest wynikiem wielu podejrzanych eksperymentów, mających na celu pokonanie Mechanoidów. Żołnierze mają leżeć w kapsule, a następnie wstrzykiwane są im jednorazowe nanomaszyny mające na celu wzmocnienie ich fizjologii. Jest to główny moduł odpowiedzialny za tworzenie superżołnierzy, ale aby poprawić jakość, efektywność i bezpieczeństwo projektu, w pobliżu kapsuły należy umieścić inne urządzenia.</VFEA_GeneTailoringPod.description>
+
+  <VFEA_SuperNaniteInjectorPump.label>pompa wtryskowa super-nanitu</VFEA_SuperNaniteInjectorPump.label>
+  <VFEA_SuperNaniteInjectorPump.description>Mały element, który łączy się ze Statywem Dopasowywania Genów, pozwalając mu przechowywać i ekstrahować dawkę super-nanitów, skutecznie skracając proces o jeden dzień. Nie więcej niż 10 może być poł±czonych, ponieważ co najmniej 5 dni jest potrzebnych, aby pacjent mógł przetworzyć i zaakceptować przemianę. Dodatek do Statywu Dopasowania Genów, to urz±dzenie musi być umieszczone w jego pobliżu i skróci o jeden dzień czas wstrzyknięcia.</VFEA_SuperNaniteInjectorPump.description>
+
+  <VFEA_SuperNaniteDialyzer.label>dializator super-nanitowy</VFEA_SuperNaniteDialyzer.label>
+  <VFEA_SuperNaniteDialyzer.description>Element zaprojektowany do porównywania ze sobą super-nanitów i usuwania słabszych, konkurencyjnych szczepów, by nie zakłócić procesu przemiany. Idealnie działa w parach, z których każda porównuje ze sobą dwa szczepy i obniża szanse wystąpienia efektów ubocznych łącznie o 10%. Dodatek do Statywu Dopasowywania Genów, urządzenie to musi być umieszczone w jego pobliżu i zmniejszy szanse niepowodzenia eksperymentu o 5%.</VFEA_SuperNaniteDialyzer.description>
+
+  <VFEA_SuperNaniteCentrifuge.label>wirówka super-nanitu</VFEA_SuperNaniteCentrifuge.label>
+  <VFEA_SuperNaniteCentrifuge.description>Konstrukcja zaprojektowana do usuwania uszkodzonych lub zbędnych super-nanitów. Idealnie działa w parach, pozwalając im na podwójne sprawdzenie żywotności i obniżając szanse wystąpienia efektów ubocznych o 10%.\n\nUrządzenie to musi być umieszczone w jego pobliżu i zmniejszy szanse niepowodzenia eksperymentu o 5%.</VFEA_SuperNaniteCentrifuge.description>
+
+  <VFEA_SimulationDrive.label>napęd symulacyjny</VFEA_SimulationDrive.label>
+  <VFEA_SimulationDrive.description>Kompaktowy superkomputer, który przeprowadza symulacje reakcji DNA gospodarza na super-nanity, przeprogramowując je w miarę obliczania bardziej optymalnych procesów przejściowych, co zmniejsza komplikacje o około 1%. Każde więcej niż 10 komputerów spowoduje niepotrzebne duplikacje. To urządzenie, które musi być umieszczone w bezpośredniej bliskości kapsuły i zmniejsza szanse niepowodzenia eksperymentu o 1%.</VFEA_SimulationDrive.description>
+
+  <VFEA_GenomeStabilizer.label>stabilizator genomu</VFEA_GenomeStabilizer.label>
+  <VFEA_GenomeStabilizer.description>Duży element reagujący na niepożądane efekty podczas przemiany, próbujący ustabilizować genom i zmniejszyć negatywne skutki. Idealnie działa w parach, każda z nich podwójnie sprawdza drugą, aby zapewnić sukces i obniżyć szanse wystąpienia efektów ubocznych o 20% w sumie.\NDodatek do Statywu Dopasowywania Genów, urządzenie to musi być umieszczone w jego pobliżu i zmniejszy szanse niepowodzenia eksperymentu o 10%.</VFEA_GenomeStabilizer.description>
+
+  <VFEA_SuperNaniteContainment.label>zamknięcie super-nanitu</VFEA_SuperNaniteContainment.label>
+  <VFEA_SuperNaniteContainment.description>Półka, która jest w stanie ustabilizować dawki super-nanitów, przeciwnym razie są one niezwykle energetyczne i lotne. Zapobiega pogarszaniu się jakości Super-nanitów.</VFEA_SuperNaniteContainment.description>
+
+  <VFEA_GenomeMacrothermometer.label>makrotermometr genomowy</VFEA_GenomeMacrothermometer.label>
+  <VFEA_GenomeMacrothermometer.description>Rozszerzenie, które powstało po kilku udanych przypadkach użycia Statywu Dostosowującego Geny, Makrotermometr Genomowy został zaprojektowany, by jeszcze bardziej ulepszyć udanych super-żołnierzy. Jego podstawową funkcją jest zapobieganie ucieczce termicznej, czyli eksplozji mięsa, poprzez umożliwienie super-nanitom interakcji tylko z tymi częściami genomu, które nie zostały zmienione w pierwszej Fazie Przejściowej.\n\nJako dodatek do Statywu Dostosowania Genów, urządzenie to musi być umieszczone w jego pobliżu i pozwoli na odblokowanie dodatkowej umiejętności ponad limit 3.</VFEA_GenomeMacrothermometer.description>
+
+  <VFEA_StabilisedMucusInducer.label>stabilizowany induktor śluzu</VFEA_StabilisedMucusInducer.label>
+  <VFEA_StabilisedMucusInducer.description>Podczas gdy zwykłe Dostosowanie Genów działa poprzez zmianę genów jako całości, niektórym naukowcom udało się stworzyć obejście tego problemu poprzez stworzenie małych, izolowanych środowisk, w których zmiany mogą zachodzić niezależnie. Tak więc, ta maszyna została zaprojektowana, aby wstawić partycje w postaci ustabilizowanego śluzu, który jest całkowicie niereaktywny i nie powoduje odrzucenia w ciele pacjenta, stając się trwałą częścią jego genomu.\n\nJako dodatek do Statywu Dostosowania Genów, to urządzenie musi być umieszczone w jego pobliżu i pozwoli na odblokowanie dodatkowej zdolności ponad limit 3.</VFEA_StabilisedMucusInducer.description>
+
+  <VFEA_NanotechRetractor.label>zwijacz nanotechniczny</VFEA_NanotechRetractor.label>
+  <VFEA_NanotechRetractor.description>Specjalistyczne urządzenie, które pozwala na przebudowę genetyczną u pacjenta, aby spróbować usunąć negatywny efekt wygenerowany przez terapię genową. Proces jest podobny i wymaga kolejnej dawki super-nanitów, jednak w tym przypadku są one wykorzystywane do próby cofnięcia bardzo specyficznych efektów przy jednoczesnym pozostawieniu korzyści nietkniętych. W przypadku wielu minusów, wyniki procesu przemiany zależą wyłącznie od przypadku.\n\nUrządzenie to musi być umieszczone w pobliżu i pozwoli na wykonanie nowej operacji "Usuń słabość".</VFEA_NanotechRetractor.description>
+
+  <VFEA_NaniteSampler.label>próbnik nanitów</VFEA_NaniteSampler.label>
+  <VFEA_NaniteSampler.description>Ciekawa maszyna, która ani nie szkodzi procesowi transformacji, ani go nie wspomaga. Zamiast tego przeprowadza symulacje próbne równolegle do operacji, wykorzystując dane w czasie rzeczywistym do dostarczenia rzeczywistych danych. Kiedy proces przekształcenia jest bliski sukcesu, tworzy binarny wybór dla użytkownika. Po dokonaniu wyboru, maszyna dokonuje drobnych zmian i tworzy gen dominujący i recesywny. W prostych słowach, pozwala to na udaną operację, aby zdecydować się na jeden z dwóch zestawów zdolności.\n\nJako dodatek do genów, to urządzenie musi być umieszczone w pobliżu i pozwoli na wybór pomiędzy dwoma zestawami zdolności po udanej operacji.</VFEA_NaniteSampler.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NoInteraction.label>brak interakcji</NoInteraction.label>
+  <NoInteraction.description>Strażnicy nie będą wchodzić w interakcje z tym niewolnikiem.</NoInteraction.description>
+
+  <Suppress.label>stłumić</Suppress.label>
+  <Suppress.description>Strażnicy będą okresowo zastraszać niewolnika, aby zwiększyć jego poziom tłumienia i zmniejszyć szansę na bunt.</Suppress.description>
+
+  <Imprison.label>uwięzić</Imprison.label>
+  <Imprison.description>Strażnik uwięzi tego niewolnika. Po uwięzieniu mogą zostać zrekrutowani lub ponownie zniewoleni.</Imprison.description>
+
+  <Emancipate.label>wyemancypować</Emancipate.label>
+  <Emancipate.description>Strażnik uwolni tego niewolnika.</Emancipate.description>
+
+  <Execute.label>wykonać</Execute.label>
+  <Execute.description>Strażnik zabije tego niewolnika na miejscu przez cięcie.</Execute.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal Jelly addiction -->
+
+  <VFEI_RoyalJellyHigh.label>bogate w mleczko pszczele</VFEI_RoyalJellyHigh.label>
+  <VFEI_RoyalJellyHigh.description>Wysoka zawartość mleczka pszczelego</VFEI_RoyalJellyHigh.description>
+
+  <VFEI_RoyalJellyTolerance.label>tolerancja mleczka pszczelego</VFEI_RoyalJellyTolerance.label>
+  <VFEI_RoyalJellyTolerance.description>Tolerancja na mleczko pszczele</VFEI_RoyalJellyTolerance.description>
+
+  <VFEI_RoyalJellyAddiction.label>uzależnienie od mleczka pszczelego</VFEI_RoyalJellyAddiction.label>
+  <VFEI_RoyalJellyAddiction.description>Uzależnienie od mleczka pszczelego</VFEI_RoyalJellyAddiction.description>
+  <VFEI_RoyalJellyAddiction.stages.1.label>wycofanie</VFEI_RoyalJellyAddiction.stages.1.label>
+
+
+  <!--<VFEI_RoyalJellyHigh.labelNoun>mleczko pszczele high</VFEI_RoyalJellyHigh.labelNoun>-->
+
+</LanguageData>

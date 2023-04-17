@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProblemCauser.questNameRules.rulesStrings.0>questName(siteFaction==Pirate)-&gt;Pirates with a [problemCauserLabel]</ProblemCauser.questNameRules.rulesStrings.0>
+  <ProblemCauser.questNameRules.rulesStrings.1>questName(siteFaction==Mechanoids)-&gt;Mech cluster with a [problemCauserLabel]</ProblemCauser.questNameRules.rulesStrings.1>
+  <ProblemCauser.questDescriptionRules.rulesStrings.0>questDescription(siteFaction==Pirate)-&gt;Pirates have set up an outpost near [map_definite] to harass you. [allSitePartsDescriptions]\n\nThe outpost will remain until you send a team there to attack and destroy it.</ProblemCauser.questDescriptionRules.rulesStrings.0>
+  <ProblemCauser.questDescriptionRules.rulesStrings.1>questDescription(siteFaction==Mechanoids)-&gt;A mechanoid cluster has landed not far from [map_definite]. [allSitePartsDescriptions]\n\nThe mech cluster will remain until you send a team there to attack and destroy it.</ProblemCauser.questDescriptionRules.rulesStrings.1>
+  <ProblemCauser.root.nodes.0.name>siteDistRange</ProblemCauser.root.nodes.0.name>
+  <ProblemCauser.root.nodes.2.nodes.0.nodes.0.name>siteFaction</ProblemCauser.root.nodes.2.nodes.0.nodes.0.name>
+  <ProblemCauser.root.nodes.2.nodes.0.nodes.1.name>sitePartsTags</ProblemCauser.root.nodes.2.nodes.0.nodes.1.name>
+  <ProblemCauser.root.nodes.2.nodes.1.nodes.0.name>siteFaction</ProblemCauser.root.nodes.2.nodes.1.nodes.0.name>
+  <ProblemCauser.root.nodes.2.nodes.1.nodes.1.name>sitePartsTags</ProblemCauser.root.nodes.2.nodes.1.nodes.1.name>
+  <ProblemCauser.root.nodes.9.node.nodes.0.label>[problemCauserLabel] destroyed</ProblemCauser.root.nodes.9.node.nodes.0.label>
+  <ProblemCauser.root.nodes.9.node.nodes.0.text>You have destroyed the [problemCauserLabel] that was affecting [map_definite]!</ProblemCauser.root.nodes.9.node.nodes.0.text>
+
+
+</LanguageData>

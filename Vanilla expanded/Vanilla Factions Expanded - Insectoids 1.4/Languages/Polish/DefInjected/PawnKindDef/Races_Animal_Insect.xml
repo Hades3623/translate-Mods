@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insectoid Queen -->
+
+  <VFEI_Insectoid_Queen.label>królowa insektoidów</VFEI_Insectoid_Queen.label>
+  <VFEI_Insectoid_Queen.labelPlural>królowe insektoidów</VFEI_Insectoid_Queen.labelPlural>
+  <VFEI_Insectoid_Queen.lifeStages.0.label>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.0.label>
+  <VFEI_Insectoid_Queen.lifeStages.0.labelPlural>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.0.labelPlural>
+  <VFEI_Insectoid_Queen.lifeStages.0.labelMale>samiec królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.0.labelMale>
+  <VFEI_Insectoid_Queen.lifeStages.0.labelMalePlural>samce królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.0.labelMalePlural>
+  <VFEI_Insectoid_Queen.lifeStages.0.labelFemale>samica królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.0.labelFemale>
+  <VFEI_Insectoid_Queen.lifeStages.0.labelFemalePlural>samice królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.0.labelFemalePlural>
+  <VFEI_Insectoid_Queen.lifeStages.1.label>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.1.label>
+  <VFEI_Insectoid_Queen.lifeStages.1.labelPlural>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.1.labelPlural>
+  <VFEI_Insectoid_Queen.lifeStages.1.labelMale>samiec królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.1.labelMale>
+  <VFEI_Insectoid_Queen.lifeStages.1.labelMalePlural>samce królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.1.labelMalePlural>
+  <VFEI_Insectoid_Queen.lifeStages.1.labelFemale>samica królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.1.labelFemale>
+  <VFEI_Insectoid_Queen.lifeStages.1.labelFemalePlural>samice królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.1.labelFemalePlural>
+  <VFEI_Insectoid_Queen.lifeStages.2.label>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.2.label>
+  <VFEI_Insectoid_Queen.lifeStages.2.labelPlural>królowa insektoidów</VFEI_Insectoid_Queen.lifeStages.2.labelPlural>
+  <VFEI_Insectoid_Queen.lifeStages.2.labelMale>samiec królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.2.labelMale>
+  <VFEI_Insectoid_Queen.lifeStages.2.labelMalePlural>samce królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.2.labelMalePlural>
+  <VFEI_Insectoid_Queen.lifeStages.2.labelFemale>samica królowej insektoidów</VFEI_Insectoid_Queen.lifeStages.2.labelFemale>
+  <VFEI_Insectoid_Queen.lifeStages.2.labelFemalePlural>samice królowych insektoidów</VFEI_Insectoid_Queen.lifeStages.2.labelFemalePlural>
+  <VFEI_Insectoid_Queen.labelMale>samca królowej insektoidów</VFEI_Insectoid_Queen.labelMale>
+  <VFEI_Insectoid_Queen.labelMalePlural>samce królowych insektoidów</VFEI_Insectoid_Queen.labelMalePlural>
+  <VFEI_Insectoid_Queen.labelFemale>samica królowej insektoidów</VFEI_Insectoid_Queen.labelFemale>
+  <VFEI_Insectoid_Queen.labelFemalePlural>samice królowych insektoidów</VFEI_Insectoid_Queen.labelFemalePlural>
+
+
+  <!-- Insectoid Royal Megaspider -->
+
+  <VFEI_Insectoid_RoyalMegaspider.label>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.label>
+  <VFEI_Insectoid_RoyalMegaspider.labelPlural>królewskie megaspiders</VFEI_Insectoid_RoyalMegaspider.labelPlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.label>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.label>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelPlural>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelPlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelMale>samiec królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelMale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelMalePlural>samce królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelMalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelFemale>samica królewskiego megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelFemale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelFemalePlural>samice królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.0.labelFemalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.label>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.label>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelPlural>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelPlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelMale>samiec królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelMale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelMalePlural>samce królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelMalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelFemale>samica królewskiego megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelFemale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelFemalePlural>samice królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.1.labelFemalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.label>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.label>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelPlural>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelPlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelMale>samiec królewski megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelMale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelMalePlural>samce królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelMalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelFemale>samica królewskiego megaspider</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelFemale>
+  <VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelFemalePlural>samice królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.lifeStages.2.labelFemalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.labelMale>samiec królewski megaspider</VFEI_Insectoid_RoyalMegaspider.labelMale>
+  <VFEI_Insectoid_RoyalMegaspider.labelMalePlural>samce królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.labelMalePlural>
+  <VFEI_Insectoid_RoyalMegaspider.labelFemale>samica królewskiego megaspider</VFEI_Insectoid_RoyalMegaspider.labelFemale>
+  <VFEI_Insectoid_RoyalMegaspider.labelFemalePlural>samice królewskich megaspiderów</VFEI_Insectoid_RoyalMegaspider.labelFemalePlural>
+
+
+  <!-- Insectoid Gigalocust -->
+
+  <VFEI_Insectoid_Gigalocust.label>gigalocust</VFEI_Insectoid_Gigalocust.label>
+  <VFEI_Insectoid_Gigalocust.labelPlural>gigalocusty</VFEI_Insectoid_Gigalocust.labelPlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.label>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.0.label>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.labelPlural>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.0.labelPlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.labelMale>męski gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.0.labelMale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.labelMalePlural>męskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.0.labelMalePlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.labelFemale>żeński gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.0.labelFemale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.0.labelFemalePlural>żeńskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.0.labelFemalePlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.label>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.1.label>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.labelPlural>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.1.labelPlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.labelMale>męski gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.1.labelMale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.labelMalePlural>męskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.1.labelMalePlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.labelFemale>żeński gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.1.labelFemale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.1.labelFemalePlural>żeńskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.1.labelFemalePlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.label>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.2.label>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.labelPlural>gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.2.labelPlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.labelMale>męski gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.2.labelMale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.labelMalePlural>męskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.2.labelMalePlural>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.labelFemale>żeński gigalocust</VFEI_Insectoid_Gigalocust.lifeStages.2.labelFemale>
+  <VFEI_Insectoid_Gigalocust.lifeStages.2.labelFemalePlural>żeńskie gigalocusty</VFEI_Insectoid_Gigalocust.lifeStages.2.labelFemalePlural>
+  <VFEI_Insectoid_Gigalocust.labelMale>męski gigalocust</VFEI_Insectoid_Gigalocust.labelMale>
+  <VFEI_Insectoid_Gigalocust.labelMalePlural>męskie gigalocusty</VFEI_Insectoid_Gigalocust.labelMalePlural>
+  <VFEI_Insectoid_Gigalocust.labelFemale>żeński gigalocust</VFEI_Insectoid_Gigalocust.labelFemale>
+  <VFEI_Insectoid_Gigalocust.labelFemalePlural>żeńskie gigalocusty</VFEI_Insectoid_Gigalocust.labelFemalePlural>
+
+
+  <!-- Insectoid Royal Megapede -->
+
+  <VFEI_Insectoid_Megapede.label>megapede</VFEI_Insectoid_Megapede.label>
+  <VFEI_Insectoid_Megapede.labelPlural>megapedes</VFEI_Insectoid_Megapede.labelPlural>
+  <VFEI_Insectoid_Megapede.lifeStages.0.label>megapede</VFEI_Insectoid_Megapede.lifeStages.0.label>
+  <VFEI_Insectoid_Megapede.lifeStages.0.labelPlural>megapede</VFEI_Insectoid_Megapede.lifeStages.0.labelPlural>
+  <VFEI_Insectoid_Megapede.lifeStages.0.labelMale>męski megapede</VFEI_Insectoid_Megapede.lifeStages.0.labelMale>
+  <VFEI_Insectoid_Megapede.lifeStages.0.labelMalePlural>męski megapedes</VFEI_Insectoid_Megapede.lifeStages.0.labelMalePlural>
+  <VFEI_Insectoid_Megapede.lifeStages.0.labelFemale>samica megapede</VFEI_Insectoid_Megapede.lifeStages.0.labelFemale>
+  <VFEI_Insectoid_Megapede.lifeStages.0.labelFemalePlural>żeńskie megapedy</VFEI_Insectoid_Megapede.lifeStages.0.labelFemalePlural>
+  <VFEI_Insectoid_Megapede.lifeStages.1.label>megapede</VFEI_Insectoid_Megapede.lifeStages.1.label>
+  <VFEI_Insectoid_Megapede.lifeStages.1.labelPlural>megapede</VFEI_Insectoid_Megapede.lifeStages.1.labelPlural>
+  <VFEI_Insectoid_Megapede.lifeStages.1.labelMale>męski megapede</VFEI_Insectoid_Megapede.lifeStages.1.labelMale>
+  <VFEI_Insectoid_Megapede.lifeStages.1.labelMalePlural>męski megapedes</VFEI_Insectoid_Megapede.lifeStages.1.labelMalePlural>
+  <VFEI_Insectoid_Megapede.lifeStages.1.labelFemale>samica megapede</VFEI_Insectoid_Megapede.lifeStages.1.labelFemale>
+  <VFEI_Insectoid_Megapede.lifeStages.1.labelFemalePlural>żeńskie megapedy</VFEI_Insectoid_Megapede.lifeStages.1.labelFemalePlural>
+  <VFEI_Insectoid_Megapede.lifeStages.2.label>megapede</VFEI_Insectoid_Megapede.lifeStages.2.label>
+  <VFEI_Insectoid_Megapede.lifeStages.2.labelPlural>megapede</VFEI_Insectoid_Megapede.lifeStages.2.labelPlural>
+  <VFEI_Insectoid_Megapede.lifeStages.2.labelMale>męski megapede</VFEI_Insectoid_Megapede.lifeStages.2.labelMale>
+  <VFEI_Insectoid_Megapede.lifeStages.2.labelMalePlural>męski megapedes</VFEI_Insectoid_Megapede.lifeStages.2.labelMalePlural>
+  <VFEI_Insectoid_Megapede.lifeStages.2.labelFemale>samica megapede</VFEI_Insectoid_Megapede.lifeStages.2.labelFemale>
+  <VFEI_Insectoid_Megapede.lifeStages.2.labelFemalePlural>żeńskie megapedy</VFEI_Insectoid_Megapede.lifeStages.2.labelFemalePlural>
+  <VFEI_Insectoid_Megapede.labelMale>męski megapede</VFEI_Insectoid_Megapede.labelMale>
+  <VFEI_Insectoid_Megapede.labelMalePlural>męski megapedes</VFEI_Insectoid_Megapede.labelMalePlural>
+  <VFEI_Insectoid_Megapede.labelFemale>samica megapede</VFEI_Insectoid_Megapede.labelFemale>
+  <VFEI_Insectoid_Megapede.labelFemalePlural>żeńskie megapedy</VFEI_Insectoid_Megapede.labelFemalePlural>
+
+
+  <!-- Insectoid Larvae -->
+
+  <VFEI_Insectoid_Larvae.label>larwy</VFEI_Insectoid_Larvae.label>
+  <VFEI_Insectoid_Larvae.labelPlural>larwy</VFEI_Insectoid_Larvae.labelPlural>
+  <VFEI_Insectoid_Larvae.labelMale>larwa samiec</VFEI_Insectoid_Larvae.labelMale>
+  <VFEI_Insectoid_Larvae.labelMalePlural>larwy męskie</VFEI_Insectoid_Larvae.labelMalePlural>
+  <VFEI_Insectoid_Larvae.labelFemale>larwa żeńska</VFEI_Insectoid_Larvae.labelFemale>
+  <VFEI_Insectoid_Larvae.labelFemalePlural>larwy żeńskie</VFEI_Insectoid_Larvae.labelFemalePlural>
+
+
+</LanguageData>

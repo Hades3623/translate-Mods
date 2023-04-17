@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Carrier.label>nośnik</Carrier.label>
+  <Carrier.description>Kasta dryadów wyspecjalizowana w przenoszeniu przedmiotów. Pod wpływem człowieka może pomagać w przewożeniu rzeczy tam, gdzie są potrzebne.</Carrier.description>
+
+  <Clawer.label>pazur</Clawer.label>
+  <Clawer.description>Kasta driad wyspecjalizowana w agresji i atakach zadających obrażenia. Swoją nazwę zawdzięcza potężnym pazurom. Choć może wyrządzić ogromne szkody, sama jest podatna na ataki.</Clawer.description>
+
+  <Barkskin.label>kosa</Barkskin.label>
+  <Barkskin.description>Kasta driad wyspecjalizowana w przyjmowaniu ciosów podczas walki. Driady z kory są pokryte grubą skórą przypominającą korę, którą częściowo tworzy samo drzewo Gauranlen. Pod wpływem człowieka może działać jako wojownik absorbujący obrażenia.</Barkskin.description>
+
+  <Woodmaker.label>stolarz</Woodmaker.label>
+  <Woodmaker.description>Powolna, nieudolna kasta driad, która specjalizuje się w produkcji drewna. Wraz ze swoim drzewem Gauranlen, ta driada może na bieżąco generować materiał drewnopodobny. Jest jednak powolny i nieefektywny w pracy lub walce.</Woodmaker.description>
+
+  <Medicinemaker.label>medycyna</Medicinemaker.label>
+  <Medicinemaker.description>Kasta driad specjalizująca się w produkcji leków. Wraz ze swoim drzewem Gauranlen, ta driada może na bieżąco wytwarzać zioła lecznicze. Jest jednak powolny i nieefektywny w pracy lub walce.</Medicinemaker.description>
+
+  <Berrymaker.label>producent jagód</Berrymaker.label>
+  <Berrymaker.description>Kasta driad specjalizująca się w produkcji żywności. Wraz ze swoim drzewem Gauranlen driada może stale wytwarzać odżywcze jagody. Jest jednak powolny i nieefektywny w pracy lub w walce.</Berrymaker.description>
+
+  <Gaumaker.label>gaumaker</Gaumaker.label>
+  <Gaumaker.description>Kasta driad z wyjątkową zdolnością do produkcji nowych strąków Gauranlen i reprodukcji drzewa Gauranlen wraz z jego symbiontem, królową driad. Aby to zrobić, trzy driady gaumaker muszą się powoli łączyć.</Gaumaker.description>
+
+
+</LanguageData>

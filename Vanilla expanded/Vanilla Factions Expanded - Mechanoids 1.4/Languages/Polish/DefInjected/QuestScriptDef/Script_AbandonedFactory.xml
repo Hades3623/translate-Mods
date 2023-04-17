@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>questName- &gt; [opuszczona] [fabryka]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>questName-&gt;[abandoned] [factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>questName- &gt; [asker_nameDef] i [opuszczona] [fabryka]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>abandoned-&gt;Abandoned</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>abandoned-&gt;Old</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>abandoned-&gt;Decomissioned</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>abandoned-&gt;Ruined</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>factory-&gt;Factory</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>fabryka - &gt; linia produkcyjna</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>fabryka - &gt; zautomatyzowana fabryka</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>fabryka - &gt; miejsce produkcji</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] z [asker_faction_name], wysłał nam wiadomość. Najwyraźniej [siteFaction_pawnsPlural] z pobliskiej opuszczonej fabryki napadali na karawany. Fabryki są kontrolowana przez [siteFaction_name]. Może to być świetna okazja do pozyskania fabrycznych elementów i podzespołów mechanicznych. \n [asker_nameDef] prosi nas o wyeliminowanie zagrożenia i nie przejmuje się losem starych części maszyn. [asker_label]</VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.label>Misja wygasła: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.text>Obóz bandytów spakował się i ruszył dalej. Zadanie [resolvedQuestName] wygasło.</VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.label>Zadanie nie powiodło się: [rozwiązano nazwaQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.text>Po odkryciu obóz bandytów rozproszył się. Zadanie [resolvedQuestName] zakończyło się.</VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.text>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>Ci koloniści brali udział w zwycięstwie w zadaniu [resolvedQuestName]. [asker_definite] chce wiedzieć, kto powinien otrzymać [royalFavorReward_amount] [asker_faction_royalFavorLabel] za tę usługę.</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+
+
+</LanguageData>

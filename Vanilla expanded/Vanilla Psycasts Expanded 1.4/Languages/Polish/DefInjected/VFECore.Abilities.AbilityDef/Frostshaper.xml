@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_IceBreath.label>oddychać lodem</VPE_IceBreath.label>
+  <VPE_IceBreath.description>Wdychaj do przodu strumień psychicznej entropii, który powoduje cięcie na zimno i powoduje skalowanie się hipotermii wraz z odległością do celu.</VPE_IceBreath.description>
+
+  <VPE_IceSpike.label>lodowy kolec</VPE_IceSpike.label>
+  <VPE_IceSpike.description>Kondensuje parę z psychiczną entropią w sopel lodu wystrzeliwany na cel, a obrażenia skalują się wraz z psychiczną wrażliwością.</VPE_IceSpike.description>
+
+  <VPE_IceShield.label>lodowa tarcza</VPE_IceShield.label>
+  <VPE_IceShield.description>Tworzy wokół celu aurę psychicznej entropii na kilka sekund, uniemożliwiając mu doznanie zimna i wywołując hipotermię u każdego, kto spróbuje go zaatakować w zwarciu.</VPE_IceShield.description>
+
+  <VPE_FrostRay.label>mroźny promień</VPE_FrostRay.label>
+  <VPE_FrostRay.description>Wypychaj skoncentrowany strumień psychicznej entropii na kilka sekund, szybko wywołując skaleczenia i hipotermię. Czas trwania zależy od psychicznej wrażliwości rzucającego.</VPE_FrostRay.description>
+
+  <VPE_IceCrystal.label>kryształ lodu</VPE_IceCrystal.label>
+  <VPE_IceCrystal.description>Tworzy węzeł psychicznej entropii w postaci kryształu, wysysając ciepło z pomieszczenia przez następne 5 dni.</VPE_IceCrystal.description>
+
+  <VPE_ColdZone.label>zimna strefa</VPE_ColdZone.label>
+  <VPE_ColdZone.description>Spraw, aby obszar manifestował węzły psychicznej entropii przez następne 24 godziny, drastycznie obniżając temperaturę.</VPE_ColdZone.description>
+
+  <VPE_IceBlock.label>blok lodu</VPE_IceBlock.label>
+  <VPE_IceBlock.description>Łącząc węzły psychicznej entropii i bramkę połączoną z oceanem, tworząc duży blok lodu, który uformuje się w docelowym miejscu. Delikatny i może się stopić w temperaturze powyżej zera.</VPE_IceBlock.description>
+
+  <VPE_SnapFreeze.label>trzask zamrozić</VPE_SnapFreeze.label>
+  <VPE_SnapFreeze.description>Tworzy molekuły psychicznej entropii i miniaturowe przeskoki do zbiorników wodnych nad wszystkimi celami na niewielkim obszarze, zamykając je w lodzie. Ofiary będą doświadczać hipotermii, ale lód może się przedwcześnie stopić, jeśli temperatura będzie powyżej zera.</VPE_SnapFreeze.description>
+
+  <VPE_IceWall.label>lodowa ściana</VPE_IceWall.label>
+  <VPE_IceWall.description>Łącząc węzły psychicznej entropii i miniaturowe przeskoki połączone z oceanem, tworząc okrągłą ścianę lodu, która uformuje się wokół rzucającego. Delikatny i może się stopić w temperaturze powyżej zera.</VPE_IceWall.description>
+
+  <VPE_Blizzard.label>zamieć</VPE_Blizzard.label>
+  <VPE_Blizzard.description>Korzystanie z przeskoków różnicy ciśnień, przeskoków połączonych wodą i węzłów psychicznej entropii tworzy wirującą zamieć z dala od rzucającego. Osoby narażone na burzę doświadczają ograniczenia wzroku, poruszania się i manipulacji, a także narastania hipotermii i przeziębienia. Czas trwania skaluje się wraz z psychiczną wrażliwością rzucającego i wprowadza go w 5-dniową śpiączkę.</VPE_Blizzard.description>
+
+
+</LanguageData>

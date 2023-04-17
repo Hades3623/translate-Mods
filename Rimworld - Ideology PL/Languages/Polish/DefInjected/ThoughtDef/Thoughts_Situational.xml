@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LookChangeDesired.stages.0.label>zmiana wyglądu pożądana</LookChangeDesired.stages.0.label>
+  <LookChangeDesired.stages.0.description>To, jak wyglądam, nie pasuje do tego, kim jestem dzisiaj. Chcę to zmienić.</LookChangeDesired.stages.0.description>
+
+  <MasochistWearingCollar.stages.0.label>masochista z kołnierzykiem</MasochistWearingCollar.stages.0.label>
+  <MasochistWearingCollar.stages.0.description>Taki ograniczający dyskomfort... Wspaniały.</MasochistWearingCollar.stages.0.description>
+
+  <MasochistWearingBodyStrap.stages.0.label>ciało masochisty przywiązane;</MasochistWearingBodyStrap.stages.0.label>
+  <MasochistWearingBodyStrap.stages.0.description>Paski wciskają się i uspokajają moją duszę.</MasochistWearingBodyStrap.stages.0.description>
+
+  <WearingColor_Favorite.stages.0.label>noszenie ulubionego koloru</WearingColor_Favorite.stages.0.label>
+  <WearingColor_Favorite.stages.0.description>Po prostu uwielbiam ten kolor.</WearingColor_Favorite.stages.0.description>
+
+  <WearingColor_Ideo.stages.0.label>noszenie koloru ideolicji;</WearingColor_Ideo.stages.0.label>
+  <WearingColor_Ideo.stages.0.description>Kolorystyka odzieży właściwie wyraża moje przekonania.</WearingColor_Ideo.stages.0.description>
+
+
+</LanguageData>

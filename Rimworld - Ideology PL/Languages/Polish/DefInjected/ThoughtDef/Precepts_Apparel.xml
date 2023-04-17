@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <WearingDesiredApparel_Soft.stages.0.label>noszenie {APPAREL_label}</WearingDesiredApparel_Soft.stages.0.label>
+  <WearingDesiredApparel_Soft.stages.0.description>Dobrze jest nosić {APARATY_nieokreślone} zgodnie z moimi przekonaniami.</WearingDesiredApparel_Soft.stages.0.description>
+
+  <WearingDesiredApparel_Strong.stages.0.label>noszenie {APPAREL_label}</WearingDesiredApparel_Strong.stages.0.label>
+  <WearingDesiredApparel_Strong.stages.0.description>Wspaniale jest nosić {APARATY_nieokreślone} zgodnie z moimi przekonaniami.</WearingDesiredApparel_Strong.stages.0.description>
+
+
+</LanguageData>

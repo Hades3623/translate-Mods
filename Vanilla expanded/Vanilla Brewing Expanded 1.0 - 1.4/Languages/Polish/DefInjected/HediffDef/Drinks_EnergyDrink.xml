@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrinkHigh.label>napój energetyczny wysoki</VBE_EnergyDrinkHigh.label>
+  <VBE_EnergyDrinkHigh.description>Napoje energetyzujące natychmiast przywracają odpoczynek i zwiększają prędkość poruszania się, ale kosztem późniejszej awarii.</VBE_EnergyDrinkHigh.description>
+  <VBE_EnergyDrinkHigh.labelNoun>napój energetyzujący</VBE_EnergyDrinkHigh.labelNoun>
+
+  <VBE_EnergyDrinkCrash.label>awaria napoju energetycznego</VBE_EnergyDrinkCrash.label>
+  <VBE_EnergyDrinkCrash.description>Nieprzyjemny, opóźniony efekt po spożyciu napoju energetycznego.</VBE_EnergyDrinkCrash.description>
+  <VBE_EnergyDrinkCrash.labelNoun>zderzenie z napojem energetycznym</VBE_EnergyDrinkCrash.labelNoun>
+
+
+</LanguageData>

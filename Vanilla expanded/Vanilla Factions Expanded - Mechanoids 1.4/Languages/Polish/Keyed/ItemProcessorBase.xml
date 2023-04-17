@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Generic -->
+
+
+  <VFEM_BringIngredients>Wyciągnij składniki</VFEM_BringIngredients>
+  <VFEM_BringIngredientsDesc>Wyciągnij składniki z sąsiednich lejów, aby rozpocząć proces</VFEM_BringIngredientsDesc>
+  <VFEMech.MustPlaceOnFactoryFloor>Należy umieścić bezpośrednio na podłodze fabryki.</VFEMech.MustPlaceOnFactoryFloor>
+  <VFEMech.MustPlaceOnPowerConduit>Musi być umieszczony bezpośrednio na przewodzie zasilającym.</VFEMech.MustPlaceOnPowerConduit>
+
+</LanguageData>

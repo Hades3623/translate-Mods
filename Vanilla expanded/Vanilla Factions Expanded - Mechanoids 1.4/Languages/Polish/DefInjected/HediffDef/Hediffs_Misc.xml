@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_FasterMovement.label>premia do szybszego ruchu</VFE_FasterMovement.label>
+  <VFE_FasterMovement.description>premia do szybszego ruchu</VFE_FasterMovement.description>
+
+  <VFE_BrainWashedNotFully.label>wielkie pranie mózgu</VFE_BrainWashedNotFully.label>
+  <VFE_BrainWashedNotFully.description>Zostałem wyrzucony nagle w środku konwersji. Nie czuję się zbyt dobrze.</VFE_BrainWashedNotFully.description>
+
+  <VFE_BrainWashedFully.label>drobne pranie mózgu</VFE_BrainWashedFully.label>
+  <VFE_BrainWashedFully.description>Moje nowe przekonania są niesamowite, ale nagłe nawrócenie wymaga trochę czasu na przyzwyczajenie się.</VFE_BrainWashedFully.description>
+
+
+</LanguageData>

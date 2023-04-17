@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic Warhead -->
+
+  <VFEI_Shell_PsychicWarhead.label>psychiczna głowica bojowa</VFEI_Shell_PsychicWarhead.label>
+  <VFEI_Shell_PsychicWarhead.description>Archotech głowica z dawno zapomnianej epoki. Po detonacji uwalnia silny psychiczny dron, wprawiając w szał wszystkie zwierzęta i humanoidy w jego zasięgu. Może być wystrzeliwany z moździerzy. Wybucha po uszkodzeniu.</VFEI_Shell_PsychicWarhead.description>
+
+  <VFEI_Bullet_Shell_PsychicWarhead.label>Archotech Warhead Shell</VFEI_Bullet_Shell_PsychicWarhead.label>
+
+
+</LanguageData>

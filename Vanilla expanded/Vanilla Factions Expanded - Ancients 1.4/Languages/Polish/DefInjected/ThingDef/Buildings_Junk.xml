@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientMonitorBank.label>bank antycznych monitorów</VFEA_AncientMonitorBank.label>
+  <VFEA_AncientMonitorBank.description>Mały zestaw starych monitorów komputerowych.</VFEA_AncientMonitorBank.description>
+
+  <VFEA_AncientBrokenDefensiveTurret.label>starożytna uszkodzona wieżyczka obronna</VFEA_AncientBrokenDefensiveTurret.label>
+  <VFEA_AncientBrokenDefensiveTurret.description>Zniszczona wieżyczka obronna na szczycie.</VFEA_AncientBrokenDefensiveTurret.description>
+
+  <VFEA_AncientBustedTurretPlatform.label>starożytna, popękana platforma wieżyczki</VFEA_AncientBustedTurretPlatform.label>
+  <VFEA_AncientBustedTurretPlatform.description>Zniszczona platforma dla wieżyczki.</VFEA_AncientBustedTurretPlatform.description>
+
+  <VFEA_AncientFuelTank.label>antyczny zbiornik paliwa</VFEA_AncientFuelTank.label>
+  <VFEA_AncientFuelTank.description>Duży zbiornik paliwa, który można zdemontować w celu uzyskania paliwa.</VFEA_AncientFuelTank.description>
+
+  <VFEA_AncientInputTerminal.label>zacisk wejścia antycznego</VFEA_AncientInputTerminal.label>
+  <VFEA_AncientInputTerminal.description>Stacja z przyciskami i dźwigniami.</VFEA_AncientInputTerminal.description>
+
+  <VFEA_AncientTransmitter.label>starożytny nadajnik</VFEA_AncientTransmitter.label>
+  <VFEA_AncientTransmitter.description>Nadajnik służący do przesyłania sygnałów na duże odległości.</VFEA_AncientTransmitter.description>
+
+  <VFEA_AncientMachinery.label>starożytne maszyny</VFEA_AncientMachinery.label>
+  <VFEA_AncientMachinery.description>Zestaw starych bloków maszynowych. Ich przeznaczenie, o ile w ogóle jakieś miały, dawno zostało zapomniane.</VFEA_AncientMachinery.description>
+
+  <VFEA_AncientWaterFilter.label>antyczny filtr do wody</VFEA_AncientWaterFilter.label>
+  <VFEA_AncientWaterFilter.description>Duży system filtracji wody.</VFEA_AncientWaterFilter.description>
+
+  <VFEA_AncientComputerDesk.label>antyczne biurko komputerowe</VFEA_AncientComputerDesk.label>
+  <VFEA_AncientComputerDesk.description>Stare, niedziałające już biurko komputerowe.</VFEA_AncientComputerDesk.description>
+
+  <VFEA_AncientShuttle.label>starożytny wachadłowiec</VFEA_AncientShuttle.label>
+  <VFEA_AncientShuttle.description>Starożytny, niedziałający już wahadłowiec, który można rozmontować na złom.</VFEA_AncientShuttle.description>
+
+
+</LanguageData>

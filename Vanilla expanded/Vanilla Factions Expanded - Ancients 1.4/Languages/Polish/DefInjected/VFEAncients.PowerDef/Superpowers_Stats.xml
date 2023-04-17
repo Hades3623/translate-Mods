@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperLearning.label>super nauka</SuperLearning.label>
+  <SuperLearning.description>Mózg podmiotu stał się bardzo elastyczny, co pozwala mu szybko uczyć się nowych umiejętności prawie bez wysiłku.</SuperLearning.description>
+
+  <ToxicResistance.label>odporność na toksyny</ToxicResistance.label>
+  <ToxicResistance.description>Temat stał się bastionem przeciwko skutkom chemicznym. Wszelkie wchłonięte toksyny są natychmiast przetwarzane przez ich wątrobę, czyniąc je nieszkodliwymi, a tym samym pełną odpornością na działanie toksyczne.</ToxicResistance.description>
+
+  <PsychicResistance.label>opór psychiczny</PsychicResistance.label>
+  <PsychicResistance.description>Obiekt stał się fortecą przeciw psychicznym atakom. Wszelkie efekty psychiczne są blokowane z powodu organicznej sieci, która otacza i izoluje ich mózg.</PsychicResistance.description>
+
+  <Regeneration.label>regeneracja</Regeneration.label>
+  <Regeneration.description>Szybkość regeneracji komórek u tego osobnika została znacznie poprawiona, pozwalając im wyleczyć się z prawie każdego urazu, o ile kończyny są nadal obecne.</Regeneration.description>
+
+  <SuperSpeed.label>Super prędkość</SuperSpeed.label>
+  <SuperSpeed.description>Mięśnie i szybkość reakcji u tego podmiotu zostały ulepszone, dzięki czemu poruszają się o 50% szybciej i mogą wykorzystać ten wzrost prędkości bez zderzeń z przedmiotami.</SuperSpeed.description>
+
+  <GeniusIntellect.label>genialny intelekt</GeniusIntellect.label>
+  <GeniusIntellect.description>Szybkość przetwarzania mentalnego podmiotu została znacznie poprawiona, co skutkuje doskonałymi zdolnościami dedukcyjnymi i analitycznymi. Dzięki temu mogą badać nowe lub istniejące pomysły z trzykrotnie większą szybkością niż wcześniej.</GeniusIntellect.description>
+
+  <WeaponExpert.label>ekspert od broni</WeaponExpert.label>
+  <WeaponExpert.description>Szybkość reakcji w tym temacie została poprawiona wraz z koordynacją ręka-oko, zmniejszając o połowę rozgrzewkę i czas odnowienia broni.</WeaponExpert.description>
+
+
+</LanguageData>

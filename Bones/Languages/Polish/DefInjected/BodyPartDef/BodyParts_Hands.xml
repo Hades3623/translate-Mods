@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WRIST PART -->
+
+  <SZ_Wrist.label>nadgarstek</SZ_Wrist.label>
+
+
+  <!-- WRIST BONES -->
+
+  <SZ_Hamate.label>szyjna</SZ_Hamate.label>
+  <SZ_Pisiform.label>piszczelowa</SZ_Pisiform.label>
+  <SZ_Triquetral.label>Triquetra</SZ_Triquetral.label>
+  <SZ_Lunate.label>księżycowa</SZ_Lunate.label>
+  <SZ_Trapezoid.label>trapez</SZ_Trapezoid.label>
+  <SZ_Trapezium.label>trapez</SZ_Trapezium.label>
+  <SZ_Scaphoid.label>łopatkowa</SZ_Scaphoid.label>
+  <SZ_Capitate.label>główkowata</SZ_Capitate.label>
+
+
+  <!-- HAND BONES -->
+
+  <SZ_Metacarpal.label>śródręcza</SZ_Metacarpal.label>
+  <SZ_Proximal_Phalange_Hand.label>bliższy paliczek</SZ_Proximal_Phalange_Hand.label>
+  <SZ_Intermediate_Phalange_Hand.label>paliczek pośredni</SZ_Intermediate_Phalange_Hand.label>
+  <SZ_Distal_Phalange_Hand.label>dystalny paliczek</SZ_Distal_Phalange_Hand.label>
+
+
+</LanguageData>

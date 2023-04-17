@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hospitality_Util_AddHealthConditions.root.node.nodes.1.name>lodgersAreDowned</Hospitality_Util_AddHealthConditions.root.node.nodes.1.name>
+  <Hospitality_Util_AddHealthConditions.root.elseNode.nodes.1.name>lodgersAreSick</Hospitality_Util_AddHealthConditions.root.elseNode.nodes.1.name>
+
+  <Util_ChooseRandomQuestLodgerKind.root.nodes.0.name>asker</Util_ChooseRandomQuestLodgerKind.root.nodes.0.name>
+
+  <Util_ApplyMoodThreshold.root.nodes.1.node.nodes.0.label>Guest unhappy: {SUBJECT_definite}</Util_ApplyMoodThreshold.root.nodes.1.node.nodes.0.label>
+  <Util_ApplyMoodThreshold.root.nodes.1.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [moodThreshold] too long.\n\n[remainingWillNowLeave]</Util_ApplyMoodThreshold.root.nodes.1.node.nodes.0.text>
+  <Util_ApplyMoodThreshold.root.nodes.2.name>storeMoodThresholdAs</Util_ApplyMoodThreshold.root.nodes.2.name>
+  <Util_ApplyMoodThreshold.root.nodes.2.node.name>$storeMoodThresholdAs</Util_ApplyMoodThreshold.root.nodes.2.node.name>
+  <Util_ApplyMoodThreshold.root.nodes.3.name>storeNormalizedMoodThresholdAs</Util_ApplyMoodThreshold.root.nodes.3.name>
+  <Util_ApplyMoodThreshold.root.nodes.3.node.name>$storeNormalizedMoodThresholdAs</Util_ApplyMoodThreshold.root.nodes.3.node.name>
+
+  <Util_DecideRandomLodgerConditions.root.nodes.0.name>lodgersWillNotWork</Util_DecideRandomLodgerConditions.root.nodes.0.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.1.name>lodgersHaveBloodRot</Util_DecideRandomLodgerConditions.root.nodes.1.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.2.name>lodgersAreParalyzed</Util_DecideRandomLodgerConditions.root.nodes.2.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.3.name>lodgersHaveBloodRotAndParalysis</Util_DecideRandomLodgerConditions.root.nodes.3.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.4.name>lodgersHaveNoConditions</Util_DecideRandomLodgerConditions.root.nodes.4.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.5.name>noConditionsMaxPoints</Util_DecideRandomLodgerConditions.root.nodes.5.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.5.elseNode.name>noConditionsMaxPoints</Util_DecideRandomLodgerConditions.root.nodes.5.elseNode.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.6.name>bloodRotMinPoints</Util_DecideRandomLodgerConditions.root.nodes.6.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.6.elseNode.name>bloodRotMinPoints</Util_DecideRandomLodgerConditions.root.nodes.6.elseNode.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.0.node.name>lodgersHaveNoConditions</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.0.node.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.1.node.name>lodgersHaveMoodThreshold</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.1.node.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.2.name>lodgersWillNotWork</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.2.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.3.name>lodgersAreParalyzed</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.3.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.4.node.name>lodgersHaveBloodRot</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.4.node.name>
+  <Util_DecideRandomLodgerConditions.root.nodes.7.nodes.5.node.nodes.0.name>lodgersHaveBloodRotAndParalysis</Util_DecideRandomLodgerConditions.root.nodes.7.nodes.5.node.nodes.0.name>
+
+  <Util_ApplyLodgerConditions.root.nodes.0.nodes.0.node.nodes.0.name>lodgersWithMoodThreshold</Util_ApplyLodgerConditions.root.nodes.0.nodes.0.node.nodes.0.name>
+  <Util_ApplyLodgerConditions.root.nodes.0.nodes.0.node.nodes.1.name>lodgersCountWithMoodThreshold</Util_ApplyLodgerConditions.root.nodes.0.nodes.0.node.nodes.1.name>
+  <Util_ApplyLodgerConditions.root.nodes.0.nodes.1.name>lodgersCountWithMoodThreshold</Util_ApplyLodgerConditions.root.nodes.0.nodes.1.name>
+  <Util_ApplyLodgerConditions.root.nodes.0.nodes.1.elseNode.name>lodgersCountWithMoodThreshold</Util_ApplyLodgerConditions.root.nodes.0.nodes.1.elseNode.name>
+
+  <Util_MaybeApplyGoodwillForMood.root.nodes.1.elseNode.node.nodes.0.name>goodwillRewardForMood</Util_MaybeApplyGoodwillForMood.root.nodes.1.elseNode.node.nodes.0.name>
+
+
+</LanguageData>

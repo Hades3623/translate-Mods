@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+
+  <VCEF_Fish.label>złapać rybę</VCEF_Fish.label>
+  <VCEF_Fish.verb>złapać rybę</VCEF_Fish.verb>
+  <VCEF_Fish.gerund>łowić</VCEF_Fish.gerund>
+
+
+</LanguageData>

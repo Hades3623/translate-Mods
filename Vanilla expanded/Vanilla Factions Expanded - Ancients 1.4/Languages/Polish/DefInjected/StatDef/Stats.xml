@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEAncients_RangedCooldownFactor.label>czas odnowienia dystansu</VFEAncients_RangedCooldownFactor.label>
+  <VFEAncients_RangedCooldownFactor.description>Czas odnowienia broni dystansowej dla tego pionka jest pomnożony przez tę wartość.</VFEAncients_RangedCooldownFactor.description>
+
+  <VFEAncients_MeleeCooldownFactor.label>czas odnowienia czasu walki wręcz</VFEAncients_MeleeCooldownFactor.label>
+  <VFEAncients_MeleeCooldownFactor.description>Czas odnowienia broni do walki wręcz dla tego pionka jest pomnożony przez tę wartość.</VFEAncients_MeleeCooldownFactor.description>
+
+
+</LanguageData>

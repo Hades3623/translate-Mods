@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <VBE_DrankSoda.stages.0.label>Soda</VBE_DrankSoda.stages.0.label>
+  <VBE_DrankSoda.stages.0.description>Wypiłem słodką gazowaną sodę, mały, ale mile widziany luksus.</VBE_DrankSoda.stages.0.description>
+
+  <VBE_DrankTea.stages.0.label>Masz ochotę na filiżankę</VBE_DrankTea.stages.0.label>
+  <VBE_DrankTea.stages.0.description>Cudownie prosta filiżanka herbaty naprawdę rozjaśnia dzień.</VBE_DrankTea.stages.0.description>
+
+  <VBE_TequilaAsIngredient.stages.0.label>Wypił koktajl na bazie tequili</VBE_TequilaAsIngredient.stages.0.label>
+  <VBE_TequilaAsIngredient.stages.0.description>Yummy.</VBE_TequilaAsIngredient.stages.0.description>
+
+  <VBE_WhiskeyAsIngredient.stages.0.label>Wypił koktajl na bazie whisky</VBE_WhiskeyAsIngredient.stages.0.label>
+  <VBE_WhiskeyAsIngredient.stages.0.description>Yummy.</VBE_WhiskeyAsIngredient.stages.0.description>
+
+  <VBE_VodkaAsIngredient.stages.0.label>Wypił koktajl na bazie wódki</VBE_VodkaAsIngredient.stages.0.label>
+  <VBE_VodkaAsIngredient.stages.0.description>Yummy.</VBE_VodkaAsIngredient.stages.0.description>
+
+  <VBE_GinAsIngredient.stages.0.label>Wypił koktajl na bazie ginu</VBE_GinAsIngredient.stages.0.label>
+  <VBE_GinAsIngredient.stages.0.description>Yummy.</VBE_GinAsIngredient.stages.0.description>
+
+  <VBE_AmbrandyAsIngredient.stages.0.label>Wypił koktajl na bazie ambrandy</VBE_AmbrandyAsIngredient.stages.0.label>
+  <VBE_AmbrandyAsIngredient.stages.0.description>Yummy.</VBE_AmbrandyAsIngredient.stages.0.description>
+
+  <VBE_RBMeadAsIngredient.stages.0.label>Wypił koktajl na bazie miodu pitnego</VBE_RBMeadAsIngredient.stages.0.label>
+  <VBE_RBMeadAsIngredient.stages.0.description>Yummy.</VBE_RBMeadAsIngredient.stages.0.description>
+
+  <VBE_WineAsIngredient.stages.0.label>Wypił koktajl na bazie wina</VBE_WineAsIngredient.stages.0.label>
+  <VBE_WineAsIngredient.stages.0.description>Yummy.</VBE_WineAsIngredient.stages.0.description>
+
+
+  <VBE_ConsumedLuciferiumPowder.stages.0.label>Zużyty proszek lucyferium</VBE_ConsumedLuciferiumPowder.stages.0.label>
+  <VBE_ConsumedLuciferiumPowder.stages.0.description>Yummy.</VBE_ConsumedLuciferiumPowder.stages.0.description>
+
+  <VBE_ConsumedGoStock.stages.0.label>Spożyty bulion go-soku</VBE_ConsumedGoStock.stages.0.label>
+  <VBE_ConsumedGoStock.stages.0.description>Yummy.</VBE_ConsumedGoStock.stages.0.description>
+
+  <VBE_ConsumedWakeupPowder.stages.0.label>Zużyty proszek do budzenia</VBE_ConsumedWakeupPowder.stages.0.label>
+  <VBE_ConsumedWakeupPowder.stages.0.description>Yummy.</VBE_ConsumedWakeupPowder.stages.0.description>
+
+
+</LanguageData>

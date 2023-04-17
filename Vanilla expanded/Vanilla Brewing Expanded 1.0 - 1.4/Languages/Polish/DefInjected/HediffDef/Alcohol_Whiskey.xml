@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WhiskeyHigh.label>mocna whisky</VBE_WhiskeyHigh.label>
+  <VBE_WhiskeyHigh.description>Wypiłem trochę whisky. Zwiększa globalną szybkość pracy o 15 %.</VBE_WhiskeyHigh.description>
+  <VBE_WhiskeyHigh.labelNoun>haj whisky</VBE_WhiskeyHigh.labelNoun>
+
+  <VBE_DoubleWhiskeyHigh.label>podwójna mocna whisky</VBE_DoubleWhiskeyHigh.label>
+  <VBE_DoubleWhiskeyHigh.description>Wypiłem podwójną whisky. Zwiększa globalną szybkość pracy o 20% i ceny handlowe o 20 %.</VBE_DoubleWhiskeyHigh.description>
+  <VBE_DoubleWhiskeyHigh.labelNoun>podwójna mocna whisky</VBE_DoubleWhiskeyHigh.labelNoun>
+
+
+</LanguageData>

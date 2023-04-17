@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CommandDisabledUnconscious>{0_labelShort} jest nieprzytomny.</CommandDisabledUnconscious>
+
+  <!-- Heritage -->
+  <ChooseHeir>Wybierz nowego spadkobiercę {HOLDER_nameIndef}:</ChooseHeir>
+  <MakeHeirConfirm>Za chwilę zmienisz dziedzica tytułu {HOLDER_nameIndef} otrzymanego od {0_name}. Wymaga to wybudowania w ograniczonym czasie pomnika, konsekracji nowego dziedzictwa.</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>To zdenerwuje {HOLDER_possessive} obecnego spadkobiercę {HEIR_nameFull}.</MakeHeirPreviousHeirWarning>
+
+  <!-- Call aid -->
+  <CommandCallRoyalAid>Wezwij pomoc...</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>Wezwij pomoc za pomocą specjalnego zezwolenia.\n\nKażdy rodzaj pomocy może być wykorzystany raz za darmo, po czym musisz poczekać, aby ponownie z niego skorzystać za darmo. Możesz częściej korzystać z pomocy, ale to kosztuje honor.</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>Goście nie będą korzystać ze swoich zezwoleń na pomoc.</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidFactionHostile>Twoje relacje z {FACTION_name} są wrogie.</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>Wolny</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>Pozostało {0} dni, kosztuje {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>Masz zamiar wezwać pomoc, ale są ludzie z frakcji, do których {0_name} nie jest wrogo nastawiony. Żadni żołnierze, których wezwiesz, nie zaatakują ich: {1}</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>Za mało honoru.</CommandCallRoyalAidNotEnoughFavor>
+
+  <!-- Call laborers -->
+  <CommandCallLaborers>Zadzwoń do pracowników</CommandCallLaborers>
+  <CommandCallLaborersDesc>Użyj specjalnego zezwolenia, aby wezwać grupę robotników od swojego sojusznika. Ci pracownicy mogą wykonywać tylko zadania związane z pracą, ale możesz ich kontrolować tak, jakby byli twoimi własnymi kolonistami. Jesteś zobowiązany do zapewnienia im bezpieczeństwa.</CommandCallLaborersDesc>
+  <CommandOnCooldown>Po odnowieniu. Pozostało {0} dni.</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>{0} robotników</CommandCallLaborersNumLaborers>
+
+  <!-- Abilities -->
+  <CommandPsycastWouldExceedEntropy>Ciepło neuronowe by się przepełniło. Wyłącz neuronowy ogranicznik ciepła, aby rzucić.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} zużywa {0} psyfocus, ale {CASTERNAME} ma tylko {1}.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} potrzebuje {0} psyfocus, aby zatrzymać psychiczne załamanie {1}, ale {CASTERNAME} ma tylko {2} psyfocus.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>Psychlink poziomu {0} jest wymagany.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>Zero wrażliwości psychicznej.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>Użytkownik umiejętności jest nieprzytomny.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>Potrzebujesz co najmniej {0} psyfocus, aby to rzucić.</CommandPsycastLowPsyfocus>
+  <NeuralHeatLetter>h</NeuralHeatLetter>
+  <PsyfocusLetter>P</PsyfocusLetter>
+
+  <!-- Select monument marker -->
+  <CommandSelectMonumentMarker>Wybierz pomnik</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>Wybierz znacznik pomnika, do którego należy.</CommandSelectMonumentMarkerDesc>
+
+  <!-- Warn in building radius -->
+  <CommandWarnInBuildingRadius>Ostrzeżenie o promieniu kompilacji</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>Jeśli jest włączony, ten obiekt będzie rysował czerwoną linię do budynków, które umieszczasz za pomocą menu architekta, jeśli przeszkadzałyby w medytacji z powodu zbyt bliskiej odległości.\n\nMożesz wyłączyć tę opcję, jeśli nie zamierzasz jej używać do medytacja.</CommandWarnInBuildingRadiusDesc>
+
+  <!-- Permits -->
+  <ChooseRoyalPermit>Wybierz pozwolenie</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>Otwórz ekran wyboru zezwolenia i wybierz nowe zezwolenie.</ChooseRoyalPermit_Desc>
+
+</LanguageData>

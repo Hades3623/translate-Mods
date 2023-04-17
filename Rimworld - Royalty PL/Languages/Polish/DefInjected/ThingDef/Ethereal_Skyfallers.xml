@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShuttleIncoming.label>wahadłowiec (przyjeżdżający)</ShuttleIncoming.label>
+  <ShuttleLeaving.label>wahadłowiec (wyjazd)</ShuttleLeaving.label>
+  <ShuttleCrashing.label>wahadłowiec (awaria)</ShuttleCrashing.label>
+
+
+</LanguageData>

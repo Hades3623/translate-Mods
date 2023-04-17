@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_MechaniteLFReinforcer.label>Mechanite LF wzmacniacz</VFE_MechaniteLFReinforcer.label>
+  <VFE_MechaniteLFReinforcer.description>Urządzenie o bardzo ograniczonym zasięgu, które wypełnia ściany przed sobą mechanitami, wpływając na ich właściwości. Dostrojone do niskich częstotliwości mechanity zmieniają skład materiału, z którego zbudowana jest ściana, tak że każdy, kto uderza w nią bronią do walki wręcz, ma wrażenie, że trafia w płynną skrobię kukurydzianą. Są nieskuteczne w przypadku wyższych częstotliwości, takich jak eksplozje czy broń dystansowa.</VFE_MechaniteLFReinforcer.description>
+
+  <VFE_IndoctrinationPod.label>kapusła indoktrynacyjna</VFE_IndoctrinationPod.label>
+  <VFE_IndoctrinationPod.description>Stonowana wersja maszyny, która była często używana w światach urbitarnych, urządzenie to jest używane do uczynienia jego lokatora bardziej posłusznym swoim porywaczom. Dopóki proces nie zostanie przerwany, ma gwarantowany sukces, z niewielkimi efektami ubocznymi spowodowanymi przez przerwane cykle snu REM.</VFE_IndoctrinationPod.description>
+
+  <VFE_MechanoidConstructionLamp.label>mechanoidalna lampa budowlana</VFE_MechanoidConstructionLamp.label>
+  <VFE_MechanoidConstructionLamp.description>Solidny, utylitarny metalowy słup, który służy jako potężna lampa, mająca oświetlać ciemne fabryki i wspierać rozległe dachy.</VFE_MechanoidConstructionLamp.description>
+
+  <VFE_MechanoidLiquidFreezer.label>zamrażarka cieczy</VFE_MechanoidLiquidFreezer.label>
+  <VFE_MechanoidLiquidFreezer.description>Zamrażarka o wysokości do pasa wypełniona cienką warstwą chemicznie zmienionej neutroaminy, która wydaje się pozostawać w stanie stagnacji w niewiarygodnie niskiej temperaturze. Nie wymaga zasilania i zapobiega gniciu znajdującego się w niej jedzenia.</VFE_MechanoidLiquidFreezer.description>
+
+  <VFE_BlightAutoRepeller.label>automatyczny odstraszacz zarazy</VFE_BlightAutoRepeller.label>
+  <VFE_BlightAutoRepeller.description>Maszyna inspirowana mechanoidami, która wysyła unikalne fale o wysokiej częstotliwości, dostrojone do charakterystyki zarazy. Zapobiega to rozmnażaniu się zarazy na roślinach, które znajdują się w zasięgu działania automatycznego odstraszacza zarazy.</VFE_BlightAutoRepeller.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExpectationsSlave.stages.0.label>nędzne oczekiwania niewolników</ExpectationsSlave.stages.0.label>
+  <ExpectationsSlave.stages.0.description>Jestem niewolnikiem ubogiej grupy. Niczego nie oczekuję.</ExpectationsSlave.stages.0.description>
+  <ExpectationsSlave.stages.1.label>słabe oczekiwania niewolnika</ExpectationsSlave.stages.1.label>
+  <ExpectationsSlave.stages.1.description>Jestem niewolnikiem biednej grupy. Oczekuję bardzo mało.</ExpectationsSlave.stages.1.description>
+  <ExpectationsSlave.stages.2.label>skromne oczekiwania niewolników</ExpectationsSlave.stages.2.label>
+  <ExpectationsSlave.stages.2.description>Jestem niewolnikiem grupy o skromnych posiadłościach. Niewiele oczekuję.</ExpectationsSlave.stages.2.description>
+  <ExpectationsSlave.stages.3.label>oczekiwania niewolników</ExpectationsSlave.stages.3.label>
+  <ExpectationsSlave.stages.3.description>Jestem niewolnikiem. Nie oczekuję wiele.</ExpectationsSlave.stages.3.description>
+
+
+</LanguageData>

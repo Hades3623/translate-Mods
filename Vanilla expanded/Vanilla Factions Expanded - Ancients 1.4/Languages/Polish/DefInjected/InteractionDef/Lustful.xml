@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_RomanceAttempt_Lustful.label>romance attempt</VFEA_RomanceAttempt_Lustful.label>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.0>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.1>wooed->tried to flirt with</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.1>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.2>wooed->flirted with</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.2>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.3>wooed->tried to attract</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.3>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.4>wooed->tried to romance</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.4>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.5>wooed->tried to woo</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.5>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.6>wooed->wooed</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.6>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.7>wooed->pursued</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.7>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.8>wooed->charmed</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.8>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.9>wooed->courted</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.9>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.10>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.10>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.11>wootactic->telling a story about [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.11>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.12>wootactic->telling a tale about [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.12>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.13>wootactic->joking about [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.13>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.14>wootactic->making an observation about [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.14>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.15>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.15>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.16>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.16>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.17>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.17>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.18>boasting->boasting about</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.18>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.19>boasting->mentioning</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.19>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.20>boasting->implying good things about</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.20>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.21>boasting->exaggerating</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.21>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.22>boasting->talking about</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.22>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.23>boasting->drawing attention to</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.23>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.24>complimenting(p=3)->complimenting</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.24>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.25>complimenting->subtly complimenting</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.25>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.26>complimenting->lauding</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.26>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.27>complimenting->commending</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.27>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.28>complimenting->saying good things about</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.28>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.29>complimenting(p=2)->playfully making fun of</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.29>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.30>complimenting->jokingly poking at</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.30>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.31>complimenting->jokingly half-complimenting</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.31>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.32>complimenting->impishly questioning</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.32>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.33>complimenting->cheerfully making fun of</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.33>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.34>romantic_adj->beautiful</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.34>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.35>romantic_adj->shining</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.35>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.36>romantic_adj->glimmering</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.36>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.37>romantic_adj->heavenly</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.37>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.38>romantic_adj->golden</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.38>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.39>romantic_adj->bright</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.39>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.40>romantic_adj->breathtaking</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.40>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.41>romantic_adj->charming</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.41>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.42>romantic_adj->dazzling</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.42>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.43>romantic_adj->delicate</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.43>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.44>romantic_adj->fine</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.44>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.45>romantic_adj->magnificent</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.45>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.46>romantic_adj->lovely</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.46>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.47>romantic_adj->wonderful</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.47>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.48>romantic_adj(p=3)->[AdjectiveBadass]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.48>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.49>romantic_noun->flower</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.49>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.50>romantic_noun->spring</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.50>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.51>romantic_noun->river</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.51>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.52>romantic_noun->star</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.52>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.53>romantic_noun->moon</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.53>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.54>romantic_noun->sun</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.54>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.55>romantic_noun->house</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.55>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.56>romantic_noun->aurora</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.56>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.57>romantic_noun->[TreeType] tree</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.57>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)->[TerrainFeature]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.58>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.59>romantic_noun(p=2)->[NaturalObject]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.59>
+
+
+</LanguageData>

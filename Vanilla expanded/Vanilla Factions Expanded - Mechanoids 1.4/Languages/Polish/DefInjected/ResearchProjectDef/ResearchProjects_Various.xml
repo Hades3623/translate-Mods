@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_FactoryBasics.label>podstawy fabryki</VFE_FactoryBasics.label>
+  <VFE_FactoryBasics.description>Zdobądź podstawową wiedzę na temat wykorzystania fabryki i odblokuj fabryczne leje samowyładowcze i teren, na którym mogą się znajdować ciężkie maszyny.</VFE_FactoryBasics.description>
+
+  <VFE_ElectronicsFabricationFactory.label>fabryka elektroniki</VFE_ElectronicsFabricationFactory.label>
+  <VFE_ElectronicsFabricationFactory.description>Zbadaj serię maszyn, które dają możliwość automatycznego spajania niewielkich ilości stali z luźnych kawałków skały i wykuwania ich zarówno na proste elementy mechaniczne, jak i zaawansowane technicznie komponenty elektroniczne.</VFE_ElectronicsFabricationFactory.description>
+
+  <VFE_MasonryandMetallicsFactory.label>fabryka kamieniarska i metalowa</VFE_MasonryandMetallicsFactory.label>
+  <VFE_MasonryandMetallicsFactory.description>Zbadaj serię maszyn, które dają możliwość automatycznego wydobywania kawałków skały na poziomie powierzchni, a także przetwarzania ich na cegły i dalszego udoskonalania ich w zaawansowany materiał nie do odróżnienia od super stali.</VFE_MasonryandMetallicsFactory.description>
+
+  <VFE_MunitionsandArmamentsFactory.label>fabryka amunicji i uzbrojenia</VFE_MunitionsandArmamentsFactory.label>
+  <VFE_MunitionsandArmamentsFactory.description>Zbadaj serię maszyn, które umożliwiają automatyczne oczyszczanie i klarowanie paliwa chemicznego z materii organicznej, a także dalsze przetwarzanie go na broń i pociski moździerzowe na dużą skalę.</VFE_MunitionsandArmamentsFactory.description>
+
+  <VFE_WearablesandTextilesFactory.label>fabryka ubrań i tekstyliów</VFE_WearablesandTextilesFactory.label>
+  <VFE_WearablesandTextilesFactory.description>Zbadaj serię maszyn, które dają możliwość automatycznego recyklingu starej odzieży na odzyskany złom, a także tworzenia nowej odzieży ze wspomnianych wcześniej skrawków. Dodatkowo odblokowuje maszynę zdolną do molekularnej rekonfiguracji odzieży, aby naśladować właściwości synthreadu.</VFE_WearablesandTextilesFactory.description>
+
+  <VFE_ProvisionsPackagingFactory.label>zaopatrzenie fabryki opakowań</VFE_ProvisionsPackagingFactory.label>
+  <VFE_ProvisionsPackagingFactory.description>Zbadaj serię maszyn, które umożliwiają automatyczne i wydajne zbieranie skrawków mięsa zwierzęcego, gotowanie i pakowanie ich w różnorodne posiłki, krokiety i konserwy.</VFE_ProvisionsPackagingFactory.description>
+
+  <VFE_MedicinalCompoundingFactory.label>fabryka mieszanek leczniczych</VFE_MedicinalCompoundingFactory.label>
+  <VFE_MedicinalCompoundingFactory.description>Zbadaj serię maszyn, które dają możliwość automatycznego uszlachetniania grubej gliceryny bardzo podobnej do neutroaminy, a także pozwalają na dalsze rafinowanie różnych leków lub nielegalnych narkotyków.</VFE_MedicinalCompoundingFactory.description>
+
+  <VFE_BasicDroneAssembly.label>podstawowy montaż drona</VFE_BasicDroneAssembly.label>
+  <VFE_BasicDroneAssembly.description>Zbadaj maszynę, która umożliwia montaż podstawowych zautomatyzowanych dronów do ładowania, zdolnych do holowania, wydobywania i czyszczenia.</VFE_BasicDroneAssembly.description>
+
+  <VFE_AutomatedDefensiveMeasures.label>zautomatyzowane środki obronne</VFE_AutomatedDefensiveMeasures.label>
+  <VFE_AutomatedDefensiveMeasures.description>Zbadaj możliwość uzbrojenia zautomatyzowanych dronów do różnych celów, w tym mobilnych platform wieżowych, moździerzy, kontroli zamieszek i innych obronnych środków zaradczych.</VFE_AutomatedDefensiveMeasures.description>
+
+  <VFE_MechanoidStructures.label>mechanoidalne struktury</VFE_MechanoidStructures.label>
+  <VFE_MechanoidStructures.description>Zbadaj możliwość wykorzystania technologii mechanoidów do tworzenia różnego rodzaju struktur, przy wysokich kosztach.</VFE_MechanoidStructures.description>
+
+  <VFE_AdvancedDroneAssembly.label>zaawansowany montaż dronów</VFE_AdvancedDroneAssembly.label>
+  <VFE_AdvancedDroneAssembly.description>Badania bardziej zaawansowanych dronów, zdolnych do analizy i przetwarzania złożonych informacji.</VFE_AdvancedDroneAssembly.description>
+
+
+</LanguageData>

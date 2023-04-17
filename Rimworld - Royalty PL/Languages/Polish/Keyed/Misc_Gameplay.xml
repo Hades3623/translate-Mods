@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royalty and throne -->
+  <ThroneMaxSatisfiedTitle>Spełnia tytuł</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>({0} impressiveness)</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>Tron musi być umieszczony w pomieszczeniu.</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>Minimalny tytuł ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>Handel tutaj wymaga tytułu: {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>Osobista sypialnia (dozwolony partner)</RequirementPersonalBedroom>
+
+  <!-- Generated neurotrainers -->
+  <PsycastNeurotrainerLabel>psychotrener ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>Użyj psytrainera, aby nauczyć się {0} psycast</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>Jednorazowa superdawka mechanicy, która ćwiczy określoną moc psychiczną.\n\nDawka jest podawana przez orbitę oka. Po uwolnieniu do mózgu mechanizy tworzą wiedzę o określonej zdolności, przemieniając się w tkankę nerwową w razie potrzeby.</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort} skorzystał z neurotreningu, aby poznać moc {1}.</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>Wymaga psycholinka</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} już zna {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>osoba, która zaakceptowała misję, otrzyma {1} {0_royalFavorLabel} od {0_name}</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>możesz wybrać jednego z uczestniczących {2}, aby otrzymać {1} {0_royalFavorLabel} od {0_name}</Reward_RoyalFavor_ChoosePawn>
+
+  <!-- Ship landing beacons -->
+  <NotUsable>Nie nadaje się do użytku</NotUsable>
+  <Unpowered>bez mocy</Unpowered>
+  <BlockedByRoof>zablokowany przez dach</BlockedByRoof>
+  <TooCloseToOtherBeacon>Zbyt blisko innej latarni morskiej</TooCloseToOtherBeacon>
+
+  <!-- Meditation -->
+  <Psyfocus>Psyfocus</Psyfocus>
+  <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
+  <PsyfocusDesc>Psyfocus to specjalny rodzaj mentalnej struktury, który jest niezbędny do korzystania z mocy psychicznych. Psyfocus zanika z czasem i musi być budowany poprzez regularną medytację. Utrata całego psychofokusa sprawia, że ​​ktoś nie jest w stanie używać zdolności parapsychicznych, ale nie ma żadnych innych konsekwencji.\n\nWyższy poziom psychofokusa pozwala na uzyskanie wyższych mocy, ale także zwiększa tempo rozpraszania psychofokusa</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>Do poziomu {0} uprawnień.</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>Psyfocus spada o {0} dziennie.</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>Siła skupienia na medytacji dla {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>Efekt skupienia, na który ma wpływ</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>{1} za pobliski kamień animus (maks. {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>{2} za pobliski kamień animus ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>Za pobliski kamień animus {2}, kapliczka przyrody {1} (maks. {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>Za pobliski kamień animus {3}, kapliczka przyrody {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>Maksymalnie {1} na pobliską rzeźbę w zależności od jakości (maks. {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>Maksymalnie {2} na pobliską rzeźbę w zależności od jakości ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>Za pobliski grób {1}, jeśli jest pusty, {2} za ludzkie zwłoki (do {0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>Za pobliski grób {2}, jeśli jest pusty, {3} za ludzkie zwłoki ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>{1} na pobliskie źródło płomieni (do {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>{2} na pobliskie źródło płomieni ({0} / {1})</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>Szybkość wzmocnienia Psyfocus: {0}/d</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>Pożądany psyfocus</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>Kliknij, aby ustawić żądany psyfocus.</DesiredPsyfocusDesc>
+
+  <!-- Abilities -->
+  <AbilityDisabledUndrafted>musi być sporządzony.</AbilityDisabledUndrafted>
+  <AbilityOnCooldown>zdolność na czas odnowienia. Będzie dostępny w {0}.</AbilityOnCooldown>
+  <AbilityAlreadyQueued>umiejętność już w kolejce.</AbilityAlreadyQueued>
+  <AbilityNoEntropyToDump>nie ma ciepła do zrzucenia.</AbilityNoEntropyToDump>
+  <AbilityReadyLabel>Umiejętność gotowa: {0}</AbilityReadyLabel>
+  <AbilityReadyText>{0_nameDef} jest gotowy do użycia {1}.</AbilityReadyText>
+
+  <AbilitySpeechTooltip>Zainicjuj mowę z tronu. {ORGANIZER_labelShort} wejdzie na tron ​​{ORGANIZER_possessive} i wezwie wszystkich kolonistów, aby wysłuchali tam przemówienia. Jeśli wszystko pójdzie dobrze, słuchacze poczują się zainspirowani i zdobędą szacunek dla {ORGANIZER_labelShort}. Jeśli pójdzie źle, mowa wyrządzi szkody społeczne. Wynik zależy od umiejętności społecznych organizacji {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
+  <AbilitySpeechDisabledNoThroneAssigned>nie ma przypisanego tronu.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>tron nie jest dostępny.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>tron nieużyteczny, ponieważ jest niegodny.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>już wygłasza przemówienie.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechDisabledAnotherGatheringInProgress>trwa kolejne spotkanie.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechCooldown>Następne przemówienie gotowe za</AbilitySpeechCooldown>
+  <AbilitySpeechPossibleOutcomes>Szanse na wynik</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>Statystyka {1} organizacji {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
+
+  <TotalMeditationToday>Całkowita medytacja dzisiaj: {0} (mnożnik postępu {1})</TotalMeditationToday>
+  <ProgressToNextSubplant>postęp {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>Rozpocznij rytuał łączenia</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>Potrzebujesz {0} {1} tutaj (ma {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>Potrzebujesz {0} typu fokusa psylink</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualNeedLinkSpot>Potrzebujesz wolnego, dostępnego miejsca w obrębie 3 komórek do połączenia</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>Rytuał łączenia zakończony</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} zakończył rytuał łączenia z {LINKABLE_labelShort}.\n\n{PAWN_pronoun} ma teraz ulepszony psylink, pozwalający na używanie nowych mocy psychicznych.</LetterTextLinkingRitualCompleted>
+
+  <LandHere>Transfer lądowy tutaj</LandHere>
+  <MessageShuttleDestinationIsTooFar>Miejsce docelowe jest poza zasięgiem.</MessageShuttleDestinationIsTooFar>
+
+  <BeginCeremony>Zrób ceremonię obdarowania</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Obdarowujący jest obrażony, że sala tronowa {PAWN_definite} nie spełnia wymogów tytułu {TYTUŁ}. Ceremonia wręczenia została odwołana.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+
+  <ShuttleRequiredItemsNotSatisfied>Nie cały wymagany ładunek jest jeszcze załadowany!</ShuttleRequiredItemsNotSatisfied>
+
+</LanguageData>

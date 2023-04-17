@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_MechaniteUnderArmor.label>mechanit pod pancerzem</VFE_MechaniteUnderArmor.label>
+  <VFE_MechaniteUnderArmor.description>Dziwnie cienki, ale wytrzymały, siatkowy pancerz z nanitami. Wbudowane nanity optymalizują pracę układu pokarmowego użytkownika, tłumiąc jego głód. Uważa się, że dawno zapomniani żołnierze nosili tę zbroję, by łatwiej było im przetrwać długotrwałe walki bez potrzeby jedzenia.</VFE_MechaniteUnderArmor.description>
+
+  <VFE_MechanitePants.label>spodnie z mechanitu</VFE_MechanitePants.label>
+  <VFE_MechanitePants.description>Przewrotnie cienkie, ale wytrzymałe spodnie z nanitami. Wbudowane nanity optymalizują wydajność tlenu w nogawkach. Dawno zapomniani żołnierze używali ich do długich marszów z niesamowitą prędkością.</VFE_MechanitePants.description>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychicAmplifier.label>psycholink</PsychicAmplifier.label>
+  <PsychicAmplifier.description>Organiczne połączenie z większym polem psychicznym. Dzięki temu osoba może używać określonych mocy psychicznych, których nauczyła się, aby wpływać na rzeczywistość w sposób, który wydaje się niemożliwy.\n\nWyższy poziom psylink pozwala na użycie większej liczby mocy. Niezależnie od poziomu psylink, dana osoba może używać tylko określonych mocy, których się nauczyła.\n\nPsylink pochodzi z różnych źródeł. Jednorazowe urządzenia neuroformer psylink mogą tworzyć psylink. Ludy plemienne wiedzą również, jak je rozwinąć poprzez rytualne łączenie z psychicznie połączonymi formami życia.\n\nPsyłącze jako fizyczne zjawisko w mózgu jest słabo rozumiane przez naukowców, nie tylko dlatego, że wydaje się aktywnie ukrywać, jeśli jest badane zbyt dokładnie. Jedną z rzeczy, co do których większość się zgadza, jest to, że w jakiś sposób łączy ludzi z archotechami i wykorzystuje ich moc, być może poprzez jakiś mechanizm negocjacji lub sympatii.</PsychicAmplifier.description>
+
+  <PsychicEntropy.label>ciepło nerwowe</PsychicEntropy.label>
+  <PsychicEntropy.description>Mimo że nazywane jest „ciepłem”, ciepło neuronowe nie jest miarą temperatury. Odnosi się do rodzaju chaotycznej energii psychicznej w umyśle, która jest budowana podczas używania mocy psychicznych i rozpraszana w ciągu kilku sekund lub minut.\n\nJeśli ciepło neuronowe zostanie przekroczone normalne granice, może to spowodować tymczasowe załamanie psychiczne i utrata przytomności z powodu szoku psychicznego. Te warunki nie powodują trwałych uszkodzeń.</PsychicEntropy.description>
+  <PsychicEntropy.stages.0.label>bezpieczny</PsychicEntropy.stages.0.label>
+  <PsychicEntropy.stages.1.label>przeciążony</PsychicEntropy.stages.1.label>
+  <PsychicEntropy.stages.2.label>bardzo przeciążony</PsychicEntropy.stages.2.label>
+  <PsychicEntropy.stages.3.label>skrajny</PsychicEntropy.stages.3.label>
+  <PsychicEntropy.stages.4.label>przytłaczający</PsychicEntropy.stages.4.label>
+
+  <PsychicBreakdown.label>załamanie psychiczne</PsychicBreakdown.label>
+  <PsychicBreakdown.description>Głęboka psychiczna destabilizacja umysłu. Załamanie psychiczne trwa kilka dni, powodując różnego rodzaju zaburzenia psychiczne. Z czasem samo się rozwiązuje.</PsychicBreakdown.description>
+  <PsychicBreakdown.stages.0.label>mniejszy</PsychicBreakdown.stages.0.label>
+  <PsychicBreakdown.stages.1.label>główny</PsychicBreakdown.stages.1.label>
+  <PsychicBreakdown.stages.2.label>całkowity</PsychicBreakdown.stages.2.label>
+
+  <PsychicAnesthesia.label>znieczulenie psychiczne</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>Niewrażliwość na ból indukowany psychicznie.</PsychicAnesthesia.description>
+
+  <PsychicBurden.label>psychiczne obciążenie</PsychicBurden.label>
+  <PsychicBurden.description>Psychicznie wywołane trudności w poruszaniu się.</PsychicBurden.description>
+
+  <PsychicBlindness.label>psychiczna ślepota</PsychicBlindness.label>
+  <PsychicBlindness.description>Częściowa ślepota wywołana psychicznie.</PsychicBlindness.description>
+
+  <PsychicVertigo.label>psychiczne zawroty głowy</PsychicVertigo.label>
+  <PsychicVertigo.description>Psychicznie wywołana utrata orientacji przestrzennej. Spowoduje to wymiotowanie stworzeń cielesnych.</PsychicVertigo.description>
+
+  <PsychicFocus.label>psychiczne skupienie</PsychicFocus.label>
+  <PsychicFocus.description>Skupienie psychiczne indukowane, zwiększające możliwości wzroku, słuchu i ruchu.</PsychicFocus.description>
+
+  <PsychicInvisibility.label>niewidzialność psychiczna</PsychicInvisibility.label>
+  <PsychicInvisibility.description>Niewidzialność wywołana psychicznie. To faktycznie wpływa na innych w pobliżu, uniemożliwiając ich mózgom postrzeganie widoku tej osoby, nawet jeśli oczy są nienaruszone.</PsychicInvisibility.description>
+
+  <EntropyLink.label>link entropia</EntropyLink.label>
+  <EntropyLink.description>Psychiczne połączenie z inną osobą. Zyski lub straty ciepła neuronowego poniesione przez jednego będą dzielone równo między obie.</EntropyLink.description>
+
+  <Joyfuzz.label>Joyfuzz</Joyfuzz.label>
+  <Joyfuzz.description>Psychicznie wywołane uczucia ciepła, komfortu i akceptacji. Poprawia to nastrój, ale brak negatywnej stymulacji wywołuje łagodne otępienie i zmniejsza świadomość.</Joyfuzz.description>
+
+  <PsychicLove.label>psychiczna miłość</PsychicLove.label>
+  <PsychicLove.description>Psychicznie wywołane romantyczne pożądanie. Zwiększa to indywidualną opinię o kimś innym i zwiększa prawdopodobieństwo romantycznych zalotów i oświadczeń małżeńskich, jednocześnie zmniejszając prawdopodobieństwo zerwania.</PsychicLove.description>
+
+
+</LanguageData>

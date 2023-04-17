@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bigot.label>bigot</Bigot.label>
+  <Bigot.description>Podmiot stał się bigotem, wierząc, że rządy ich społeczności są absolutne i odmawia postępowania z więźniami, chyba że są na końcu noża lub pistoletu.</Bigot.description>
+
+  <ConscientiousObjector.label>odmawiający służby wojskowej</ConscientiousObjector.label>
+  <ConscientiousObjector.description>Podmiot stał się niezwykle sumienny i odmawia użycia broni, a nawet obrony w obliczu przemocy.</ConscientiousObjector.description>
+
+  <Egotistical.label>egoistyczny</Egotistical.label>
+  <Egotistical.description>Podmiot rozwinął ogromne ego i odmawia wykonywania jakiejkolwiek pracy, uważając ją za poniżej siebie.</Egotistical.description>
+
+
+</LanguageData>

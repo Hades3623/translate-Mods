@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Axe.label>topór</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.description>Zaawansowana forma jednej z najstarszych broni ludzkości, topór wojenny to krótkie ostrze przymocowane do drzewca. Prosta, starożytna konstrukcja skupia siłę cięcia generowaną z silnych huśtawek nad głową.</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.tools.0.label>uchwyt</MeleeWeapon_Axe.tools.0.label>
+  <MeleeWeapon_Axe.tools.1.label>krawędź</MeleeWeapon_Axe.tools.1.label>
+
+  <MeleeWeapon_Warhammer.label>młot bojowy</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.description>Długa broń drzewcowa zwieńczona brutalnym młotem. Potężne, tępe uderzenia mogą zmiażdżyć wnętrze wroga, nawet przez pancerz.</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.tools.0.label>uchwyt</MeleeWeapon_Warhammer.tools.0.label>
+  <MeleeWeapon_Warhammer.tools.1.label>głowa</MeleeWeapon_Warhammer.tools.1.label>
+
+
+</LanguageData>

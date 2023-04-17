@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_InterrogatePrisoner.label>próba przesłuchania</VFEA_InterrogatePrisoner.label>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.0>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.1>information->information</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.1>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.2>information->knowledge</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.2>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.3>information->intelligence</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.3>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffee.label>Kawa</VBE_HotCoffee.label>
+  <VBE_HotCoffee.description>Ciepły, gorzki napój zwykle uzupełniany mlekiem i cukrem. Ulubiony wśród studentów i pracowników biurowych w całej galaktyce ze względu na wysoką zawartość kofeiny i przyjemny aromat.</VBE_HotCoffee.description>
+  <VBE_HotCoffee.ingestible.ingestCommandString>Pij {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <VBE_HotCoffee.ingestible.ingestReportString>Picie {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+
+  <VBE_IceCoffee.label>mrożona kawa</VBE_IceCoffee.label>
+  <VBE_IceCoffee.description>Lodowata, schłodzona kawa. Chłodząca kawa jest preferowana przez wielu w cieplejszym klimacie, anegdotycznie wygładza również gorzkie smaki i wydobywa zauważalną, choć subtelną orzechową nutę. Podobnie jak jego ciepły odpowiednik, jest wszechobecny zarówno wśród studentów, jak i profesjonalistów.</VBE_IceCoffee.description>
+  <VBE_IceCoffee.ingestible.ingestCommandString>Pij {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <VBE_IceCoffee.ingestible.ingestReportString>Picie {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+
+
+</LanguageData>

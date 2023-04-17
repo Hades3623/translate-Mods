@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Skipdoor.label>skipdoor</VPE_Skipdoor.label>
+  <VPE_Skipdoor.description>Psychiczny punkt wejścia do sieci portali.</VPE_Skipdoor.description>
+
+  <VPE_IceCrystal.label>kryształ lodu</VPE_IceCrystal.label>
+  <VPE_IceCrystal.description>Mały kryształek lodu, który obniża temperaturę w pomieszczeniu. Może pomóc zamrozić łatwo psujące się przedmioty.</VPE_IceCrystal.description>
+
+  <VPE_IceWall.label>lodowa ściana</VPE_IceWall.label>
+  <VPE_IceWall.description>Krucha ściana z lodu. Topi się w upale.</VPE_IceWall.description>
+
+
+</LanguageData>

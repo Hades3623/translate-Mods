@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ConvertIdeoAttempt.label>próba konwersji ideologii</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] próbował nawrócić [RECIPIENT_nazwaDef] na [INITIATOR_possessive] własną ideoligię.</ConvertIdeoAttempt.logRulesInitiator.rulesStrings.0>
+
+  <Counsel_Success.label>skuteczna porada</Counsel_Success.label>
+  <Counsel_Success.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] doradzał [RECIPIENT_nameDef] w sprawie [problems].</Counsel_Success.logRulesInitiator.rulesStrings.0>
+  <Counsel_Success.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] pomógł [RECIPIENT_nameDef] przemyśleć [problems].</Counsel_Success.logRulesInitiator.rulesStrings.1>
+  <Counsel_Success.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] udzielił [RECIPIENT_nameDef] porady na temat przezwyciężania problemów.</Counsel_Success.logRulesInitiator.rulesStrings.2>
+  <Counsel_Success.logRulesInitiator.rulesStrings.3>problems->[RECIPIENT_possessive] problemy</Counsel_Success.logRulesInitiator.rulesStrings.3>
+  <Counsel_Success.logRulesInitiator.rulesStrings.4>problems->[RECIPIENT_possessive] kłopoty</Counsel_Success.logRulesInitiator.rulesStrings.4>
+  <Counsel_Success.logRulesInitiator.rulesStrings.5>problems->[RECIPIENT_possessive] bolesne emocje</Counsel_Success.logRulesInitiator.rulesStrings.5>
+  <Counsel_Success.logRulesInitiator.rulesStrings.6>problems->niedawne trudności</Counsel_Success.logRulesInitiator.rulesStrings.6>
+
+  <Counsel_Failure.label>nieudana rada</Counsel_Failure.label>
+  <Counsel_Failure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] próbował poradzić się [RECIPIENT_nameDef], ale spartaczył próbę i pogorszył sytuację.</Counsel_Failure.logRulesInitiator.rulesStrings.0>
+
+  <Convert_Success.label>udana konwersja</Convert_Success.label>
+  <Convert_Success.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] próbował przekonać [RECIPIENT_nameDef] i udało się.</Convert_Success.logRulesInitiator.rulesStrings.0>
+
+  <Convert_Failure.label>nieudana konwersja</Convert_Failure.label>
+  <Convert_Failure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] próbował przekonać [RECIPIENT_nameDef], ale nie udało się.</Convert_Failure.logRulesInitiator.rulesStrings.0>
+
+  <Reassure.label>reasekuracja</Reassure.label>
+  <Reassure.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] wzmocnił przekonania [RECIPIENT_nameDef].</Reassure.logRulesInitiator.rulesStrings.0>
+
+  <PreachHealth.label>głosił zdrowie</PreachHealth.label>
+  <PreachHealth.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] wzmocnił zdrowie [RECIPIENT_nameDef], głosząc o [preaching_topic].</PreachHealth.logRulesInitiator.rulesStrings.0>
+  <PreachHealth.logRulesInitiator.rulesStrings.1>preaching_topic->powody, dla których warto żyć</PreachHealth.logRulesInitiator.rulesStrings.1>
+  <PreachHealth.logRulesInitiator.rulesStrings.2>preaching_topic->wyższe cele ideowo-religijne</PreachHealth.logRulesInitiator.rulesStrings.2>
+  <PreachHealth.logRulesInitiator.rulesStrings.3>preaching_topic->[RECIPIENT_possessive] cel istnienia</PreachHealth.logRulesInitiator.rulesStrings.3>
+
+  <WorkDrive.label>jazda do pracy</WorkDrive.label>
+  <WorkDrive.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] wezwał [RECIPIENT_nameDef] do jeszcze cięższej pracy dla dobra kolonii.</WorkDrive.logRulesInitiator.rulesStrings.0>
+
+  <Trial_Accuse.label>oskarżać</Trial_Accuse.label>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] przedstawił kilka dowodów.</Trial_Accuse.logRulesInitiator.rulesStrings.0>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] odwoływał się do emocji widzów.</Trial_Accuse.logRulesInitiator.rulesStrings.1>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] oskarżony [RECIPIENT_nameDef] za [wrongdoing].</Trial_Accuse.logRulesInitiator.rulesStrings.2>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.3>wrongdoing->sabotowanie kolonii</Trial_Accuse.logRulesInitiator.rulesStrings.3>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.4>wrongdoing->bycie leniwym</Trial_Accuse.logRulesInitiator.rulesStrings.4>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.5>wrongdoing->jedzenie za dużo</Trial_Accuse.logRulesInitiator.rulesStrings.5>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.6>wrongdoing->kradzież</Trial_Accuse.logRulesInitiator.rulesStrings.6>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.7>wrongdoing->bycie okropną osobą</Trial_Accuse.logRulesInitiator.rulesStrings.7>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.8>wrongdoing->lekceważenie świętych idei</Trial_Accuse.logRulesInitiator.rulesStrings.8>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.9>wrongdoing->lekceważenie szanowanych osobistości</Trial_Accuse.logRulesInitiator.rulesStrings.9>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.10>wrongdoing->herezje</Trial_Accuse.logRulesInitiator.rulesStrings.10>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.11>wrongdoing->morderstwo</Trial_Accuse.logRulesInitiator.rulesStrings.11>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.12>wrongdoing->bluźnierstwo</Trial_Accuse.logRulesInitiator.rulesStrings.12>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.13>wrongdoing->zdrada</Trial_Accuse.logRulesInitiator.rulesStrings.13>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.14>wrongdoing->nienawistne myślenie</Trial_Accuse.logRulesInitiator.rulesStrings.14>
+  <Trial_Accuse.logRulesInitiator.rulesStrings.15>wrongdoing->nielojalność</Trial_Accuse.logRulesInitiator.rulesStrings.15>
+
+  <Trial_Defend.label>bronić</Trial_Defend.label>
+  <Trial_Defend.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] odpierał zarzuty.</Trial_Defend.logRulesInitiator.rulesStrings.0>
+  <Trial_Defend.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] przedstawił inną interpretację.</Trial_Defend.logRulesInitiator.rulesStrings.1>
+  <Trial_Defend.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] przyznanie się do winy.</Trial_Defend.logRulesInitiator.rulesStrings.2>
+  <Trial_Defend.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] wzywał do miłosierdzia.</Trial_Defend.logRulesInitiator.rulesStrings.3>
+  <Trial_Defend.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] wstrzymał obrady.</Trial_Defend.logRulesInitiator.rulesStrings.4>
+  <Trial_Defend.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] odrzucił zarzuty.</Trial_Defend.logRulesInitiator.rulesStrings.5>
+  <Trial_Defend.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] nazwał proces fikcją.</Trial_Defend.logRulesInitiator.rulesStrings.6>
+
+
+</LanguageData>

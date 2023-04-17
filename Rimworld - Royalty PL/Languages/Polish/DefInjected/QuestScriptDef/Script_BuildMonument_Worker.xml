@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildMonumentWorker.root.nodes.8.name>rewardValue</BuildMonumentWorker.root.nodes.8.name>
+  <BuildMonumentWorker.root.nodes.11.node.nodes.0.node.name>haveToProtectForTicks</BuildMonumentWorker.root.nodes.11.node.nodes.0.node.name>
+  <BuildMonumentWorker.root.nodes.11.node.nodes.1.node.name>haveToProtectForTicks</BuildMonumentWorker.root.nodes.11.node.nodes.1.node.name>
+  <BuildMonumentWorker.root.nodes.11.node.nodes.2.node.name>haveToProtectForTicks</BuildMonumentWorker.root.nodes.11.node.nodes.2.node.name>
+  <BuildMonumentWorker.root.nodes.11.node.nodes.3.node.nodes.0.name>points</BuildMonumentWorker.root.nodes.11.node.nodes.3.node.nodes.0.name>
+  <BuildMonumentWorker.root.nodes.11.node.nodes.3.node.nodes.1.text>The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow.</BuildMonumentWorker.root.nodes.11.node.nodes.3.node.nodes.1.text>
+  <BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.node.nodes.0.name>goodwillChangeIfMonumentDestroyed</BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.node.nodes.0.name>
+  <BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.0.label>Monument completed</BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.0.label>
+  <BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.0.text>You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration], otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill).</BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.0.text>
+  <BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.1.node.nodes.0.text>[asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed].</BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.1.node.nodes.0.text>
+  <BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.1.node.nodes.0.label>Monument destroyed</BuildMonumentWorker.root.nodes.11.elseNode.elseNode.nodes.1.elseNode.elseNode.node.nodes.1.node.nodes.0.label>
+  <BuildMonumentWorker.root.nodes.12.node.nodes.1.label>New monument marker arrived</BuildMonumentWorker.root.nodes.12.node.nodes.1.label>
+  <BuildMonumentWorker.root.nodes.12.node.nodes.1.text>Since the monument marker has been destroyed, a new one has been sent.</BuildMonumentWorker.root.nodes.12.node.nodes.1.text>
+  <BuildMonumentWorker.root.nodes.13.name>constructionTimeoutTicks</BuildMonumentWorker.root.nodes.13.name>
+  <BuildMonumentWorker.root.nodes.16.node.nodes.0.label>Monument time expired</BuildMonumentWorker.root.nodes.16.node.nodes.0.label>
+  <BuildMonumentWorker.root.nodes.16.node.nodes.0.text>Your time limit to construct the monument has expired. [failLetterEndingCommon]</BuildMonumentWorker.root.nodes.16.node.nodes.0.text>
+  <BuildMonumentWorker.root.nodes.18.name>thingsToDrop</BuildMonumentWorker.root.nodes.18.name>
+
+
+</LanguageData>

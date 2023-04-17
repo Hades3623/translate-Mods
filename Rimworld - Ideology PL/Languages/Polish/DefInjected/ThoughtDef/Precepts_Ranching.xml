@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ranching animal mass per capita -->
+
+  <Ranching_Central_AnimalMassPerCapita.stages.0.label>żadnych zwierząt</Ranching_Central_AnimalMassPerCapita.stages.0.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.0.description>W ogóle nie mamy zwierząt! To wszystko, czemu jestem przeciwny.</Ranching_Central_AnimalMassPerCapita.stages.0.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.label>rzadkie zwierzęta</Ranching_Central_AnimalMassPerCapita.stages.1.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.description>W naszej kolonii mamy zdecydowanie za mało zwierząt. Nie jesteśmy nawet blisko życia we właściwy sposób.</Ranching_Central_AnimalMassPerCapita.stages.1.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.label>kilka zwierząt</Ranching_Central_AnimalMassPerCapita.stages.2.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.description>W naszej kolonii mamy niewiele zwierząt. To nie w porządku.</Ranching_Central_AnimalMassPerCapita.stages.2.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.label>niektóre zwierzęta</Ranching_Central_AnimalMassPerCapita.stages.3.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.description>Dobrze jest tu hodować zwierzęta, choć więcej byłoby jeszcze lepiej.</Ranching_Central_AnimalMassPerCapita.stages.3.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.label>dużo zwierząt</Ranching_Central_AnimalMassPerCapita.stages.4.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.description>Wspaniale, że hodujemy tu wiele zwierząt, choć kilka więcej by nie zaszkodziło.</Ranching_Central_AnimalMassPerCapita.stages.4.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.label>ton zwierząt</Ranching_Central_AnimalMassPerCapita.stages.5.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.description>Nasze ranczo kwitnie. To jest właściwy sposób.</Ranching_Central_AnimalMassPerCapita.stages.5.description>
+
+  <Ranching_SowedPlant.stages.0.label>zasiał ludzką roślinę spożywczą</Ranching_SowedPlant.stages.0.label>
+  <Ranching_SowedPlant.stages.0.description>Zasiałam ludzką roślinę spożywczą. To było złe – ludzie powinni jeść zwierzęta, a zwierzęta powinny jeść rośliny stworzone przez naturę.</Ranching_SowedPlant.stages.0.description>
+
+  <NoRecentAnimalSlaughter.stages.0.label>brak niedawnej rzezi</NoRecentAnimalSlaughter.stages.0.label>
+  <NoRecentAnimalSlaughter.stages.0.description>Minęło zbyt wiele czasu, odkąd zabiliśmy duże zwierzę.</NoRecentAnimalSlaughter.stages.0.description>
+
+
+</LanguageData>

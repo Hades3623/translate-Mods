@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Parameters
+  joiningPawns - pawns that will join.
+  joinPlayer - Whether or not joiningPawns will join the player's faction.
+  makePrisoners - Whether or not joiningPawns will become prisoners.
+  arrivingPawns - All pawns arriving.
+  customLetterLabel - The label of the arrival letter.
+  customLetterText - The text of the arrival letter.
+  arrivingPawnsLabelDef - The definite article of arriving pawns. (Singular or plural) -->
+
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.3.name>goodwillChangeOnShuttleDestroyed</Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.3.name>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.4.name>pawnsLabelDef</Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.4.name>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.5.node.nodes.0.label>Shuttle destroyed</Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.5.node.nodes.0.label>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.5.node.nodes.0.text>The shuttle sent to drop off [pawnsLabelDef] has been destroyed. You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have changed by [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.5.node.nodes.0.text>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.2.label>$customLetterLabel</Util_ArriveByDropPodsOrShuttle.root.nodes.2.label>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.2.text>$customLetterText</Util_ArriveByDropPodsOrShuttle.root.nodes.2.text>
+
+
+  <!-- Parameters
+    lodgers - List of pawns to host
+    lodgersArePrisoners - True if the lodgers are prisoners
+    generateThreats - Set for grammar gen, should not be used in logic -->
+
+  <Hospitality_Util_Worker.root.nodes.0.node.nodes.0.name>generateThreats</Hospitality_Util_Worker.root.nodes.0.node.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.0.node.nodes.1.name>helpersChance</Hospitality_Util_Worker.root.nodes.0.node.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.0.name>generateThreats</Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.1.name>helpersChance</Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.2.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.0.elseNode.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.2.name>helpers</Hospitality_Util_Worker.root.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.3.name>lodgersWithRoyalTitles</Hospitality_Util_Worker.root.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.0.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.1.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.2.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.3.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.4.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.5.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.5.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.6.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.5.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.5.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.5.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.6.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.6.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.5.name>threatType</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.5.name>
+  <Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.6.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.4.node.nodes.7.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.5.node.nodes.0.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.5.node.nodes.1.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.7.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.5.node.nodes.2.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.5.name>threatType</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.5.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.6.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.5.node.nodes.3.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.0.name>shuttleDelayTicks</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.1.name>threatCount</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.2.name>threatFactor</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.2.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.3.name>threatPoints</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.3.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.5.name>threatType</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.5.name>
+  <Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.6.name>rewardValueFromThreats</Hospitality_Util_Worker.root.nodes.5.node.nodes.4.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.6.name>threatType</Hospitality_Util_Worker.root.nodes.6.name>
+  <Hospitality_Util_Worker.root.nodes.6.node.name>allowedThreats</Hospitality_Util_Worker.root.nodes.6.node.name>
+  <Hospitality_Util_Worker.root.nodes.7.name>threatFactor</Hospitality_Util_Worker.root.nodes.7.name>
+  <Hospitality_Util_Worker.root.nodes.7.node.name>threatSize</Hospitality_Util_Worker.root.nodes.7.node.name>
+  <Hospitality_Util_Worker.root.nodes.9.name>shuttleLeaveDelayTicks</Hospitality_Util_Worker.root.nodes.9.name>
+  <Hospitality_Util_Worker.root.nodes.11.name>arrivingPawns</Hospitality_Util_Worker.root.nodes.11.name>
+  <Hospitality_Util_Worker.root.nodes.12.name>arrivingPawns</Hospitality_Util_Worker.root.nodes.12.name>
+  <Hospitality_Util_Worker.root.nodes.13.name>arrivingPawns</Hospitality_Util_Worker.root.nodes.13.name>
+  <Hospitality_Util_Worker.root.nodes.14.node.name>lodgersAreNotPrisoners</Hospitality_Util_Worker.root.nodes.14.node.name>
+  <Hospitality_Util_Worker.root.nodes.14.elseNode.name>lodgersAreNotPrisoners</Hospitality_Util_Worker.root.nodes.14.elseNode.name>
+  <Hospitality_Util_Worker.root.nodes.16.node.nodes.5.label>Shuttle arrived</Hospitality_Util_Worker.root.nodes.16.node.nodes.5.label>
+  <Hospitality_Util_Worker.root.nodes.16.node.nodes.5.text>The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers]</Hospitality_Util_Worker.root.nodes.16.node.nodes.5.text>
+  <Hospitality_Util_Worker.root.nodes.17.name>rewardValue</Hospitality_Util_Worker.root.nodes.17.name>
+  <Hospitality_Util_Worker.root.nodes.18.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.18.node.name>
+  <Hospitality_Util_Worker.root.nodes.19.node.nodes.1.name>lodgerRewardFactor</Hospitality_Util_Worker.root.nodes.19.node.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.19.elseNode.nodes.0.name>lodgerRewardFactor</Hospitality_Util_Worker.root.nodes.19.elseNode.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.20.elseNode.nodes.0.name>rewardFactorFromMoodThreshold</Hospitality_Util_Worker.root.nodes.20.elseNode.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.20.elseNode.nodes.1.name>rewardValue</Hospitality_Util_Worker.root.nodes.20.elseNode.nodes.1.name>
+  <Hospitality_Util_Worker.root.nodes.21.name>lodgerRewardFromCountAndDelay</Hospitality_Util_Worker.root.nodes.21.name>
+  <Hospitality_Util_Worker.root.nodes.22.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.22.node.name>
+  <Hospitality_Util_Worker.root.nodes.23.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.23.node.name>
+  <Hospitality_Util_Worker.root.nodes.24.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.24.node.name>
+  <Hospitality_Util_Worker.root.nodes.25.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.25.node.name>
+  <Hospitality_Util_Worker.root.nodes.26.node.name>rewardValue</Hospitality_Util_Worker.root.nodes.26.node.name>
+  <Hospitality_Util_Worker.root.nodes.27.node.nodes.0.label>Guest died: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.27.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.27.node.nodes.0.text>[letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.27.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.28.node.nodes.0.label>Guest captured: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.28.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.28.node.nodes.0.text>[letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.root.nodes.28.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.29.node.nodes.0.label>Prisoner recruited: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.29.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.29.node.nodes.0.text>You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.29.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.30.node.nodes.0.label>Unauthorized surgery: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.30.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.30.node.nodes.0.text>Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.30.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.31.node.nodes.0.label>Guest lost: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.31.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.31.node.nodes.0.text>[letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.31.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.32.node.nodes.0.label>Guest lost: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.32.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.32.node.nodes.0.text>[letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.32.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.33.node.node.nodes.0.label>Guest lost: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.33.node.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.33.node.node.nodes.0.text>[letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.33.node.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.36.elseNode.node.nodes.0.label>Quest failed: [resolvedQuestName]</Hospitality_Util_Worker.root.nodes.36.elseNode.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.36.elseNode.node.nodes.0.text>[asker_faction_name] are now hostile towards you. [failLetterEndingQuest]</Hospitality_Util_Worker.root.nodes.36.elseNode.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.37.node.nodes.0.label>Shuttle destroyed</Hospitality_Util_Worker.root.nodes.37.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.37.node.nodes.0.text>The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.37.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.0.name>sendStandardLetter</Hospitality_Util_Worker.root.nodes.38.node.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.0.name>sendStandardLetter</Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.0.name>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.1.node.nodes.0.label>Quest completed</Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.1.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.1.node.nodes.0.text>You have successfully completed the quest '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] said [lodgersPronoun] [lodgersWasWere] willing to reward quality accommodation. The average mood of [lodgersLabelSingOrPluralDef] was {AVERAGEMOOD} during [theirHisHer] stay, so your goodwill with [asker_faction_name] has increased by {GOODWILL}</Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.1.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.2.node.nodes.0.label>Quest completed</Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.2.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.2.node.nodes.0.text>You have successfully completed the quest '[resolvedQuestName]'!\n\nWhile [lodgersLabelSingOrPluralDef] [lodgersWasWere] willing to reward quality accommodation, [theirHisHer] average mood was only {AVERAGEMOOD} during [theirHisHer] stay. You will receive no faction goodwill reward.</Hospitality_Util_Worker.root.nodes.38.node.nodes.1.node.nodes.2.node.nodes.0.text>
+  <Hospitality_Util_Worker.root.nodes.39.node.nodes.0.label>Quest failed: [resolvedQuestName]</Hospitality_Util_Worker.root.nodes.39.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.39.node.nodes.0.text>The shuttle sent to collect [lodgersLabelSingOrPluralDef] has departed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.39.node.nodes.0.text>
+
+
+</LanguageData>

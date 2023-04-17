@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shuttle landing zones -->
+  <ShuttleBlocked>Transfer nie mógł wylądować na padzie: {0}</ShuttleBlocked>
+  <BlockedBy>zablokowany przez {0_label}.</BlockedBy>
+  <MessageShuttleArrived>Przybył prom.</MessageShuttleArrived>
+  <MessageShuttleArrivedContentsLost>Przybył prom, ale ponieważ w środku nie było kolonistów, zawartość przepadła.</MessageShuttleArrivedContentsLost>
+  <CannotCallShuttle>Nie mogę zadzwonić do autobusu</CannotCallShuttle>
+
+  <ShuttleCannotLand_Fogged>Nie można wylądować w nieodkrytym obszarze.</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Unwalkable>Obszar musi umożliwiać chodzenie.</ShuttleCannotLand_Unwalkable>
+
+  <MessageWarningCutAnimaTree>Ostrzeżenie: Drzewo Anima zostało oznaczone do wycięcia.</MessageWarningCutAnimaTree>
+
+  <MessageBestowerWaiting>Wybierz {TARGET_definite} i kliknij obdarzającego prawym przyciskiem myszy, aby rozpocząć ceremonię obdarowania.</MessageBestowerWaiting>
+  <MessageBestowerUnreachable>Nie można dotrzeć do obdarzającego!</MessageBestowerUnreachable>
+  <MessageBestowingSpotUnreachable>Obdarowujący jest zirytowany ingerencją i postanowił odejść.</MessageBestowingSpotUnreachable>
+
+  <MessageBestowingCeremonyStarted>Rozpoczęła się ceremonia nadania {PAWN_definite}.</MessageBestowingCeremonyStarted>
+  <MessageMissionGetBackToShuttle>Pokonałeś {FACTION_pawnsPlural}! Wróć na prom, aby go uruchomić.</MessageMissionGetBackToShuttle>
+
+  <MessagePermitTransportDrop>{FACTION_name} upuścił zasoby w pobliżu.</MessagePermitTransportDrop>
+  <MessagePermitTransportDropCaravan>{FACTION_name} wysłał zasoby do karawany {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+
+</LanguageData>

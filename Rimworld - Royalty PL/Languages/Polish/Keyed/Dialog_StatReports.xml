@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stat_Thing_MinimumRoyalTitle_Name>Minimalny tytuł ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name} ma przepisy, które ograniczają korzystanie z tego implantu do osób z określonymi tytułami. Samo zainstalowanie implantu jest niewykrywalne, ale jeśli go użyjesz, istnieje szansa, że ​​wykryją emisje psychiczne. Spowoduje to konsekwencje dyplomatyczne.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name} ma przepisy, które ograniczają użycie tej broni do osób z określonymi tytułami. Za każdym razem, gdy atakujesz bronią, istnieje szansa, że ​​wykryją emisje psychiczne. Spowoduje to konsekwencje dyplomatyczne.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>Każdy poziom ulepszeń tego implantu wymaga określonego tytułu w {FACTION_name}, aby można było go legalnie używać.</Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>Max zadowolony tytuł</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>Najwyższy tytuł królewski, którego wymagania dotyczące stroju są przez to spełnione.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>Max zadowolony tytuł</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Najwyższy tytuł królewski, którego wymagania żywieniowe są przez to zaspokojone.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <Stat_Thing_PersonaWeaponTrait_Label>Cechy</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>Indywidualne cechy tej broni.</Stat_Thing_PersonaWeaponTrait_Desc>
+
+</LanguageData>

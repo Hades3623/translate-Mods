@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal titles -->
+  <LetterLabelLostRoyalTitle>Utracony tytuł {TITLE}: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>Zdobyty tytuł {TITLE}: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+
+  <PermitPointsAwarded>Przyznane punkty pozwolenia: {0}.</PermitPointsAwarded>
+
+  <LetterRoyalTitleApparelQualityRequirement>Ten tytuł wymaga odzieży o jakości {1} lub lepszej.</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>Ten tytuł wymaga odzieży odpowiedniej do tytułu {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>Oczekiwania {PAWN_possessive} nigdy nie będą mniejsze niż {1}.</LetterRoyalTitleExpectation>
+
+  <LetterRoyalTitleConceitedTrait>Ponieważ {PAWN_labelShort} to {1}, {PAWN_pronoun} zażąda pełnego poszanowania przywilejów tego tytułu. {PAWN_pronoun} może odmówić wykonywania pewnych rodzajów pracy, jeść niskowartościowe jedzenie i wydawać dekrety.</LetterRoyalTitleConceitedTrait>
+
+  <LetterGainedRoyalTitle>{PAWN_labelShort} otrzymał tytuł {TITLE} od {FACTION_name}!</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} nie posiada już tytułu {TITLE} z {FACTION_name}.</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>Nagrody za tytuł</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>Aby uhonorować {PAWN_labelShort} awans do tytułu {TITLE}, {FACTION_name} wysłał {PAWN_objective} następujące nagrody:</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>Nagrody dotarły do ​​twojej kolonii za pośrednictwem kapsuł transportowych.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>Nagrody były dostarczane bezpośrednio do ekwipunku {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
+
+  <LetterRoyalTitlePermits>{PAWN_pronoun} ma te uprawnienia:</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} stracił te uprawnienia:</LetterRoyalTitleLostPermits>
+
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} nie chce wykonywać tych prac:\n{1}</LetterRoyalTitleDisabledWorkTag>
+
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} może teraz korzystać z tej rekreacji:</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>Ten tytuł zabrania korzystania z tej rekreacji:</LetterRoyalTitleDisabledJoyKind>
+
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} może używać tych implantów:{1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} nie może już używać tych implantów:{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>Implanty muszą zostać usunięte w ciągu pięciodniowego okresu karencji, aby uniknąć konsekwencji dyplomatycznych.</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} może teraz wygłaszać przemówienia z tronu. Jeśli wszystko pójdzie dobrze, słuchacze poczują się zainspirowani. Jeśli pójdzie źle, mowa wyrządzi szkody społeczne. Wynik zależy od umiejętności społecznych {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>Ten tytuł wymaga sali tronowej spełniającej następujące wymagania:{1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>Ten tytuł wymaga sypialni spełniającej następujące wymagania:{1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>Ten tytuł mówi, że {PAWN_pronoun} powinien jeść tylko te produkty:{1}</LetterRoyalTitleFoodRequirements>
+
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} otrzyma następujące przedmioty za pośrednictwem kapsuły transportowej:{1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} zdobył {1} {FACTION_royalFavorLabel} od {FACTION_name}.</PeaceTalksRoyalFavorGain>
+
+  <!-- Royal heritage-->
+  <LetterRoyalTitleHeir>Jeśli {PAWN_pronoun} umrze, ten tytuł zostanie odziedziczony przez {HEIR_nameFull}.</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>Jeśli {PAWN_pronoun} umrze, nikt nie odziedziczy tego tytułu.</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} jest członkiem {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>Nowego spadkobiercę można wybrać, kontaktując się z {FACTION_name} za pomocą konsoli komunikacyjnej.</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>Spadkobierca zaginął</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull} zmarł, pozostawiając {HOLDER_labelShort} bez spadkobiercy tytułu otrzymanego od {FACTION_name}. Możesz skontaktować się z {FACTION_name} za pomocą konsoli komunikacyjnej, aby wyznaczyć nowego spadkobiercę.</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>Tytuł {TITLE} nie może być dziedziczony.</LetterRoyalTitleCantBeInherited>
+
+
+  <LetterTitleInheritance>Dziedziczenie tytułu</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>Ponieważ {PAWN_nameFull} zmarł, tytuły {PAWN_possessive} zostaną przekazane spadkobiercom {PAWN_possessive}.</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>{PAWN_possessive} Tytuł {TITLE} został odziedziczony przez {HEIR_nameFull}, zgodnie z prawem spadkowym {FACTION_name}. Zastąpi {HEIR_possessive} {REPLACEDTITLE} tytuł po zakończeniu ceremonii nadania.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>{PAWN_possessive} Tytuł {TITLE} zostałby odziedziczony przez {HEIR_nameFull} zgodnie z prawem dziedziczenia {FACTION_name}, ale {HEIR_pronoun} miał już tytuł {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>{PAWN_possessive} Tytuł {TITLE} zostanie odziedziczony przez {HEIR_nameFull} po zakończeniu ceremonii nadania, zgodnie z prawem dziedziczenia {FACTION_name}.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} Tytuł {TITLE} nie został przez nikogo odziedziczony, ponieważ {PAWN_pronoun} nie miał wyznaczonego spadkobiercy tego tytułu.</LetterTitleInheritance_NoHeirFound>
+
+  <!-- Royal implant violations -->
+  <LetterLawViolationDetectedLabel>Lawbreaker: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} wykrył nielegalne użycie przez {PAWN_labelShort}: {CULPRIT} (szansa wykrycia {CHANCE}).\n\nZgodnie z prawem {FACTION_name}, tylko ci, którzy posiadają tytuł {TITLE}, mogą użyj {CULPRIT}.\n\nJako kara, twoje relacje z frakcją spadły o {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
+
+  <!-- Throne Speech -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} zakończył przemówienie {ORGANIZER_possessive}.</LetterFinishedSpeech>
+  <LetterTerribleSpeech>To było naprawdę okropne - pełne niezręcznych żartów i przygnębiających historii.</LetterTerribleSpeech>
+  <LetterUninspiringSpeech>To było mało inspirujące – nieoryginalne, buczące i pozbawione poczucia namiętności.</LetterUninspiringSpeech>
+  <LetterEncouragingSpeech>To było zachęcające i dobrze dostarczone.</LetterEncouragingSpeech>
+  <LetterInspirationalSpeech>Był niezwykle inspirujący, pełen intensywności i celu.</LetterInspirationalSpeech>
+  <LetterSpeechInspiredListeners>Następujące osoby były szczególnie poruszone przemówieniem i są teraz zainspirowane:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiration>Dzięki niezwykłej przemowie {SPEAKER_nameIndef}, {PAWN_nameIndef} doświadczył inspiracji!</LetterSpeechInspiration>
+  <LetterSpeechInterrupted>Ponieważ przemówienie zostało przerwane po ukończeniu zaledwie {0}, nie było tak skuteczne.</LetterSpeechInterrupted>
+  <LetterSpeechCancelled>Przemówienie {ORGANIZER_bestRoyalTitleDef} zostało anulowane przed osiągnięciem 50% ukończenia. To nie przyniosło efektu.</LetterSpeechCancelled>
+  <LetterLabelSpeechCancelled>Mowa została anulowana</LetterLabelSpeechCancelled>
+
+  <!-- Wild decree mental break -->
+  <WildDecree>Dziki dekret</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} wydaje dekret</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>{0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy.</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy.</LetterRandomDecree>
+  <LetterDecree_Quest>Dekret nosi tytuł „{0}”.</LetterDecree_Quest>
+
+  <!-- Lent colonist died -->
+  <LentColonistDied>{PAWN_nameDef} został wypożyczony do {FACTION}. Wkrótce zwrócą ciało {PAWN_nameDef}.</LentColonistDied>
+
+  <!-- Psylink -->
+  <LetterLabelPsylinkLevelGained>Psylink zdobyty</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} uzyskał {USER_possessive} pierwszy poziom psylink! {USER_pronoun} jest teraz psychopatą.\n\nAby korzystać z mocy parapsychicznych, {USER_labelShort} musi budować psychikę poprzez medytację. Skuteczność tej medytacji jest zwiększona, jeśli osoba może skupić się na określonym obiekcie podczas medytacji.\n\nRóżni ludzie są w stanie skupić się na różnych obiektach. Zależy to od historii, cech i tytułów danej osoby. Na przykład:\n\n- Psycasterzy z królewskimi tytułami medytują na swoich tronach.\n- Psycasterzy z plemiennym dzieciństwem medytują nad drzewami anima i świątyniami przyrody.\n- Ascetyczni psycholodzy medytują przy pustych ścianach.\n- Psychopatyczni psychopaci medytują nad grobami , najlepiej z ukochaną osobą w środku.\n\nMożesz zobaczyć czyjeś rodzaje skupienia na medytacji, patrząc na jego kartę informacyjną za pomocą przycisku „i”.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} osiągnął nowy poziom psylink! {USER_pronoun} może teraz używać mocy psychicznych tego wyższego poziomu, ale {USER_pronoun} musi się ich najpierw nauczyć.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>Po zdobyciu nowego poziomu psycholinku {USER_labelShort} automatycznie nauczył się następujących mocy psychicznych: {2}</LetterPsylinkLevelGained_PsycastLearned>
+
+  <!-- Abilities -->
+  <LetterPsychicInspiration>Dzięki psychicznej sugestii {CASTER_nameIndef} {PAWN_nameIndef} doświadczył inspiracji!</LetterPsychicInspiration>
+
+  <!-- Join Offer -->
+  <LetterJoinOfferLabel>Dołącz do oferty: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferTitle>{PAWN_nameDef} chce dołączyć do twojej frakcji.</LetterJoinOfferTitle>
+  <LetterJoinOfferText>{PAWN_nameDef} uważa, że ​​{PAWN_pronoun} jest zadowolony z {MAP_definite}. {PAWN_pronoun} chce dołączyć do Ciebie na stałe.</LetterJoinOfferText>
+  <LetterJoinOfferAccept>Zaakceptować</LetterJoinOfferAccept>
+
+  <LetterLabelBestowingCeremonyExpired>Ceremonia wręczenia wygasła</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} nie pojawił się na ceremonii wręczenia. Ceremonia została odwołana.</LetterTextBestowingCeremonyExpired>
+
+  <LetterTextHonorAward_BanditCamp>Komu należy przyznać {0} za pokonanie obozu bandytów?</LetterTextHonorAward_BanditCamp>
+
+  <!-- Shuttle crash -->
+  <LetterLabelShuttleCrashed>Prom się rozbił</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>W pobliżu rozbił się autobus</LetterTextShuttleCrashed>
+
+</LanguageData>

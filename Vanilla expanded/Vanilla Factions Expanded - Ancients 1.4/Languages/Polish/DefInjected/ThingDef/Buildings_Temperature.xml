@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientHeater.label>starożytny grzejnik</VFEA_AncientHeater.label>
+  <VFEA_AncientHeater.description>Bardzo stary, ale wydajny grzejnik.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientHeater.description>
+
+  <VFEA_AncientCooler.label>starożytny chłodnik</VFEA_AncientCooler.label>
+  <VFEA_AncientCooler.description>Starożytna maszyna do chłodzenia powietrzem. Chłodne powietrze wydostaje się z jednej strony, podczas gdy gorące powietrze jest wpuszczane przez szereg rur w głąb ziemi. Może być używany do schładzania pomieszczeń latem lub do tworzenia zamrażarki.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielać. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientCooler.description>
+
+
+</LanguageData>

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Engines -->
+
+  <VFE_MechanoidEngines.label>Mechanoidalne silniki okrętowe</VFE_MechanoidEngines.label>
+  <VFE_MechanoidEngines.description>Zestaw silników Johnson Tanaka do mechanoidalnego statku. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidEngines.description>
+
+
+  <!-- Small Engines -->
+
+  <VFE_MechanoidEnginesSmall.label>Małe mechanoidalne silniki okrętowe</VFE_MechanoidEnginesSmall.label>
+  <VFE_MechanoidEnginesSmall.description>Zestaw małych silników Johnson Tanaka do mechanoidalnego statku. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidEnginesSmall.description>
+
+
+  <!-- Heavy Beam -->
+
+  <VFE_MechanoidBeamHeavy.label>ciężka belka konstrukcyjna</VFE_MechanoidBeamHeavy.label>
+  <VFE_MechanoidBeamHeavy.description>Belka konstrukcyjna, wokół której zbudowany jest statek. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidBeamHeavy.description>
+
+
+  <!-- Light Beam -->
+
+  <VFE_MechanoidBeamLight.label>lekka belka konstrukcyjna</VFE_MechanoidBeamLight.label>
+  <VFE_MechanoidBeamLight.description>Belka konstrukcyjna, wokół której zbudowany jest statek. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidBeamLight.description>
+
+
+  <!-- Uplink Module -->
+
+  <VFE_MechanoidUplink.label>moduł uplink</VFE_MechanoidUplink.label>
+  <VFE_MechanoidUplink.description>Moduł łącza uplink, bezpośrednio połączony z rojem mechanoidów. Jest odpowiedzialny za uzyskiwanie aktualizacji zamówień od programistów wojennych na orbicie. Znacznie zwiększa możliwości mechanoidów w zasięgu, ale zniszczenie go spowoduje przerwanie połączenia z flotą, co znacznie zaszkodzi siłom mechanoidów. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidUplink.description>
+
+  <VFE_MechanoidReactor.label>reaktor</VFE_MechanoidReactor.label>
+  <VFE_MechanoidReactor.description>Mechaniczna jednostka generująca energię. Gigantyczny rdzeń wanometryczny będzie działał wiecznie, wydobywając energię z fluktuacji piany kwantowej. Pomimo ogromnej mocy, podjęto wysiłki, aby ją ustabilizować. Jeśli zostanie zadana wystarczająca ilość uszkodzeń plastelowej skorupie otaczającej rdzeń, ogromna eksplozja zniszczy okolicę. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidReactor.description>
+
+
+  <!-- Terraformer -->
+
+  <VFE_MechanoidTerraformer.label>terraformer</VFE_MechanoidTerraformer.label>
+  <VFE_MechanoidTerraformer.description>Ultratechniczne urządzenie masowego rażenia, mechanoidalny terraformer zbiera dostępny tlen i w jego miejsce wydobywa toksyczne opary. Trucizna, która przedostaje się do otaczającej go ziemi, powoli zmienia planetę w jałowe pustkowie. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidTerraformer.description>
+
+
+  <!-- Heavy Machinery -->
+
+  <VFE_HeavyMachinery.label>Ciężki sprzęt</VFE_HeavyMachinery.label>
+  <VFE_HeavyMachinery.description>Szereg skomplikowanych maszyn, silników, systemów wsporczych i innych tajemniczych urządzeń ukrytych pod grubą warstwą plasteliny. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_HeavyMachinery.description>
+
+
+  <!-- Cargo Container -->
+
+  <VFE_CargoContainer.label>kontener ładunkowy</VFE_CargoContainer.label>
+  <VFE_CargoContainer.description>Moduł ładunkowy zawierający różne surowce, często używane przez roje mechanoidów do naprawiania istniejących jednostek lub konstruowania nowych. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_CargoContainer.description>
+
+
+  <!-- Climate Adjuster -->
+
+  <VFE_ClimateAdjuster.label>regulator klimatu</VFE_ClimateAdjuster.label>
+  <VFE_ClimateAdjuster.description>Ultratechniczne urządzenie do sterowania klimatem, montowane na statku. Wykorzystując chemikalia i egzotyczne pola do manipulowania atmosferą, zmienia temperaturę w tym regionie świata. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_ClimateAdjuster.description>
+
+
+  <!-- EMI Dynamo -->
+
+  <VFE_EMIDynamo.label>EMI dynamo</VFE_EMIDynamo.label>
+  <VFE_EMIDynamo.description>Masywny generator zakłóceń elektromagnetycznych montowany na statku. Zakłóca lub wyłącza urządzenia elektryczne w pobliskich regionach. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_EMIDynamo.description>
+
+
+  <!-- Psychic Suppressor -->
+
+  <VFE_PsychicSuppressor.label>psychiczny supresor</VFE_PsychicSuppressor.label>
+  <VFE_PsychicSuppressor.description>Montowane na statku urządzenie Archotech, które generuje potężne psychiczne pole tłumienia dostosowane do określonej płci. Osoby tej płci mają tłumioną aktywność psychiczną, co zmniejsza ich świadomość. Efekt jest modulowany przez psychiczną wrażliwość jednostki. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_PsychicSuppressor.description>
+
+
+  <!-- Psychic Droner -->
+
+  <VFE_PsychicDroner.label>psychiczny droner</VFE_PsychicDroner.label>
+  <VFE_PsychicDroner.description>Montowane na statku urządzenie archotechniczne przekazujące myśli szalonego superinteligencji. Generuje potężny psychiczny dron dostrojony do jednej płci i wpływający na cały region planety. Osoby tej płci będą zakłócane efektem, obniżając ich nastrój i prawdopodobnie doprowadzając ich do szaleństwa. Efekt jest modulowany przez psychiczną wrażliwość jednostki. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_PsychicDroner.description>
+
+
+  <!-- Charge blaster cannon -->
+
+  <VFE_Turret_ChargeBlasterCannon.label>naładować działo blasterowe</VFE_Turret_ChargeBlasterCannon.label>
+  <VFE_Turret_ChargeBlasterCannon.description>Zamontowane na statku działo obronne punktowe do ładowania blasterów. Jest zdolny do prowadzenia ognia tłumiącego na średni dystans. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_ChargeBlasterCannon.description>
+
+  <VFE_Gun_ChargeBlasterCannon.label>ładowanie blastera</VFE_Gun_ChargeBlasterCannon.label>
+  <VFE_Gun_ChargeBlasterCannon.description>Mechanoidalny blaster ładujący.</VFE_Gun_ChargeBlasterCannon.description>
+
+
+  <!-- Charge lance cannon -->
+
+  <VFE_Turret_ChargeLanceCannon.label>ładowanie działka lancy</VFE_Turret_ChargeLanceCannon.label>
+  <VFE_Turret_ChargeLanceCannon.description>Lanca ładująca zamontowana na statku. Wystrzeliwuje na dużą odległość pocisk z karabinem doładowanym. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_ChargeLanceCannon.description>
+
+  <VFE_Gun_ChargeLanceCannon.label>lanca ładująca</VFE_Gun_ChargeLanceCannon.label>
+  <VFE_Gun_ChargeLanceCannon.description>Mechanoidalna lanca ładująca.</VFE_Gun_ChargeLanceCannon.description>
+
+
+  <!-- Trooper Storage -->
+
+  <VFE_TrooperStorage.label>magazyn żołnierzy</VFE_TrooperStorage.label>
+  <VFE_TrooperStorage.description>Mała zatoka transportowa żołnierzy, potencjalnie wypełniona gotowymi do walki mechanoidami. W tej chwili wygląda na to, że jest uśpiony, ale jakiekolwiek uszkodzenia konstrukcji najprawdopodobniej spowodują wysłanie jednostek obronnych. Ten element jest zwykle częścią znacznie większego statku.</VFE_TrooperStorage.description>
+
+
+  <!-- Hull Repair Module -->
+
+  <VFE_HullRepairModule.label>moduł naprawy kadłuba</VFE_HullRepairModule.label>
+  <VFE_HullRepairModule.description>Moduł pojemnika nanitowego zdolny do wzmocnienia uszkodzonego kadłuba statku. Moduł ten, o ile nie zostanie zniszczony, będzie stale odnawiać wszelkie uszkodzenia wyrządzone innym modułom statku. Ten element jest zwykle częścią znacznie większego statku.</VFE_HullRepairModule.description>
+
+
+  <!-- Mechanoid Barrier -->
+
+  <VFE_MechanoidBarrier.label>bariera mechaniczna</VFE_MechanoidBarrier.label>
+  <VFE_MechanoidBarrier.description>Blok prawie nieprzeniknionej plastykowej osłony, zwykle używanej w kadłubie statku w celu ochrony najważniejszych urządzeń. Ten element jest zwykle częścią znacznie większego statku.</VFE_MechanoidBarrier.description>
+
+
+  <!-- Ship-mounted bullet shield -->
+
+  <VFE_BulletShield.label>niska osłona zamontowana na statku</VFE_BulletShield.label>
+  <VFE_BulletShield.description>Urządzenie ekranujące, które wyświetla pole repulsora pędu. Strzały mogą wychodzić, ale nie. Ten jest dostrojony do niskich kątów, więc będzie blokował pociski z poziomu ziemi, takie jak kule. Jednostka może zostać tymczasowo wyłączona przez ataki EMP, albo przez porażenie samego projektora, albo użycie amunicji EMP na tarczy. Ten element jest zwykle częścią znacznie większego statku.</VFE_BulletShield.description>
+
+
+  <!-- Ship-mounted mortar shield -->
+
+  <VFE_MortarShield.label>wysoka tarcza zamontowana na statku</VFE_MortarShield.label>
+  <VFE_MortarShield.description>Urządzenie ekranujące, które wyświetla pole repulsora pędu. Strzały mogą wychodzić, ale nie. Ten jest dostrojony do wysokich kątów, więc blokuje pociski moździerzowe. Jednostka może zostać tymczasowo wyłączona przez ataki EMP, albo przez porażenie samego projektora, albo użycie amunicji EMP na tarczy. Ten element jest zwykle częścią znacznie większego statku.</VFE_MortarShield.description>
+
+
+  <!-- Auto-mortar cannon -->
+
+  <VFE_Turret_AutoMortarCannon.label>armata moździerzowa</VFE_Turret_AutoMortarCannon.label>
+  <VFE_Turret_AutoMortarCannon.description>Duży automatyczny moździerz zamontowany na statku jest zdolny do wystrzeliwania wybuchowych pocisków na duże odległości. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_AutoMortarCannon.description>
+
+  <VFE_Gun_AutoMortarCannon.label>automatyczne działo moździerzowe</VFE_Gun_AutoMortarCannon.label>
+  <VFE_Gun_AutoMortarCannon.description>Zaprawa automatyczna mechanoidalna.</VFE_Gun_AutoMortarCannon.description>
+
+
+  <!-- Inferno Launcher Artillery -->
+
+  <VFE_Turret_InfernoLauncherArtillery.label>artyleria wyrzutni piekła</VFE_Turret_InfernoLauncherArtillery.label>
+  <VFE_Turret_InfernoLauncherArtillery.description>Masywna wyrzutnia piekła z potrójną lufą, zwykle montowana na statkach kosmicznych, aby zadawać niszczycielskie uszkodzenia każdej materii organicznej na pokładzie wrogiego statku. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_InfernoLauncherArtillery.description>
+
+  <VFE_Gun_InfernoArtillery.label>artyleria piekła</VFE_Gun_InfernoArtillery.label>
+  <VFE_Gun_InfernoArtillery.description>Mechanoidalna artyleria piekła.</VFE_Gun_InfernoArtillery.description>
+
+
+  <!-- Inferno artillery shot -->
+
+  <VFE_Bullet_InfernoArtillery.label>piekło artyleryjskie</VFE_Bullet_InfernoArtillery.label>
+
+
+  <!-- Charge Railgun -->
+
+  <VFE_Turret_ChargeRailgun.label>naładować Railgun</VFE_Turret_ChargeRailgun.label>
+  <VFE_Turret_ChargeRailgun.description>Duży karabin szynowy zamontowany na statku, często używany do dziurkowania wrogich statków kapitałowych. Ta armata ma niesamowity zasięg i strzela ładowanymi pociskami wybuchowymi, dzięki czemu może zadać druzgocące straty, zanim wróg znajdzie się w zasięgu. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_ChargeRailgun.description>
+
+  <VFE_Gun_ChargeRailgun.label>naładować Railgun</VFE_Gun_ChargeRailgun.label>
+  <VFE_Gun_ChargeRailgun.description>Potężny, mechanoidalny pistolet ładujący.</VFE_Gun_ChargeRailgun.description>
+
+  <VFE_Bullet_ChargeRailgun.label>ładowanie strzału z karabinu</VFE_Bullet_ChargeRailgun.label>
+
+
+  <!-- Orbital Bombardment Uplink -->
+
+  <VFE_Turret_OrbitalBombardmentUplink.label>uplink bombardowania orbitalnego</VFE_Turret_OrbitalBombardmentUplink.label>
+  <VFE_Turret_OrbitalBombardmentUplink.description>Moduł łącza w górę podłączony do lokalnego satelity uderzającego w orbitę. Podświetli wszystkich wrogów znajdujących się w zasięgu podczas bombardowania orbitalnego, jednak długi czas dostosowywania sprawia, że ​​jest nieefektywny w przypadku dłuższych spotkań. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_Turret_OrbitalBombardmentUplink.description>
+
+  <VFE_Gun_OrbitalBombardmentTargeter.label>celownik bombardowania orbitalnego</VFE_Gun_OrbitalBombardmentTargeter.label>
+  <VFE_Gun_OrbitalBombardmentTargeter.description>Antena zdolna do przywołania bombardowania orbitalnego.</VFE_Gun_OrbitalBombardmentTargeter.description>
+
+
+  <!-- Assembly Pod -->
+
+  <VFE_AssemblyPod.label>kapsuła do montażu mechanicznego</VFE_AssemblyPod.label>
+  <VFE_AssemblyPod.description>Moduł statku kosmicznego zawierający fabrykę mechanoidów. Jest w stanie przekształcić surowe zasoby bezpośrednio w różne typy mechanoidów i tworzy je w sposób ciągły, aż do zniszczenia. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_AssemblyPod.description>
+
+
+  <!-- Mechanoid Foundry -->
+
+  <VFE_AssemblyFoundry.label>odlewnia mechaniczna</VFE_AssemblyFoundry.label>
+  <VFE_AssemblyFoundry.description>Moduł statku kosmicznego zawierający odlewnię mechanoidów na dużą skalę. Jest w stanie generować duże oddziały mechanoidów z dużą prędkością, ale nie jest w stanie konstruować większych, bardziej złożonych wariantów. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_AssemblyFoundry.description>
+
+
+  <!-- Cargo Hold -->
+
+  <VFE_CargoHold.label>ładownia</VFE_CargoHold.label>
+  <VFE_CargoHold.description>Statkowy moduł ładunkowy zawierający ogromną ilość surowców potrzebnych do prawidłowego funkcjonowania statku-mechanika. Można go zniszczyć, by zdobyć cenne, egzotyczne surowce. Ten element jest zwykle częścią znacznie większego statku.</VFE_CargoHold.description>
+
+  <VFE_MechLandingBeacon.label>mechanoidalna latarnia do lądowania</VFE_MechLandingBeacon.label>
+  <VFE_MechLandingBeacon.description>Ta zaawansowana latarnia kosmiczna służy jako przewodnik dla poruszającego się po powierzchni statku-mechanika.</VFE_MechLandingBeacon.description>
+
+
+</LanguageData>

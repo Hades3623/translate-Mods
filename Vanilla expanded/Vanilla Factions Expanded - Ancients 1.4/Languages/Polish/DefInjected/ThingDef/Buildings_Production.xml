@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_ElectricMendingStation.label>stacja naprawy elektrycznej</VFEA_ElectricMendingStation.label>
+  <VFEA_ElectricMendingStation.description>Stacja elektryczna z różnorodną aparaturą służącą do naprawy broni, zbroi i odzieży. To długi proces. Takie stanowiska są niezbędne w kryptach, aby sprzęt, taki jak broń i narzędzia, nie wymagał wymiany.</VFEA_ElectricMendingStation.description>
+
+  <VFEA_FueledMendingStation.label>tankowana stacja naprawy</VFEA_FueledMendingStation.label>
+  <VFEA_FueledMendingStation.description>Stacja opalana drewnem z różnorodną aparaturą służącą do naprawy broni, zbroi i odzieży. To długi proces. Takie stanowiska są niezbędne w kryptach, aby sprzęt, taki jak broń i narzędzia, nie wymagał wymiany.</VFEA_FueledMendingStation.description>
+
+  <VFEA_AncientHydroponicFarm.label>starożytna farma hydroponiczna</VFEA_AncientHydroponicFarm.label>
+  <VFEA_AncientHydroponicFarm.description>Sztuczna kąpiel odżywcza do uprawy roślin. Pompy składników odżywczych muszą pracować w sposób ciągły; rośliny umrą, jeśli zostanie odcięte zasilanie. Zawiera zestaw wbudowanych lamp słonecznych.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientHydroponicFarm.description>
+  <VFEA_AncientHydroponicFarm.comps.3.offMessage>Wyłącz na okres spoczynku rośliny</VFEA_AncientHydroponicFarm.comps.3.offMessage>
+
+  <VFEA_AncientCookingStation.label>starożytna stacja gotowania</VFEA_AncientCookingStation.label>
+  <VFEA_AncientCookingStation.description>Duży piec i stacja rzeźnicza połączone ze sobą, aby usprawnić proces gotowania.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację i nie można już powielać technologii. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientCookingStation.description>
+
+  <VFEA_AncientWorkshop.label>starożytny warsztat</VFEA_AncientWorkshop.label>
+  <VFEA_AncientWorkshop.description>Duży warsztat zawierający systemy obróbki z prostym piecem i stanowiskiem kuźni.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientWorkshop.description>
+
+
+</LanguageData>

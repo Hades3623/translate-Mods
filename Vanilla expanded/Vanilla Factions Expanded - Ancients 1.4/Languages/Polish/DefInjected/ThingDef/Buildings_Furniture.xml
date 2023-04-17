@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientBed.label>starożytne łoże</VFEA_AncientBed.label>
+  <VFEA_AncientBed.description>Staromodna metalowa rama łóżka z twardym materacem i niewygodną kołdrą.</VFEA_AncientBed.description>
+
+  <VFEA_WallLamp.label>lampa ścienna</VFEA_WallLamp.label>
+  <VFEA_WallLamp.description>Elektryczna lampa ścienna, idealna do oświetlania korytarzy w skarbcu.</VFEA_WallLamp.description>
+
+  <VFEA_WallLamp_Red.label>lampa ścienna (czerwona)</VFEA_WallLamp_Red.label>
+  <VFEA_WallLamp_Red.description>Elektryczna czerwona lampa ścienna, idealna do oświetlania korytarzy w krypcie.</VFEA_WallLamp_Red.description>
+
+  <VFEA_WallLamp_Green.label>lampa ścienna (zielona)</VFEA_WallLamp_Green.label>
+  <VFEA_WallLamp_Green.description>Elektryczna zielona lampa ścienna, idealna do oświetlania korytarzy w krypcie.</VFEA_WallLamp_Green.description>
+
+  <VFEA_WallLamp_Blue.label>lampa ścienna (niebieska)</VFEA_WallLamp_Blue.label>
+  <VFEA_WallLamp_Blue.description>Elektryczna niebieska lampa ścienna, idealna do oświetlania korytarzy w krypcie</VFEA_WallLamp_Blue.description>
+
+  <VFEA_AncientCryptosleepSuspender.label>starożytny kapsuła medyczna</VFEA_AncientCryptosleepSuspender.label>
+  <VFEA_AncientCryptosleepSuspender.description>Starożytna kapsuła medyczna, która wykorzystuje częściowy kryptosen do spowolnienia procesu gojenia się ran i wspomaga gojenie się ciała, z takimi samymi efektami ubocznymi kryptosnu, choć o mniejszym nasileniu. Ta konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologia nie może być już odtworzona. Nigdy nie ulegnie awarii i działa bardziej efektywnie podczas rozbłysków słonecznych.
+</VFEA_AncientCryptosleepSuspender.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpenter - slow deconstructor -->
+
+  <VFE_AncientMech_AncientCarpenter.label>Stolarz</VFE_AncientMech_AncientCarpenter.label>
+  <VFE_AncientMech_AncientCarpenter.description>Chwiejny, czworonożny mechanoid użytkowy z grubym pancerzem, przeznaczony do pochłaniania ognia wroga i szybkiego niszczenia fortyfikacji wroga za pomocą prostych sań i ćwiczeń. Piechota obecna podczas wojen mechanoidalnych była znana z budowania bunkrów lub barykad wabików, ponieważ mechanicy cieśli nie potrafili odróżnić ich od aktywnie wykorzystywanych konstrukcji.</VFE_AncientMech_AncientCarpenter.description>
+  <VFE_AncientMech_AncientCarpenter.tools.0.label>przednia lewa noga</VFE_AncientMech_AncientCarpenter.tools.0.label>
+  <VFE_AncientMech_AncientCarpenter.tools.1.label>przednia prawa noga</VFE_AncientMech_AncientCarpenter.tools.1.label>
+  <VFE_AncientMech_AncientCarpenter.tools.2.label>głowa</VFE_AncientMech_AncientCarpenter.tools.2.label>
+
+
+</LanguageData>

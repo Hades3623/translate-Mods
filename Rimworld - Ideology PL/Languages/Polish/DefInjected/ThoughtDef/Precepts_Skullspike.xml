@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <Skullspike_Desired.stages.0.label>kolce czaszki</Skullspike_Desired.stages.0.label>
+  <Skullspike_Desired.stages.0.description>Ostatnio widziałem kilka czaszek. Lubię przypominać mi o naszej mocy.</Skullspike_Desired.stages.0.description>
+  <Skullspike_Desired.stages.1.label>kolce czaszki</Skullspike_Desired.stages.1.label>
+  <Skullspike_Desired.stages.1.description>Ostatnio widziałem sporo kolców czaszki. Wszyscy będą się nas bać.</Skullspike_Desired.stages.1.description>
+  <Skullspike_Desired.stages.2.label>kolce czaszki</Skullspike_Desired.stages.2.label>
+  <Skullspike_Desired.stages.2.description>Otoczony martwym uśmiechem kolczastych czaszek nikt nie mógł wątpić w naszą moc!</Skullspike_Desired.stages.2.description>
+
+  <Skullspike_Disapproved.stages.0.label>kolce czaszki</Skullspike_Disapproved.stages.0.label>
+  <Skullspike_Disapproved.stages.0.description>Widzę czaszki na kolcach. Tylko kilka z nich, ale to wciąż niepokojące.</Skullspike_Disapproved.stages.0.description>
+  <Skullspike_Disapproved.stages.1.label>kolce czaszki</Skullspike_Disapproved.stages.1.label>
+  <Skullspike_Disapproved.stages.1.description>W okolicy jest sporo czaszek na kolcach. To raczej niepokojące.</Skullspike_Disapproved.stages.1.description>
+  <Skullspike_Disapproved.stages.2.label>kolce czaszki</Skullspike_Disapproved.stages.2.label>
+  <Skullspike_Disapproved.stages.2.description>Dlaczego otacza mnie las głów na kolcach? To jest przerażające.</Skullspike_Disapproved.stages.2.description>
+
+
+</LanguageData>

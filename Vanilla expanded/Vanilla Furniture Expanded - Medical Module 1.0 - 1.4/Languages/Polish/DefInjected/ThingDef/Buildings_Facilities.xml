@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Facility_VitalsCentre.label>Duże centrum życiowe</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>Duże centrum monitorowania czynności życiowych kilku pacjentów jednocześnie, zwiększania jakości zabiegów medycznych, szans powodzenia operacji i zwiększania odporności, gdy znajduje się w pobliżu łóżka szpitalnego lub stołu operacyjnego. Działa tylko w przypadku łóżek szpitalnych lub stołów chirurgicznych - normalne łóżka nie przyniosą korzyści.</Facility_VitalsCentre.description>
+
+  <Facility_IVDrip.label>stojak na kroplówkę</Facility_IVDrip.label>
+  <Facility_IVDrip.description>Kroplówka dożylna umożliwia szybkie dostarczanie utraconych płynów pacjentowi, pomagając układowi odpornościowemu i regeneracji po utracie krwi, gdy jest umieszczona bezpośrednio przy łóżku szpitalnym lub stole chirurgicznym. Działa tylko w przypadku łóżek szpitalnych lub stołów chirurgicznych - normalne łóżka nie przyniosą korzyści. Przymocowanie więcej niż jednej podstawki do tego samego łóżka nie przyniesie żadnego efektu.</Facility_IVDrip.description>
+
+  <Facility_ResearchCounter.label>licznik badań</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>Sterylizowana powierzchnia na wysokości talii do wykonywania wrażliwych badań. Daje niewielki impuls pobliskim ławkom badawczym, a także pomaga utrzymać teren w czystości.</Facility_ResearchCounter.description>
+
+
+</LanguageData>

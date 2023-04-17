@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Wander_Sad.label>smutna wędrówka</VPE_Wander_Sad.label>
+  <VPE_Wander_Sad.recoveryMessage>{0} nie błąka się już w smutku.</VPE_Wander_Sad.recoveryMessage>
+  <VPE_Wander_Sad.beginLetterLabel>smutna wędrówka</VPE_Wander_Sad.beginLetterLabel>
+  <VPE_Wander_Sad.beginLetter>{0} załamał się i błąka się ze smutkiem.</VPE_Wander_Sad.beginLetter>
+  <VPE_Wander_Sad.baseInspectLine>Stan psychiczny: Smutna wędrówka</VPE_Wander_Sad.baseInspectLine>
+
+
+</LanguageData>

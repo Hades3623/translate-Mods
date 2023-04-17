@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE.Psycasts>Psycasty</VPE.Psycasts>
+  <VPE.PsyLevel>Poziom Psycastera: {0}</VPE.PsyLevel>
+  <VPE.EarnXP>Zdobądź doświadczenie psycaster poprzez medytację.</VPE.EarnXP>
+  <VPE.Points>Dostępne punkty do wydania: {0}</VPE.Points>
+  <VPE.SpendPoints>Wydawaj punkty na odblokowywanie nowych ścieżek, odblokowywanie psycastów, odblokowywanie ognisk medytacyjnych, poprawianie statystyk itp.</VPE.SpendPoints>
+  <VPE.PsycasterStats>Statystyki Psycastera</VPE.PsycasterStats>
+  <VPE.Upgrade>Aktualizacja</VPE.Upgrade>
+  <VPE.FocusTypes>Rodzaje skupienia:</VPE.FocusTypes>
+  <VPE.PsysetCustomize>Dostosuj Psyset</VPE.PsysetCustomize>
+  <VPE.PsysetDesc>Przeciągnij i upuść wyuczone psycasty do psysetów, które możesz przełączać między grą.</VPE.PsysetDesc>
+  <VPE.CreatePsyset>Utwórz Psyset</VPE.CreatePsyset>
+  <VPE.Unlock>Odblokuj</VPE.Unlock>
+  <VPE.ClickToUnlock>Kliknij, aby odblokować</VPE.ClickToUnlock>
+  <VPE.UseAltBackground>Użyj alternatywnych środowisk</VPE.UseAltBackground>
+  <VPE.DestroySkipdoor>Zniszcz</VPE.DestroySkipdoor>
+  <VPE.DestroySkipdoor.Desc>Zniszcz ten skipdoor. Nie będzie już można z niego korzystać, ale nie będzie już miało wpływu na maksymalne ciepło {0}.</VPE.DestroySkipdoor.Desc>
+  <VPE.RenameSkipdoor>zmień nazwę</VPE.RenameSkipdoor>
+  <VPE.RenameSkipdoor.Desc>Zmień nazwę tego skipdoora.</VPE.RenameSkipdoor.Desc>
+  <VPE.TeleportTo>Teleportuj do {0}</VPE.TeleportTo>
+  <VPE.CancelSkipbarrier>Anuluj Skipbarrier</VPE.CancelSkipbarrier>
+  <VPE.CancelSkipbarrierDesc>Kliknij, aby anulować Skipbarrier na rzucającym.</VPE.CancelSkipbarrierDesc>
+  <VPE.Edit>Edytuj</VPE.Edit>
+  <VPE.Rename>zmień nazwę</VPE.Rename>
+  <VPE.Untitled>Nieuprawny</VPE.Untitled>
+  <VPE.Remove>Usuń</VPE.Remove>
+  <VPE.Contents>Spis treści:</VPE.Contents>
+  <VPE.ClickRemove>Kliknij, aby usunąć</VPE.ClickRemove>
+  <VPE.SellingEltexWarning>Sprzedaż Eltexu jest sprzeczna z cesarskim prawem. Może to, ale nie musi, wpłynąć na twoje relacje z Imperium w przyszłości.</VPE.SellingEltexWarning>
+  <VPE.GiftingEltexWarning>Podarowanie Eltexu jest niezgodne z imperialnym prawem. Może to, ale nie musi, wpłynąć na twoje relacje z Imperium w przyszłości.</VPE.GiftingEltexWarning>
+  <VPE.EmpireAngeredTitle>Imperium rozgniewane</VPE.EmpireAngeredTitle>
+  <VPE.EmpireAngeredDesc>Imperium dowiedziało się, że za ich plecami uprawiałeś {0} Eltex. Uważają to za niezgodne z prawem Imperialnym, a wasze relacje uległy degradacji.</VPE.EmpireAngeredDesc>
+  <VPE.Gifting>prezenty</VPE.Gifting>
+  <VPE.Trading>handlowy</VPE.Trading>
+  <VPE.FactionRelationReducedInfo>Wartość frakcji {FACTION_name} wynosi teraz {1}. (Zmniejszone o {2})</VPE.FactionRelationReducedInfo>
+  <VPE.CreatePsyringTitle>Wybierz Psycast:</VPE.CreatePsyringTitle>
+  <VPE.CreatePsyringButton>Utwórz Psyring</VPE.CreatePsyringButton>
+  <VPE.Locked>Zablokowany</VPE.Locked>
+  <VPE.StatsReport_BodiesConsumed>Zużyte ciała: +{0}</VPE.StatsReport_BodiesConsumed>
+  <VPE.DevMode>tryb dewelopera</VPE.DevMode>
+  <VPE.NotEnoughPoints>Za mało dostępnych punktów</VPE.NotEnoughPoints>
+  <VPE.AbilitiesList>Psycasty zawierały:</VPE.AbilitiesList>
+  <VPE.Hover>hover</VPE.Hover>
+  <VPE.PsycasterRaidDescription>{0}
+
+Przechwytywanie psycasterów jest realną strategią i może być uznane za korzystne.</VPE.PsycasterRaidDescription>
+  <VPE.LockedTitle>Zablokowany: wymaga tytułu królewskiego</VPE.LockedTitle>
+
+</LanguageData>

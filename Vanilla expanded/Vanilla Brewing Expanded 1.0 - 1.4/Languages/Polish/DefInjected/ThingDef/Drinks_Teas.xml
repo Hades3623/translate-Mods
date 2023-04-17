@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Tea.label>herbata</VBE_Tea.label>
+  <VBE_Tea.description>Przyjemny, aromatyczny napój przygotowywany przez namoczenie torebki liści herbaty we wrzącej wodzie. Herbata może mieć różne profile smakowe, od cytrusowych przez gorzkie do pikantnych. Herbata od czasów starożytnych była jednym z ulubionych napojów ludzkości i uważa się, że ma wiele naturalnych właściwości leczniczych.</VBE_Tea.description>
+  <VBE_Tea.ingestible.ingestCommandString>Pij {0}</VBE_Tea.ingestible.ingestCommandString>
+  <VBE_Tea.ingestible.ingestReportString>Picie {0}.</VBE_Tea.ingestible.ingestReportString>
+
+
+</LanguageData>

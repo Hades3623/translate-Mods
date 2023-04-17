@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OtherTravelerArrested.stages.0.label>aresztowany podróżnik</OtherTravelerArrested.stages.0.label>
+  <OtherTravelerArrested.stages.0.description>Jeden z naszych towarzyszy dostał się do niewoli!</OtherTravelerArrested.stages.0.description>
+
+  <OtherTravelerSurgicallyViolated.stages.0.label>podróżnik chirurgicznie naruszony</OtherTravelerSurgicallyViolated.stages.0.label>
+  <OtherTravelerSurgicallyViolated.stages.0.description>Jeden z naszych towarzyszy został zgwałcony chirurgicznie. Nic nie może tego usprawiedliwić.</OtherTravelerSurgicallyViolated.stages.0.description>
+
+
+</LanguageData>

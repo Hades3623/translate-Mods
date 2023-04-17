@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HUMERUS -->
+
+  <SZ_Humerus.label>kość ramienna</SZ_Humerus.label>
+  <SZ_Humerus.description>Kość ramienia. Biegnie od łopatki do łokcia.</SZ_Humerus.description>
+
+
+  <!-- RADIUS -->
+
+  <SZ_Radius.label>promień</SZ_Radius.label>
+  <SZ_Radius.description>Jedna z dwóch kości przedramienia. Pomaga w artykulacji nadgarstka i jest połączony z kością ramienną powyżej.</SZ_Radius.description>
+
+
+  <!-- ULNA -->
+
+  <SZ_Ulna.label>kość łokciowa</SZ_Ulna.label>
+  <SZ_Ulna.description>Cieńsze kości przedramienia. Pomaga w rotacji ramienia w połączeniu z nadgarstkiem i jest połączony z kością ramienną powyżej.</SZ_Ulna.description>
+
+
+  <!-- FEMUR -->
+
+  <SZ_Femur.label>kość udowa</SZ_Femur.label>
+  <SZ_Femur.description>Najdłuższa, najcięższa i najsilniejsza kość w ciele. Wspiera stabilność i jest nośny.</SZ_Femur.description>
+
+
+  <!-- PATELLA -->
+
+  <SZ_Patella.label>rzepka kolanowa</SZ_Patella.label>
+  <SZ_Patella.description>Rzepka lub rzepka pomaga w wyprostowaniu nogi.</SZ_Patella.description>
+
+
+  <!-- TIBIA -->
+
+  <SZ_Tibia.label>piszczel</SZ_Tibia.label>
+  <SZ_Tibia.description>Druga co do wielkości kość w ciele. Pomaga w utrzymaniu ciężaru ludzkiego ciała.</SZ_Tibia.description>
+
+
+  <!-- FIBULA -->
+
+  <SZ_Fibula.label>fibula</SZ_Fibula.label>
+  <SZ_Fibula.description>Ta kość, w połączeniu z kością piszczelową, wspomaga stabilność stawu skokowego.</SZ_Fibula.description>
+
+
+  <!-- FIRST RIB -->
+
+  <SZ_First_Rib.label>pierwsze żebro</SZ_First_Rib.label>
+  <SZ_First_Rib.description>Najkrótsze i najbardziej zakrzywione żebro, jest jedną z granic górnej apetury piersiowej.</SZ_First_Rib.description>
+
+
+  <!-- SECOND RIB -->
+
+  <SZ_Second_Rib.label>drugie żebro</SZ_Second_Rib.label>
+  <SZ_Second_Rib.description>Jest to najwyższe żebro, które można zidentyfikować za pomocą palpitacji.</SZ_Second_Rib.description>
+
+
+  <!-- THIRD RIB -->
+
+  <SZ_Third_Rib.label>trzecie żebro</SZ_Third_Rib.label>
+  <SZ_Third_Rib.description>Trzecia kość żebra. Wraz z pierwszym i drugim żebrem jest uważany za prawdziwe żebro.</SZ_Third_Rib.description>
+
+
+  <!-- FOURTH RIB -->
+
+  <SZ_Fourth_Rib.label>czwarte żebro</SZ_Fourth_Rib.label>
+  <SZ_Fourth_Rib.description>Kolejny członek prawdziwych żeber.</SZ_Fourth_Rib.description>
+
+
+  <!-- FIFTH RIB -->
+
+  <SZ_Fifth_Rib.label>piąte żebro</SZ_Fifth_Rib.label>
+  <SZ_Fifth_Rib.description>Kolejny członek prawdziwych żeber.</SZ_Fifth_Rib.description>
+
+
+  <!-- SIXTH RIB -->
+
+  <SZ_Sixth_Rib.label>szóste żebro</SZ_Sixth_Rib.label>
+  <SZ_Sixth_Rib.description>Kolejny członek prawdziwych żeber.</SZ_Sixth_Rib.description>
+
+
+  <!-- SEVENTH RIB -->
+
+  <SZ_Seventh_Rib.label>siódme żebro</SZ_Seventh_Rib.label>
+  <SZ_Seventh_Rib.description>Kolejny członek prawdziwych żeber.</SZ_Seventh_Rib.description>
+
+
+  <!-- EIGHTH RIB -->
+
+  <SZ_Eighth_Rib.label>ósme żebro</SZ_Eighth_Rib.label>
+  <SZ_Eighth_Rib.description>Pierwsze fałszywe żebro. Jego elastyczność pozwala klatce piersiowej poruszać się swobodniej podczas oddychania.</SZ_Eighth_Rib.description>
+
+
+  <!-- NINTH RIB -->
+
+  <SZ_Ninth_Rib.label>dziewiąte żebro</SZ_Ninth_Rib.label>
+  <SZ_Ninth_Rib.description>Drugie fałszywe żebro. Jego elastyczność pozwala klatce piersiowej poruszać się swobodniej podczas oddychania.</SZ_Ninth_Rib.description>
+
+
+  <!-- TENTH RIB -->
+
+  <SZ_Tenth_Rib.label>dziesiąte żebro</SZ_Tenth_Rib.label>
+  <SZ_Tenth_Rib.description>Trzecie fałszywe żebro. Jego elastyczność pozwala klatce piersiowej poruszać się swobodniej podczas oddychania.</SZ_Tenth_Rib.description>
+
+
+  <!-- ELEVENTH RIB -->
+
+  <SZ_Eleventh_Rib.label>jedenaste żebro</SZ_Eleventh_Rib.label>
+  <SZ_Eleventh_Rib.description>Jedno z dwóch pływających żeber. Połączony bezpośrednio z kręgami.</SZ_Eleventh_Rib.description>
+
+
+  <!-- TWELFTH RIB -->
+
+  <SZ_Twelfth_Rib.label>dwunaste żebro</SZ_Twelfth_Rib.label>
+  <SZ_Twelfth_Rib.description>Najniższe żebro pływające. Połączony bezpośrednio z kręgami.</SZ_Twelfth_Rib.description>
+
+
+  <!-- C1 (ATLAS) -->
+
+  <SZ_C_one.label>c1 (Atlas)</SZ_C_one.label>
+  <SZ_C_one.description>Powszechnie znana jako „Atlas”, ta kość podtrzymuje czaszkę i działa jako najwyższy kręg.</SZ_C_one.description>
+
+
+  <!-- C2 (AXIS) -->
+
+  <SZ_C_two.label>c2 (Axis)</SZ_C_two.label>
+  <SZ_C_two.description>Drugi kręg od szczytu kręgosłupa. Określana jako „Oś”, pozwala Atlasowi się obracać.</SZ_C_two.description>
+
+
+  <!-- C3 -->
+
+  <SZ_C_three.label>c3</SZ_C_three.label>
+  <SZ_C_three.description>Wspomaga kontrolę i stabilność głowy i szyi.</SZ_C_three.description>
+
+
+  <!-- C4 -->
+
+  <SZ_C_four.label>c4</SZ_C_four.label>
+  <SZ_C_four.description>Czwarty kręg w dół.</SZ_C_four.description>
+
+
+  <!-- C5 -->
+
+  <SZ_C_five.label>c5</SZ_C_five.label>
+  <SZ_C_five.description>Piąty kręg w dół. Umożliwia ruch kręgosłupa w połączeniu z c6.</SZ_C_five.description>
+
+
+  <!-- C6 -->
+
+  <SZ_C_six.label>c6</SZ_C_six.label>
+  <SZ_C_six.description>Szósty kręg w dół. Pomoce w ruchu kręgosłupa wzdłuż c5.</SZ_C_six.description>
+
+
+  <!-- C7 -->
+
+  <SZ_C_seven.label>c7</SZ_C_seven.label>
+  <SZ_C_seven.description>Siódmy kręg w dół. Jest to największy segment kręgosłupa szyjnego.</SZ_C_seven.description>
+
+
+  <!-- T1 -->
+
+  <SZ_T_one.label>t1</SZ_T_one.label>
+  <SZ_T_one.description>Pierwsza i najmniejsza kość w odcinku piersiowym kręgosłupa.</SZ_T_one.description>
+
+
+  <!-- T2 -->
+
+  <SZ_T_two.label>t2</SZ_T_two.label>
+  <SZ_T_two.description>Drugi kręg piersiowy jest większy niż pierwszy kręg piersiowy.</SZ_T_two.description>
+
+
+  <!-- T3 -->
+
+  <SZ_T_three.label>t3</SZ_T_three.label>
+  <SZ_T_three.description>Trzeci kręg piersiowy.</SZ_T_three.description>
+
+
+  <!-- T4 -->
+
+  <SZ_T_four.label>t4</SZ_T_four.label>
+  <SZ_T_four.description>Czwarty kręg piersiowy.</SZ_T_four.description>
+
+
+  <!-- T5 -->
+
+  <SZ_T_five.label>t5</SZ_T_five.label>
+  <SZ_T_five.description>Piąty kręg piersiowy. Tchawica człowieka dzieli się tutaj na dwa główne oskrzela.</SZ_T_five.description>
+
+
+  <!-- T6 -->
+
+  <SZ_T_six.label>t6</SZ_T_six.label>
+  <SZ_T_six.description>Szósty kręg piersiowy.</SZ_T_six.description>
+
+
+  <!-- T7 -->
+
+  <SZ_T_seven.label>t7</SZ_T_seven.label>
+  <SZ_T_seven.description>Siódmy kręg piersiowy.</SZ_T_seven.description>
+
+
+  <!-- T8 -->
+
+  <SZ_T_eight.label>t8</SZ_T_eight.label>
+  <SZ_T_eight.description>Ósmy kręg piersiowy.</SZ_T_eight.description>
+
+
+  <!-- T9 -->
+
+  <SZ_T_nine.label>t9</SZ_T_nine.label>
+  <SZ_T_nine.description>Siódmy kręg piersiowy. Proces wyrostka mieczykowatego jest na tym samym poziomie.</SZ_T_nine.description>
+
+
+  <!-- T10 -->
+
+  <SZ_T_ten.label>t10</SZ_T_ten.label>
+  <SZ_T_ten.description>Dziesiąty kręg piersiowy.</SZ_T_ten.description>
+
+
+  <!-- T11 -->
+
+  <SZ_T_eleven.label>t11</SZ_T_eleven.label>
+  <SZ_T_eleven.description>Jedenasty kręg piersiowy.</SZ_T_eleven.description>
+
+
+  <!-- T12 -->
+
+  <SZ_T_twelve.label>t12</SZ_T_twelve.label>
+  <SZ_T_twelve.description>Ostatni odcinek kręgosłupa piersiowego. T12 nosi największą wagę tego segmentu kręgosłupa.</SZ_T_twelve.description>
+
+
+  <!-- L1 -->
+
+  <SZ_L_one.label>l1</SZ_L_one.label>
+  <SZ_L_one.description>Pierwszy kręg lędźwiowy. Jest na poziomie dziewiątego żebra.</SZ_L_one.description>
+
+
+  <!-- L2 -->
+
+  <SZ_L_two.label>l2</SZ_L_two.label>
+  <SZ_L_two.description>Drugi kręg lędźwiowy.</SZ_L_two.description>
+
+
+  <!-- L3 -->
+
+  <SZ_L_three.label>l3</SZ_L_three.label>
+  <SZ_L_three.description>Trzeci kręg lędźwiowy.</SZ_L_three.description>
+
+
+  <!-- L4 -->
+
+  <SZ_L_four.label>l4</SZ_L_four.label>
+  <SZ_L_four.description>Czwarty kręg lędźwiowy.</SZ_L_four.description>
+
+
+  <!-- L5 -->
+
+  <SZ_L_five.label>l5</SZ_L_five.label>
+  <SZ_L_five.description>Piąty kręg lędźwiowy. Jest to największy z kręgów lędźwiowych.</SZ_L_five.description>
+
+
+  <!-- SACRUM -->
+
+  <SZ_Sacrum.label>kość krzyżowa</SZ_Sacrum.label>
+  <SZ_Sacrum.description>Kość krzyżowa to struktura kostna w kształcie tarczy, która znajduje się u podstawy kręgów lędźwiowych i jest połączona z miednicą.</SZ_Sacrum.description>
+
+
+  <!-- COCCYX -->
+
+  <SZ_Coccyx.label>kość ogonowa (kość ogonowa)</SZ_Coccyx.label>
+  <SZ_Coccyx.description>Znany również jako kość ogonowa, jest częścią „statywu”. Statyw to grupa wewnętrznych części ciała, które zapewniają nośne podparcie w pozycji siedzącej</SZ_Coccyx.description>
+
+
+</LanguageData>

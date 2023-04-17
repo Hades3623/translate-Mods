@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_ConduitPylon.label>pylon przewodów</VFE_ConduitPylon.label>
+  <VFE_ConduitPylon.description>Małe urządzenie, które łączy się z sieciami zasilającymi za pomocą przewodu, aby zwiększyć zasięg, w jakim elektronika może łączyć się z wymienionymi przewodami. Właściwe wdrożenie może potroić zakres, w którym można wykorzystać prąd elektryczny.</VFE_ConduitPylon.description>
+
+
+</LanguageData>

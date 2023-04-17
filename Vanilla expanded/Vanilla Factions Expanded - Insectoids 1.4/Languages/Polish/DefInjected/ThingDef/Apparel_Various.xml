@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Apparel_RiotArmor.label>zbroja do zamieszek</VFE_Apparel_RiotArmor.label>
+  <VFE_Apparel_RiotArmor.description>Gruba kurtka z płytami zbroi umieszczonymi na piersiach, ramionach, nogach i plecach. Bardzo skuteczny w ochronie przed tępymi urazami, ten rodzaj zbroi jest często używany zarówno przez policję, jak i ciężką piechotę.</VFE_Apparel_RiotArmor.description>
+
+  <VFE_Apparel_RiotHelmet.label>hełm do zamieszek</VFE_Apparel_RiotHelmet.label>
+  <VFE_Apparel_RiotHelmet.description>Ciężki hełm bojowy z osłoną twarzy. Często używany przez jednostki policji podczas zamieszek ze względu na skuteczność w ochronie przed tępymi urazami.</VFE_Apparel_RiotHelmet.description>
+
+  <VFEI_Shield_Riot.label>tarcza do zamieszek</VFEI_Shield_Riot.label>
+  <VFEI_Shield_Riot.description>Ciężka tarcza przemysłowa wykonana ze wzmocnionej stali. Zapewnia dużą ochronę przed tępymi obrażeniami, co czyni go idealnym rozwiązaniem dla policji prewencyjnej Urbworld.</VFEI_Shield_Riot.description>
+  <VFEI_Shield_Riot.tools.0.label>Centrum</VFEI_Shield_Riot.tools.0.label>
+
+
+</LanguageData>

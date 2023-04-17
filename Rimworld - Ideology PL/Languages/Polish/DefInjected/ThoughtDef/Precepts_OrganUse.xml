@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Traded organ -->
+
+  <TradedOrgan_Abhorrent.stages.0.label>handlowany organ</TradedOrgan_Abhorrent.stages.0.label>
+  <TradedOrgan_Abhorrent.stages.0.description>Musiałem wymienić czyjeś organy. To odrażające pogwałcenie wszystkiego, w co wierzę.</TradedOrgan_Abhorrent.stages.0.description>
+
+  <TradedOrgan_Know_Abhorrent.stages.0.label>handlowany organ</TradedOrgan_Know_Abhorrent.stages.0.label>
+
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.label>zebrane organy</TradedOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.description>Ktoś wymienił organy! Co za odrażający, obrzydliwy akt.</TradedOrgan_Know_Abhorrent_Mood.stages.0.description>
+
+
+  <!-- Sold organ -->
+
+  <SoldOrgan_Disapproved.stages.0.label>sprzedany organ</SoldOrgan_Disapproved.stages.0.label>
+  <SoldOrgan_Disapproved.stages.0.description>Musiałem sprzedać czyjeś organy. Nie akceptuję takich transakcji.</SoldOrgan_Disapproved.stages.0.description>
+
+  <SoldOrgan_Know_Disapproved.stages.0.label>sprzedany organ</SoldOrgan_Know_Disapproved.stages.0.label>
+
+  <SoldOrgan_Know_Horrible_Mood.stages.0.label>zebrane organy</SoldOrgan_Know_Horrible_Mood.stages.0.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.0.description>Ktoś sprzedał organy. Handel ludzkimi częściami jak maszynami jest okropny.</SoldOrgan_Know_Horrible_Mood.stages.0.description>
+
+
+  <!-- Installed organ -->
+
+  <InstalledOrgan_Abhorrent.stages.0.label>zainstalowany organ</InstalledOrgan_Abhorrent.stages.0.label>
+  <InstalledOrgan_Abhorrent.stages.0.description>Musiałem zainstalować w kimś organy. To odrażające pogwałcenie wszystkiego, w co wierzę.</InstalledOrgan_Abhorrent.stages.0.description>
+
+  <InstalledOrgan_Know_Abhorrent.stages.0.label>zainstalowany organ</InstalledOrgan_Know_Abhorrent.stages.0.label>
+
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>zebrane organy</InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>Ktoś zainstalował organy. Ciało powinno być święte!</InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>
+
+
+  <!-- Harvested organ -->
+
+  <HarvestedOrgan_Abhorrent.stages.0.label>zebrany organ</HarvestedOrgan_Abhorrent.stages.0.label>
+  <HarvestedOrgan_Abhorrent.stages.0.description>Musiałem zebrać czyjś narząd. To odrażające pogwałcenie wszystkiego, w co wierzę.</HarvestedOrgan_Abhorrent.stages.0.description>
+
+  <HarvestedOrgan_Know_Abhorrent.stages.0.label>zebrany organ</HarvestedOrgan_Know_Abhorrent.stages.0.label>
+
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>zebrane organy</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>Ktoś zabrał części ciała od naszego kolegi. To straszna rzecz.</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>
+
+  <HarvestedOrgan_Horrible.stages.0.label>zebrany organ</HarvestedOrgan_Horrible.stages.0.label>
+  <HarvestedOrgan_Horrible.stages.0.description>Musiałem zebrać czyjś narząd. To straszna obraza moich przekonań.</HarvestedOrgan_Horrible.stages.0.description>
+
+  <HarvestedOrgan_Know_Horrible.stages.0.label>zebrany organ</HarvestedOrgan_Know_Horrible.stages.0.label>
+
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.label>zebrane organy</HarvestedOrgan_Know_Horrible_Mood.stages.0.label>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.description>Ktoś zabrał części ciała od naszego kolegi. To straszna rzecz.</HarvestedOrgan_Know_Horrible_Mood.stages.0.description>
+
+
+</LanguageData>

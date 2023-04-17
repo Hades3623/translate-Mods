@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_VatGrownTitanbeetle.label>Titanbeetle</VFEI_VatGrownTitanbeetle.label>
+  <VFEI_VatGrownTitanbeetle.description>Gigantyczny insektoid podobny do chrząszcza znany ze swojej zdolności do rozbijania litych skał na mniejsze, łatwiejsze do przenoszenia kawałki. Jest mocno opancerzony, aby uchronić go przed ewentualnymi lawinami, a śmiercionośny róg pozwala szybko wyeliminować potencjalne drapieżniki jednym uderzeniem. Stworzenie wyhodowane w kadzi, nie jest w stanie rozmnażać się, a jego żywotność jest znacznie zmniejszona. \n 
+UWAGA: Titanbeetle musi zostać przeszkolony w "Guard", aby mógł pomóc w wydobyciu. Rzeczy wydobywane przez chrząszcza zawsze będą wyglądać na zakazane ze względu na ograniczenia w grze.</VFEI_VatGrownTitanbeetle.description>
+  <VFEI_VatGrownTitanbeetle.tools.0.label>pazur głowy</VFEI_VatGrownTitanbeetle.tools.0.label>
+  <VFEI_VatGrownTitanbeetle.tools.1.label>żuchwy</VFEI_VatGrownTitanbeetle.tools.1.label>
+  <VFEI_VatGrownTitanbeetle.tools.2.label>głowa</VFEI_VatGrownTitanbeetle.tools.2.label>
+
+
+</LanguageData>

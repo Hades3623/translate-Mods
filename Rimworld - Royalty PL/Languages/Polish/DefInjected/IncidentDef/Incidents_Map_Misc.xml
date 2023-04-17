@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WandererJoinAbasia.label>Wędrowiec</WandererJoinAbasia.label>
+  <WandererJoinAbasia.letterText>{PAWN_title} o imieniu {PAWN_nameDef} rozbija się w pobliskiej kabinie transportowej.\n\n{PAWN_nameDef} cierpi na {HEDIFF_label} i nie będzie mógł chodzić.\n\n{PAWN_pronoun} powróci do zdrowia po wielu dniach. Jest też szansa na szczęśliwe szybkie wyzdrowienie. {HEDIFF_label} może być również wyleczony przez specjalną operację, która wymaga dużej ilości lekarstwa z glitterworld.\n\n[PAWN_pronoun] jest chętny do pomocy, gdy {PAWN_pronoun} wyzdrowieje, ale nie odejdzie dobrowolnie. Jeśli nie chcesz {PAWN_nameDef}, możesz wygnać {PAWN_objective}, sprzedać {PAWN_objective} do niewoli lub pozostawić {PAWN_objective} na śmierć. Jednak inni twoi koloniści mogą uznać to za niepokojące.</WandererJoinAbasia.letterText>
+  <WandererJoinAbasia.letterLabel>Awaria poda transportowego: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
+
+
+</LanguageData>

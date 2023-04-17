@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Character tab -->
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} ma obecnie tytuł {TITLE}, przyznawany przez {FACTION_name}.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} zażąda pełnego przestrzegania przywilejów tego tytułu.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} elastycznie podchodzi do przywilejów tego tytułu.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>Następny tytuł</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>kosztuje {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>Nigdy więcej tytułów do zdobycia na tej planecie.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>Jeśli {PAWN_nameDef} umrze, {HEIR_nameFull} jest wyznaczony do dziedziczenia tytułu {PAWN_possessive}.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} nie jest członkiem żadnej frakcji.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} jest członkiem {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>Nikt nie jest wyznaczony do dziedziczenia tytułu {PAWN_nameDef}. Jeśli {PAWN_pronoun} umrze, tytuł zostanie utracony.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>Tytuły do ​​zdobycia dla {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>Inne tytuły {FACTION_name}</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>{0} total</RoyalTitleTooltipRoyalFavorTotal>
+
+  <RecruitmentValueOffsetRoyal>Offset tytułu królewskiego</RecruitmentValueOffsetRoyal>
+  <RecruitmentValueFactorRoyal>Czynnik tytułu królewskiego</RecruitmentValueFactorRoyal>
+
+  <!-- Permits tab -->
+  <TabPermits>Zezwolenia</TabPermits>
+  <PermitsFromFaction>Zezwolenia od {FACTION_name}</PermitsFromFaction>
+  <CurrentTitle>Aktualny tytuł</CurrentTitle>
+  <UnusedPermits>Niewykorzystane punkty zezwoleń</UnusedPermits>
+  <ReturnAllPermits>Zwróć wszystkie pozwolenia</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef} nie ma pozwolenia na powrót.</NoPermitsToReturn>
+  <NotEnoughFavor>Zwrot zezwoleń wymaga {FAVORCOST} {FAVOR}, ale {PAWN_nameDef} ma tylko {CURFAVOR}.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>Zwróć wszystkie wcześniej wybrane zezwolenia dla tej frakcji. Odzyskasz wszystkie wydane punkty pozwoleń i będziesz mógł je ponownie wydać.\n\nTa akcja kosztuje {BASEFAVORCOST} {FAVOR} plus koszt zresetowania wszystkich pozwoleń, które aktualnie się odnawiają. Całkowity koszt wynosi teraz {FAVORCOST}.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>Zwrócić wszystkie poprzednio wybrane pozwolenia dla {FACTION_name}?\n\nOdzyskasz wszystkie wydane punkty pozwoleń i będziesz mógł je ponownie wydać.\n\nTa akcja kosztuje {BASEFAVORCOST} {FAVOR} plus koszt zresetowania wszelkich pozwoleń obecnie odnawia się. Całkowity koszt wynosi teraz {FAVORCOST}.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>Zmień frakcję</SwitchFaction_Desc>
+  <AcceptPermit>Zaakceptuj pozwolenie</AcceptPermit>
+  <RequiresTitle>Wymaga tytułu: {0}</RequiresTitle>
+  <UpgradeFrom>Uaktualnij z: {0}</UpgradeFrom>
+  <Cooldown>Ochłonąć</Cooldown>
+  <CooldownUseFavorCost>Koszt {HONOR}, jeśli zostanie użyty podczas odnowienia</CooldownUseFavorCost>
+
+</LanguageData>

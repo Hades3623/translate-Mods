@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mech capsule -->
+
+  <MechCapsule.label>kapsuła mecha</MechCapsule.label>
+  <MechCapsule.description>Kapsuła do przechowywania i rozmieszczania mechanoidów. Może zawierać szereg mechanoidów, gotowych do wyłonienia się i walki po przebudzeniu.</MechCapsule.description>
+
+
+  <!-- Mech assembler -->
+
+  <MechAssembler.label>monter mechów</MechAssembler.label>
+  <MechAssembler.description>Zautomatyzowana fabryka mechanoidów. Okresowo montuje i wdraża nowe mechanoidy.</MechAssembler.description>
+
+  <MechDropBeacon.label>Mech drop beacon</MechDropBeacon.label>
+  <MechDropBeacon.description>Sygnalizator zrzutu zbrojenia mechanicznego. Po aktywacji wzywa grupę mechów, aby wylądowały w pobliżu zrzutów.</MechDropBeacon.description>
+
+
+</LanguageData>

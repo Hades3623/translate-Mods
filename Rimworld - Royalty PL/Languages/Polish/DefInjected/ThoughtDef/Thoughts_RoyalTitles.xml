@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts related to royal titles -->
+
+  <GainedTitle.stages.0.label>Otrzymano tytuł {TITLE}</GainedTitle.stages.0.label>
+  <GainedTitle.stages.0.description>Nadano mi tytuł {TITLE}. Uwielbiam uznanie!</GainedTitle.stages.0.description>
+
+  <LostTitle.stages.0.label>Utracony tytuł {TITLE}</LostTitle.stages.0.label>
+  <LostTitle.stages.0.description>Straciłem tytuł {TITLE}.</LostTitle.stages.0.description>
+
+  <TitleApparelRequirementNotMet.stages.0.label>chce odzież z konkretną etykietą {TITLE_label}</TitleApparelRequirementNotMet.stages.0.label>
+  <TitleApparelRequirementNotMet.stages.0.description>{TITLE_indefinite} jak ja powinien być ubrany w strój odpowiedni do mojej postury:\n\n{0}</TitleApparelRequirementNotMet.stages.0.description>
+
+  <TitleApparelMinQualityNotMet.stages.0.label>chce ubrania o jakości {TITLE_label}</TitleApparelMinQualityNotMet.stages.0.label>
+  <TitleApparelMinQualityNotMet.stages.0.description>{TITLE_indefinite}, tak jak ja, powinien nosić tylko ubrania o jakości {QUALITY} lub lepszej.</TitleApparelMinQualityNotMet.stages.0.description>
+
+  <TitleThroneroomRequirementsNotMet.stages.0.label>niegodna sala tronowa</TitleThroneroomRequirementsNotMet.stages.0.label>
+  <TitleThroneroomRequirementsNotMet.stages.0.description>Nazywam się {TITLE_indefinite} i powinienem mieć te przedmioty w mojej sali tronowej:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.0.description>
+
+  <TitleBedroomRequirementsNotMet.stages.0.label>skromna sypialnia</TitleBedroomRequirementsNotMet.stages.0.label>
+  <TitleBedroomRequirementsNotMet.stages.0.description>{TITLE_indefinite} podobnie jak ja zasługuje na sypialnię spełniającą te wymagania:\n\n{0}</TitleBedroomRequirementsNotMet.stages.0.description>
+
+  <TitleNoThroneRoom.stages.0.label>nie ma sali tronowej</TitleNoThroneRoom.stages.0.label>
+  <TitleNoThroneRoom.stages.0.description>Czym jest król bez sali tronowej?</TitleNoThroneRoom.stages.0.description>
+
+  <TitleNoPersonalBedroom.stages.0.label>brak osobistej sypialni</TitleNoPersonalBedroom.stages.0.label>
+  <TitleNoPersonalBedroom.stages.0.description>{TITLE_indefinite} powinien mieć osobistą sypialnię.</TitleNoPersonalBedroom.stages.0.description>
+
+
+</LanguageData>

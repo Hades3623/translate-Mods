@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MISSING ARM BONE -->
+
+  <SZ_Missing_ArmBone.stages.0.label>brak kości ręki</SZ_Missing_ArmBone.stages.0.label>
+  <SZ_Missing_ArmBone.stages.0.description>To tak, jakbym wrócił do Hogwartu!</SZ_Missing_ArmBone.stages.0.description>
+
+
+  <!-- MISSING LEG BONE -->
+
+  <SZ_Missing_LegBone.stages.0.label>brak kości nogi</SZ_Missing_LegBone.stages.0.label>
+  <SZ_Missing_LegBone.stages.0.description>Co mi się stało? Ból jest nie do zniesienia!</SZ_Missing_LegBone.stages.0.description>
+
+
+  <!-- MISSING VERTEBRAE -->
+
+  <SZ_Missing_Vertebrae.stages.0.label>brakujące kręgi</SZ_Missing_Vertebrae.stages.0.label>
+  <SZ_Missing_Vertebrae.stages.0.description>Mój kręgosłup! Co do cholery!?</SZ_Missing_Vertebrae.stages.0.description>
+
+
+  <!-- MISSING RIB -->
+
+  <SZ_Missing_Rib.stages.0.label>brakujące żebro</SZ_Missing_Rib.stages.0.label>
+  <SZ_Missing_Rib.stages.0.description>Randy, dlaczego ja?! Żebra są najważniejsze!</SZ_Missing_Rib.stages.0.description>
+
+
+</LanguageData>

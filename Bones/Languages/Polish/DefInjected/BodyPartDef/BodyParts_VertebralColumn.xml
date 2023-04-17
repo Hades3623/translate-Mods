@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPINE PART -->
+
+  <SZ_Spine.label>kręgosłup</SZ_Spine.label>
+
+
+  <!-- CERVICAL SPINE BONES -->
+
+  <SZ_C1.label>c1 (Atlas)</SZ_C1.label>
+  <SZ_C2.label>c2 (Axis)</SZ_C2.label>
+  <SZ_C3.label>c3</SZ_C3.label>
+  <SZ_C4.label>c4</SZ_C4.label>
+  <SZ_C5.label>c5</SZ_C5.label>
+  <SZ_C6.label>c6</SZ_C6.label>
+  <SZ_C7.label>c7</SZ_C7.label>
+
+
+  <!-- THORACIC SPINE BONES -->
+
+  <SZ_T1.label>t1</SZ_T1.label>
+  <SZ_T2.label>t2</SZ_T2.label>
+  <SZ_T3.label>t3</SZ_T3.label>
+  <SZ_T4.label>t4</SZ_T4.label>
+  <SZ_T5.label>t5</SZ_T5.label>
+  <SZ_T6.label>t6</SZ_T6.label>
+  <SZ_T7.label>t7</SZ_T7.label>
+  <SZ_T8.label>t8</SZ_T8.label>
+  <SZ_T9.label>t9</SZ_T9.label>
+  <SZ_T10.label>t10</SZ_T10.label>
+  <SZ_T11.label>t11</SZ_T11.label>
+  <SZ_T12.label>t12</SZ_T12.label>
+
+
+  <!-- LUMBAR SPINE BONES -->
+
+  <SZ_L1.label>l1</SZ_L1.label>
+  <SZ_L2.label>l2</SZ_L2.label>
+  <SZ_L3.label>l3</SZ_L3.label>
+  <SZ_L4.label>l4</SZ_L4.label>
+  <SZ_L5.label>l5</SZ_L5.label>
+
+
+  <!-- SACRUM BONES -->
+
+  <SZ_Sacrum.label>kość krzyżowa</SZ_Sacrum.label>
+
+
+  <!-- COCCYX BONES -->
+
+  <SZ_Coccyx.label>kość ogonowa (kość ogonowa)</SZ_Coccyx.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_MercenarySquad.label>Oddział najemników</VFEI_MercenarySquad.label>
+  <VFEI_MercenarySquad.description>Wasza czwórka zbliża się do opuszczonej placówki, która teraz roi się od wszelkiego rodzaju przerażeń. Możesz spróbować wytępić ule i odbudować je lub opuścić i osiedlić się gdzie indziej.</VFEI_MercenarySquad.description>
+  <VFEI_MercenarySquad.scenario.name>Najemnicy</VFEI_MercenarySquad.scenario.name>
+  <VFEI_MercenarySquad.scenario.summary>Grupa najemników otoczona chmarami insektoidów. Bardzo trudne.</VFEI_MercenarySquad.scenario.summary>
+  <VFEI_MercenarySquad.scenario.description>Prosta misja na powierzchnię dawno zapomnianej planety skierowała się na południe. Twoja baza została opanowana przez istoty, których wcześniej nie widziałeś - gigantyczne insektoidy, wyłaniające się w nieskończonej liczbie ze swoich uli. Zmuszony do ucieczki, zbliżasz się do małej placówki pełzającej z insektoidami, które wysłały cię na ucieczkę w pierwszej kolejności. \ NMożesz je wytępić i osiedlić tutaj, lub odejść i znaleźć nowe miejsce do rozpoczęcia od nowa. \n Uwaga: od kiedy zaczynasz bez zasobów i bazy opanowanej przez insektoidy, jest to szczególnie trudny scenariusz we wczesnej fazie gry.</VFEI_MercenarySquad.scenario.description>
+  <VFEI_MercenarySquad.scenario.parts.9.text>Zwykła misja na powierzchni dawno zapomnianej planety poszła na południe. Twoja baza została opanowana przez istoty, których wcześniej nie widziałeś - gigantyczne insektoidy, wyłaniające się w nieskończonej ilości ze swoich uli. Zmuszony do ucieczki, zbliżasz się do małej placówki pełnej insektoidów, które wysłały cię w podróż.
+					
+Możesz je wytępić i osiedlić się tutaj, albo odejść i znaleźć nowe miejsce, by zacząć od nowa.</VFEI_MercenarySquad.scenario.parts.9.text>
+
+
+</LanguageData>

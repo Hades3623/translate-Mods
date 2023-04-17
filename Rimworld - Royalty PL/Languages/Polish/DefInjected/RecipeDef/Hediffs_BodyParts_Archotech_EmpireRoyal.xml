@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic sensitizer -->
+
+  <PsychicSensitizer.label>sensybilizator psychiczny</PsychicSensitizer.label>
+  <PsychicSensitizer.description>Zainstalowany implant uwrażliwiający psychicznie.</PsychicSensitizer.description>
+  <PsychicSensitizer.labelNoun>psychiczny uczulacz</PsychicSensitizer.labelNoun>
+
+
+  <!-- Psychic harmonizer -->
+
+  <PsychicHarmonizer.label>psychiczny harmonizator</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>Zainstalowany implant psychicznego harmonizatora.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.labelNoun>psychiczny harmonizator</PsychicHarmonizer.labelNoun>
+
+
+  <!-- Psychic reader -->
+
+  <PsychicReader.label>psychiczny czytelnik</PsychicReader.label>
+  <PsychicReader.description>Zainstalowany implant czytnika psychicznego.</PsychicReader.description>
+  <PsychicReader.labelNoun>psychiczny czytelnik</PsychicReader.labelNoun>
+
+
+</LanguageData>

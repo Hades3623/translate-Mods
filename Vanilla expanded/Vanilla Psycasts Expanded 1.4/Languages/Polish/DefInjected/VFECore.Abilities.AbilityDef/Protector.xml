@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Painblock.label>środek przeciwbólowy</VPE_Painblock.label>
+  <VPE_Painblock.description>Poważnie ogranicz ścieżki bólu w mózgu celu na kilka minut. Może to pozwolić osobie na poruszanie się i działanie nawet z poważnymi obrażeniami, które normalnie by ją obezwładniły.</VPE_Painblock.description>
+
+  <VPE_WordofHealing.label>słowo uzdrowienia</VPE_WordofHealing.label>
+  <VPE_WordofHealing.description>Psychicznie stymuluje zdolności regeneracyjne, skutecznie potrajając jej naturalny czynnik leczniczy na kilka dni.</VPE_WordofHealing.description>
+
+  <VPE_Stabilize.label>stabilizacja</VPE_Stabilize.label>
+  <VPE_Stabilize.description>Tymczasowo umieszcza układ krążenia celu w zastoju, co zapobiega jego wykrwawieniu się przez dwie minuty.</VPE_Stabilize.description>
+
+  <VPE_WordofImmunity.label>słowo odporności</VPE_WordofImmunity.label>
+  <VPE_WordofImmunity.description>Psychicznie stymuluje układ odpornościowy danej osoby do nadbiegu, skutecznie potrajając prędkość nabierania odporności na kilka dni.</VPE_WordofImmunity.description>
+
+  <VPE_Overshield.label>tarcza</VPE_Overshield.label>
+  <VPE_Overshield.description>Generuje sferyczną bramkę na cel, która wysyła wszystkie nadlatujące pociski z poziomu gruntu w jakieś odległe miejsce, a czas trwania jest skalowany wraz z wrażliwością psychiczną celu. Nie dotyczy to osób i przedmiotów.</VPE_Overshield.description>
+
+  <VPE_Focus.label>skupienie</VPE_Focus.label>
+  <VPE_Focus.description>Psychicznie skup umysł celu na minutę, poprawiając jego wzrok, słuch i możliwości poruszania się.</VPE_Focus.description>
+
+  <VPE_Skipshield.label>przeskok</VPE_Skipshield.label>
+  <VPE_Skipshield.description>Wygeneruj sferyczną bramkę, która wysyła wszystkie przychodzące i wychodzące pociski z poziomu gruntu w odległe miejsce. Nie dotyczy to osób i przedmiotów.</VPE_Skipshield.description>
+
+  <VPE_Invisibility.label>niewidzialność</VPE_Invisibility.label>
+  <VPE_Invisibility.description>Psychicznie manipuluj wizualnymi centrami wszystkich osób w pobliżu, uniemożliwiając im postrzeganie konkretnej osoby przez krótki czas.</VPE_Invisibility.description>
+
+  <VPE_RegrowLimbs.label>Przywócenie kończyn</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.description>Wywołuje złożoną formę psychicznego odmłodzenia, która atakuje kończyny podmiotu, a mianowicie te, których brakuje. Efekt jest stopniowy przez cały dzień i często opisywany jako „dziko nieprzyjemny”, ponieważ nadmiernie stymuluje ich zespół kończyny fantomowej.</VPE_RegrowLimbs.description>
+
+  <VPE_GuardianSkipbarrier.label>strażnik skipbarrier</VPE_GuardianSkipbarrier.label>
+  <VPE_GuardianSkipbarrier.description>Wygeneruj sferyczną bramkę wokół rzucającego, która wysyła wszystkie nadlatujące pociski z poziomu gruntu w jakieś odległe miejsce, trwające tak długo, jak długo mogą zarządzać akumulacją ciepła. Nie dotyczy to osób i przedmiotów. Utrzymanie wymaga ogromnej koncentracji, ponieważ rzucający musi być świadomy swoich kroków.</VPE_GuardianSkipbarrier.description>
+
+
+</LanguageData>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drone genome recipe -->
+
+  <VFEI_InstallDroneGenome.label>zainstaluj genom drona</VFEI_InstallDroneGenome.label>
+  <VFEI_InstallDroneGenome.description>Zainstaluj genom drona.</VFEI_InstallDroneGenome.description>
+  <VFEI_InstallDroneGenome.jobString>Instalowanie genomu drona.</VFEI_InstallDroneGenome.jobString>
+
+
+  <!-- Insectoid leg -->
+
+  <VFEI_InstallInsectoidLeg.label>zainstaluj nogę insektoidu</VFEI_InstallInsectoidLeg.label>
+  <VFEI_InstallInsectoidLeg.description>Zainstaluj nogę insektoidu.</VFEI_InstallInsectoidLeg.description>
+  <VFEI_InstallInsectoidLeg.jobString>Instalowanie nogi insektoidu.</VFEI_InstallInsectoidLeg.jobString>
+
+
+  <!-- Insectoid arm -->
+
+  <VFEI_InstallInsectoidArm.label>zainstaluj ramię insektoida</VFEI_InstallInsectoidArm.label>
+  <VFEI_InstallInsectoidArm.description>Zainstaluj ramię insektoidu.</VFEI_InstallInsectoidArm.description>
+  <VFEI_InstallInsectoidArm.jobString>Instalowanie ramienia insektoidu.</VFEI_InstallInsectoidArm.jobString>
+
+
+  <!-- Compound eye -->
+
+  <VFEI_InstallCompoundEye.label>zainstaluj złożone oko</VFEI_InstallCompoundEye.label>
+  <VFEI_InstallCompoundEye.description>Zainstaluj złożone oko.</VFEI_InstallCompoundEye.description>
+  <VFEI_InstallCompoundEye.jobString>Instalowanie złożonego oka.</VFEI_InstallCompoundEye.jobString>
+
+
+  <!-- Mandibles -->
+
+  <VFEI_InstallMandibles.label>zainstaluj żuchwy</VFEI_InstallMandibles.label>
+  <VFEI_InstallMandibles.description>Zainstaluj żuchwy.</VFEI_InstallMandibles.description>
+  <VFEI_InstallMandibles.jobString>Instalowanie żuchwy.</VFEI_InstallMandibles.jobString>
+
+
+  <!-- Jelly Sac -->
+
+  <VFEI_InstallJellySac.label>zainstaluj woreczek żelowy</VFEI_InstallJellySac.label>
+  <VFEI_InstallJellySac.description>Zainstaluj woreczek żelowy.</VFEI_InstallJellySac.description>
+  <VFEI_InstallJellySac.jobString>Instalowanie woreczka żelowego.</VFEI_InstallJellySac.jobString>
+
+
+  <!-- Warrior genome recipe -->
+
+  <VFEI_InstallWarriorGenome.label>zainstaluj genom wojownika</VFEI_InstallWarriorGenome.label>
+  <VFEI_InstallWarriorGenome.description>Zainstaluj genom wojownika.</VFEI_InstallWarriorGenome.description>
+  <VFEI_InstallWarriorGenome.jobString>Instalowanie genomu wojownika.</VFEI_InstallWarriorGenome.jobString>
+
+
+  <!-- Venom gland -->
+
+  <VFEI_InstallVenomGland.label>zainstaluj gruczoł jadowy</VFEI_InstallVenomGland.label>
+  <VFEI_InstallVenomGland.description>Zainstaluj gruczoł jadowy.</VFEI_InstallVenomGland.description>
+  <VFEI_InstallVenomGland.jobString>Instalowanie gruczoł jadowego.</VFEI_InstallVenomGland.jobString>
+
+
+  <!-- Pneumatic claw -->
+
+  <VFEI_InstallPneumaticClaw.label>zainstaluj pneumatyczny pazur</VFEI_InstallPneumaticClaw.label>
+  <VFEI_InstallPneumaticClaw.description>Zainstaluj pneumatyczny pazur .</VFEI_InstallPneumaticClaw.description>
+  <VFEI_InstallPneumaticClaw.jobString>Instalowanie pneumatycznego pazura.</VFEI_InstallPneumaticClaw.jobString>
+
+
+  <!-- Adrenal secretor -->
+
+  <VFEI_InstallAdrenalSecretor.label>install adrenal secretor</VFEI_InstallAdrenalSecretor.label>
+  <VFEI_InstallAdrenalSecretor.description>Install adrenal secretor.</VFEI_InstallAdrenalSecretor.description>
+  <VFEI_InstallAdrenalSecretor.jobString>Installing adrenal secretor.</VFEI_InstallAdrenalSecretor.jobString>
+
+
+  <!-- Antenna -->
+
+  <VFEI_InstallAntenna.label>zainstaluj antenę</VFEI_InstallAntenna.label>
+  <VFEI_InstallAntenna.description>Zainstaluj antenę.</VFEI_InstallAntenna.description>
+  <VFEI_InstallAntenna.jobString>Instalowanie anteny.</VFEI_InstallAntenna.jobString>
+
+
+  <!-- Predator stomach -->
+
+  <VFEI_InstallPredatorStomach.label>zainstaluj żołądek drapieżnika</VFEI_InstallPredatorStomach.label>
+  <VFEI_InstallPredatorStomach.description>Zainstaluj żołądek drapieżnika.</VFEI_InstallPredatorStomach.description>
+  <VFEI_InstallPredatorStomach.jobString>Instalacja żołądka drapieżnika.</VFEI_InstallPredatorStomach.jobString>
+
+
+  <!-- Warrior genome recipe -->
+
+  <VFEI_InstallRoyalGenome.label>zainstaluj królewski genom</VFEI_InstallRoyalGenome.label>
+  <VFEI_InstallRoyalGenome.description>Zainstaluj królewski genom.</VFEI_InstallRoyalGenome.description>
+  <VFEI_InstallRoyalGenome.jobString>Instalowanie królewskiego genomu.</VFEI_InstallRoyalGenome.jobString>
+
+
+  <!-- Pheronome secretor -->
+
+  <VFEI_InstallPheromoneSecretor.label>zainstaluj sekretarz feromonów</VFEI_InstallPheromoneSecretor.label>
+  <VFEI_InstallPheromoneSecretor.description>Zainstaluj sekretarz feromonów.</VFEI_InstallPheromoneSecretor.description>
+  <VFEI_InstallPheromoneSecretor.jobString>Instalowanie sekretarza feromonów.</VFEI_InstallPheromoneSecretor.jobString>
+
+
+  <!-- Ventricular sleeve -->
+
+  <VFEI_InstallVentricularSleeve.label>zainstaluj rękaw komorowy</VFEI_InstallVentricularSleeve.label>
+  <VFEI_InstallVentricularSleeve.description>Zainstalować rękaw komorowy.</VFEI_InstallVentricularSleeve.description>
+  <VFEI_InstallVentricularSleeve.jobString>Instalowanie rękawa komorowego.</VFEI_InstallVentricularSleeve.jobString>
+
+
+  <!-- Synaptic cerebellum -->
+
+  <VFEI_InstallSynapticCerebellum.label>zainstaluj móżdżek synaptyczny</VFEI_InstallSynapticCerebellum.label>
+  <VFEI_InstallSynapticCerebellum.description>Zainstaluj móżdżek synaptyczny.</VFEI_InstallSynapticCerebellum.description>
+  <VFEI_InstallSynapticCerebellum.jobString>Instalacja móżdżgu synaptycznego.</VFEI_InstallSynapticCerebellum.jobString>
+
+
+</LanguageData>

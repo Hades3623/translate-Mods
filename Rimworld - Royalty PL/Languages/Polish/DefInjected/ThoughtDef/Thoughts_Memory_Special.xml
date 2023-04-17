@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DecreeMet.stages.0.label>dekret zadowolony</DecreeMet.stages.0.label>
+  <DecreeMet.stages.0.description>Mój szlachetny autorytet był szanowany tak, jak powinien.</DecreeMet.stages.0.description>
+
+  <DecreeFailed.stages.0.label>dekret nie powiódł się</DecreeFailed.stages.0.label>
+  <DecreeFailed.stages.0.description>Mój szlachetny autorytet nie był szanowany tak, jak powinien.</DecreeFailed.stages.0.description>
+
+  <Disinherited.stages.0.label>wydziedziczony</Disinherited.stages.0.label>
+  <Disinherited.stages.0.description>Zostałem wydziedziczony z mojego tytułu.</Disinherited.stages.0.description>
+
+  <NeuroquakeEcho.stages.0.label>echo trzęsienia nerwowego</NeuroquakeEcho.stages.0.label>
+  <NeuroquakeEcho.stages.0.description>Odległe, nieznane echa grozy i żalu. To sprawia, że ​​czuję się nerwowy i roztrzęsiony.</NeuroquakeEcho.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SodaSyrup.label>syrop sodowy</VBE_SodaSyrup.label>
+  <VBE_SodaSyrup.description>Gęsta i obrzydliwie słodka mieszanka sporządzona przez gotowanie razem kwasu cytrynowego i naturalnych cukrów - zwykle otrzymywana bezpośrednio z cukru trzcinowego lub jako syrop kukurydziany. Przed spożyciem należy przeciąć wodą i krótko poddać węglanowaniu w zamkniętym środowisku.</VBE_SodaSyrup.description>
+
+  <VBE_AmbrandyMush.label>papka z ambrozji</VBE_AmbrandyMush.label>
+  <VBE_AmbrandyMush.description>Pokrojona i sprasowana ambrozja może być pozostawiona sama do dojrzewania do moszczu, a następnie destylowana do niezwykle delikatnego trunku.</VBE_AmbrandyMush.description>
+
+  <VBE_AmbrandyMust.label>Ambrandy musi</VBE_AmbrandyMust.label>
+  <VBE_AmbrandyMust.description>W pełni dojrzała ambrozja upłynniła się w zasadniczo gęsty sok i pozostawiona sama, aby wyhodować bakterie do fermentacji. Gotowy do destylacji do postaci pitnej.</VBE_AmbrandyMust.description>
+
+  <VBE_WhiskeyMash.label>zacieru whisky</VBE_WhiskeyMash.label>
+  <VBE_WhiskeyMash.description>Skrobia i przeważnie płynna mieszanka z rozrzuconymi na całej powierzchni papkowatymi kawałkami. Gotowy do starzenia.</VBE_WhiskeyMash.description>
+
+  <VBE_TequilaMust.label>tequila musi</VBE_TequilaMust.label>
+  <VBE_TequilaMust.description>Cienka mieszanka wyciśniętego soku z agawy lub kolczastej gruszki z kaktusa i przystawki z mięsa owadów, gotowa do krojenia i fermentacji w beczce.</VBE_TequilaMust.description>
+
+  <VBE_VodkaMash.label>zacieru wódki</VBE_VodkaMash.label>
+  <VBE_VodkaMash.description>Gęsta, skrobiowa papka z surowych ziemniaków i przystawka, gotowa do fermentacji.</VBE_VodkaMash.description>
+
+  <VBE_GinMush.label>Mus gin</VBE_GinMush.label>
+  <VBE_GinMush.description>Klarowna, ale mętna mieszanka wyciśniętych jagód i różnych zbóż, gotowa do fermentacji.</VBE_GinMush.description>
+
+
+</LanguageData>

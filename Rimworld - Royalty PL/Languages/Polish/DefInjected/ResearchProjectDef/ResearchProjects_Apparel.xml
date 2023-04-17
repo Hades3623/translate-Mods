@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NobleApparel.label>szlachetny strój</NobleApparel.label>
+  <NobleApparel.description>Szyj na miarę stroje szlacheckie, takie jak formalne koszule i królewskie szaty.</NobleApparel.description>
+
+  <RoyalApparel.label>królewski strój</RoyalApparel.label>
+  <RoyalApparel.description>Szyj królewskie stroje najwyższego poziomu, takie jak królewskie szaty i korony.</RoyalApparel.description>
+
+  <CataphractArmor.label>zbroja katafrakta</CataphractArmor.label>
+  <CataphractArmor.description>Twórz zbroję katafrakta, ciężką zbroję wspomaganą, która spowalnia użytkownika, ale może przyjąć ekstremalną karę. Pamiętaj, że wymagają one również zaawansowanych komponentów.</CataphractArmor.description>
+
+  <JumpPack.label>pakiety skokowe</JumpPack.label>
+  <JumpPack.description>Twórz pakiety skokowe, aby przeprowadzać ataki z powietrza podczas walki.</JumpPack.description>
+
+  <Gunlink.label>linka gun</Gunlink.label>
+  <Gunlink.description>Zbuduj nadające się do noszenia linki do broni, aby zwiększyć celność strzelania żołnierzy.</Gunlink.description>
+
+
+</LanguageData>

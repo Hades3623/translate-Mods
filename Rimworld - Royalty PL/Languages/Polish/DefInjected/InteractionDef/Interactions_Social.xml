@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WordOfTrust.label>słowo zaufania</WordOfTrust.label>
+  <WordOfTrust.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] zasugerował psychicznie, aby  [RECIPIENT_nameDef] opuścił [RECIPIENT_possessive] garde.</WordOfTrust.logRulesInitiator.rulesStrings.0>
+
+  <WordOfJoy.label>słowo radości</WordOfJoy.label>
+  <WordOfJoy.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] psychicznie zahipnotyzował [RECIPIENT_nameDef] w ciepły, przyjemny stan umysłu.WordOfJoy.logRulesInitiator.rulesStrings.0>
+
+  <WordOfLove.label>słowo miłości</WordOfLove.label>
+  <WordOfLove.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] psychicznie zasugerował, że [RECIPIENT_nameDef] powinien poczuć nowe romantyczne pragnienie.</WordOfLove.logRulesInitiator.rulesStrings.0>
+
+  <WordOfSerenity.label>słowo spokoju</WordOfSerenity.label>
+  <WordOfSerenity.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] zasugerował psychicznie, aby [RECIPIENT_nameDef] się uspokoił, kończąc tym samym [RECIPIENT_possessive] przerwę psychiczną.</WordOfSerenity.logRulesInitiator.rulesStrings.0>
+
+  <WordOfInspiration.label>słowo inspiracji</WordOfInspiration.label>
+  <WordOfInspiration.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] użył słów i psychicznej sugestii, aby zainspirować [RECIPIENT_nameDef].</WordOfInspiration.logRulesInitiator.rulesStrings.0>
+
+
+</LanguageData>

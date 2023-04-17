@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Build monument within time limit. Get reward on completion. Then, protect it for X time; if it's damaged, you get punishment Y. -->
+
+  <BuildMonument_TimeProtect.questDescriptionRules.rulesStrings.0>commonEnding-&gt;The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):
+\n[monumentRequiredResources]
+\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task.
+\nAfter completion, you'll have to protect the monument for [haveToProtectForTicks_duration]. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription]
+\nYou'll receive the rewards when you finish construction.</BuildMonument_TimeProtect.questDescriptionRules.rulesStrings.0>
+  <BuildMonument_TimeProtect.root.nodes.1.name>rewardOnCompletion</BuildMonument_TimeProtect.root.nodes.1.name>
+  <BuildMonument_TimeProtect.root.nodes.2.name>punishmentOnDestroy</BuildMonument_TimeProtect.root.nodes.2.name>
+  <BuildMonument_TimeProtect.root.nodes.4.node.label>Monument completed</BuildMonument_TimeProtect.root.nodes.4.node.label>
+  <BuildMonument_TimeProtect.root.nodes.4.node.text>You completed construction of the monument.\n\nYou must now protect the monument for [haveToProtectForTicks_duration]. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription]</BuildMonument_TimeProtect.root.nodes.4.node.text>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate meat -->
+  <AteMeat.label>zjadł mięso</AteMeat.label>
+  
+  <!-- EN: ate non-meat -->
+  <AteNonMeat.label>zjadł niemięso</AteNonMeat.label>
+  
+</LanguageData>

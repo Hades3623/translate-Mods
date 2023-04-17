@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal Insect Jelly -->
+
+  <VFEI_RoyalInsectJelly.label>królewska galaretka z owadów</VFEI_RoyalInsectJelly.label>
+  <VFEI_RoyalInsectJelly.description>Złota, lśniąca galaretka używana przez królowe do tworzenia nowego spawnu. Jest gładki, bogaty i przynosi radość tym, którzy go spożywają. Dzięki unikalnemu składowi biologicznemu wzmacnia odporność i odżywia każdego, kto ma jej smak.</VFEI_RoyalInsectJelly.description>
+
+
+  <!-- Insect Milk -->
+
+  <VFEI_InsectMilk.label>mleko owadów</VFEI_InsectMilk.label>
+  <VFEI_InsectMilk.description>Mleko od insektoidu.</VFEI_InsectMilk.description>
+
+
+  <!-- Insect Eggs -->
+
+  <VFEI_EggInsectoidUnfertilized.label>jajo insektoidalne (niezapłodnione)</VFEI_EggInsectoidUnfertilized.label>
+  <VFEI_EggInsectoidUnfertilized.description>Niezapłodnione owadoidalne jajo. Można go jeść na surowo, ale jest dużo, dużo lepiej ugotowany.</VFEI_EggInsectoidUnfertilized.description>
+
+
+</LanguageData>

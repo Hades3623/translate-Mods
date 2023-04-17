@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>[Sub_Mod] Biotech [Sub_Mod]</name>
+    <author>Hades3623</author>
+    <packageId>Biotech.Hades3623.PL</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+
+	<description>
+Jest to tłumaczenie DLC "Biotech" na język Polski ukończone na 95% (Jutro aktualizacja do 100%)
+
+Należy pamiętać że tłumaczenie nie jest profesionalne (Tworzymy je hobbystycznie) i jest podobnej jakości jak moje poprzednie tłumaczenia.
+
+Jeżeli tłumaczenie po subskrypcji nie działa zapraszam do ręczniej instalacji (Opis poniżej)
+
+1. Pobieramy plik z linka: https://drive.google.com/drive/folders/1uZDumJYu2IvmSDu_UUguG0xgPVc8NrHH?usp=sharing
+
+2. Wchodzimy w \steam\steamapps\common\RimWorld\Data\Biotech\Languages
+
+3. Cieszymy się grą po Polsku :)
+
+
+Dołącz do polskiej społeczności RimWorld już teraz! Kliknij w link i dołącz rozwijającego się kanału Discord:https://discord.gg/WZksa8G
+	</description>
+
+</ModMetaData>

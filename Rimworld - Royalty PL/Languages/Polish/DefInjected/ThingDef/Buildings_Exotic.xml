@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shuttle.label>Shuttle</Shuttle.label>
+  <Shuttle.description>Wahadłowiec typu space-tech przeznaczony do przemieszczania się między powierzchnią a orbitą lub między księżycami układu planetarnego.</Shuttle.description>
+
+  <ShuttleCrashed.label>rozbił się prom</ShuttleCrashed.label>
+  <ShuttleCrashed.description>Wahadłowiec typu space-tech przeznaczony do przemieszczania się między powierzchnią a orbitą lub między księżycami układu planetarnego.</ShuttleCrashed.description>
+
+  <BroadshieldProjector.label>wypalenie nisko-tarczowe</BroadshieldProjector.label>
+  <BroadshieldProjector.description>Przenośny, niskokątowy projektor ekranowy. Kule mogą zgasnąć, ale nie do środka. Kompaktowe źródło zasilania przepala się po kilku sekundach użytkowania.</BroadshieldProjector.description>
+
+
+</LanguageData>

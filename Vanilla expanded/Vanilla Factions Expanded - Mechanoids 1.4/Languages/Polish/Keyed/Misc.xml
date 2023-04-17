@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef} chce dołączyć.</VFEMech.LetterJoinOfferTitle>
+  <VFEMech.LetterJoinOfferLabel>Dołącz do oferty: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+  <VFEMech.LetterJoinOfferText>Na znak zaufania i uznania {PAWN_nameDef} wierzy, że {PAWN_pronoun} może być cenną pomocą w Twojej kolonii. {PAWN_pronoun} chce dołączyć do Ciebie na stałe.</VFEMech.LetterJoinOfferText>
+
+  <VFEMech.RaidWarningTitle>Nieuchronny nalot: {FACTION_name}</VFEMech.RaidWarningTitle>
+  <VFEMech.RaidWarningText>{FACTION_name} zaatakuje Cię w ciągu najbliższych 12 godzin. {1}</VFEMech.RaidWarningText>
+
+  <VFEMech.DisableTotalWarMechanic>Wyłącz mechanikę Total War</VFEMech.DisableTotalWarMechanic>
+  <VFEMech.AdjustIncidentTimeInterval>Dostosuj interwał wyładunków statków:</VFEMech.AdjustIncidentTimeInterval>
+  <VFEMech.AdjustIncidentChanceLabel>Dostosuj podstawową szansę na incydenty lądowania statków:</VFEMech.AdjustIncidentChanceLabel>
+  <VFEMech.AdjustMechPresenceLabel>Dostosuj obecność mechanoidów generowaną przez statki:</VFEMech.AdjustMechPresenceLabel>
+  <VFEMech.AdjustMinimunColonistCountLabel>Dostosuj minimalną liczbę kolonistów wymaganą w przypadku incydentów związanych z lądowaniem statków:</VFEMech.AdjustMinimunColonistCountLabel>
+  <VFEMech.AdjustMinimunWealthCountLabel>Adjust minimum wealth count required for ship landing incidents:</VFEMech.AdjustMinimunWealthCountLabel>
+  <VFEMech.AdjustMaximumDistanceForShipsLabel>Dostosuj maksymalną odległość do miejsc lądowania statków:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+  <VFEM_factorySpeedMultiplier>Mnożnik prędkości fabrycznej</VFEM_factorySpeedMultiplier>
+  <VFEM_factorySpeedMultiplierTooltip>Mnożnik prędkości fabrycznej. Wartość domyślna to 1. Niższe liczby przyspieszają prędkość modułów fabrycznych, a wyższe spowalniają ich pracę.</VFEM_factorySpeedMultiplierTooltip>
+  <VFEM_SuperComputerResearchPointYield>Wartość wydajności punktów badawczych superkomputera. Wartość domyślna to 1.</VFEM_SuperComputerResearchPointYield>
+
+  <VFEMech.FactionDestroyedShip>{FACTION_name} zniszczona {1}</VFEMech.FactionDestroyedShip>
+  <VFEMech.FactionDestroyedShipDesc>Dzięki sprytnym strategiom, dużej liczbie ofiar i niesamowitej wytrwałości {FACTION_name} zdołał zniszczyć {1}.</VFEMech.FactionDestroyedShipDesc>
+
+  <VFEMech.IdeologyConversionTarget>Cel konwersji ideologicznej: {0}</VFEMech.IdeologyConversionTarget>
+  <VFEMech.SetIdeologyConversionTarget>Ustalenie ideologicznego celu konwersji.</VFEMech.SetIdeologyConversionTarget>
+  <VFEMech.SetIdeologyConversionTargetDesc>Wybierz ideologię, na którą należy nawrócić wybranego kolonistę.</VFEMech.SetIdeologyConversionTargetDesc>
+  <VFEMech.CurrentCertainty>Pewność {PAWN_nameDef} w {1} to {2}%</VFEMech.CurrentCertainty>
+  <VFEMech.EnterIndoctrinationPod>Wejdź do kapsuły indoktrynacyjnej</VFEMech.EnterIndoctrinationPod>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DecreeUnmet.stages.0.label>zignorowano dekret</DecreeUnmet.stages.0.label>
+  <DecreeUnmet.stages.0.description>Mój dekret był ignorowany zbyt długo {0}.</DecreeUnmet.stages.0.description>
+
+  <PsychicEntropyOverloaded.stages.0.label>drobne załamanie psychiczne</PsychicEntropyOverloaded.stages.0.label>
+  <PsychicEntropyOverloaded.stages.0.description>W moich oczach jest elektryczny ból. Trudno się skoncentrować; trudno myśleć.</PsychicEntropyOverloaded.stages.0.description>
+  <PsychicEntropyOverloaded.stages.1.label>poważne załamanie psychiczne</PsychicEntropyOverloaded.stages.1.label>
+  <PsychicEntropyOverloaded.stages.1.description>Mój umysł był smażony. Zawroty głowy, rozmyte, nie mogą myśleć, zawsze obolały.</PsychicEntropyOverloaded.stages.1.description>
+  <PsychicEntropyOverloaded.stages.2.label>całkowite załamanie psychiczne</PsychicEntropyOverloaded.stages.2.label>
+  <PsychicEntropyOverloaded.stages.2.description>Kręcę się, boli, kręci mi się w głowie, myślę, nie mogę myśleć, nie mogę myśleć...</PsychicEntropyOverloaded.stages.2.description>
+
+  <AnimaScream.stages.0.label>krzyk anima!</AnimaScream.stages.0.label>
+  <AnimaScream.stages.0.description>Taki ból w mojej głowie, kiedy drzewo umarło. I wciąż odbija się echem...</AnimaScream.stages.0.description>
+
+  <Joyfuzz.stages.0.label>Joyfuzz</Joyfuzz.stages.0.label>
+  <Joyfuzz.stages.0.description>Bez względu na to, co się stanie, z jakiegoś powodu czuję się z tym w porządku.</Joyfuzz.stages.0.description>
+
+  <PsychicLove.stages.0.label>psychiczna miłość</PsychicLove.stages.0.label>
+
+
+</LanguageData>

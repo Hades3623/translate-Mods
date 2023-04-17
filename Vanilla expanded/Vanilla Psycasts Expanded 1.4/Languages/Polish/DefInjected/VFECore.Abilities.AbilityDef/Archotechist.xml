@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Burden.label>ciężar</VPE_Burden.label>
+  <VPE_Burden.description>Spowolnij cel na krótki czas, tłumiąc aktywność motoryczną w mózgu. Uważane za wrogie działanie i pod wpływem psychicznej wrażliwości celu.</VPE_Burden.description>
+
+  <VPE_Stun.label>oszołomienie</VPE_Stun.label>
+  <VPE_Stun.description>Chwilowo zakłóca funkcje motoryczne w mózgu celu, uniemożliwiając jakikolwiek ruch. Trwa to kilka sekund i jest uważane za wrogie działanie.</VPE_Stun.description>
+
+  <VPE_PsychicShock.label>szok psychiczny</VPE_PsychicShock.label>
+  <VPE_PsychicShock.description>Psychicznie szokuje umysł celu chaotycznymi obrazami, blokując spójną percepcję i wprowadzając go w stan szoku psychicznego. Istnieje ryzyko uszkodzenia mózgu i jest jawnie wrogi.</VPE_PsychicShock.description>
+
+  <VPE_NeuralHeatDump.label>neuronowy zrzut ciepła</VPE_NeuralHeatDump.label>
+  <VPE_NeuralHeatDump.description>Natychmiast zrzuć całe swoje nerwowe ciepło na świadomego sojusznika. Jako efekt uboczny, cel zapadnie w wyniszczającą, nieszkodliwą śpiączkę na około dzień. Cel musi aktywnie zaakceptować inwazję psychiczną, więc tylko świadomi sojusznicy mogą być celem.</VPE_NeuralHeatDump.description>
+
+  <VPE_Berserk.label>szał</VPE_Berserk.label>
+  <VPE_Berserk.description>Wywołaj psychozę berserkera w umyśle celu, powodując, że zaatakują każdego w pobliżu. Racjonalność odzyskują po 15 sekundach, w zależności od ich wrażliwości psychicznej.</VPE_Berserk.description>
+
+  <VPE_AggressiveHeatDump.label>agresywne odprowadzanie ciepła</VPE_AggressiveHeatDump.label>
+  <VPE_AggressiveHeatDump.description>Natychmiast zrzuć całe swoje ciepło nerwowe na cel, powodując jego eksplozję z obszarem oddziaływania powiązanym z utraconym ciepłem i wrażliwością psychiczną celu. Dobre wypowiedzenie wojny.</VPE_AggressiveHeatDump.description>
+
+  <VPE_BerserkPulse.label>szalony puls</VPE_BerserkPulse.label>
+  <VPE_BerserkPulse.description>Wygeneruj przytłaczającą falę nieukierunkowanej wściekłości u wszystkich w pobliżu punktu docelowego. Uważany za jawny akt agresji i trwa kilka sekund.</VPE_BerserkPulse.description>
+
+  <VPE_PsychicDrone.label>dron psychiczny</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.description>Tworzy wokół rzucającego potężną psychiczną aurę drona, dostosowaną do wrogów, często doprowadzając ich do szaleństwa, dopóki nie pokonają przerwy. Czas trwania zależy od wrażliwości psychicznej rzucającego.</VPE_PsychicDrone.description>
+
+  <VPE_NeuralHeatDetonation.label>nerwowa detonacja cieplna</VPE_NeuralHeatDetonation.label>
+  <VPE_NeuralHeatDetonation.description>Skutecznie, ale bezkrytycznie zrzuca całe ciepło neuronowe rzucającego w eksplozję z dala od siebie, a wielkość jest zależna zarówno od utraconego ciepła, jak i ich psychicznej wrażliwości.</VPE_NeuralHeatDetonation.description>
+
+  <VPE_Neuroquake.label>neurotrzęsienie</VPE_Neuroquake.label>
+  <VPE_Neuroquake.description>Znajdź nieciągłość w polu psychicznym i rozwiń ją, uwalniając ogromną ilość energii psychicznej. Każde stworzenie w zasięgu, ale poza bezpiecznym wewnętrznym kręgiem, zostanie gwałtownie doprowadzone do szaleństwa. Rzucenie tego zajmuje 12 sekund medytacji, po czym rzucający zapada w pięciodniową psychiczną śpiączkę. Niepokojące echa neurotrzęsienia będą zadawały ból wszystkim przez wiele kilometrów wokół, powodując dyplomatyczne konsekwencje dla wszystkich frakcji.</VPE_Neuroquake.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_TheLoneScavenger.label>Samotny Złomiarz</VFE_TheLoneScavenger.label>
+  <VFE_TheLoneScavenger.description>Podczas podróży po powierzchni w poszukiwaniu kawałków złomu do sprzedaży w jednej z obcych osad, natkniesz się na niewiarygodny widok: opuszczoną, w pełni zautomatyzowaną fabrykę. Twoje zmysły skrobaka zachęcają cię do rozbicia go na części i ocalenia tego, co możesz, ale twój wewnętrzny przedsiębiorca pragnie usłyszeć śpiew maszyn raz jeszcze.
+
+Uwaga: ponieważ twoja postać początkowa nie będzie miała niektórych umiejętności, jest to trudny scenariusz we wczesnej fazie gry.</VFE_TheLoneScavenger.description>
+  <VFE_TheLoneScavenger.scenario.name>Samotny Złomiarz</VFE_TheLoneScavenger.scenario.name>
+  <VFE_TheLoneScavenger.scenario.summary>Samotny skrobak z trudnym wyborem. Trudny.</VFE_TheLoneScavenger.scenario.summary>
+  <VFE_TheLoneScavenger.scenario.description>Podczas podróży po powierzchni w poszukiwaniu kawałków złomu do sprzedaży w jednej z obcych osad, natkniesz się na niewiarygodny widok: opuszczoną, w pełni zautomatyzowaną fabrykę. Twoje zmysły skrobaka zachęcają cię do rozbicia go na części i ocalenia tego, co możesz, ale twój wewnętrzny przedsiębiorca pragnie usłyszeć śpiew maszyn raz jeszcze.
+
+Uwaga: ponieważ twoja postać początkowa nie będzie miała niektórych umiejętności, jest to trudny scenariusz we wczesnej fazie gry.</VFE_TheLoneScavenger.scenario.description>
+  <VFE_TheLoneScavenger.scenario.parts.10.text>Żyjąc od dnia wypłaty do dnia wypłaty, zbierając cenny złom na całej planecie i sprzedając go najwyżej oferującym - zwykle właścicielom złomowisk, nigdy nie spodziewałeś się, że natkniesz się na coś tak cennego jak w pełni zautomatyzowana fabryka, wykorzystująca najnowszą mechanoidalną technologię Urbworld.
+
+Teraz wybór należy do Ciebie - czy zdemontujesz go, aby nie kusić tak wielu najeźdźców, którzy nękają te ziemie? A może przywrócisz fabrykę dawną świetność?
+</VFE_TheLoneScavenger.scenario.parts.10.text>
+
+
+</LanguageData>

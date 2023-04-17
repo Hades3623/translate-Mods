@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ListeningToHarp.stages.0.label>słuchanie harfy</ListeningToHarp.stages.0.label>
+  <ListeningToHarp.stages.0.description>Harfa jest taka kojąca.</ListeningToHarp.stages.0.description>
+
+  <ListeningToHarpsichord.stages.0.label>słuchanie klawesynu</ListeningToHarpsichord.stages.0.label>
+  <ListeningToHarpsichord.stages.0.description>Złożoność klawesynu wypełnia mój umysł.</ListeningToHarpsichord.stages.0.description>
+
+  <ListeningToPiano.stages.0.label>słuchanie fortepianu</ListeningToPiano.stages.0.label>
+  <ListeningToPiano.stages.0.description>Zakres fortepianu sprawia, że ​​czuję się melancholijny, podekscytowany i jednocześnie kapryśny. Co za dźwięk.</ListeningToPiano.stages.0.description>
+
+
+</LanguageData>

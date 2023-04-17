@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <AteInsectMeat_Loved.stages.0.label>zjadłem mięso owadów</AteInsectMeat_Loved.stages.0.label>
+  <AteInsectMeat_Loved.stages.0.description>Zjadłem trochę mięsa owadów. Tak gładkie i soczyste.</AteInsectMeat_Loved.stages.0.description>
+
+  <AteInsectMeatAsIngredient_Loved.stages.0.label>zjadł gotowane mięso owadów</AteInsectMeatAsIngredient_Loved.stages.0.label>
+  <AteInsectMeatAsIngredient_Loved.stages.0.description>Zjadłem posiłek zawierający mięso owadów. Wciąż czułem ślady szlamu!</AteInsectMeatAsIngredient_Loved.stages.0.description>
+
+
+</LanguageData>

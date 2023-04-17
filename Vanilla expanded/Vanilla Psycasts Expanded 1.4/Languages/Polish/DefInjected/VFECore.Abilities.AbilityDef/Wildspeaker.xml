@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_BrambleMaze.label>labirynt jeżyny</VPE_BrambleMaze.label>
+  <VPE_BrambleMaze.description>Napełnia żyzny obszar chaotyczną energią życiową, powodując wypuszczanie pędów jeżyn, które więdną po 12 godzinach.</VPE_BrambleMaze.description>
+
+  <VPE_CropBurst.label>zwiększenie upraw</VPE_CropBurst.label>
+  <VPE_CropBurst.description>Napełnia żyzny obszar energią życiową, powodując kiełkowanie roślin, które kończą wzrost w związku z psychiczną wrażliwością rzucającego.</VPE_CropBurst.description>
+
+  <VPE_WordofAnimals.label>słowo zwierząt</VPE_WordofAnimals.label>
+  <VPE_WordofAnimals.description>Uspokaj zwierzę za pomocą sugestii psychicznej, uspokojenia polującego zwierzęcia lub oswojenia go.</VPE_WordofAnimals.description>
+
+  <VPE_ManhunterPulse.label>puls manhunter</VPE_ManhunterPulse.label>
+  <VPE_ManhunterPulse.description>Wpędź zwierzęta na dużym obszarze w szał obławowy za pomocą impulsu psychicznego, trwającego minutę. Uważany za wypowiedzenie wojny, jeśli dotyczy zwierząt w przyczepie kempingowej.</VPE_ManhunterPulse.description>
+
+  <VPE_TreeSprout.label>kiełkowanie drzew</VPE_TreeSprout.label>
+  <VPE_TreeSprout.description>Napełnia duży, żyzny obszar potężną energią życiową, powodując kiełkowanie w pełni wyrośniętych dębów.</VPE_TreeSprout.description>
+
+  <VPE_ShieldAnimals.label>tarcza zwierząt</VPE_ShieldAnimals.label>
+  <VPE_ShieldAnimals.description>Generuje sferyczne przeskoki na wszystkich zwierzętach w kolonii w zasięgu, które wysyłają wszystkie nadlatujące i wychodzące pociski z poziomu gruntu w odległe miejsca. Ludzie i przedmioty pozostają nienaruszone, a czas trwania zależy od psychicznej wrażliwości rzucającego.</VPE_ShieldAnimals.description>
+
+  <VPE_AnimalAllies.label>sprzymierzone zwierzęta</VPE_AnimalAllies.label>
+  <VPE_AnimalAllies.description>Nasyca duży obszar harmonijną siłą życiową, która wpływa na zachowanie zwierząt, powodując, że atakują one te wrogie rzucającemu przez czas skalujący się z ich wrażliwością psychiczną.</VPE_AnimalAllies.description>
+
+  <VPE_Shrineshield.label>Świątynia</VPE_Shrineshield.label>
+  <VPE_Shrineshield.description>Wygeneruj sferyczną bramę w sanktuarium przyrody, która wysyła wszystkie nadlatujące i wychodzące pociski z poziomu gruntu w odległe miejsce. Nie ma to wpływu na ludzi i przedmioty, a wielkość kuli zależy od wielkości sanktuarium.</VPE_Shrineshield.description>
+
+  <VPE_EssenceTransfer.label>transfer esencji</VPE_EssenceTransfer.label>
+  <VPE_EssenceTransfer.description>Wlewa energię życiową innej osoby znajdującej się w pobliżu do zwierzęcia z kolonii, łącząc je i zapadając w 6-godzinną śpiączkę. Jeśli połączona osoba umrze, połączone zwierzę przejdzie na ich stronę i przekaże im swoją zharmonizowaną esencję życiową, umierając po zakończeniu. Jeśli połączone zwierzę umrze jako pierwsze, efekt zostanie utracony i może być tylko jedno połączenie na raz.</VPE_EssenceTransfer.description>
+
+  <VPE_SummonPack.label>pakiet przywołania</VPE_SummonPack.label>
+  <VPE_SummonPack.description>Wysyła impuls siły życiowej do regionu, wywołując agresję terytorialną na liczne zwierzęta, które pojawią się w obronie kolonii. Gdy wszyscy najeźdźcy zostaną pokonani, zwierzęta powrócą do swoich domów. Odległość, jaką pokonuje puls, a co za tym idzie, względna siła stworzeń jest uzależniona od psychicznej wrażliwości rzucającego.</VPE_SummonPack.description>
+
+
+</LanguageData>

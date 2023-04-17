@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpacerFurniture.label>Glitterworld meble</SpacerFurniture.label>
+  <SpacerFurniture.description>Buduj zaawansowane meble, zwykle widoczne tylko w zaawansowanych koloniach i budynkach Glitterworld.</SpacerFurniture.description>
+
+  <SpacerElectronics.label>elektronika dystansowa</SpacerElectronics.label>
+  <SpacerElectronics.description>Buduj zaawansowaną elektronikę, zwykle widoczną tylko w zaawansowanych koloniach i budynkach Glitterworld.</SpacerElectronics.description>
+
+  <MechaniteRestoration.label>odbudowa mechanitu</MechaniteRestoration.label>
+  <MechaniteRestoration.description>Użyj ultratechnicznych mechanitów, aby pomóc w odbudowie obiektów, konstruując mechanitową półkę naprawczą.</MechaniteRestoration.description>
+
+
+</LanguageData>

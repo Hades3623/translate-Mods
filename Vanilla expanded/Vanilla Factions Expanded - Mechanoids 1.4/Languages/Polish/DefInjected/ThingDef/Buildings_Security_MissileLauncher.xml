@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Transport pods -->
+
+  <VFE_LongRangeMissileLauncher.label>wyrzutnia rakiet dalekiego zasięgu</VFE_LongRangeMissileLauncher.label>
+  <VFE_LongRangeMissileLauncher.description>Kompaktowy i zaawansowany technologicznie silos rakietowy zdolny do wystrzeliwania niszczycielskich pocisków w odległości kilku kilometrów. Ilość wprowadzonego paliwa decyduje o maksymalnym zasięgu pocisku. W jednej wyrzutni można załadować tylko jeden pocisk na raz. Po wylądowaniu podmuch jest w stanie całkowicie wyrównać prawie każdą konstrukcję i powoduje, że pobliski ląd staje się mniej więcej niegościnnym kraterem.</VFE_LongRangeMissileLauncher.description>
+
+  <VFEM_MissileLeaving.label>pocisk (odlatujący)</VFEM_MissileLeaving.label>
+  <VFEM_MissileIncoming.label>pocisk (nadlatujący)</VFEM_MissileIncoming.label>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mission_BanditCamp.questNameRules.rulesStrings.0>questName-&gt;[questNameInner]</Mission_BanditCamp.questNameRules.rulesStrings.0>
+  <Mission_BanditCamp.questNameRules.rulesStrings.1>questName-&gt;[asker_nameDef]'s [questNameInner]</Mission_BanditCamp.questNameRules.rulesStrings.1>
+  <Mission_BanditCamp.questNameRules.rulesStrings.2>questNameInner-&gt;[aerial] [attack]</Mission_BanditCamp.questNameRules.rulesStrings.2>
+  <Mission_BanditCamp.questNameRules.rulesStrings.3>questNameInner-&gt;[target] [attack]</Mission_BanditCamp.questNameRules.rulesStrings.3>
+  <Mission_BanditCamp.questNameRules.rulesStrings.4>questNameInner-&gt;[attack] [work]</Mission_BanditCamp.questNameRules.rulesStrings.4>
+  <Mission_BanditCamp.questNameRules.rulesStrings.5>target-&gt;camp</Mission_BanditCamp.questNameRules.rulesStrings.5>
+  <Mission_BanditCamp.questNameRules.rulesStrings.6>target-&gt;base</Mission_BanditCamp.questNameRules.rulesStrings.6>
+  <Mission_BanditCamp.questNameRules.rulesStrings.7>target-&gt;fort</Mission_BanditCamp.questNameRules.rulesStrings.7>
+  <Mission_BanditCamp.questNameRules.rulesStrings.8>aerial-&gt;aerial</Mission_BanditCamp.questNameRules.rulesStrings.8>
+  <Mission_BanditCamp.questNameRules.rulesStrings.9>aerial-&gt;air</Mission_BanditCamp.questNameRules.rulesStrings.9>
+  <Mission_BanditCamp.questNameRules.rulesStrings.10>aerial-&gt;shuttle-borne</Mission_BanditCamp.questNameRules.rulesStrings.10>
+  <Mission_BanditCamp.questNameRules.rulesStrings.11>attack-&gt;attack</Mission_BanditCamp.questNameRules.rulesStrings.11>
+  <Mission_BanditCamp.questNameRules.rulesStrings.12>attack-&gt;assault</Mission_BanditCamp.questNameRules.rulesStrings.12>
+  <Mission_BanditCamp.questNameRules.rulesStrings.13>work-&gt;work</Mission_BanditCamp.questNameRules.rulesStrings.13>
+  <Mission_BanditCamp.questNameRules.rulesStrings.14>work-&gt;job</Mission_BanditCamp.questNameRules.rulesStrings.14>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings.0>questDescription-&gt;[enemiesLabel] have set up a camp and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the camp, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [soldiers] to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</Mission_BanditCamp.questDescriptionRules.rulesStrings.0>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings.1>soldiers(requiredPawnCount&gt;1)-&gt;[requiredPawnCount] soldiers</Mission_BanditCamp.questDescriptionRules.rulesStrings.1>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings.2>soldiers(requiredPawnCount==1)-&gt;[requiredPawnCount] soldier</Mission_BanditCamp.questDescriptionRules.rulesStrings.2>
+
+
+</LanguageData>

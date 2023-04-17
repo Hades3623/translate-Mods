@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sun blocker -->
+
+  <SunBlocker.label>filtr przeciwsłoneczny</SunBlocker.label>
+  <SunBlocker.description>Maszyna do blokowania słońca, która sprawia, że ​​niebo staje się nieprzezroczyste.</SunBlocker.description>
+
+
+  <!-- Smoke spewer -->
+
+  <SmokeSpewer.label>miotacz dymu</SmokeSpewer.label>
+  <SmokeSpewer.description>miotacz dymu.</SmokeSpewer.description>
+
+
+  <!-- Toxic spewer -->
+
+  <ToxicSpewer.label>trująca plucha</ToxicSpewer.label>
+  <ToxicSpewer.description>Toksyczny pluj.</ToxicSpewer.description>
+
+
+  <!-- Weather controller -->
+
+  <WeatherController.label>sterownik pogodowy</WeatherController.label>
+  <WeatherController.description>Kontroler pogody.</WeatherController.description>
+
+
+  <!-- Climate adjuster -->
+
+  <ClimateAdjuster.label>regulator klimatu</ClimateAdjuster.label>
+  <ClimateAdjuster.description>Regulator klimatu.</ClimateAdjuster.description>
+
+
+  <!-- Psychic droner -->
+
+  <PsychicDroner.label>dron psychiczny</PsychicDroner.label>
+  <PsychicDroner.description>Psychiczny dron.</PsychicDroner.description>
+
+
+  <!-- Psychic suppressor -->
+
+  <PsychicSuppressor.label>tłumik psychiczny</PsychicSuppressor.label>
+  <PsychicSuppressor.description>Tłumik psychiczny.</PsychicSuppressor.description>
+
+
+  <!-- EMI dynamo -->
+
+  <EMIDynamo.label>dynamo EMI</EMIDynamo.label>
+  <EMIDynamo.description>Dynamo EMI.</EMIDynamo.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedRug.label>niedokończony dywan</UnfinishedRug.label>
+
+
+  <!-- Rugs -->
+
+  <VFE_RugSmall.label>mały dywanik</VFE_RugSmall.label>
+  <VFE_RugSmall.description>Niewielkich rozmiarów wykładzina tekstylna, ozdobiona artystycznym haftem.</VFE_RugSmall.description>
+
+  <VFE_RugLarge.label>duży dywan</VFE_RugLarge.label>
+  <VFE_RugLarge.description>Wielkoformatowa wykładzina podłogowa, ozdobiona artystycznym haftem.</VFE_RugLarge.description>
+
+  <VFE_RugGrand.label>wielki dywan</VFE_RugGrand.label>
+  <VFE_RugGrand.description>Dominująca w pomieszczeniu ogromna tkanina podłogowa ozdobiona artystycznym haftem.</VFE_RugGrand.description>
+
+
+</LanguageData>

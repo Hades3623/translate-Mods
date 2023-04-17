@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_Invisiblity.label>niewidzialność</VFEA_Invisiblity.label>
+  <VFEA_Invisiblity.description>Światło zakrzywia się, zamaskując.</VFEA_Invisiblity.description>
+
+  <VFEA_Phasing.label>fazowanie</VFEA_Phasing.label>
+  <VFEA_Phasing.description>Poza fazą z normalną rzeczywistością, umożliwiając przechodzenie przez materię stałą.</VFEA_Phasing.description>
+
+  <VFEA_SpeedBurst.label>wzrost prędkości</VFEA_SpeedBurst.label>
+  <VFEA_SpeedBurst.description>Stymulacja mięśni, która znacznie zwiększa szybkość poruszania się i walki wręcz.</VFEA_SpeedBurst.description>
+
+  <VFEA_MetaMorph.label>metamorfoza</VFEA_MetaMorph.label>
+  <VFEA_MetaMorph.description>.</VFEA_MetaMorph.description>
+
+
+</LanguageData>

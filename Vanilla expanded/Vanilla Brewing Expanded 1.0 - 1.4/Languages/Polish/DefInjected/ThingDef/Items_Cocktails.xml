@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SimpleCocktail.label>prosty koktajl</VBE_SimpleCocktail.label>
+  <VBE_SimpleCocktail.description>Prosty koktajl szybko wymieszany z duetu składników.</VBE_SimpleCocktail.description>
+
+  <VBE_FineCocktail.label>dobry koktajl</VBE_FineCocktail.label>
+  <VBE_FineCocktail.description>Drobny, złożony koktajl, dokładnie wymieszany z wielu składników.</VBE_FineCocktail.description>
+
+  <VBE_LavishCocktail.label>obfity koktajl</VBE_LavishCocktail.label>
+  <VBE_LavishCocktail.description>To arcydzieło barmańskiego wcielenia, ten koktajl został zmieszany z szerokiej gamy składników i schłodzony do perfekcji, a następnie skrupulatnie wstrząśnięty i podany.</VBE_LavishCocktail.description>
+
+  <VBE_GourmetCocktail.label>koktajl dla smakoszy</VBE_GourmetCocktail.label>
+  <VBE_GourmetCocktail.description>Prawdziwy cud miksologii. W przypadku tego koktajlu każdy czynnik, począwszy od temperatury szkła, wyboru przyrządu do mieszania i rodzaju dekoracji, został precyzyjnie obliczony dla uzyskania maksymalnego smaku i masy.</VBE_GourmetCocktail.description>
+
+
+</LanguageData>

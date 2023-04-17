@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterLabelTributeCollectorArrival>Kolekcjoner królewskich hołdów</LetterLabelTributeCollectorArrival>
+  <LetterTributeCollectorArrival>Zbliża się poborca ​​królewskich danin z {FACTION_name}.\n\nPrzyjmą wszystkich więźniów i złoto, które ofiarujesz jako daninę. Ten, kto przekaże daninę, otrzyma {FACTION_royalFavorLabel} za przestrzeganie tradycji i wspieranie wyższych domów.\n\nMożesz spodziewać się, że zbieracz daniny przybędzie mniej więcej dwa razy w roku, o ile nie jesteś wrogami z {FACTION_name}.</LetterTributeCollectorArrival>
+
+</LanguageData>

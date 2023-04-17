@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrink.label>napój energetyczny</VBE_EnergyDrink.label>
+  <VBE_EnergyDrink.description>Kwaśno-gazowany napój z nutą goryczy. Połączenie cukru i kofeiny oznacza z góry przypływ energii, ale z kraksą później. Wyraźny posmak promieniowania.</VBE_EnergyDrink.description>
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Pij {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <VBE_EnergyDrink.ingestible.ingestReportString>Picie {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+
+
+</LanguageData>

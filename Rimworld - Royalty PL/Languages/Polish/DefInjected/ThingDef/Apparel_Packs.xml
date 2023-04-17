@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_PackJump.label>pakiet skokowy</Apparel_PackJump.label>
+  <Apparel_PackJump.description>Jednoosobowa rakieta typu burst do lotu na krótki dystans. Dzięki zintegrowanej uprzęży i ​​asystentowi naprowadzania, plecak skokowy pozwala każdemu pokonywać duże odległości z dużą prędkością, nawet przez przeszkody. Musi zostać naładowany po kilku użyciach.\n\nNiektóre wojska zajmujące się techniką dystansową mają specjalistów od walki wręcz, którzy używają pakietów skokowych do omijania przeszkód i szybkiego zbliżania się do wroga.</Apparel_PackJump.description>
+  <Apparel_PackJump.verbs.0.label>skok</Apparel_PackJump.verbs.0.label>
+
+  <Apparel_PackBroadshield.label>pakiet o niskiej osłonie</Apparel_PackBroadshield.label>
+  <Apparel_PackBroadshield.description>Przenośny projektor niskoekranowy jednorazowego użytku. Umieszczony na ziemi, generuje okrągłą tarczę, która pozwala pociskom wystrzelić, ale nie wpaść. Jednostka została zaprojektowana tak, aby działać tylko przez krótki czas, zanim się wypali.\n\nWiele ultratechnologicznych oddziałów bojowych zawdzięcza swoje życie pakietowi osłon rozmieszczonemu tylko na odpowiedni czas.</Apparel_PackBroadshield.description>
+  <Apparel_PackBroadshield.verbs.0.label>wdrożyć niską tarczę</Apparel_PackBroadshield.verbs.0.label>
+
+
+</LanguageData>

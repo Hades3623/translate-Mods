@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Names -->
+
+  <NamerFactionEmpire.rulePack.rulesStrings.0>r_name(p=2)->[empire] of [ofThing]</NamerFactionEmpire.rulePack.rulesStrings.0>
+  <NamerFactionEmpire.rulePack.rulesStrings.1>r_name(p=2)->The [empire] of [ofThing]</NamerFactionEmpire.rulePack.rulesStrings.1>
+  <NamerFactionEmpire.rulePack.rulesStrings.2>r_name->The Exodus [empire]</NamerFactionEmpire.rulePack.rulesStrings.2>
+  <NamerFactionEmpire.rulePack.rulesStrings.3>r_name->The Refugee [empire]</NamerFactionEmpire.rulePack.rulesStrings.3>
+  <NamerFactionEmpire.rulePack.rulesStrings.4>r_name->The Broken [empire]</NamerFactionEmpire.rulePack.rulesStrings.4>
+  <NamerFactionEmpire.rulePack.rulesStrings.5>r_name->The Shattered [empire]</NamerFactionEmpire.rulePack.rulesStrings.5>
+  <NamerFactionEmpire.rulePack.rulesStrings.6>r_name->The Fallen [empire]</NamerFactionEmpire.rulePack.rulesStrings.6>
+  <NamerFactionEmpire.rulePack.rulesStrings.7>r_name->The [Color] [empire]</NamerFactionEmpire.rulePack.rulesStrings.7>
+  <NamerFactionEmpire.rulePack.rulesStrings.8>empire(p=4)->Empire</NamerFactionEmpire.rulePack.rulesStrings.8>
+  <NamerFactionEmpire.rulePack.rulesStrings.9>empire->Commonwealth</NamerFactionEmpire.rulePack.rulesStrings.9>
+  <NamerFactionEmpire.rulePack.rulesStrings.10>empire->Imperium</NamerFactionEmpire.rulePack.rulesStrings.10>
+  <NamerFactionEmpire.rulePack.rulesStrings.11>empire->Dominion</NamerFactionEmpire.rulePack.rulesStrings.11>
+  <NamerFactionEmpire.rulePack.rulesStrings.12>empire->Sovereignty</NamerFactionEmpire.rulePack.rulesStrings.12>
+  <NamerFactionEmpire.rulePack.rulesStrings.13>ofThing(p=4)->[WordImperial]</NamerFactionEmpire.rulePack.rulesStrings.13>
+  <NamerFactionEmpire.rulePack.rulesStrings.14>ofThing->the Sun</NamerFactionEmpire.rulePack.rulesStrings.14>
+  <NamerFactionEmpire.rulePack.rulesStrings.15>ofThing->the Moon</NamerFactionEmpire.rulePack.rulesStrings.15>
+  <NamerFactionEmpire.rulePack.rulesStrings.16>ofThing->the Universe</NamerFactionEmpire.rulePack.rulesStrings.16>
+  <NamerFactionEmpire.rulePack.rulesStrings.17>ofThing->God</NamerFactionEmpire.rulePack.rulesStrings.17>
+  <NamerFactionEmpire.rulePack.rulesStrings.18>ofThing->Perfection</NamerFactionEmpire.rulePack.rulesStrings.18>
+  <NamerFactionEmpire.rulePack.rulesStrings.19>ofThing->Eternity</NamerFactionEmpire.rulePack.rulesStrings.19>
+  <NamerFactionEmpire.rulePack.rulesStrings.20>ofThing->the Spirit</NamerFactionEmpire.rulePack.rulesStrings.20>
+
+  <NamerSettlementEmpire.rulePack.rulesStrings.0>r_name->[townname_wordgen]</NamerSettlementEmpire.rulePack.rulesStrings.0>
+  <NamerSettlementEmpire.rulePack.rulesStrings.1>r_name->[townname_fixed]</NamerSettlementEmpire.rulePack.rulesStrings.1>
+  <NamerSettlementEmpire.rulePack.rulesStrings.2>townname_wordgen->[WordImperial]</NamerSettlementEmpire.rulePack.rulesStrings.2>
+  <NamerSettlementEmpire.rulePack.rulesStrings.3>townname_wordgen->[WordImperial][townend]</NamerSettlementEmpire.rulePack.rulesStrings.3>
+  <NamerSettlementEmpire.rulePack.rulesStrings.4>townend(p=3)->ium</NamerSettlementEmpire.rulePack.rulesStrings.4>
+  <NamerSettlementEmpire.rulePack.rulesStrings.5>townend(p=3)->ior</NamerSettlementEmpire.rulePack.rulesStrings.5>
+  <NamerSettlementEmpire.rulePack.rulesStrings.6>townend(p=3)->polis</NamerSettlementEmpire.rulePack.rulesStrings.6>
+  <NamerSettlementEmpire.rulePack.rulesStrings.7>townend->nor</NamerSettlementEmpire.rulePack.rulesStrings.7>
+  <NamerSettlementEmpire.rulePack.rulesStrings.8>townend->lan</NamerSettlementEmpire.rulePack.rulesStrings.8>
+  <NamerSettlementEmpire.rulePack.rulesStrings.9>townend->lax</NamerSettlementEmpire.rulePack.rulesStrings.9>
+  <NamerSettlementEmpire.rulePack.rulesStrings.10>townend->lix</NamerSettlementEmpire.rulePack.rulesStrings.10>
+  <NamerSettlementEmpire.rulePack.rulesStrings.11>townend->lin</NamerSettlementEmpire.rulePack.rulesStrings.11>
+  <NamerSettlementEmpire.rulePack.rulesStrings.12>townend->lian</NamerSettlementEmpire.rulePack.rulesStrings.12>
+  <NamerSettlementEmpire.rulePack.rulesStrings.13>townend->phrum</NamerSettlementEmpire.rulePack.rulesStrings.13>
+  <NamerSettlementEmpire.rulePack.rulesStrings.14>townend->phor</NamerSettlementEmpire.rulePack.rulesStrings.14>
+  <NamerSettlementEmpire.rulePack.rulesStrings.15>townend->teor</NamerSettlementEmpire.rulePack.rulesStrings.15>
+  <NamerSettlementEmpire.rulePack.rulesStrings.16>townend->ople</NamerSettlementEmpire.rulePack.rulesStrings.16>
+  <NamerSettlementEmpire.rulePack.rulesStrings.17>townend->opium</NamerSettlementEmpire.rulePack.rulesStrings.17>
+  <NamerSettlementEmpire.rulePack.rulesStrings.18>townend->or</NamerSettlementEmpire.rulePack.rulesStrings.18>
+  <NamerSettlementEmpire.rulePack.rulesStrings.19>townend->aetor</NamerSettlementEmpire.rulePack.rulesStrings.19>
+  <NamerSettlementEmpire.rulePack.rulesStrings.20>townend->aeum</NamerSettlementEmpire.rulePack.rulesStrings.20>
+  <NamerSettlementEmpire.rulePack.rulesStrings.21>townend->aetium</NamerSettlementEmpire.rulePack.rulesStrings.21>
+  <NamerSettlementEmpire.rulePack.rulesStrings.22>townend->am</NamerSettlementEmpire.rulePack.rulesStrings.22>
+  <NamerSettlementEmpire.rulePack.rulesStrings.23>townend->aeum</NamerSettlementEmpire.rulePack.rulesStrings.23>
+
+  <NamerPersonEmpire.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</NamerPersonEmpire.rulePack.rulesStrings.0>
+  <NamerPersonEmpire.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</NamerPersonEmpire.rulePack.rulesStrings.1>
+  <NamerPersonEmpire.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpire.rulePack.rulesStrings.2>
+
+  <NamerPersonEmpireFemale.rulePack.rulesStrings.0>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</NamerPersonEmpireFemale.rulePack.rulesStrings.0>
+  <NamerPersonEmpireFemale.rulePack.rulesStrings.1>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</NamerPersonEmpireFemale.rulePack.rulesStrings.1>
+  <NamerPersonEmpireFemale.rulePack.rulesStrings.2>r_name(p=2)->[WordImperial] [WordImperial]</NamerPersonEmpireFemale.rulePack.rulesStrings.2>
+
+
+</LanguageData>

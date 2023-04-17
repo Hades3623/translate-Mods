@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoid.label>rój mechanoidów</VFE_Mechanoid.label>
+  <VFE_Mechanoid.description>Duży rój mechanoidalnych statków terraformujących i okrętów bojowych poruszający się po orbicie. Kontrolowane zdalnie przez ludzkich dowódców w jednym z głównych światów, w centrum tego roju mechanoidów znajduje się legowisko, w którym niezliczone maszyny są konstruowane i dekonstruowane w sposób ciągły, aby służyć większej sprawie. \n
+Nie interesują się prawami człowieka i nie robią tego, postrzegają mieszkańców tego świata jako kogokolwiek innego niż małpy, które muszą zostać zniszczone, aby projekt terraformowania mógł być kontynuowany. 
+ 
+Tego roju mechanoidów nie można sprzymierzyć.</VFE_Mechanoid.description>
+  <VFE_Mechanoid.pawnsPlural>mechanoidy</VFE_Mechanoid.pawnsPlural>
+
+
+</LanguageData>

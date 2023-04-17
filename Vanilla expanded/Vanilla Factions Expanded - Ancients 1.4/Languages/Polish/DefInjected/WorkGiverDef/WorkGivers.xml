@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_DoBillsAncientWorkshop.label>tworzyć rzeczy w starożytnym warsztacie</VFEA_DoBillsAncientWorkshop.label>
+  <VFEA_DoBillsAncientWorkshop.verb>praca</VFEA_DoBillsAncientWorkshop.verb>
+  <VFEA_DoBillsAncientWorkshop.gerund>pracujący przy</VFEA_DoBillsAncientWorkshop.gerund>
+
+  <VFEA_DoBillsAncientCookingStation.label>gotować posiłki na starożytnej stacji gotowania</VFEA_DoBillsAncientCookingStation.label>
+  <VFEA_DoBillsAncientCookingStation.verb>gotuj</VFEA_DoBillsAncientCookingStation.verb>
+  <VFEA_DoBillsAncientCookingStation.gerund>gotowanie przy</VFEA_DoBillsAncientCookingStation.gerund>
+
+  <VFEA_DoBillsMending.label>naprawiać rzeczy na stacji naprawczej</VFEA_DoBillsMending.label>
+  <VFEA_DoBillsMending.verb>naprawiaj</VFEA_DoBillsMending.verb>
+  <VFEA_DoBillsMending.gerund>naprawianie przy</VFEA_DoBillsMending.gerund>
+
+  <VFEA_Interrogate.label>przesłuchiwać więźniów</VFEA_Interrogate.label>
+  <VFEA_Interrogate.verb>przesłuchuj</VFEA_Interrogate.verb>
+  <VFEA_Interrogate.gerund>przesłuchanie</VFEA_Interrogate.gerund>
+
+
+</LanguageData>

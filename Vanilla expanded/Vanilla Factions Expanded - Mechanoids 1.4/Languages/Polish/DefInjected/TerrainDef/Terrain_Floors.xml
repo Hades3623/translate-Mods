@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Factory Floor -->
+
+  <VFE_FactoryFloor.label>podłoga fabryczna</VFE_FactoryFloor.label>
+  <VFE_FactoryFloor.description>Wzmocnione stalowe płytki, które mogą utrzymać na miejscu ciężkie, złożone maszyny. Nie najładniejszy do oglądania.</VFE_FactoryFloor.description>
+
+
+  <!-- Factory Path -->
+
+  <VFE_FactoryPath.label>ścieżka fabryczna</VFE_FactoryPath.label>
+  <VFE_FactoryPath.description>Wyznaczona, bezpieczna do przemierzania ścieżka fabryczna. Zwiększa prędkość ruchu, ale musi zostać umieszczony na podłodze fabryki.</VFE_FactoryPath.description>
+
+
+</LanguageData>

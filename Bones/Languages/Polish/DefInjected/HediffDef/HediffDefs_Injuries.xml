@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- The broken ends of the bone line up and are barely out of place. -->
+
+  <SZ_Stable_Fracture.label>stabilne Złamanie</SZ_Stable_Fracture.label>
+  <SZ_Stable_Fracture.description>Złamane końce kości są wyrównane i prawie nie na miejscu.</SZ_Stable_Fracture.description>
+  <SZ_Stable_Fracture.comps.0.labelTendedWell>Ustaw</SZ_Stable_Fracture.comps.0.labelTendedWell>
+  <SZ_Stable_Fracture.comps.0.labelTendedWellInner>Ustaw</SZ_Stable_Fracture.comps.0.labelTendedWellInner>
+  <SZ_Stable_Fracture.comps.0.labelSolidTendedWell>Ustaw</SZ_Stable_Fracture.comps.0.labelSolidTendedWell>
+  <SZ_Stable_Fracture.injuryProps.destroyedLabel>Złam</SZ_Stable_Fracture.injuryProps.destroyedLabel>
+
+
+  <!-- The skin may be pierced by the bone or by a blow that breaks the skin at 
+        the time of the fracture. The bone may or may not be visible in the wound. -->
+
+  <SZ_Compound_Fracture.label>złożone Złamanie</SZ_Compound_Fracture.label>
+  <SZ_Compound_Fracture.description>Skórę można przebić kością lub uderzeniem, które łamie skórę w momencie Złamania. Kość może być widoczna w ranie lub nie.</SZ_Compound_Fracture.description>
+  <SZ_Compound_Fracture.comps.0.labelTendedWell>Ustaw</SZ_Compound_Fracture.comps.0.labelTendedWell>
+  <SZ_Compound_Fracture.comps.0.labelTendedWellInner>Ustaw</SZ_Compound_Fracture.comps.0.labelTendedWellInner>
+  <SZ_Compound_Fracture.comps.0.labelSolidTendedWell>Ustaw</SZ_Compound_Fracture.comps.0.labelSolidTendedWell>
+  <SZ_Compound_Fracture.injuryProps.destroyedLabel>Złam</SZ_Compound_Fracture.injuryProps.destroyedLabel>
+
+
+  <!-- This type of fracture has a horizontal fracture line. -->
+
+  <SZ_Transverse_Fracture.label>Złamanie poprzeczne</SZ_Transverse_Fracture.label>
+  <SZ_Transverse_Fracture.description>Ten rodzaj Złamania ma poziomą linię Złamania.</SZ_Transverse_Fracture.description>
+  <SZ_Transverse_Fracture.comps.0.labelTendedWell>Ustaw</SZ_Transverse_Fracture.comps.0.labelTendedWell>
+  <SZ_Transverse_Fracture.comps.0.labelTendedWellInner>Ustaw</SZ_Transverse_Fracture.comps.0.labelTendedWellInner>
+  <SZ_Transverse_Fracture.comps.0.labelSolidTendedWell>Ustaw</SZ_Transverse_Fracture.comps.0.labelSolidTendedWell>
+  <SZ_Transverse_Fracture.injuryProps.destroyedLabel>Złam</SZ_Transverse_Fracture.injuryProps.destroyedLabel>
+
+
+  <!-- This type of fracture has an angled pattern. -->
+
+  <SZ_Oblique_Fracture.label>ukośne Złamanie</SZ_Oblique_Fracture.label>
+  <SZ_Oblique_Fracture.description>Ten rodzaj Złamania ma wzór kątowy.</SZ_Oblique_Fracture.description>
+  <SZ_Oblique_Fracture.comps.0.labelTendedWell>Ustaw</SZ_Oblique_Fracture.comps.0.labelTendedWell>
+  <SZ_Oblique_Fracture.comps.0.labelTendedWellInner>Ustaw</SZ_Oblique_Fracture.comps.0.labelTendedWellInner>
+  <SZ_Oblique_Fracture.comps.0.labelSolidTendedWell>Ustaw</SZ_Oblique_Fracture.comps.0.labelSolidTendedWell>
+  <SZ_Oblique_Fracture.injuryProps.destroyedLabel>Złam</SZ_Oblique_Fracture.injuryProps.destroyedLabel>
+
+
+  <!-- In this type of fracture, the bone shatters into three or more pieces. -->
+
+  <SZ_Comminuted_Fracture.label>rozdrobnione Złamanie</SZ_Comminuted_Fracture.label>
+  <SZ_Comminuted_Fracture.description>W tego typu Złamaniu kość rozpada się na trzy lub więcej kawałków.</SZ_Comminuted_Fracture.description>
+  <SZ_Comminuted_Fracture.comps.0.labelTendedWell>Ustaw</SZ_Comminuted_Fracture.comps.0.labelTendedWell>
+  <SZ_Comminuted_Fracture.comps.0.labelTendedWellInner>Ustaw</SZ_Comminuted_Fracture.comps.0.labelTendedWellInner>
+  <SZ_Comminuted_Fracture.comps.0.labelSolidTendedWell>Ustaw</SZ_Comminuted_Fracture.comps.0.labelSolidTendedWell>
+  <SZ_Comminuted_Fracture.injuryProps.destroyedLabel>Rozwal na kawałki</SZ_Comminuted_Fracture.injuryProps.destroyedLabel>
+
+
+</LanguageData>

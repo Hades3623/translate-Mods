@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugee -->
+
+  <NamerFactionRefugee.rulePack.rulesStrings.0>r_name->[adj] [group]</NamerFactionRefugee.rulePack.rulesStrings.0>
+  <NamerFactionRefugee.rulePack.rulesStrings.1>group->survivors</NamerFactionRefugee.rulePack.rulesStrings.1>
+  <NamerFactionRefugee.rulePack.rulesStrings.2>group->refugees</NamerFactionRefugee.rulePack.rulesStrings.2>
+  <NamerFactionRefugee.rulePack.rulesStrings.3>group->runaways</NamerFactionRefugee.rulePack.rulesStrings.3>
+  <NamerFactionRefugee.rulePack.rulesStrings.4>group->castaways</NamerFactionRefugee.rulePack.rulesStrings.4>
+  <NamerFactionRefugee.rulePack.rulesStrings.5>group->trekkers</NamerFactionRefugee.rulePack.rulesStrings.5>
+  <NamerFactionRefugee.rulePack.rulesStrings.6>group->roamers</NamerFactionRefugee.rulePack.rulesStrings.6>
+  <NamerFactionRefugee.rulePack.rulesStrings.7>group->wanderers</NamerFactionRefugee.rulePack.rulesStrings.7>
+  <NamerFactionRefugee.rulePack.rulesStrings.8>group->travelers</NamerFactionRefugee.rulePack.rulesStrings.8>
+  <NamerFactionRefugee.rulePack.rulesStrings.9>group->nomads</NamerFactionRefugee.rulePack.rulesStrings.9>
+  <NamerFactionRefugee.rulePack.rulesStrings.10>adj->weary</NamerFactionRefugee.rulePack.rulesStrings.10>
+  <NamerFactionRefugee.rulePack.rulesStrings.11>adj->drained</NamerFactionRefugee.rulePack.rulesStrings.11>
+  <NamerFactionRefugee.rulePack.rulesStrings.12>adj->tired</NamerFactionRefugee.rulePack.rulesStrings.12>
+  <NamerFactionRefugee.rulePack.rulesStrings.13>adj->exhausted</NamerFactionRefugee.rulePack.rulesStrings.13>
+  <NamerFactionRefugee.rulePack.rulesStrings.14>adj->displaced</NamerFactionRefugee.rulePack.rulesStrings.14>
+  <NamerFactionRefugee.rulePack.rulesStrings.15>adj->resilient</NamerFactionRefugee.rulePack.rulesStrings.15>
+  <NamerFactionRefugee.rulePack.rulesStrings.16>adj->tough</NamerFactionRefugee.rulePack.rulesStrings.16>
+  <NamerFactionRefugee.rulePack.rulesStrings.17>adj->dogged</NamerFactionRefugee.rulePack.rulesStrings.17>
+  <NamerFactionRefugee.rulePack.rulesStrings.18>adj->tenacious</NamerFactionRefugee.rulePack.rulesStrings.18>
+
+
+</LanguageData>

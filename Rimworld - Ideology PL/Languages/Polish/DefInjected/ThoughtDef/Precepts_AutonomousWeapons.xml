@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Has automated turrets -->
+
+  <HasAutomatedTurrets_Prohibited.stages.0.label>automatyczne wieżyczki</HasAutomatedTurrets_Prohibited.stages.0.label>
+  <HasAutomatedTurrets_Prohibited.stages.0.description>Używamy automatycznych wieżyczek. Poddawanie maszynie decyzji o życiu i śmierci jest absolutnie odrażające.</HasAutomatedTurrets_Prohibited.stages.0.description>
+
+  <HasAutomatedTurrets_Horrible.stages.0.label>automatyczne wieżyczki</HasAutomatedTurrets_Horrible.stages.0.label>
+  <HasAutomatedTurrets_Horrible.stages.0.description>Używamy automatycznych wieżyczek. To okropne, dawać maszynie decyzje o życiu i śmierci.</HasAutomatedTurrets_Horrible.stages.0.description>
+
+  <HasAutomatedTurrets_Disapproved.stages.0.label>automatyczne wieżyczki</HasAutomatedTurrets_Disapproved.stages.0.label>
+  <HasAutomatedTurrets_Disapproved.stages.0.description>Używamy automatycznych wieżyczek. Naprawdę brzydkie jest dawanie decyzji o życiu i śmierci maszynie.</HasAutomatedTurrets_Disapproved.stages.0.description>
+
+
+</LanguageData>

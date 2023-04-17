@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prestige recon armor -->
+
+  <Apparel_ArmorReconPrestige.label>prestiżowa zbroja zwiadowcza</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.description>Kombinezon z lekkiej, częściowo zasilanej zbroi, zaprojektowany, aby umożliwić szybkie poruszanie się. Płyty z plecionki plastycznej blokują ataki bez ograniczania mobilności, a asystenci neuro-memetyczni w dolnej części ciała pozwalają człowiekowi nosić zbroję i nadal swobodnie się poruszać.\n\nDrogi i piękny, taki prestiżowy pancerz jest zwykle tworzony dla osób o wysokim statusie . Wbudowane nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorReconPrestige.description>
+
+  <Apparel_ArmorHelmetReconPrestige.label>prestiżowy hełm rozpoznawczy</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.description>Zaawansowany technologicznie hełm pancerny z wbudowanym komputerem statusu i ochronną płytą z plecionki plasteli.\n\nDrogi i piękny, taki prestiżowy pancerz jest zwykle tworzony dla osób o wysokim statusie. Osadzone nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorHelmetReconPrestige.description>
+
+
+  <!-- Prestige marine armor -->
+
+  <Apparel_ArmorMarinePrestige.label>prestiżowa zbroja morska</Apparel_ArmorMarinePrestige.label>
+  <Apparel_ArmorMarinePrestige.description>Zbroja wspomagana. Warstwowe płytki o splocie plasteelowym są bardzo skuteczne w powstrzymywaniu ataków, z kilkoma wrażliwymi odcinkami stawów. Asystenci neuro-memetyczni pozwalają człowiekowi nosić zbroję i nadal swobodnie się poruszać.\n\nDrogi i piękny, taki prestiżowy pancerz jest zwykle stworzony dla osób o wysokim statusie. Wbudowane nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorMarinePrestige.description>
+
+  <Apparel_ArmorMarineHelmetPrestige.label>prestiżowy hełm morski</Apparel_ArmorMarineHelmetPrestige.label>
+  <Apparel_ArmorMarineHelmetPrestige.description>Morski hełm zbroi z wbudowanym komputerem statusu i warstwowymi płytami z plastali.\n\nDrogi i piękny, taki prestiżowy pancerz jest zwykle tworzony dla osób o wysokim statusie. Wbudowane nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorMarineHelmetPrestige.description>
+
+
+  <!-- Cataphract armor -->
+
+  <Apparel_ArmorCataphract.label>zbroja katafrakta</Apparel_ArmorCataphract.label>
+  <Apparel_ArmorCataphract.description>Kombinezon z ciężkim pancerzem wspomaganym, stworzony z myślą o maksymalnej ochronie kosztem mobilności. Ciężkie, warstwowe płyty o splocie plasteliowym z solidnymi powłokami ablacyjnymi powstrzymują wszystkie, z wyjątkiem najlepiej wymierzonych lub potężnych ataków. Asystenci neuro-memetyczni zapobiegają całkowitemu unieruchomieniu użytkownika przez ogromny ciężar kombinezonu, ale nadal jest on dość nieporęczny.\n\nZbroja taka jest używana przez imperialnych katafraktów do przełamywania silnie ufortyfikowanych pozycji podczas frontalnych ataków, gdy nie ma innej opcji.</Apparel_ArmorCataphract.description>
+
+  <Apparel_ArmorHelmetCataphract.label>kask katafrakta</Apparel_ArmorHelmetCataphract.label>
+  <Apparel_ArmorHelmetCataphract.description>Mocno opancerzony zaawansowany technologicznie hełm z solidną skorupą z plastali i pośrednim systemem wizualnym dla kątów widzenia innych niż przednie. Chroni przed wszystkimi, poza najpotężniejszymi lub szczęśliwie wymierzonymi strzałami.\n\nZbroja taka jest używana przez imperialnych katafraktów do przełamywania silnie ufortyfikowanych pozycji podczas frontalnych ataków, gdy nie ma innej opcji.</Apparel_ArmorHelmetCataphract.description>
+
+
+  <!-- Prestige cataphract armor -->
+
+  <Apparel_ArmorCataphractPrestige.label>prestiżowa zbroja katafrakta</Apparel_ArmorCataphractPrestige.label>
+  <Apparel_ArmorCataphractPrestige.description>Kombinezon z ciężkim pancerzem wspomaganym, stworzony z myślą o maksymalnej ochronie kosztem mobilności. Ciężkie, warstwowe płyty o splocie plasteliowym z solidnymi powłokami ablacyjnymi powstrzymują wszystkie, z wyjątkiem najlepiej wymierzonych lub potężnych ataków. Asystenci neuro-memetyczni zapobiegają całkowitemu unieruchomieniu użytkownika przez ogromny ciężar kombinezonu, ale nadal jest on dość nieporęczny.\n\nDrogi i piękny, taki prestiżowy pancerz jest zwykle szyty dla osób o wysokim statusie. Osadzone nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorCataphractPrestige.description>
+
+  <Apparel_ArmorHelmetCataphractPrestige.label>prestiżowy hełm katafrakta</Apparel_ArmorHelmetCataphractPrestige.label>
+  <Apparel_ArmorHelmetCataphractPrestige.description>Mocno opancerzony zaawansowany technologicznie hełm z solidną skorupą z plastali i pośrednim systemem wizualnym dla kątów widzenia innych niż przednie. Chroni przed wszystkimi, oprócz najpotężniejszych lub szczęśliwie wymierzonych strzałów.\n\nDrogi i piękny, prestiżowy pancerz, taki jak ten, jest zwykle stworzony dla osób o wysokim statusie. Osadzone nici eltex zwiększają również wrażliwość psychiczną użytkownika.</Apparel_ArmorHelmetCataphractPrestige.description>
+
+
+  <!-- variant armors -->
+
+  <Apparel_ArmorLocust.label>zbroja szarańczy</Apparel_ArmorLocust.label>
+  <Apparel_ArmorLocust.description>Wariant pancerza rozpoznawczego ze zintegrowaną rakietą wybuchową do lotu na krótki dystans. Pancerz Szarańczy jest nieco mniej ochronny niż standardowy pancerz zwiadowcy. Każdy skok zużywa dawkę paliwa, więc zbroja musi zostać przeładowana po kilku użyciach.\n\nW przeciwieństwie do większości ultratechnologicznych jednostek wojskowych, szarańcza trenuje głównie z bronią białą. Zazwyczaj unikają statycznych strzelanin, wolą wskakiwać prosto w fortyfikacje wroga i walczyć wręcz. Słabo radzą sobie w obronie statycznej lub w zamkniętych pomieszczeniach, ale doskonale sprawdzają się w mieszanych osłonach lub operacjach łamania statków.</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.verbs.0.label>skok</Apparel_ArmorLocust.verbs.0.label>
+
+  <Apparel_ArmorMarineGrenadier.label>zbroja grenadiera</Apparel_ArmorMarineGrenadier.label>
+  <Apparel_ArmorMarineGrenadier.description>Wariant pancerza morskiego ze zintegrowaną wyrzutnią odłamków na ramieniu. Pancerz jest nieco mniej ochronny niż standardowa zbroja morska. Wyrzutnia może pomieścić tylko ograniczoną ilość amunicji i musi zostać przeładowana po użyciu.\n\nGrenadierzy zwykle specjalizują się w przełamywaniu budynków lub wewnętrznych grodzi statków. Choć nie są skuteczne na bardzo dalekim dystansie, grenadierzy mogą być zaskakująco zabójczy w zamkniętych pomieszczeniach.</Apparel_ArmorMarineGrenadier.description>
+  <Apparel_ArmorMarineGrenadier.verbs.0.label>wystrzel granat odłamkowy</Apparel_ArmorMarineGrenadier.verbs.0.label>
+
+  <Proj_GrenadierGrenade.label>granat odłamkowy</Proj_GrenadierGrenade.label>
+
+  <Apparel_ArmorCataphractPhoenix.label>zbroja feniksa</Apparel_ArmorCataphractPhoenix.label>
+  <Apparel_ArmorCataphractPhoenix.description>Wariant pancerza katafrakta z naramienną wyrzutnią płomieni. Ta zbroja jest nieco słabsza niż standardowa zbroja katafrakta przed normalnymi obrażeniami, ale jest szczególnie odporna na ogień. Wyrzutnia ognistych pocisków ma bardzo ograniczoną amunicję i musi zostać przeładowana po użyciu.\n\nPhoenixy specjalizują się w oczyszczaniu bardzo ciasnych przestrzeni pełnych wrogów, takich jak operacje podziemne lub na statkach. Potrafią pochłaniać uderzenia podczas poruszania się korytarzem, wypełniać pomieszczenia płomieniami i wychodzić z dymu bez szwanku.</Apparel_ArmorCataphractPhoenix.description>
+  <Apparel_ArmorCataphractPhoenix.verbs.0.label>uruchom zapalnik</Apparel_ArmorCataphractPhoenix.verbs.0.label>
+
+  <Proj_GrenadePhoenixFire.label>granat zapalający</Proj_GrenadePhoenixFire.label>
+
+  <Apparel_Gunlink.label>linka gun</Apparel_Gunlink.label>
+  <Apparel_Gunlink.description>Komputer celowniczy, który pomaga użytkownikowi celować. Wykrywa i analizuje cele za pomocą czujników elektromagnetycznych w podczerwieni, widzialnej i milimetrowej fali. Pokładowy komputer celowniczy wyświetla rozwiązania strzelania na projekcji siatkówki. Nie zapewnia żadnej ochrony.</Apparel_Gunlink.description>
+
+
+</LanguageData>

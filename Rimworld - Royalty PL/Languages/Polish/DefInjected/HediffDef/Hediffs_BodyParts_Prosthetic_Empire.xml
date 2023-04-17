@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mindscrew -->
+
+  <Mindscrew.label>Śruba umysłowa</Mindscrew.label>
+  <Mindscrew.description>Zainstalowana śruba umysłowa.</Mindscrew.description>
+  <Mindscrew.labelNoun>Śruba umysłowa</Mindscrew.labelNoun>
+
+
+  <!-- Drill arm -->
+
+  <DrillArm.label>ramię wiertnicze</DrillArm.label>
+  <DrillArm.description>Zainstalowane ramię wiertnicze.</DrillArm.description>
+  <DrillArm.comps.0.tools.0.label>wiertarka</DrillArm.comps.0.tools.0.label>
+  <DrillArm.labelNoun>ramię wiertnicze</DrillArm.labelNoun>
+
+
+  <!-- Field hand -->
+
+  <FieldHand.label>Pomocnik terenowy</FieldHand.label>
+  <FieldHand.description>Zainstalowana Pomocnik terenowy.</FieldHand.description>
+  <FieldHand.comps.0.tools.0.label>golonka</FieldHand.comps.0.tools.0.label>
+  <FieldHand.labelNoun>Pomocnik terenowy</FieldHand.labelNoun>
+
+
+  <!-- Hand talon -->
+
+  <HandTalon.label>szpon dłoni</HandTalon.label>
+  <HandTalon.description>Zainstalowany szpon dłoni.</HandTalon.description>
+  <HandTalon.comps.0.tools.0.label>talon</HandTalon.comps.0.tools.0.label>
+  <HandTalon.labelNoun>szpon dłoni</HandTalon.labelNoun>
+
+
+  <!-- Elbow blade -->
+
+  <ElbowBlade.label>ostrze łokcia</ElbowBlade.label>
+  <ElbowBlade.description>Zainstalowane ostrze łokciowe.</ElbowBlade.description>
+  <ElbowBlade.comps.0.tools.0.label>ostrze</ElbowBlade.comps.0.tools.0.label>
+  <ElbowBlade.labelNoun>ostrze łokcia</ElbowBlade.labelNoun>
+
+
+  <!-- Knee spike -->
+
+  <KneeSpike.label>kolec kolanowy</KneeSpike.label>
+  <KneeSpike.description>Zainstalowany kolec kolanowy.</KneeSpike.description>
+  <KneeSpike.comps.0.tools.0.label>kolec</KneeSpike.comps.0.tools.0.label>
+  <KneeSpike.labelNoun>kolec kolanowy</KneeSpike.labelNoun>
+
+
+  <!-- venom fangs -->
+
+  <VenomFangs.label>kły jadowe</VenomFangs.label>
+  <VenomFangs.description>Zainstalowany zestaw kłów jadowych.</VenomFangs.description>
+  <VenomFangs.comps.0.tools.0.label>kły jadowe</VenomFangs.comps.0.tools.0.label>
+  <VenomFangs.labelNoun>zestaw kłów jadowych</VenomFangs.labelNoun>
+
+
+  <!-- venom talon -->
+
+  <VenomTalon.label>jad szponu</VenomTalon.label>
+  <VenomTalon.description>Zainstalowany szpon jadu.</VenomTalon.description>
+  <VenomTalon.comps.0.tools.0.label>jad szponu</VenomTalon.comps.0.tools.0.label>
+  <VenomTalon.labelNoun>jad szponu</VenomTalon.labelNoun>
+
+
+</LanguageData>

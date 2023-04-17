@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VTE.HasDestroyedItem>{PAWN_nameDef} zniszczył przedmiot {PAWN_pronon} właśnie wykonane, ponieważ produkt nie jest wysokiej jakości</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} dostał siniaka z powodu niezdarności</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} zbyt mocno śpi żeby wydać polecenie .</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} zrezygnował {0} z powodu perfekcjonizmu</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Zamilowani włoczędzy będą przemierzać obce miejsca ze zwiększoną prędkością</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} ukradł mienie nienależące do ich frakcji, może to zaszkodzić relacjom między powiązanymi frakcjami</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} został przyłapany na próbie kradzieży posiadłości innej frakcji, co może zaszkodzić relacjom między powiązanymi frakcjami
+</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} ma uszkodzony {0} powodu swojej wagi lub dziwnej postawy</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} ukradł {0} od {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} nie udało się ukraść {0} od {VICTIM_nameDef}. This has angered the {VICTIM_nameDef} faction</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} ucieka przed walką z powodu bycia</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} ucieka przed walką z powodu bycia</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} ucieka przed walką z powodu bycia</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} ucieka przed walką z powodu bycia</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} sprzeciwił się lub zapomniał o swoich rozkazie i na razie przestał pracować</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} rozbroił {VICTIM_nameDef} w walce wręcz</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

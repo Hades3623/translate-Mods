@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_Autocleaner.label>autocleaner</VFE_Mechanoids_Autocleaner.label>
+  <VFE_Mechanoids_Autocleaner.description>Średniej prędkości, prostolinijny dron kołowy z dużymi płuczkami i skomplikowanym systemem komór próżniowych. W połączeniu z wyżej wymienionymi narzędziami dron jest w stanie szybko wyczyścić szereg zabrudzeń, zarówno mokrych, jak i suchych. Odpady zebrane podczas sprzątania są spalane w krótkim czasie po ładowaniu drona.</VFE_Mechanoids_Autocleaner.description>
+  <VFE_Mechanoids_Autocleaner.tools.0.label>głowa</VFE_Mechanoids_Autocleaner.tools.0.label>
+
+  <VFE_Mechanoids_Autohauler.label>autohauler</VFE_Mechanoids_Autohauler.label>
+  <VFE_Mechanoids_Autohauler.description>Dron z bieżnikiem, prostolinijny, zdolny unieść wielokrotnie swoją wagę za pomocą hydraulicznego pazura, a jednocześnie wolno się poruszający, jest dość energooszczędny w porównaniu z większością dronów.</VFE_Mechanoids_Autohauler.description>
+  <VFE_Mechanoids_Autohauler.tools.0.label>głowa</VFE_Mechanoids_Autohauler.tools.0.label>
+
+  <VFE_Mechanoids_Autominer.label>autominer</VFE_Mechanoids_Autominer.label>
+  <VFE_Mechanoids_Autominer.description>Ufortyfikowana, czterokołowa maszyna z dużym ramieniem wiertniczym i szeregiem jednostek łopat. Ta jednostka porusza się szybko i jest w stanie szybko przecinać skały i kamienie, jednak żywotność baterii pozostawia wiele do życzenia. Wydobywany materiał nie jest przewożony.</VFE_Mechanoids_Autominer.description>
+  <VFE_Mechanoids_Autominer.tools.0.label>głowa</VFE_Mechanoids_Autominer.tools.0.label>
+
+  <VFE_Mechanoids_Combat.label>bojowy mechanoid</VFE_Mechanoids_Combat.label>
+  <VFE_Mechanoids_Combat.description>Prosty, dystansowy dron bojowy, nieco mniejszy niż normalny człowiek. Patrole wyznaczają obszary analizujące pobliskie zagrożenia i autonomicznie je atakują.</VFE_Mechanoids_Combat.description>
+  <VFE_Mechanoids_Combat.tools.0.label>głowa</VFE_Mechanoids_Combat.tools.0.label>
+
+  <VFE_Mechanoids_Riot.label>Riot Mechanoid</VFE_Mechanoids_Riot.label>
+  <VFE_Mechanoids_Riot.description>Prosty dron walczący w zwarciu, nieco mniejszy od zwykłego człowieka. Patrole wyznaczają obszary analizujące pobliskie zagrożenia i autonomicznie je zwalczają.</VFE_Mechanoids_Riot.description>
+  <VFE_Mechanoids_Riot.tools.0.label>nóż</VFE_Mechanoids_Riot.tools.0.label>
+  <VFE_Mechanoids_Riot.tools.1.label>tarcza</VFE_Mechanoids_Riot.tools.1.label>
+
+  <VFE_Mechanoids_Turret.label>mobilna wieżyczka</VFE_Mechanoids_Turret.label>
+  <VFE_Mechanoids_Turret.description>Prosta platforma z bieżnikiem z miejscem na solidne zainstalowanie wieży, co zapewnia mobilną siłę ognia bez ryzyka.</VFE_Mechanoids_Turret.description>
+  <VFE_Mechanoids_Turret.tools.0.label>głowa</VFE_Mechanoids_Turret.tools.0.label>
+
+  <VFE_Mechanoids_Autostrider.label>autostrider</VFE_Mechanoids_Autostrider.label>
+  <VFE_Mechanoids_Autostrider.description>Ten przypominający drona mechanoid jest powolny, ale ma dużą nośność i bardzo wydajne mechanizmy, dzięki czemu doskonale nadaje się na partnera podczas długich wypraw karawanowych. Może być również dosiadany przez pionki, aby zwiększyć prędkość podróży. Konstrukcja zawiera wewnętrzną baterię rozszczepieniową o dużej pojemności, którą można naładować w Doku, aby utrzymać energię na długich dystansach.</VFE_Mechanoids_Autostrider.description>
+  <VFE_Mechanoids_Autostrider.tools.0.label>głowa</VFE_Mechanoids_Autostrider.tools.0.label>
+
+  <VFE_Mechanoids_AutoMedic.label>auto-medyk</VFE_Mechanoids_AutoMedic.label>
+  <VFE_Mechanoids_AutoMedic.description>Wytrzymały półautonomiczny dron nieco wyższy od przeciętnego człowieka. Standardowo wyposażony jest w zestaw aparatury diagnostycznej i medycznej oraz zaawansowany pokład ogniskowy, zdolny do skanowania w locie i analizy na poziomie mikroskopowym. Dron ten jest w stanie leczyć rany i opiekować się chorymi na poziomie amatorskim, pod warunkiem, że zapewnione są lekarstwa.</VFE_Mechanoids_AutoMedic.description>
+  <VFE_Mechanoids_AutoMedic.tools.0.label>głowa</VFE_Mechanoids_AutoMedic.tools.0.label>
+
+
+  <!-- <ThingDef ParentName="BaseVFEMachine">
+		<defName>VFE_Mechanoids_Autobuilder</defName>
+		<label>autobuilder</label>
+		<description>A sturdy semi-autonomous drone slightly taller than an average human. A wide corneal auspex and a set of simple tools allow this drone to do things such as swiftly assemble furniture or erect walls at an amateur skill level.</description>
+		<statBases>
+			<MoveSpeed>1.9</MoveSpeed>
+			<ArmorRating_Blunt>0.22</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.22</ArmorRating_Sharp>
+			<PsychicSensitivity>0.25</PsychicSensitivity>
+			<ConstructSuccessChance>2</ConstructSuccessChance>
+		</statBases>
+		<tools>
+			<li>
+				<label>head</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>2</power>
+				<cooldownTime>2.6</cooldownTime>
+				<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+				<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+			</li>
+		</tools>
+		<race>
+			<intelligence>ToolUser</intelligence>
+			<thinkTreeMain>VFE_Mechanoids_Machine</thinkTreeMain>
+			<body>Lancer</body>
+			<baseBodySize>1</baseBodySize>
+			<baseHealthScale>4</baseHealthScale>
+			<lifeStageAges>
+				<li>
+					<def>MechanoidFullyFormed</def>
+					<minAge>0</minAge>
+					<soundWounded>VFE_Pawn_HandmadeMech_Wounded</soundWounded>
+					<soundDeath>VFE_Pawn_HandmadeMech_Death</soundDeath>
+					<soundCall>VFE_Pawn_HandmadeMech_Call</soundCall>
+				</li>
+			</lifeStageAges>
+			<soundCallIntervalRange>1000~2000</soundCallIntervalRange>
+			<soundMeleeHitPawn>Pawn_Melee_MechanoidBash_HitPawn</soundMeleeHitPawn>
+			<soundMeleeHitBuilding>Pawn_Melee_MechanoidBash_HitBuilding</soundMeleeHitBuilding>
+			<soundMeleeMiss>Pawn_Melee_MechanoidBash_Miss</soundMeleeMiss>
+		</race>
+		<butcherProducts>
+			<VFE_ComponentMechanoid>1</VFE_ComponentMechanoid>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>20</Plasteel>
+		</butcherProducts>
+		<comps>
+			<li Class="VFE.Mechanoids.CompProperties_Machine">
+				<hoursActive>96</hoursActive>
+			</li>
+		</comps>
+	</ThingDef>
+	<PawnKindDef ParentName="VFEMachineBase">
+		<defName>VFE_Mechanoids_Autobuilder</defName>
+		<label>autobuilder</label>
+		<race>VFE_Mechanoids_Autobuilder</race>
+		<combatPower>99999</combatPower>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/Automation/Autobuilder/Autobuilder</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>1.8</drawSize>
+					<shadowData>
+						<volume>(0.6, 0.8, 0.6)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef> -->
+
+  <VFE_Mechanoids_Raider.label>mechanoid raider</VFE_Mechanoids_Raider.label>
+  <VFE_Mechanoids_Raider.description>Prosty w obsłudze dron bojowy o zasięgu zbliżonym do wielkości normalnego człowieka. Choć nie jest w stanie patrolować okolicy w poszukiwaniu wrogów, może przemieszczać się na duże odległości i najeżdżać wrogie placówki wraz z kolonistami.</VFE_Mechanoids_Raider.description>
+  <VFE_Mechanoids_Raider.tools.0.label>głowa</VFE_Mechanoids_Raider.tools.0.label>
+
+  <VFE_Mechanoids_Pyro.label>pyro mechanoid</VFE_Mechanoids_Pyro.label>
+  <VFE_Mechanoids_Pyro.description>Prosty w obsłudze dron demolujący bliskiego zasięgu, mniejszy od normalnego człowieka. Patroluje wyznaczone obszary, analizując pobliskie zagrożenia i autonomicznie atakuje je za pomocą miotacza ognia.</VFE_Mechanoids_Pyro.description>
+  <VFE_Mechanoids_Pyro.tools.0.label>głowa</VFE_Mechanoids_Pyro.tools.0.label>
+
+  <VFE_Mechanoids_Autobroadcaster.label>autobroadcaster</VFE_Mechanoids_Autobroadcaster.label>
+  <VFE_Mechanoids_Autobroadcaster.description>Średnio szybki, prosty w obsłudze, kołowy dron, który patroluje wyznaczone obszary i zapewnia pobliskim kolonistom albo pasywną formę wypoczynku poprzez cichą i relaksującą muzykę, podniosłą muzykę inspirującą lub głośną propagandę, która zwiększa pewność każdego, kto ją usłyszy.</VFE_Mechanoids_Autobroadcaster.description>
+  <VFE_Mechanoids_Autobroadcaster.tools.0.label>głowa</VFE_Mechanoids_Autobroadcaster.tools.0.label>
+
+
+</LanguageData>

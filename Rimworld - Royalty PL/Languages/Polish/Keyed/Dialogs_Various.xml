@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal Titles -->
+  <RoyalFavorDescription>Kwota {FACTION_royalFavorLabel}, którą Twój negocjator osobiście otrzyma w wyniku tej umowy.</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>Wymagana odzież</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>Minimalna jakość odzieży</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>Wymagania dotyczące sypialni</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Wymagania dotyczące sali tronowej</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipPermits>Uprawnienia do tytułu</RoyalTitleTooltipPermits>
+  <RoomRequirementArea>powierzchnia pokoju: {0} kafelki</RoomRequirementArea>
+  <RoomRequirementImpressiveness>efektowność pokoju</RoomRequirementImpressiveness>
+  <RoomRequirementAllFloored>wszystkie podłogi</RoomRequirementAllFloored>
+  <RoomRequirementAllBraziersMustBeLit>wszystkie piecyki muszą być zapalone</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllFineFloored>wszystko dobrze na podłodze?</RoomRequirementAllFineFloored>
+  <RoomRequirementNoProductionFacilities>niedozwolone miejsca pracy</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoBeds>nie wolno spać</RoomRequirementNoBeds>
+  <RoyalTitleRequiredApparelStatDescription>Posiadacze tego tytułu muszą być objęci pewną kombinacją</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPrestigeArmor>Dowolna prestiżowa zbroja</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPsycasterApparel>Wszelkie ubrania psychodeliczne</ApparelRequirementAnyPsycasterApparel>
+  <DisabledWorkTypes>Niedozwolone rodzaje pracy</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>Dozwolone pokarmy</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>Posiadacz tego tytułu będzie jadł tylko te produkty, chyba że głoduje lub jest w przyczepie kempingowej.</RoyalTitleRequiredMealsDesc>
+
+  <!-- Royal implants -->
+  <RoyalImplantIllegalUseWarning>Zgodnie z prawem {FACTION_name}, aby legalnie używać {IMPLANT}, trzeba mieć tytuł {TITLE}.\n\n{VIOLATIONTRIGGER}, istnieje szansa, że ​​{FACTION_name} wykryje jej psychiczny podpis. Doprowadzi to do konsekwencji dyplomatycznych.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>Czy mimo to zainstalować ten implant?</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>Czy mimo to uaktualnić ten implant?</RoyalImplantUpgradeConfirmation>
+
+  <!-- Royal weapons -->
+  <BladelinkEquipWarning>Po związaniu się z posiadaczem, osobowość broni nie będzie mogła być używana przez nikogo innego.</BladelinkEquipWarning>
+  <BladelinkEquipWarningTraits>Broń ma następujące cechy</BladelinkEquipWarningTraits>
+  <RoyalWeaponEquipConfirmation>Czy na pewno chcesz wyposażyć ten przedmiot?</RoyalWeaponEquipConfirmation>
+
+  <!-- Psycasts -->
+  <AbilityTargetPsychicallyDeaf>Cel jest głuchy psychicznie.</AbilityTargetPsychicallyDeaf>
+  <PsycastIsIllegal>To jest nielegalne dla {PAWN_labelShort}. Wymaga tytułu {TITLE}.</PsycastIsIllegal>
+
+  <!-- Warning -->
+  <QuestGivesRoyalFavor>Ta misja nagrodzi {FACTION_royalFavorLabel}, a tym samym królewskie tytuły dla {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <RoyalIncapableOfSocial>{PAWN_labelShort} nie może wykonywać zadań społecznych. Osoby z królewskimi tytułami mają duże zapotrzebowanie na umiejętności społeczne, więc jeśli {PAWN_labelShort} zdobędzie tytuł, {PAWN_pronoun} może mieć trudności. Inny kolonista może być bardziej towarzyski.</RoyalIncapableOfSocial>
+  <RoyalWithConceitedTrait>Ponieważ {PAWN_labelShort} to {2}, {PAWN_pronoun} zażąda pełnego przestrzegania przywilejów tytułu. {PAWN_labelShort} może odmówić wykonywania pewnych rodzajów pracy lub spożywania niskowartościowego jedzenia i wydaje dekrety. Inny kolonista byłby prawdopodobnie bardziej elastyczny.</RoyalWithConceitedTrait>
+  <RoyalWithTraitAffectingPsylinkNegatively>Ponieważ {PAWN_labelShort} to {2}, psylink może nie być przydatny dla {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <PsylinkTooLowForGainAbility>Psychlink {PAWN_labelShort} nie jest na wystarczająco wysokim poziomie, aby użyć {ABILITY}.\n\nZdobądź tę moc mimo wszystko?</PsylinkTooLowForGainAbility>
+  <SendShuttleWithNoContents>Ten wahadłowiec jest pusty. Jeśli go odeślesz, nie będziesz mógł go ponownie użyć.\n\nCzy mimo to wysłać?</SendShuttleWithNoContents>
+  <DropResourcesOverweightConfirm>Zasoby te obciążą karawanę i uniemożliwią jej poruszanie się.\n\nWzywać je mimo to?</DropResourcesOverweightConfirm>
+
+</LanguageData>

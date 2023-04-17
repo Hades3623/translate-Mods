@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Gun_Plasmacutter.label>plasmacutter</VFE_Gun_Plasmacutter.label>
+  <VFE_Gun_Plasmacutter.description>Górniczy pistolet z metalowymi pociskami owiniętymi w plazmę, utrzymywany w miejscu przez pole energetyczne. Cele są zarówno przecinane przez metalowy rdzeń, jak i spalane lub zapalane przez powlekanie plazmowe. Ta broń ma szansę na zadanie trafień krytycznych, z możliwością bezpośredniego odcięcia kończyny.</VFE_Gun_Plasmacutter.description>
+  <VFE_Gun_Plasmacutter.tools.0.label>Zbiory</VFE_Gun_Plasmacutter.tools.0.label>
+  <VFE_Gun_Plasmacutter.tools.1.label>beczka</VFE_Gun_Plasmacutter.tools.1.label>
+
+  <Bullet_Plasmacutter.label>strzał z noża plazmowego</Bullet_Plasmacutter.label>
+
+  <VFE_Gun_Plasmapiercer.label>plasmapiercer</VFE_Gun_Plasmapiercer.label>
+  <VFE_Gun_Plasmapiercer.description>Ciężki karabin zdolny do wystrzeliwania gwoździ z rdzeniem metalicznym pokrytych plazmą i utrzymywanych w miejscu przez pole energii. Pociski te doskonale sprawdzają się w zatrzymywaniu większych celów i mogą powalić większość wrogów wielkości człowieka na ziemię.</VFE_Gun_Plasmapiercer.description>
+  <VFE_Gun_Plasmapiercer.tools.0.label>Zbiory</VFE_Gun_Plasmapiercer.tools.0.label>
+  <VFE_Gun_Plasmapiercer.tools.1.label>beczka</VFE_Gun_Plasmapiercer.tools.1.label>
+
+  <Bullet_Plasmapiercer.label>zastrzelony plazmapiercer</Bullet_Plasmapiercer.label>
+
+  <VFE_Gun_PlasmabeamRifle.label>karabin plazmy</VFE_Gun_PlasmabeamRifle.label>
+  <VFE_Gun_PlasmabeamRifle.description>Karabin dalekiego zasięgu wykorzystujący śrut z rdzeniem metalowym pokryty przegrzanym gazem, utrzymywany w miejscu przez pole energetyczne. Strzały wystrzelone z tego karabinu spalają wszystko, co trafią, ale ze względu na ich niestabilność bardzo trudno jest strzelać z niego dokładnie na duże odległości.</VFE_Gun_PlasmabeamRifle.description>
+  <VFE_Gun_PlasmabeamRifle.tools.0.label>Zbiory</VFE_Gun_PlasmabeamRifle.tools.0.label>
+  <VFE_Gun_PlasmabeamRifle.tools.1.label>beczka</VFE_Gun_PlasmabeamRifle.tools.1.label>
+
+  <Bullet_PlasmaBeam.label>wiązka plazmy</Bullet_PlasmaBeam.label>
+
+  <VFE_Gun_PlasmaScattergun.label>pistolet plazmowy</VFE_Gun_PlasmaScattergun.label>
+  <VFE_Gun_PlasmaScattergun.description>Pistolet rozproszeniowy do walki w zwarciu strzela odłamkami stopionego metalu, utrzymywanego w tym stanie dzięki przegrzanemu gazowi owiniętemu wokół rdzeni. Zadaje wrogom dużą liczbę ran poparzeniowych, najczęściej eliminując zagrożenia jednym strzałem. Ze względu na niestabilny charakter pocisków ma bardzo krótki zasięg.</VFE_Gun_PlasmaScattergun.description>
+  <VFE_Gun_PlasmaScattergun.tools.0.label>Zbiory</VFE_Gun_PlasmaScattergun.tools.0.label>
+  <VFE_Gun_PlasmaScattergun.tools.1.label>beczka</VFE_Gun_PlasmaScattergun.tools.1.label>
+
+  <Bullet_PlasmaScatter.label>strzał z plazmy</Bullet_PlasmaScatter.label>
+
+  <VFE_Plasmasaw.label>piła plazmowa</VFE_Plasmasaw.label>
+  <VFE_Plasmasaw.description>Neo-przemysłowa piła z rdzeniem metalowym z ostrzem wykonanym z plazmy, utrzymywana w miejscu przez pole energetyczne. Cele są zarówno przecinane przez metalowy rdzeń, jak i spalane lub zapalane przez łańcuch plazmy.</VFE_Plasmasaw.description>
+  <VFE_Plasmasaw.tools.0.label>łańcuch plazmowy</VFE_Plasmasaw.tools.0.label>
+
+
+</LanguageData>

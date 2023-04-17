@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_TobaccoHigh.label>wysoki tytoń</VBE_TobaccoHigh.label>
+  <VBE_TobaccoHigh.description>Nikotyna we krwi. Generuje delikatne uczucie rozmytego samopoczucia.</VBE_TobaccoHigh.description>
+  <VBE_TobaccoHigh.labelNoun>haj tytoniowy</VBE_TobaccoHigh.labelNoun>
+
+  <VBE_DeluxeTobaccoHigh.label>wysokiej jakości wysoki tytoń</VBE_DeluxeTobaccoHigh.label>
+  <VBE_DeluxeTobaccoHigh.description>Nikotyna we krwi. Generuje delikatne uczucie rozmytego samopoczucia.</VBE_DeluxeTobaccoHigh.description>
+  <VBE_DeluxeTobaccoHigh.labelNoun>wysokiej jakości haj tytoniowy</VBE_DeluxeTobaccoHigh.labelNoun>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <VBE_TobaccoTolerance.label>tolerancja na tytoń</VBE_TobaccoTolerance.label>
+  <VBE_TobaccoTolerance.description>Narastająca tolerancja na tytoń. Im ostrzejsza jest ta tolerancja, tym więcej tytoniu potrzeba, aby uzyskać ten sam efekt.</VBE_TobaccoTolerance.description>
+
+  <VBE_TobaccoAddiction.label>uzależnienie od tytoniu</VBE_TobaccoAddiction.label>
+  <VBE_TobaccoAddiction.description>Chemiczne uzależnienie od tytoniu. Długotrwałe używanie tytoniu spowodowało neurologiczne adaptacje na poziomie komórkowym, więc mózg nie może już prawidłowo funkcjonować bez tej substancji.
+\n bez regularnych dawek tytoniu zaczną się objawy odstawienia. Jednak przedłużona abstynencja zmusi mózg do powrotu do normalnego stanu, rozwiązując nałóg.</VBE_TobaccoAddiction.description>
+  <VBE_TobaccoAddiction.stages.1.label>wycofanie</VBE_TobaccoAddiction.stages.1.label>
+
+
+</LanguageData>

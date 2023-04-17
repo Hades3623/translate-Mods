@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ANKLE PART -->
+
+  <SZ_Ankle.label>kostka</SZ_Ankle.label>
+
+
+  <!-- ANKLE BONES -->
+
+  <SZ_Calcaneus.label>piętowa</SZ_Calcaneus.label>
+  <SZ_Talus.label>skokowa</SZ_Talus.label>
+  <SZ_Cuboid.label>sześcienna</SZ_Cuboid.label>
+  <SZ_Navicular.label>chrząstka stawowa</SZ_Navicular.label>
+  <SZ_Medial_Cuneiform.label>środkowa część kości klinowej</SZ_Medial_Cuneiform.label>
+  <SZ_Intermediate_Cuneiform.label>klinowata pośrednia</SZ_Intermediate_Cuneiform.label>
+  <SZ_Lateral_Cuneiform.label>boczna część kości klinowej</SZ_Lateral_Cuneiform.label>
+
+
+  <!-- FOOT BONES -->
+
+  <SZ_Metatarsal.label>śródstopia</SZ_Metatarsal.label>
+  <SZ_Proximal_Phalange_Foot.label>bliższy paliczek</SZ_Proximal_Phalange_Foot.label>
+  <SZ_Intermediate_Phalange_Foot.label>paliczek pośredni</SZ_Intermediate_Phalange_Foot.label>
+  <SZ_Distal_Phalange_Foot.label>dystalny paliczek</SZ_Distal_Phalange_Foot.label>
+
+
+</LanguageData>

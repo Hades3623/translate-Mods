@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeCocktailSimple.label>zrobić prosty koktajl</VBE_MakeCocktailSimple.label>
+  <VBE_MakeCocktailSimple.description>Przygotuj prosty koktajl z dwóch składników.</VBE_MakeCocktailSimple.description>
+  <VBE_MakeCocktailSimple.jobString>Robienie prostego koktajlu.</VBE_MakeCocktailSimple.jobString>
+
+  <VBE_MakeCocktailFine.label>zrobić dobry koktajl</VBE_MakeCocktailFine.label>
+  <VBE_MakeCocktailFine.description>Zrób dobry koktajl, dokładnie wymieszany z wielu składników.</VBE_MakeCocktailFine.description>
+  <VBE_MakeCocktailFine.jobString>Robię dobry koktajl.</VBE_MakeCocktailFine.jobString>
+
+  <VBE_MakeCocktailLavish.label>zrobić wystawny koktajl</VBE_MakeCocktailLavish.label>
+  <VBE_MakeCocktailLavish.description>Przygotuj obfity koktajl, wymieszany z szerokiej gamy składników i schłodzony do perfekcji, a następnie starannie wstrząśnięty i podany.</VBE_MakeCocktailLavish.description>
+  <VBE_MakeCocktailLavish.jobString>Robię wystawny koktajl.</VBE_MakeCocktailLavish.jobString>
+
+
+</LanguageData>

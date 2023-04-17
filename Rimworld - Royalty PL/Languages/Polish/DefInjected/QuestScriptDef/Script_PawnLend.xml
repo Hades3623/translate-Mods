@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PawnLend.questNameRules.rulesStrings.0>questName-&gt;[worker] Outsourcing</PawnLend.questNameRules.rulesStrings.0>
+  <PawnLend.questNameRules.rulesStrings.1>questName-&gt;Contract [worker]s</PawnLend.questNameRules.rulesStrings.1>
+  <PawnLend.questNameRules.rulesStrings.2>questName-&gt;Temporary Workers</PawnLend.questNameRules.rulesStrings.2>
+  <PawnLend.questNameRules.rulesStrings.3>questName-&gt;[worker] Lending</PawnLend.questNameRules.rulesStrings.3>
+  <PawnLend.questNameRules.rulesStrings.4>questName-&gt;[worker]s for [asker_faction_name]</PawnLend.questNameRules.rulesStrings.4>
+  <PawnLend.questNameRules.rulesStrings.5>questName-&gt;Provisional [worker]s</PawnLend.questNameRules.rulesStrings.5>
+  <PawnLend.questNameRules.rulesStrings.6>questName-&gt;Requesting [worker]s</PawnLend.questNameRules.rulesStrings.6>
+  <PawnLend.questNameRules.rulesStrings.7>worker-&gt;Colonist</PawnLend.questNameRules.rulesStrings.7>
+  <PawnLend.questNameRules.rulesStrings.8>worker-&gt;Worker</PawnLend.questNameRules.rulesStrings.8>
+  <PawnLend.questNameRules.rulesStrings.9>worker-&gt;Laborer</PawnLend.questNameRules.rulesStrings.9>
+  <PawnLend.questNameRules.rulesStrings.10>worker-&gt;Helper</PawnLend.questNameRules.rulesStrings.10>
+  <PawnLend.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)-&gt;[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] needs extra hands to help [dutyDescription].\n\n[asker_pronoun] is asking you to lend [asker_objective] [colonistCountToLend] for [lendForDays] days.\n\n[willSendShuttle]</PawnLend.questDescriptionRules.rulesStrings.0>
+  <PawnLend.questDescriptionRules.rulesStrings.1>disease-&gt;flu</PawnLend.questDescriptionRules.rulesStrings.1>
+  <PawnLend.questDescriptionRules.rulesStrings.2>disease-&gt;plague</PawnLend.questDescriptionRules.rulesStrings.2>
+  <PawnLend.questDescriptionRules.rulesStrings.3>disease-&gt;malaria</PawnLend.questDescriptionRules.rulesStrings.3>
+  <PawnLend.questDescriptionRules.rulesStrings.4>disease-&gt;infection</PawnLend.questDescriptionRules.rulesStrings.4>
+  <PawnLend.questDescriptionRules.rulesStrings.5>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] needs people to help [dutyRoyalDescription].\n\n[asker_pronoun] is asking you to lend [colonistCountToLend] to serve [asker_objective] for [lendForDays] days.\n\n[willSendShuttle]</PawnLend.questDescriptionRules.rulesStrings.5>
+  <PawnLend.questDescriptionRules.rulesStrings.6>colonistCountToLend(colonistsToLendCount==1)-&gt;1 colonist</PawnLend.questDescriptionRules.rulesStrings.6>
+  <PawnLend.questDescriptionRules.rulesStrings.7>colonistCountToLend(colonistsToLendCount&gt;1)-&gt;[colonistsToLendCount] colonists</PawnLend.questDescriptionRules.rulesStrings.7>
+  <PawnLend.questDescriptionRules.rulesStrings.8>willSendShuttle-&gt;[asker_pronoun] will send a shuttle to pick up the [colonists].</PawnLend.questDescriptionRules.rulesStrings.8>
+  <PawnLend.questDescriptionRules.rulesStrings.9>colonists(colonistsToLendCount==1)-&gt;colonist</PawnLend.questDescriptionRules.rulesStrings.9>
+  <PawnLend.questDescriptionRules.rulesStrings.10>colonists(colonistsToLendCount&gt;1)-&gt;colonists</PawnLend.questDescriptionRules.rulesStrings.10>
+  <PawnLend.questDescriptionRules.rulesStrings.11>pawnListHaveConjugation(colonistsToLendCount==1)-&gt;has</PawnLend.questDescriptionRules.rulesStrings.11>
+  <PawnLend.questDescriptionRules.rulesStrings.12>pawnListHaveConjugation(colonistsToLendCount&gt;1)-&gt;have</PawnLend.questDescriptionRules.rulesStrings.12>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.0>dutyDescription-&gt;gather the harvest</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.0>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.1>dutyDescription-&gt;fortify a settlement</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.1>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.2>dutyDescription-&gt;set up a settlement</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.2>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.3>dutyDescription-&gt;watch for raiders</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.3>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.4>dutyDescription-&gt;set up a hospital</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.4>
+  <PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.5>dutyDescription-&gt;contain an outbreak of [disease]</PawnLend.root.nodes.5.nodes.0.nodes.1.rules.rulesStrings.5>
+  <PawnLend.root.nodes.5.nodes.0.nodes.2.name>returnLetterText</PawnLend.root.nodes.5.nodes.0.nodes.2.name>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.0>dutyRoyalDescription-&gt;prepare a ceremony</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.0>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.1>dutyRoyalDescription-&gt;negotiate with a tribe</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.1>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.2>dutyRoyalDescription-&gt;explore a swamp</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.2>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.3>dutyRoyalDescription-&gt;translate a book</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.3>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.4>dutyRoyalDescription-&gt;set up a training ground</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.4>
+  <PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.5>dutyRoyalDescription-&gt;harvest crops</PawnLend.root.nodes.5.nodes.1.nodes.1.rules.rulesStrings.5>
+  <PawnLend.root.nodes.5.nodes.1.nodes.2.name>returnLetterText</PawnLend.root.nodes.5.nodes.1.nodes.2.name>
+  <PawnLend.root.nodes.8.node.nodes.3.label>Shuttle arrived</PawnLend.root.nodes.8.node.nodes.3.label>
+  <PawnLend.root.nodes.8.node.nodes.3.text>The shuttle has arrived to collect [colonistsToLendCount] of your colonists.</PawnLend.root.nodes.8.node.nodes.3.text>
+  <PawnLend.root.nodes.9.node.nodes.0.label>Shuttle destroyed</PawnLend.root.nodes.9.node.nodes.0.label>
+  <PawnLend.root.nodes.9.node.nodes.0.text>The shuttle sent to collect colonists has been destroyed.</PawnLend.root.nodes.9.node.nodes.0.text>
+  <PawnLend.root.nodes.11.node.nodes.0.label>Colonists returned</PawnLend.root.nodes.11.node.nodes.0.label>
+  <PawnLend.root.nodes.11.node.nodes.0.text>$returnLetterText</PawnLend.root.nodes.11.node.nodes.0.text>
+
+
+</LanguageData>

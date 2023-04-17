@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_AmbrandyAwful.label>Ambrandy (okropna)</VBE_AmbrandyAwful.label>
+  <VBE_AmbrandyAwful.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyAwful.description>
+  <VBE_AmbrandyAwful.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+  <VBE_AmbrandyAwful.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+
+  <VBE_AmbrandyPoor.label>Ambrandy (biedna)</VBE_AmbrandyPoor.label>
+  <VBE_AmbrandyPoor.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyPoor.description>
+  <VBE_AmbrandyPoor.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+  <VBE_AmbrandyPoor.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+
+  <VBE_AmbrandyNormal.label>Ambrandy (normalna)</VBE_AmbrandyNormal.label>
+  <VBE_AmbrandyNormal.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n 
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyNormal.description>
+  <VBE_AmbrandyNormal.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+  <VBE_AmbrandyNormal.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+
+  <VBE_AmbrandyGood.label>Ambrandy (dobra)</VBE_AmbrandyGood.label>
+  <VBE_AmbrandyGood.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n 
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyGood.description>
+  <VBE_AmbrandyGood.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+  <VBE_AmbrandyGood.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyGood.ingestible.ingestReportString>
+
+  <VBE_AmbrandyExcellent.label>ambrandy (doskonała)</VBE_AmbrandyExcellent.label>
+  <VBE_AmbrandyExcellent.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n 
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyExcellent.description>
+  <VBE_AmbrandyExcellent.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+  <VBE_AmbrandyExcellent.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+
+  <VBE_AmbrandyMasterwork.label>ambrandy (arcydzieło)</VBE_AmbrandyMasterwork.label>
+  <VBE_AmbrandyMasterwork.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n 
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyMasterwork.description>
+  <VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+  <VBE_AmbrandyMasterwork.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+
+  <VBE_AmbrandyLegendary.label>Ambrandy (legendarna)</VBE_AmbrandyLegendary.label>
+  <VBE_AmbrandyLegendary.description>Ambrandy, znany również jako „płynne słońce”, to dwukrotnie sfermentowany, destylowany truneknajwyższego kalibru. Arystokraci z Glitterworld są znani z wysyłania całych prywatnych milicji, aby pomagały w wysyłaniu pojedynczych butelek. \n 
+Poza tym, że są wystarczająco aromatyczne, by doprowadzić kogoś do łez, badania wykazały, że ten trunek, gdy głęboko się postarzał, powoduje zwiększoną stymulację w części ludzkiego mózgu znanej z artystycznej kreatywność i ekspresja, a jednocześnie tłumi część mózgu kontrolującą emocje. 
+ 
+Nawet sama butelka jest piękna do zobaczenia, gdy zostanie uderzonanawetnajmniejszą ilością jasnych złotych drobinek tańczących w płynie, jak żar powstanie z ogniska. Chociaż Ambrandy można mieszać w koktajle, ci nieliczni, którzy mieli zaszczyt pić go, twierdzą, że jest najlepszy sam.</VBE_AmbrandyLegendary.description>
+  <VBE_AmbrandyLegendary.ingestible.ingestCommandString>Pij {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+  <VBE_AmbrandyLegendary.ingestible.ingestReportString>Picie {0}.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+
+
+</LanguageData>

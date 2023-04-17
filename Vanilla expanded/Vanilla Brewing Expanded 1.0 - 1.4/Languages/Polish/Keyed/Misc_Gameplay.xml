@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_InsertSyrupDesc>Syrop do wstawienia</VBE_InsertSyrupDesc>
+  <VBE_StartInsertion>Przynieś syrop</VBE_StartInsertion>
+  <VBE_StartInsertionDesc>Przynieś syrop do fontanny sodowej, aby rozpocząć przetwarzanie</VBE_StartInsertionDesc>
+  <VBE_CancelBringingSyrup>Anuluj przynoszenie syropu</VBE_CancelBringingSyrup>
+  <VBE_CancelBringingSyrupDesc>Anuluj przynoszenie syropu do fontanny.</VBE_CancelBringingSyrupDesc>
+  <VBE_SyrupFailurePower>Soda zepsuła się z powodu awarii zasilania w fontannie</VBE_SyrupFailurePower>
+
+  <VBE_InsertAmbMustDesc>Musi wstawić</VBE_InsertAmbMustDesc>
+  <VBE_StartInsertionAmbMust>Przynieś Must</VBE_StartInsertionAmbMust>
+  <VBE_StartInsertionAmbMustDesc>Przynieś moszcz Ambrandy do gorzelni Ambrandy, aby rozpocząć fermentację</VBE_StartInsertionAmbMustDesc>
+  <VBE_CancelBringingAmbMust>Anuluj przynosząc konieczność</VBE_CancelBringingAmbMust>
+  <VBE_CancelBringingAmbMustDesc>Anuluj wnoszenie zacieru lub moszczu whisky do beczki po whisky.</VBE_CancelBringingAmbMustDesc>
+  <VBE_AmbrandyFailurePower>Ambrandy zepsuło się z powodu awarii zasilania w gorzelni Ambrandy</VBE_AmbrandyFailurePower>
+  <VBE_RemoveAmbrandy>Usuń Ambrandy ({0})</VBE_RemoveAmbrandy>
+  <VBE_RemoveAmbrandyDesc>Usuń ambrandy z gorzelni Ambrandy. Ambrandy zostanie nabyte na obecnym poziomie jakości ({0})</VBE_RemoveAmbrandyDesc>
+
+  <VBE_InsertMustOrWhiskeyDesc>Zacier lub whisky do wstawienia</VBE_InsertMustOrWhiskeyDesc>
+  <VBE_StartInsertionMustOrWhiskey>Przynieś zacieru lub whisky</VBE_StartInsertionMustOrWhiskey>
+  <VBE_StartInsertionMustOrWhiskeyDesc>Przynieś zacier do beczki po whisky, aby rozpocząć fermentację lub whisky, aby rozpocząć proces podwójnego starzenia</VBE_StartInsertionMustOrWhiskeyDesc>
+  <VBE_CancelBringingMustOrWhiskey>Anuluj Bringing Mash or Whiskey</VBE_CancelBringingMustOrWhiskey>
+
+  <VBE_InsertTequilaMustDesc>Musi wstawić</VBE_InsertTequilaMustDesc>
+  <VBE_StartInsertionTequilaMust>Przynieś moszcz</VBE_StartInsertionTequilaMust>
+  <VBE_StartInsertionTequilaMustDesc>Przynieś moszcz tequili do beczki tequili, aby rozpocząć proces fermentacji</VBE_StartInsertionTequilaMustDesc>
+  <VBE_CancelBringingTequilaMust>Anuluj przynosząc konieczność</VBE_CancelBringingTequilaMust>
+  <VBE_CancelBringingTequilaMustDesc>Anuluj przynoszenie moszczu z tequilą do beczki z tequilą.</VBE_CancelBringingTequilaMustDesc>
+
+  <VBE_InsertVodkaMustDesc>Mash do wstawienia</VBE_InsertVodkaMustDesc>
+  <VBE_StartInsertionVodkaMust>Bring Mash</VBE_StartInsertionVodkaMust>
+  <VBE_StartInsertionVodkaMustDesc>Przynieś zacier wódkowy do beczki wódki, aby rozpocząć proces fermentacji</VBE_StartInsertionVodkaMustDesc>
+  <VBE_CancelBringingVodkaMust>Anuluj Bringing Mash</VBE_CancelBringingVodkaMust>
+  <VBE_CancelBringingVodkaMustDesc>Anuluj wnoszenie zacieru wódki do bębna z wódką.</VBE_CancelBringingVodkaMustDesc>
+
+  <VBE_InsertGinMushDesc>Mush do wstawienia</VBE_InsertGinMushDesc>
+  <VBE_StartInsertionGinMush>Przynieś Mush</VBE_StartInsertionGinMush>
+  <VBE_StartInsertionGinMushDesc>Dodaj papkę ginową do ginu, aby rozpocząć proces fermentacji</VBE_StartInsertionGinMushDesc>
+  <VBE_CancelBringingGinMush>Anuluj Bringing Mush</VBE_CancelBringingGinMush>
+  <VBE_CancelBringingGinMushDesc>Anuluj wciąż przynoszenie ginu do dżinu.</VBE_CancelBringingGinMushDesc>
+
+
+  <VBE_MushRipening>Dojrzewanie Mush</VBE_MushRipening>
+  <VBE_MushCurrentlyFrozen>Ta papka jest zamrożona i nie dojrzewa na moszcz z ambrandy</VBE_MushCurrentlyFrozen>
+  <VBE_MushCurrentlyRefrigerated>Ta papka jest przechowywana w lodówce i nie rozerwie się na moszcz z ambrandy tak szybko, jak to możliwe (dojrzewa w {0})</VBE_MushCurrentlyRefrigerated>
+  <VBE_MushDryingCorrectly>Ta papka zrywa się do ambrandy, musi poprawnie (dojrzewa w {0})</VBE_MushDryingCorrectly>
+
+  <VBE_CiderMaturing>Dojrzewanie cydru</VBE_CiderMaturing>
+  <VBE_CiderCurrentlyFrozen>Ten niesfermentowany cydr jest zamrożony i nie dojrzeje do cydru</VBE_CiderCurrentlyFrozen>
+  <VBE_CiderCurrentlyRefrigerated>Ten niesfermentowany cydr jest przechowywany w lodówce i nie dojrzewa na cydr tak szybko, jak mógłby (dojrzewa w {0})</VBE_CiderCurrentlyRefrigerated>
+  <VBE_CiderMaturingCorrectly>Ten niesfermentowany cydr dojrzewa prawidłowo do cydru (dojrzewa w {0})</VBE_CiderMaturingCorrectly>
+
+</LanguageData>

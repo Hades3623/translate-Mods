@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_InfestedSmallShipPartDrop.label>awaria zainfekowanego fragmentu</VFEI_InfestedSmallShipPartDrop.label>
+  <VFEI_InfestedSmallShipPartDrop.letterText>W pobliżu rozbiło się kilka małych fragmentów starożytnego statku. 
+ Wydaje się, że są zarażone masą organiczną. W kadłubie słychać dziwne ćwierkanie owadów. 
+ Zniszcz je tak szybko, jak to możliwe.</VFEI_InfestedSmallShipPartDrop.letterText>
+  <VFEI_InfestedSmallShipPartDrop.letterLabel>Awaria zainfekowanego fragmentu</VFEI_InfestedSmallShipPartDrop.letterLabel>
+
+  <VFEI_InfestedShipPartDrop.label>awaria zainfekowanego statku</VFEI_InfestedShipPartDrop.label>
+  <VFEI_InfestedShipPartDrop.letterText>W pobliżu rozbił się duży kawałek starożytnego statku. \ N Wygląda na to, że jest zaatakowany masą organiczną. W kadłubie słychać dziwne ćwierkanie owadów. \n Zniszcz go jak najszybciej.</VFEI_InfestedShipPartDrop.letterText>
+  <VFEI_InfestedShipPartDrop.letterLabel>Awaria zainfekowanego statku</VFEI_InfestedShipPartDrop.letterLabel>
+
+  <VFEI_InfestedShipModuleDrop.label>awaria zainfekowanego modułu statku</VFEI_InfestedShipModuleDrop.label>
+  <VFEI_InfestedShipModuleDrop.letterText>Tajemniczy fragment od dawna zniszczonego statku kosmicznego rozbił się w pobliżu. \n Wydaje się, że jest całkowicie pokryty biomasą i grudkami galaretki owadoidalnej. Jest całkiem pewne, że ten stary wrak może zawierać starożytne niebezpieczeństwa. \n Zniszcz go tak szybko, jak to możliwe.</VFEI_InfestedShipModuleDrop.letterText>
+  <VFEI_InfestedShipModuleDrop.letterLabel>awaria zainfekowanego modułu statku</VFEI_InfestedShipModuleDrop.letterLabel>
+
+  <VFEI_GiantInfestation.label>duża inwazja</VFEI_GiantInfestation.label>
+  <VFEI_GiantInfestation.letterText>Gigantyczne owady tunelują w twoim kierunku! W ciągu kilku sekund przebiją się i zasadzą ule. \n 
+Ule będą rodzić więcej owadów i więcej uli. \n 
+Jeśli nie chcesz, aby owady zaatakowały cały obszar, zniszcz ule. Ale uważaj - robale będą bronić swojego domu. \n 
+Ta plaga wydaje się być dość duża i prowadzona przez królową!</VFEI_GiantInfestation.letterText>
+  <VFEI_GiantInfestation.letterLabel>Duża infestacja</VFEI_GiantInfestation.letterLabel>
+
+  <VFEI_FirstInsectoidRaid.label>nalot</VFEI_FirstInsectoidRaid.label>
+
+
+</LanguageData>

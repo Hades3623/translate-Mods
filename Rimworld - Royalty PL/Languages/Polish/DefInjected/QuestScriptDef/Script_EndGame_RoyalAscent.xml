@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.0>questName(sameQuestsCount==0)-&gt;Royal Ascent</EndGame_RoyalAscent.questNameRules.rulesStrings.0>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.1>questName(sameQuestsCount&gt;=1)-&gt;Royal [titleEnd]</EndGame_RoyalAscent.questNameRules.rulesStrings.1>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.2>titleEnd-&gt;Ascension</EndGame_RoyalAscent.questNameRules.rulesStrings.2>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.3>titleEnd-&gt;Ascendance</EndGame_RoyalAscent.questNameRules.rulesStrings.3>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.4>titleEnd-&gt;Visitor</EndGame_RoyalAscent.questNameRules.rulesStrings.4>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.5>titleEnd-&gt;Guest</EndGame_RoyalAscent.questNameRules.rulesStrings.5>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.6>titleEnd-&gt;Host</EndGame_RoyalAscent.questNameRules.rulesStrings.6>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings.7>titleEnd-&gt;Victory</EndGame_RoyalAscent.questNameRules.rulesStrings.7>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings.0>questDescription-&gt;[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Count of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.
+\nEarning the title of Count means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Count.
+\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]
+\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.
+\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</EndGame_RoyalAscent.questDescriptionRules.rulesStrings.0>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings.1>intro(sameQuestsCount==0)-&gt;You have learned of a way to escape this planet!\n\n</EndGame_RoyalAscent.questDescriptionRules.rulesStrings.1>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings.2>intro(sameQuestsCount&gt;=1)-&gt;You have been given another chance at royal ascent.\n\n</EndGame_RoyalAscent.questDescriptionRules.rulesStrings.2>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings.3>threatsInfo(allowViolentQuests==true,priority=1)-&gt;\n\nOthers will take the opportunity to try to kill the [asker_faction_leaderTitle], and will attack with great intensity. Be prepared to defend.</EndGame_RoyalAscent.questDescriptionRules.rulesStrings.3>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings.4>threatsInfo-&gt;</EndGame_RoyalAscent.questDescriptionRules.rulesStrings.4>
+  <EndGame_RoyalAscent.root.nodes.3.name>lodgersCount</EndGame_RoyalAscent.root.nodes.3.name>
+  <EndGame_RoyalAscent.root.nodes.6.label>Quest failed: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.6.label>
+  <EndGame_RoyalAscent.root.nodes.6.text>[faction_name] became hostile to you. </EndGame_RoyalAscent.root.nodes.6.text>
+  <EndGame_RoyalAscent.root.nodes.10.name>lodgers</EndGame_RoyalAscent.root.nodes.10.name>
+  <EndGame_RoyalAscent.root.nodes.22.name>shuttleDelayTicks</EndGame_RoyalAscent.root.nodes.22.name>
+  <EndGame_RoyalAscent.root.nodes.23.node.nodes.4.label>Shuttle arrived</EndGame_RoyalAscent.root.nodes.23.node.nodes.4.label>
+  <EndGame_RoyalAscent.root.nodes.23.node.nodes.4.text>The shuttle has arrived to collect the [asker_faction_leaderTitle].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life.</EndGame_RoyalAscent.root.nodes.23.node.nodes.4.text>
+  <EndGame_RoyalAscent.root.nodes.24.name>enemyFaction</EndGame_RoyalAscent.root.nodes.24.name>
+  <EndGame_RoyalAscent.root.nodes.26.name>lodgersMoodThreshold</EndGame_RoyalAscent.root.nodes.26.name>
+  <EndGame_RoyalAscent.root.nodes.27.node.nodes.0.label>{SUBJECT_bestRoyalTitle} unhappy</EndGame_RoyalAscent.root.nodes.27.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.27.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect and keep happy, has been below the minimum mood of [lodgersMoodThreshold] too long. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.27.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.28.node.nodes.0.label>Guest died: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.28.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.28.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.28.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.29.node.nodes.0.label>Guest captured: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.29.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.29.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect, has been arrested. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.29.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.30.node.nodes.0.label>Unauthorized surgery: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.30.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.30.node.nodes.0.text>Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.30.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.31.node.nodes.0.label>Guest lost: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.31.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.31.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.31.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.32.node.nodes.0.label>Shuttle destroyed</EndGame_RoyalAscent.root.nodes.32.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.32.node.nodes.0.text>The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.32.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.33.node.nodes.0.label>Guest lost: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.33.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.33.node.nodes.0.text>{SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.33.node.nodes.0.text>
+  <EndGame_RoyalAscent.root.nodes.35.node.nodes.0.label>Quest failed: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.35.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.35.node.nodes.0.text>The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.35.node.nodes.0.text>
+
+
+</LanguageData>

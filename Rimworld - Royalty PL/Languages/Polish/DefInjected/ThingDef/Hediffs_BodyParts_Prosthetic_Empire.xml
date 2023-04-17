@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mindscrew -->
+
+  <Mindscrew.label>Śruba umysłowa</Mindscrew.label>
+  <Mindscrew.description>Zadaje użytkownikowi ciągły ból. Mindscrews są używane przez niektóre władze jako długoterminowa kara. Niektórzy nawet instalują je dobrowolnie jako przejaw ideologicznej lub religijnej pobożności.</Mindscrew.description>
+
+
+  <!-- Drill arm -->
+
+  <DrillArm.label>ramię wiertnicze</DrillArm.label>
+  <DrillArm.description>Mechaniczna wymiana ramienia w celu przyspieszenia wydobycia. Ma wbudowane wiertło węża, które pozwala górnikowi szybko znaleźć i wykorzystać słabe linie w skale. Posiada również manipulator ogólnego przeznaczenia. Jest nieco niezgrabny, co nieco spowalnia ruch.</DrillArm.description>
+
+
+  <!-- Field hand -->
+
+  <FieldHand.label>Pomocnik terenowy</FieldHand.label>
+  <FieldHand.description>Ta mechaniczna wymiana ręczna ma na celu przyspieszenie zadań siewu i zbioru przez rolnika. Wiele teleskopowych występów podobnych do palców może jednocześnie zbierać z kilku punktów na tej samej roślinie lub precyzyjnie wysiewać kilka otworów jednocześnie. Posiada również manipulator ogólnego przeznaczenia. Jest nieco niezgrabny, co nieco spowalnia ruch.</FieldHand.description>
+
+
+  <!-- Hand talon -->
+
+  <HandTalon.label>szpon ręczny</HandTalon.label>
+  <HandTalon.description>Ostry jak brzytwa szpon, który wystaje z ukrytego otworu między palcem środkowym i serdecznym. Szpon jest dłuższy niż dłoń, ale po schowaniu staje się elastyczny, co pozwala użytkownikowi zwinąć go i ukryć w dłoni. Może wykonywać szybkie ataki tnące, ale słabo przebija pancerz.</HandTalon.description>
+
+
+  <!-- Elbow blade -->
+
+  <ElbowBlade.label>ostrze łokcia</ElbowBlade.label>
+  <ElbowBlade.description>Ostre jak brzytwa ostrze, które wysuwa się do woli z ukrytego otworu na końcu kości łokciowej. Pojawiając się bez ostrzeżenia, może być używany do niszczycielskich ataków.</ElbowBlade.description>
+
+
+  <!-- Knee spike -->
+
+  <KneeSpike.label>kolec kolanowy</KneeSpike.label>
+  <KneeSpike.description>Kolec, który wysuwa się do woli z ukrytego otworu z przodu kolana. Pojawiając się bez ostrzeżenia, może być użyty do niszczycielskich ataków dźgających, które przebijają nawet gruby pancerz.</KneeSpike.description>
+
+
+  <!-- venom fangs -->
+
+  <VenomFangs.label>kły jadowe</VenomFangs.label>
+  <VenomFangs.description>Para iniektorów wszczepionych przez kły, podłączonych do pompy jadowej. Użytkownik może ugryźć wroga, wysunąć wstrzykiwacze i wpompować jad w cel.</VenomFangs.description>
+
+
+  <!-- venom talon -->
+
+  <VenomTalon.label>szpon jadu</VenomTalon.label>
+  <VenomTalon.description>Wysuwany szpon palca połączony z pompką jadową w przedramieniu. Użytkownik może podrapać wroga, wstrzykując jad w ranę. Szpon jest przeznaczony do montażu w środkowym palcu. Jest szybki, ale słabo przebija pancerz.</VenomTalon.description>
+
+
+</LanguageData>

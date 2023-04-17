@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blind.label>ślepy</Blind.label>
+  <Blind.description>Ośrodek w mózgu podmiotu, który jest odpowiedzialny za przetwarzanie danych optycznych, został zahamowany, co spowodowało, że są oni całkowicie niewidomi pomimo funkcjonalnego wzroku.</Blind.description>
+
+  <Deaf.label>głuchy</Deaf.label>
+  <Deaf.description>Ośrodek w mózgu podmiotu, który jest odpowiedzialny za przetwarzanie danych słuchowych, został zahamowany, co spowodowało, że osoba ta jest całkowicie głuchota, mimo że mają sprawne kanały ucha wewnętrznego.</Deaf.description>
+
+  <Mute.label>niemy</Mute.label>
+  <Mute.description>Podmiot rozwinął blokadę umysłową i nie może już wydawać dźwięków ustami lub strunami głosowymi, eliminując wszelkie formy mowy.</Mute.description>
+
+  <PsychologicalParalysis.label>paraliż psychologiczny</PsychologicalParalysis.label>
+  <PsychologicalParalysis.description>Centrum mózgu osoby odpowiedzialnej za kontrolę motoryczną w nogach uległo zahamowaniu, co skutecznie powoduje paraplegię.</PsychologicalParalysis.description>
+
+  <PainHypersensitivity.label>nadwrażliwość na ból</PainHypersensitivity.label>
+  <PainHypersensitivity.description>Ośrodek w mózgu badanego, który jest odpowiedzialny za odczuwanie bólu, został nadmiernie rozwinięty, co powoduje, że nawet wycinek papieru ma wrażenie, jakby jego palec był przeżuwany przez dzikie zwierzę.</PainHypersensitivity.description>
+
+
+</LanguageData>

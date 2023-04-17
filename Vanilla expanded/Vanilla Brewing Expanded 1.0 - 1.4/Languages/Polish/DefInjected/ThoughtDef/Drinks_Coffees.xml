@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.stages.0.label>Warzone przebudzenie</VBE_HotCoffeeHigh.stages.0.label>
+  <VBE_HotCoffeeHigh.stages.0.description>Ta kawa była strzałem w dziesiątkę, teraz trochę popracujmy!.</VBE_HotCoffeeHigh.stages.0.description>
+
+  <VBE_IcedCoffeeHigh.stages.0.label>Lodowe przebudzenie</VBE_IcedCoffeeHigh.stages.0.label>
+  <VBE_IcedCoffeeHigh.stages.0.description>Nie ma nic lepszego niż mrożona kawa, aby się odświeżyć.</VBE_IcedCoffeeHigh.stages.0.description>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineWithdrawal.stages.1.label>wycofanie kofeiny</VBE_CaffeineWithdrawal.stages.1.label>
+  <VBE_CaffeineWithdrawal.stages.1.description>Boże, jestem zmęczony. Wszystko jest takie irytujące, ręce mi się trzęsą, a głowa wali.</VBE_CaffeineWithdrawal.stages.1.description>
+
+
+</LanguageData>

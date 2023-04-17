@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Various -->
+
+  <VCEF_FishingGrowingZone>Strefa wędkarska</VCEF_FishingGrowingZone>
+  <VCEF_FishingGrowingZoneDesc>Stwórz strefę, w której Twoi koloniści będą próbowali łowić</VCEF_FishingGrowingZoneDesc>
+
+  <VCEF_ChooseFish>Wybierz połów</VCEF_ChooseFish>
+  <VCEF_ChooseFishDesc>Wybierz preferowany rozmiar ryb do złowienia od zamieszkujących ten biom. Mniejsze ryby potrzebują mniej czasu, ale są mniej pożywne, podczas gdy większe ryby potrzebują więcej czasu i są bardziej pożywne. Średnie ryby są zrównoważone między dwoma ekstremami. Zawsze jest szansa na złowienie różnych ryb lub specjalnych przedmiotów</VCEF_ChooseFishDesc>
+
+
+  <VCEF_ChooseFishSmallLabel>Złap małe ryby</VCEF_ChooseFishSmallLabel>
+  <VCEF_ChooseFishMediumLabel>Złap średnią rybę</VCEF_ChooseFishMediumLabel>
+  <VCEF_ChooseFishLargeLabel>Złap dużą rybę</VCEF_ChooseFishLargeLabel>
+
+  <VCEF_CommandAllowFishing>Zezwól na wędkowanie</VCEF_CommandAllowFishing>
+  <VCEF_CommandAllowFishingDesc>Zezwól na połowy w tej strefie połowów</VCEF_CommandAllowFishingDesc>
+
+  <VCEF_ZoneSetTo>Ta strefa jest przeznaczona do połowu ryb wielkości</VCEF_ZoneSetTo>
+  <VCEF_FishesInThisZone>Ryby w tej strefie:</VCEF_FishesInThisZone>
+  <VCEF_IsZoneOceanZone>Oceaniczna strefa połowów:</VCEF_IsZoneOceanZone>
+  <VCEF_Yes>tak</VCEF_Yes>
+  <VCEF_No>Nie</VCEF_No>
+  <VCEF_ZoneTooSmall>Ta strefa jest za mała. Strefy połowowe muszą mieć co najmniej {0} kafelków, aby były prawidłowe (to obliczenie jest wykonywane co kilka sekund: cofnij pauzę, aby zaktualizować).</VCEF_ZoneTooSmall>
+
+  <VCEF_NoFish>Brak ryb do złowienia w tym biomie (może się to zdarzyć w przypadku zmodyfikowanych biomów, poproś właściciela o dodanie wsparcia! A może jesteś w martwym biomie)</VCEF_NoFish>
+
+  <VCEF_CaughtSpecial>Podczas wędkowania {0} złapał coś wyjątkowego: {1}</VCEF_CaughtSpecial>
+
+  <!-- Options -->
+
+  <VCEF_minimumZoneSize>Minimalny rozmiar strefy połowowej</VCEF_minimumZoneSize>
+  <VCEF_minimumZoneSizeTooltip>Minimalny rozmiar łowiska, domyślnie 25 pól</VCEF_minimumZoneSizeTooltip>
+
+  <VCEF_smallFishDurationFactor>Podstawowy czas trwania wędkowania w kleszczach</VCEF_smallFishDurationFactor>
+  <VCEF_smallFishDurationFactorTooltip>Podstawowy czas trwania wędkowania w kleszczach. Wartość domyślna to 4500 dla małych ryb. Średnie ryby przyjmują tym razem dwa razy więcej, a duże ryby trzy razy więcej. Zmniejszenie tego zwiększa dzienną wydajność żywności i odwrotnie.</VCEF_smallFishDurationFactorTooltip>
+
+  <VCEF_chanceForSpecials>Szansa na zdobycie specjalnego przedmiotu zamiast ryby</VCEF_chanceForSpecials>
+  <VCEF_chanceForSpecialsTooltip>Szansa na zdobycie specjalnego przedmiotu zamiast ryby. Wartość domyślna to 1% na operację połowową.</VCEF_chanceForSpecialsTooltip>
+
+  <VCEF_minMapTempForLowFish>Minimalna temperatura mapy dla zmniejszonego połowu ryb</VCEF_minMapTempForLowFish>
+  <VCEF_minMapTempForLowFishTooltip>Minimalna temperatura mapy dla zmniejszonego połowu ryb. Poniżej tej temperatury wydajność ryb znacznie się zmniejszy. Wartość domyślna to 0ºC.</VCEF_minMapTempForLowFishTooltip>
+
+  <VCEF_maxMapTempForLowFish>Maksymalna temperatura mapy w celu zmniejszenia wydajności ryb</VCEF_maxMapTempForLowFish>
+  <VCEF_maxMapTempForLowFishTooltip>Maksymalna temperatura mapy w celu zmniejszenia wydajności ryb. Powyżej tej temperatury wydajność ryb znacznie się zmniejszy. Wartość domyślna to 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+
+
+
+  <VCEF_dropFish>Rybak upuszcza ryby na ziemię zamiast ciągnąć je do zapasów</VCEF_dropFish>
+
+
+
+
+
+</LanguageData>

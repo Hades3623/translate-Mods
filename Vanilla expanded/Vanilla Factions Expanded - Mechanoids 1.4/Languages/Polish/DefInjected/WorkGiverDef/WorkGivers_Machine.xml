@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_RepairMachine.label>maszyna do naprawy</VFE_Mechanoids_RepairMachine.label>
+  <VFE_Mechanoids_RepairMachine.verb>naprawic</VFE_Mechanoids_RepairMachine.verb>
+  <VFE_Mechanoids_RepairMachine.gerund>naprawa</VFE_Mechanoids_RepairMachine.gerund>
+
+  <VFE_Mechanoids_AttachTurret.label>dołączyć wieżyczkę</VFE_Mechanoids_AttachTurret.label>
+  <VFE_Mechanoids_AttachTurret.verb>dołącz wieżyczkę do</VFE_Mechanoids_AttachTurret.verb>
+  <VFE_Mechanoids_AttachTurret.gerund>dołączanie wieżyczki do</VFE_Mechanoids_AttachTurret.gerund>
+
+
+</LanguageData>

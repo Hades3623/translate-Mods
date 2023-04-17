@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <GauranlenConnectionDesired.stages.0.label>Połączenie Gauranlen</GauranlenConnectionDesired.stages.0.label>
+  <GauranlenConnectionDesired.stages.0.description>Jestem szczęśliwie związany z drzewem Gauranlen.</GauranlenConnectionDesired.stages.0.description>
+  <GauranlenConnectionDesired.stages.1.label>chcesz połączenia Gauranlen</GauranlenConnectionDesired.stages.1.label>
+  <GauranlenConnectionDesired.stages.1.description>Bez połączenia z drzewem Gauranlen czuję się odłączony od natury.</GauranlenConnectionDesired.stages.1.description>
+  <GauranlenConnectionDesired.stages.2.label>chcesz połączenia Gauranlen</GauranlenConnectionDesired.stages.2.label>
+  <GauranlenConnectionDesired.stages.2.description>Bez połączenia z drzewem Gauranlen czuję się odłączony od natury.</GauranlenConnectionDesired.stages.2.description>
+  <GauranlenConnectionDesired.stages.3.label>chcesz połączenia Gauranlen</GauranlenConnectionDesired.stages.3.label>
+  <GauranlenConnectionDesired.stages.3.description>Bez połączenia z drzewem Gauranlen czuję się odłączony od natury.</GauranlenConnectionDesired.stages.3.description>
+  <GauranlenConnectionDesired.stages.4.label>chcesz połączenia Gauranlen</GauranlenConnectionDesired.stages.4.label>
+  <GauranlenConnectionDesired.stages.4.description>Bez połączenia z drzewem Gauranlen czuję się odłączony od natury.</GauranlenConnectionDesired.stages.4.description>
+  <GauranlenConnectionDesired.stages.5.label>chcesz połączenia Gauranlen</GauranlenConnectionDesired.stages.5.label>
+  <GauranlenConnectionDesired.stages.5.description>Bez połączenia z drzewem Gauranlen czuję się odłączony od natury.</GauranlenConnectionDesired.stages.5.description>
+
+  <TreesDesired.stages.0.label>niesamowite drzewa</TreesDesired.stages.0.label>
+  <TreesDesired.stages.0.description>Otacza mnie kilka pięknych, masywnych drzew. Chwała natury mnie zdumiewa!</TreesDesired.stages.0.description>
+  <TreesDesired.stages.1.label>niesamowite drzewo</TreesDesired.stages.1.label>
+  <TreesDesired.stages.1.description>Niedawno zobaczyłem piękne, masywne drzewo - fizyczną siedzibę moralności!</TreesDesired.stages.1.description>
+  <TreesDesired.stages.2.label>niezwykłe drzewa</TreesDesired.stages.2.label>
+  <TreesDesired.stages.2.description>Otacza mnie bujny las.</TreesDesired.stages.2.description>
+  <TreesDesired.stages.3.label>niesamowite drzewo</TreesDesired.stages.3.label>
+  <TreesDesired.stages.3.description>Niedawno zobaczyłem piękne, masywne drzewo.</TreesDesired.stages.3.description>
+  <TreesDesired.stages.4.label>bogaty las</TreesDesired.stages.4.label>
+  <TreesDesired.stages.4.description>Niedawno byłem otoczony bujnym lasem.</TreesDesired.stages.4.description>
+  <TreesDesired.stages.5.label>pełne drzewa</TreesDesired.stages.5.label>
+  <TreesDesired.stages.5.description>Ostatnio widziałem wiele pełnych drzew.</TreesDesired.stages.5.description>
+  <TreesDesired.stages.6.label>drzewa mieszane</TreesDesired.stages.6.label>
+  <TreesDesired.stages.6.description>Ostatnio widziałem wiele różnych drzew.</TreesDesired.stages.6.description>
+  <TreesDesired.stages.7.label>pełne drzewo</TreesDesired.stages.7.label>
+  <TreesDesired.stages.7.description>Niedawno widziałem pełne drzewo.</TreesDesired.stages.7.description>
+  <TreesDesired.stages.8.label>mini drzewa</TreesDesired.stages.8.label>
+  <TreesDesired.stages.8.description>Ostatnio widziałem mnóstwo miniaturowych drzewek.</TreesDesired.stages.8.description>
+  <TreesDesired.stages.9.label>mini drzewo</TreesDesired.stages.9.label>
+  <TreesDesired.stages.9.description>Niedawno widziałem miniaturowe drzewo.</TreesDesired.stages.9.description>
+  <TreesDesired.stages.10.label>nie ma drzewa</TreesDesired.stages.10.label>
+  <TreesDesired.stages.10.description>Dawno nie widziałem żadnych drzew.</TreesDesired.stages.10.description>
+  <TreesDesired.stages.11.label>nie ma drzewa</TreesDesired.stages.11.label>
+  <TreesDesired.stages.11.description>Tęsknię za drzewami wokół mnie.</TreesDesired.stages.11.description>
+  <TreesDesired.stages.12.label>brakowało drzew</TreesDesired.stages.12.label>
+  <TreesDesired.stages.12.description>Minęło trochę czasu, odkąd widziałem drzewo.</TreesDesired.stages.12.description>
+  <TreesDesired.stages.13.label>brakowało drzew</TreesDesired.stages.13.label>
+  <TreesDesired.stages.13.description>Od dawna nie widziałem drzewa.</TreesDesired.stages.13.description>
+  <TreesDesired.stages.14.label>bardzo brakowało drzew</TreesDesired.stages.14.label>
+  <TreesDesired.stages.14.description>Minęło dużo czasu, odkąd widziałem drzewo!</TreesDesired.stages.14.description>
+
+  <TreeDensityReduced.stages.0.label>zdrowe drzewa</TreeDensityReduced.stages.0.label>
+  <TreeDensityReduced.stages.0.description>W minionym quadrum w ogóle nie zniszczyliśmy wielu drzew. Harmonia z drzewami to podstawa dobrego życia.</TreeDensityReduced.stages.0.description>
+  <TreeDensityReduced.stages.1.label>drzewa poruszone</TreeDensityReduced.stages.1.label>
+  <TreeDensityReduced.stages.1.description>W minionym quadrum zniszczyliśmy drzewa, których nie powinniśmy mieć. Być może było to konieczne, ale wciąż jest okazją do smutku.</TreeDensityReduced.stages.1.description>
+  <TreeDensityReduced.stages.2.label>drzewa zranione</TreeDensityReduced.stages.2.label>
+  <TreeDensityReduced.stages.2.description>W minionym quadrum zniszczyliśmy niewybaczalną liczbę drzew. Musimy zrobić o wiele lepiej.</TreeDensityReduced.stages.2.description>
+  <TreeDensityReduced.stages.3.label>drzewa zniszczone</TreeDensityReduced.stages.3.label>
+  <TreeDensityReduced.stages.3.description>W minionym quadrum zniszczyliśmy przerażającą liczbę drzew. Jesteśmy plagą tego wszechświata.</TreeDensityReduced.stages.3.description>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Empath.label>empata</VPE_Empath.label>
+  <VPE_Empath.description>Psychocasty empaty skupiają się na poprawie nastroju innych, w taki czy inny sposób.</VPE_Empath.description>
+
+  <VPE_Skipmaster.label>skipmaster</VPE_Skipmaster.label>
+  <VPE_Skipmaster.description>Psychocasty Skipmastera skupiają się na wykorzystaniu bramek do zmiany przebiegu bitwy lub życia kolonii.</VPE_Skipmaster.description>
+
+  <VPE_Conflagrator.label>pożoga</VPE_Conflagrator.label>
+  <VPE_Conflagrator.description>Ścieżka Conflagrator koncentruje się na manipulowaniu ogniem, ciepłem i energią w celu wyeliminowania wrogów.</VPE_Conflagrator.description>
+
+  <VPE_Protector.label>ochraniarz</VPE_Protector.label>
+  <VPE_Protector.description>Ścieżka obrońcy koncentruje się na udzielaniu pomocy i ochrony twoim pionkom, powstrzymując ich przed śmiercią i pozwalając ci uciec przed niebezpiecznymi sytuacjami bez zarysowań.</VPE_Protector.description>
+
+  <VPE_Warlord.label>dygnitarz wojskowy</VPE_Warlord.label>
+  <VPE_Warlord.description>Ścieżka Warlorda koncentruje się na ulepszaniu zdolności bojowych samego Psycastera – ponieważ wszystkie psychocasty Warlorda są do pewnego stopnia rzucane na siebie.</VPE_Warlord.description>
+
+  <VPE_Chronopath.label>chronopata</VPE_Chronopath.label>
+  <VPE_Chronopath.description>Ścieżka Chronopath skupia się na manipulowaniu czasem, starzeniu rzeczy, dokończeniu wzrostu roślin lub odmłodzeniu twoich pionków.</VPE_Chronopath.description>
+
+  <VPE_Archotechist.label>archotechist</VPE_Archotechist.label>
+  <VPE_Archotechist.description>Ścieżka Archotecha jest specjalną ścieżką dostępną tylko dla psychoterapeutów z Imperium. Pozwala na szerzenie szaleństwa, używanie szoku psychicznego, aby stłumić wszelkie złoczyńców i odciążyć ciepło neuronowe na innych, a także wykorzystać ciepło neuronowe w walce.</VPE_Archotechist.description>
+
+  <VPE_Necropath.label>Necropath</VPE_Necropath.label>
+  <VPE_Necropath.description>Necropath to ścieżka skoncentrowana na rozprowadzaniu strachu i śmierci, a także na czerpaniu korzyści ze śmierci i zwłok. Możesz wskrzesić poległych sojuszników, zabronić im śmierci i zebrać hordy szkieletów do walki o twoją sprawę.</VPE_Necropath.description>
+
+  <VPE_Staticlord.label>Staticlord</VPE_Staticlord.label>
+  <VPE_Staticlord.description>Staticlord to ścieżka skupiająca się na wysadzaniu wrogów prądem elektrycznym, wyłączaniu elektroniki i kontrolowaniu samej burzy.</VPE_Staticlord.description>
+
+  <VPE_Archon.label>archont</VPE_Archon.label>
+  <VPE_Archon.description>Ścieżka Archontów to ścieżka psychicznego przywódcy, zapewniająca różne wzmocnienia całej kolonii, ale także rządząca żelazną pięścią. Jest to również ścieżka, która pozwala wyssać wrogich psycasterów i zyskać w ten sposób poziomy Psycast.</VPE_Archon.description>
+
+  <VPE_Frostshaper.label>Frostshaper</VPE_Frostshaper.label>
+  <VPE_Frostshaper.description>Frostshaper to ścieżka polegająca na manipulowaniu żywiołami, zwłaszcza zimnem, na swoją korzyść. Zimno nie tylko możesz wykorzystać do zamrażania i spowalniania wrogów, ale także do korzystania z wielu użytecznych psycastów, które albo budują schronienia z bloków lodu, albo tworzą chłodzące kryształy, które mogą służyć zarówno jako tymczasowa lodówka, jak i pułapka.</VPE_Frostshaper.description>
+
+  <VPE_Wildspeaker.label>Wildspeaker</VPE_Wildspeaker.label>
+  <VPE_Wildspeaker.description>Ścieżka Wildspeaker jest specjalną ścieżką dostępną tylko dla psychologów plemiennych. Wszystko sprowadza się do kontrolowania przyrody i zwierząt w celu obrony i przetrwania.</VPE_Wildspeaker.description>
+
+  <VPE_Harmonist.label>harmonist</VPE_Harmonist.label>
+  <VPE_Harmonist.description>Harmonist mają na celu manipulowanie równowagą wszechświata. Ich zdolności nigdy nie są wyraźną korzyścią ani wadą i zawsze mają swoją cenę w taki czy inny sposób.</VPE_Harmonist.description>
+
+  <VPE_Technomancer.label>technomancer</VPE_Technomancer.label>
+  <VPE_Technomancer.description>Technomancer są mistrzami technologii, wiedzy i badań, potrafiącymi wykorzystać energię psychiczną do pomocy w eksploracji koncepcji, ale także tchnąć życie w konstrukcje na małą skalę, które mogą im pomóc i ich bronić.</VPE_Technomancer.description>
+
+  <VPE_Nightstalker.label>nightstalker</VPE_Nightstalker.label>
+  <VPE_Nightstalker.description>Nightstalker to wojownicy ciemności, którzy znajdują się w cieniu, zyskując wiele korzyści związanych z walką.</VPE_Nightstalker.description>
+
+
+</LanguageData>

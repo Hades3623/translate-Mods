@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_SuperJump.label>super skok</VFEA_SuperJump.label>
+  <VFEA_SuperJump.description>Przeskocz na krótką odległość (10 komórek) w zasięgu wzroku, aby zmniejszyć dystans do wroga.</VFEA_SuperJump.description>
+
+  <VFEA_Berserk.label>berserk (telepatia)</VFEA_Berserk.label>
+  <VFEA_Berserk.description>Rzucony na wroga, obraca go przeciwko jego sojusznikom.</VFEA_Berserk.description>
+
+  <VFEA_Calm.label>spokój (telepatia)</VFEA_Calm.label>
+  <VFEA_Calm.description>Rzuć na przyjaciela, aby natychmiast wyrwać go z psychicznego załamania.</VFEA_Calm.description>
+
+  <VFEA_PsychicShock.label>Wstrząs psychiczny</VFEA_PsychicShock.label>
+  <VFEA_PsychicShock.description>Wystrzel psychiczny wstrząs na przeciwnika, pozbawiając go przytomności.</VFEA_PsychicShock.description>
+
+  <VFEA_Invisibility.label>niewidzialność</VFEA_Invisibility.label>
+  <VFEA_Invisibility.description>Staje się niewidzialny na 60 sekund.</VFEA_Invisibility.description>
+
+  <VFEA_SelfControl.label>samokontrola</VFEA_SelfControl.label>
+  <VFEA_SelfControl.description>Kiedy jest aktywowany, natychmiast zatrzymuje wszystkie przerwy psychiczne, na które działa ten pionek.</VFEA_SelfControl.description>
+
+  <VFEA_Overshield.label>osłona</VFEA_Overshield.label>
+  <VFEA_Overshield.description>Wytwarza wokół siebie nieprzeniknioną tarczę, która utrzymuje się przez 30 sekund.</VFEA_Overshield.description>
+
+  <VFEA_SummonLightning.label>przywołać błyskawicę</VFEA_SummonLightning.label>
+  <VFEA_SummonLightning.description>Wyznacz obszar, który będzie rażony piorunami.</VFEA_SummonLightning.description>
+
+  <VFEA_AnimalSpeech.label>mowa zwierząt</VFEA_AnimalSpeech.label>
+  <VFEA_AnimalSpeech.description>Rzucony na człowieka polującego na zwierzę, uspokaja je. Rzucony na dzikie zwierzę, oswaja je.</VFEA_AnimalSpeech.description>
+
+  <VFEA_Empathy.label>empatia</VFEA_Empathy.label>
+  <VFEA_Empathy.description>Rzucony na sojusznika daje mu silne wzmocnienie nastroju trwające 24 godziny.</VFEA_Empathy.description>
+
+  <VFEA_Heal.label>uzdrawianie innych</VFEA_Heal.label>
+  <VFEA_Heal.description>Rzucony na sojusznika, leczy go z wszystkich ran.</VFEA_Heal.description>
+
+  <VFEA_GloryKill.label>zabić w chwale</VFEA_GloryKill.label>
+  <VFEA_GloryKill.description>Zabij losowego przeciwnika w promieniu 1 komórki, powodując wszędzie duże ilości krwi i usuwając losową ilość jego kończyn.</VFEA_GloryKill.description>
+
+  <VFEA_ElectromagneticPulse.label>impuls elektro-magnetyczny</VFEA_ElectromagneticPulse.label>
+  <VFEA_ElectromagneticPulse.description>Wygeneruj wokół siebie dużą eksplozję EMP, unieszkodliwiając całą elektronikę.</VFEA_ElectromagneticPulse.description>
+
+  <VFEA_FireBreath.label>ognisty oddech</VFEA_FireBreath.label>
+  <VFEA_FireBreath.description>Wydzielaj przed sobą ogień o zasięgu do 12 komórek, paląc wrogów i wysyłając ich do ucieczki.</VFEA_FireBreath.description>
+
+  <VFEA_IceBreath.label>lodowy oddech</VFEA_IceBreath.label>
+  <VFEA_IceBreath.description>Wyrzucasz przed siebie lód o zasięgu do 12 komórek, spowalniając przeciwników i wywołując u nich hipotermię.</VFEA_IceBreath.description>
+
+  <VFEA_LaserEyes.label>Laser z oczu</VFEA_LaserEyes.label>
+  <VFEA_LaserEyes.description>Wystrzeliwujesz z oczu niewiarygodnie potężną wiązkę energii. Maksymalną zasięg to 35.</VFEA_LaserEyes.description>
+
+  <VFEA_MatterPhasing.label>rozłożenie materii</VFEA_MatterPhasing.label>
+  <VFEA_MatterPhasing.description>Włącz, aby fazować przez ściany przez 10 sekund.</VFEA_MatterPhasing.description>
+
+  <VFEA_ElectricityBlast.label>Elektryczny łuk</VFEA_ElectricityBlast.label>
+  <VFEA_ElectricityBlast.description>Wystrzeliwuje łuk pioruna, który odbija się od przeciwników, paląc ich i wyłączając wszelką elektronikę.</VFEA_ElectricityBlast.description>
+
+  <VFEA_SpeedBurst.label>Przyśpieszenie</VFEA_SpeedBurst.label>
+  <VFEA_SpeedBurst.description>4x prędkość ruchu. Czas odnowienia umiejętności walki wręcz skrócony o połowę. Trwa 30 sekund..</VFEA_SpeedBurst.description>
+
+  <VFEA_AcidBreath.label>plucie kwasem</VFEA_AcidBreath.label>
+  <VFEA_AcidBreath.description>U osoby badanej w klatce piersiowej powstały woreczki ze stężonymi chemikaliami. Woreczki są połączone rurkami z kącikami ust i mogą zostać wyrzucone przez skurcz klatki piersiowej podczas plucia, reagując z tlenem i tworząc kule żrącej galarety.</VFEA_AcidBreath.description>
+
+  <VFEA_Fireball.label>Kula ognia</VFEA_Fireball.label>
+  <VFEA_Fireball.description>Osoba ta wytworzyła w dłoni worek z galaretowatym chemicznym paliwem wraz z licznymi gruczołami. Raz na 30 sekund gruczoły te wytłaczają kulkę napalmu, którą można następnie wyrzucić, aby zapaliła się w powietrzu, zanim wyląduje i podpali niewielki obszar.</VFEA_Fireball.description>
+
+  <VFEA_MetamorphosisTurtle.label>metamorfoza (żółw)</VFEA_MetamorphosisTurtle.label>
+  <VFEA_MetamorphosisTurtle.description>Podmiot jest w stanie tymczasowo wywierać siłę psychiczną, która zmusza jego ciało do przyjęcia kształtu. W tym przypadku, przyjmują formę żółwia, z tym samym zdrowiem, rozmiarem i umiejętnościami, zanim ich ciało powróci do swojego rzeczywistego kształtu po 60 sekundach.</VFEA_MetamorphosisTurtle.description>
+
+  <VFEA_MetamorphosisWarg.label>metamorfoza (warg)</VFEA_MetamorphosisWarg.label>
+  <VFEA_MetamorphosisWarg.description>Podmiot jest zdolny do tymczasowego wywierania siły psychicznej, która zmusza jego ciało do przyjęcia kształtu. W tym przypadku przyjmuje formę warga, z takim samym zdrowiem, rozmiarem i umiejętnościami, zanim po 60 sekundach jego ciało powróci do swojego rzeczywistego kształtu.</VFEA_MetamorphosisWarg.description>
+
+
+</LanguageData>

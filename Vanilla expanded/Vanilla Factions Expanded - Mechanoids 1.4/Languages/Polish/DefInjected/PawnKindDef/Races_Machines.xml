@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_Autocleaner.label>autocleaner</VFE_Mechanoids_Autocleaner.label>
+  <VFE_Mechanoids_Autocleaner.labelPlural>Autocleaners</VFE_Mechanoids_Autocleaner.labelPlural>
+  <VFE_Mechanoids_Autocleaner.labelMale>męski autocleaner</VFE_Mechanoids_Autocleaner.labelMale>
+  <VFE_Mechanoids_Autocleaner.labelMalePlural>samce autocleaner</VFE_Mechanoids_Autocleaner.labelMalePlural>
+  <VFE_Mechanoids_Autocleaner.labelFemale>samica autocleaner</VFE_Mechanoids_Autocleaner.labelFemale>
+  <VFE_Mechanoids_Autocleaner.labelFemalePlural>samice autocleaner</VFE_Mechanoids_Autocleaner.labelFemalePlural>
+
+  <VFE_Mechanoids_Autohauler.label>autohauler</VFE_Mechanoids_Autohauler.label>
+  <VFE_Mechanoids_Autohauler.labelPlural>autohaulery</VFE_Mechanoids_Autohauler.labelPlural>
+  <VFE_Mechanoids_Autohauler.labelMale>męski autohauler</VFE_Mechanoids_Autohauler.labelMale>
+  <VFE_Mechanoids_Autohauler.labelMalePlural>samce autohaulerów</VFE_Mechanoids_Autohauler.labelMalePlural>
+  <VFE_Mechanoids_Autohauler.labelFemale>samica autohauler</VFE_Mechanoids_Autohauler.labelFemale>
+  <VFE_Mechanoids_Autohauler.labelFemalePlural>samice autohaulerów</VFE_Mechanoids_Autohauler.labelFemalePlural>
+
+  <VFE_Mechanoids_Autominer.label>autominer</VFE_Mechanoids_Autominer.label>
+  <VFE_Mechanoids_Autominer.labelPlural>autominers</VFE_Mechanoids_Autominer.labelPlural>
+  <VFE_Mechanoids_Autominer.labelMale>męski autominer</VFE_Mechanoids_Autominer.labelMale>
+  <VFE_Mechanoids_Autominer.labelMalePlural>samce autominerów</VFE_Mechanoids_Autominer.labelMalePlural>
+  <VFE_Mechanoids_Autominer.labelFemale>samica autominerka</VFE_Mechanoids_Autominer.labelFemale>
+  <VFE_Mechanoids_Autominer.labelFemalePlural>samice autominerki</VFE_Mechanoids_Autominer.labelFemalePlural>
+
+  <VFE_Mechanoids_Combat.label>bojowy mechanoid</VFE_Mechanoids_Combat.label>
+  <VFE_Mechanoids_Combat.labelPlural>bojowe mechanoidy</VFE_Mechanoids_Combat.labelPlural>
+  <VFE_Mechanoids_Combat.labelMale>samiec bojowego mechanoida</VFE_Mechanoids_Combat.labelMale>
+  <VFE_Mechanoids_Combat.labelMalePlural>samce mechanoidów bojowych</VFE_Mechanoids_Combat.labelMalePlural>
+  <VFE_Mechanoids_Combat.labelFemale>samica mechanoida bojowego</VFE_Mechanoids_Combat.labelFemale>
+  <VFE_Mechanoids_Combat.labelFemalePlural>samice mechanoidów bojowych</VFE_Mechanoids_Combat.labelFemalePlural>
+
+  <VFE_Mechanoids_Riot.label>Riot Mechanoid</VFE_Mechanoids_Riot.label>
+  <VFE_Mechanoids_Riot.labelPlural>mechanoidy do zamieszek</VFE_Mechanoids_Riot.labelPlural>
+  <VFE_Mechanoids_Riot.labelMale>samców mechanoidów do zamieszek</VFE_Mechanoids_Riot.labelMale>
+  <VFE_Mechanoids_Riot.labelMalePlural>samce mechanoidów do zamieszek</VFE_Mechanoids_Riot.labelMalePlural>
+  <VFE_Mechanoids_Riot.labelFemale>samica mechanika do zamieszek</VFE_Mechanoids_Riot.labelFemale>
+  <VFE_Mechanoids_Riot.labelFemalePlural>samice mechaników do zamieszek</VFE_Mechanoids_Riot.labelFemalePlural>
+
+  <VFE_Mechanoids_Turret.label>mobilna wieżyczka</VFE_Mechanoids_Turret.label>
+  <VFE_Mechanoids_Turret.labelPlural>mobilne wieżyczki</VFE_Mechanoids_Turret.labelPlural>
+  <VFE_Mechanoids_Turret.labelMale>męska mobilna wieżyczka</VFE_Mechanoids_Turret.labelMale>
+  <VFE_Mechanoids_Turret.labelMalePlural>męskie mobilne wieżyczki</VFE_Mechanoids_Turret.labelMalePlural>
+  <VFE_Mechanoids_Turret.labelFemale>żeńska mobilna wieżyczka</VFE_Mechanoids_Turret.labelFemale>
+  <VFE_Mechanoids_Turret.labelFemalePlural>samice ruchome wieżyczki</VFE_Mechanoids_Turret.labelFemalePlural>
+
+  <VFE_Mechanoids_Autostrider.label>autostrider</VFE_Mechanoids_Autostrider.label>
+  <VFE_Mechanoids_Autostrider.labelPlural>autostriders</VFE_Mechanoids_Autostrider.labelPlural>
+  <VFE_Mechanoids_Autostrider.labelMale>male autostrider</VFE_Mechanoids_Autostrider.labelMale>
+  <VFE_Mechanoids_Autostrider.labelMalePlural>male autostriders</VFE_Mechanoids_Autostrider.labelMalePlural>
+  <VFE_Mechanoids_Autostrider.labelFemale>female autostrider</VFE_Mechanoids_Autostrider.labelFemale>
+  <VFE_Mechanoids_Autostrider.labelFemalePlural>female autostriders</VFE_Mechanoids_Autostrider.labelFemalePlural>
+
+  <VFE_Mechanoids_AutoMedic.label>auto-medyk</VFE_Mechanoids_AutoMedic.label>
+  <VFE_Mechanoids_AutoMedic.labelPlural>auto-medyki</VFE_Mechanoids_AutoMedic.labelPlural>
+  <VFE_Mechanoids_AutoMedic.labelMale>męski auto-medyk</VFE_Mechanoids_AutoMedic.labelMale>
+  <VFE_Mechanoids_AutoMedic.labelMalePlural>męskie auto-medyki</VFE_Mechanoids_AutoMedic.labelMalePlural>
+  <VFE_Mechanoids_AutoMedic.labelFemale>żeński auto-medyk</VFE_Mechanoids_AutoMedic.labelFemale>
+  <VFE_Mechanoids_AutoMedic.labelFemalePlural>żeńskie auto-medyki</VFE_Mechanoids_AutoMedic.labelFemalePlural>
+
+
+  <!-- <ThingDef ParentName="BaseVFEMachine">
+		<defName>VFE_Mechanoids_Autobuilder</defName>
+		<label>autobuilder</label>
+		<description>A sturdy semi-autonomous drone slightly taller than an average human. A wide corneal auspex and a set of simple tools allow this drone to do things such as swiftly assemble furniture or erect walls at an amateur skill level.</description>
+		<statBases>
+			<MoveSpeed>1.9</MoveSpeed>
+			<ArmorRating_Blunt>0.22</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.22</ArmorRating_Sharp>
+			<PsychicSensitivity>0.25</PsychicSensitivity>
+			<ConstructSuccessChance>2</ConstructSuccessChance>
+		</statBases>
+		<tools>
+			<li>
+				<label>head</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>2</power>
+				<cooldownTime>2.6</cooldownTime>
+				<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+				<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+			</li>
+		</tools>
+		<race>
+			<intelligence>ToolUser</intelligence>
+			<thinkTreeMain>VFE_Mechanoids_Machine</thinkTreeMain>
+			<body>Lancer</body>
+			<baseBodySize>1</baseBodySize>
+			<baseHealthScale>4</baseHealthScale>
+			<lifeStageAges>
+				<li>
+					<def>MechanoidFullyFormed</def>
+					<minAge>0</minAge>
+					<soundWounded>VFE_Pawn_HandmadeMech_Wounded</soundWounded>
+					<soundDeath>VFE_Pawn_HandmadeMech_Death</soundDeath>
+					<soundCall>VFE_Pawn_HandmadeMech_Call</soundCall>
+				</li>
+			</lifeStageAges>
+			<soundCallIntervalRange>1000~2000</soundCallIntervalRange>
+			<soundMeleeHitPawn>Pawn_Melee_MechanoidBash_HitPawn</soundMeleeHitPawn>
+			<soundMeleeHitBuilding>Pawn_Melee_MechanoidBash_HitBuilding</soundMeleeHitBuilding>
+			<soundMeleeMiss>Pawn_Melee_MechanoidBash_Miss</soundMeleeMiss>
+		</race>
+		<butcherProducts>
+			<VFE_ComponentMechanoid>1</VFE_ComponentMechanoid>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>20</Plasteel>
+		</butcherProducts>
+		<comps>
+			<li Class="VFE.Mechanoids.CompProperties_Machine">
+				<hoursActive>96</hoursActive>
+			</li>
+		</comps>
+	</ThingDef>
+	<PawnKindDef ParentName="VFEMachineBase">
+		<defName>VFE_Mechanoids_Autobuilder</defName>
+		<label>autobuilder</label>
+		<race>VFE_Mechanoids_Autobuilder</race>
+		<combatPower>99999</combatPower>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/Automation/Autobuilder/Autobuilder</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>1.8</drawSize>
+					<shadowData>
+						<volume>(0.6, 0.8, 0.6)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef> -->
+
+  <VFE_Mechanoids_Raider.label>raider mechanoid</VFE_Mechanoids_Raider.label>
+  <VFE_Mechanoids_Raider.labelPlural>raider mechanoids</VFE_Mechanoids_Raider.labelPlural>
+  <VFE_Mechanoids_Raider.labelMale>męski raider mechanoid</VFE_Mechanoids_Raider.labelMale>
+  <VFE_Mechanoids_Raider.labelMalePlural>męskie raider mechanoidy</VFE_Mechanoids_Raider.labelMalePlural>
+  <VFE_Mechanoids_Raider.labelFemale>żeński raider mechanoid</VFE_Mechanoids_Raider.labelFemale>
+  <VFE_Mechanoids_Raider.labelFemalePlural>żeńskie raider mechanoidy</VFE_Mechanoids_Raider.labelFemalePlural>
+
+  <VFE_Mechanoids_Pyro.label>pyro mechanoid</VFE_Mechanoids_Pyro.label>
+  <VFE_Mechanoids_Pyro.labelPlural>pyro mechanoids</VFE_Mechanoids_Pyro.labelPlural>
+  <VFE_Mechanoids_Pyro.labelMale>męski pyro mechanoid</VFE_Mechanoids_Pyro.labelMale>
+  <VFE_Mechanoids_Pyro.labelMalePlural>męskie pyro mechanoids</VFE_Mechanoids_Pyro.labelMalePlural>
+  <VFE_Mechanoids_Pyro.labelFemale>żeński pyro mechanoid</VFE_Mechanoids_Pyro.labelFemale>
+  <VFE_Mechanoids_Pyro.labelFemalePlural>żeńskie pyro mechanoidy</VFE_Mechanoids_Pyro.labelFemalePlural>
+
+  <VFE_Mechanoids_Autobroadcaster.label>autobroadcaster</VFE_Mechanoids_Autobroadcaster.label>
+  <VFE_Mechanoids_Autobroadcaster.labelPlural>autobroadcasters</VFE_Mechanoids_Autobroadcaster.labelPlural>
+  <VFE_Mechanoids_Autobroadcaster.labelMale>męski autobroadcaster</VFE_Mechanoids_Autobroadcaster.labelMale>
+  <VFE_Mechanoids_Autobroadcaster.labelMalePlural>męskie autobroadcastery</VFE_Mechanoids_Autobroadcaster.labelMalePlural>
+  <VFE_Mechanoids_Autobroadcaster.labelFemale>żeński autobroadcaster</VFE_Mechanoids_Autobroadcaster.labelFemale>
+  <VFE_Mechanoids_Autobroadcaster.labelFemalePlural>żeńskie autobroadcastery</VFE_Mechanoids_Autobroadcaster.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic sensitizer -->
+
+  <PsychicSensitizer.label>uczulacz psychiczny</PsychicSensitizer.label>
+  <PsychicSensitizer.description>Ten implant mózgowy stymuluje wzrost w obszarach mózgu związanych z interakcją psychiczną, zwiększając w ten sposób wrażliwość psychiczną.</PsychicSensitizer.description>
+
+
+  <!-- Psychic harmonizer -->
+
+  <PsychicHarmonizer.label>psychiczny harmonizator</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>Ten implant mózgowy wyświetla nastrój użytkownika w sferycznym polu psychicznym, zmuszając innych w pobliżu do odczuwania niewyraźnej, uproszczonej wersji swoich emocji. Może być potężnym narzędziem do utrzymania wysokiego morale, ale jeśli użytkownik stanie się nieszczęśliwy, może to doprowadzić do zbiorowej katastrofy.</PsychicHarmonizer.description>
+
+
+  <!-- Psychic reader -->
+
+  <PsychicReader.label>psychiczny czytelnik</PsychicReader.label>
+  <PsychicReader.description>Daje ograniczoną zdolność czytania w myślach, poprawiając zdolność użytkownika do uzyskania przewagi w negocjacjach i sytuacjach społecznych. Efekt jest proporcjonalny do wrażliwości psychicznej użytkownika.</PsychicReader.description>
+
+
+</LanguageData>

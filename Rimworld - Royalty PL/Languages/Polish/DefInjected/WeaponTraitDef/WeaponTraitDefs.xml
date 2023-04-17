@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic Sensitivity -->
+
+  <PsychicSensitivityUpMajor.label>nadwrażliwość psychiczna</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>Ta broń zwiększa wrażliwość psychiczną posiadacza o 40%.. Dotyczy to tylko trzymania broni.</PsychicSensitivityUpMajor.description>
+
+  <PsychicSensitivityUpMinor.label>uczulacz psychiczny</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>Ta broń zwiększa wrażliwość psychiczną posiadacza o 20%.. Dotyczy to tylko trzymania broni.</PsychicSensitivityUpMinor.description>
+
+  <PsychicSensitivityDownMinor.label>cisza psychiczna</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>Ta broń osłabia psychiczną wrażliwość posiadacza o 15%.. Dotyczy to tylko trzymania broni.</PsychicSensitivityDownMinor.description>
+
+  <PsychicSensitivityDownMajor.label>psychiczna mgła</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>Ta broń tłumi psychiczną wrażliwość posiadacza o 30%.. Dotyczy to tylko trzymania broni.</PsychicSensitivityDownMajor.description>
+
+
+  <!-- Thoughts -->
+
+  <ThoughtKind.label>miłe myśli</ThoughtKind.label>
+  <ThoughtKind.description>Postać tej broni jest miła i pomocna. Szepcze miłe myśli każdemu, z kim jest związany, poprawiając jego nastrój.</ThoughtKind.description>
+
+  <ThoughtCalm.label>spokojne myśli</ThoughtCalm.label>
+  <ThoughtCalm.description>Postać tej broni jest zrelaksowana i stabilna. Szepcze uspokajające myśli każdemu, z kim jest związany, poprawiając jego nastrój.</ThoughtCalm.description>
+
+  <ThoughtMuttering.label>szalone mamrotanie</ThoughtMuttering.label>
+  <ThoughtMuttering.description>Postać tej broni jest neurotyczna i niestabilna. Mamrocze szalone myśli do każdego, z kim jest związany, obniżając jego nastrój.</ThoughtMuttering.description>
+
+  <ThoughtWailing.label>szalone zawodzenie</ThoughtWailing.label>
+  <ThoughtWailing.description>Postać tej broni jest bardzo zaburzona i nie będzie się przed tym zamykać. Wykrzykuje szalone myśli do każdego, z kim jest związany, tłumiąc jego nastrój.</ThoughtWailing.description>
+
+
+  <!-- Killed pawn thoughts/effects -->
+
+  <OnKill_PsyfocusGain.label>kill-focused</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.description>Postać tej broni skupia się na śmierci. Jeśli broń kogoś zabije, posiadacz natychmiast zyska 20% psyfocusu.</OnKill_PsyfocusGain.description>
+
+  <OnKill_ThoughtGood.label>kill-happy</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.description>Postać tej broni uwielbia zabijać. Jeśli ta broń kogoś zabije, jej radość przekaże psychicznie posiadaczowi, czyniąc go szczęśliwszym na kilka dni.</OnKill_ThoughtGood.description>
+
+  <OnKill_ThoughtBad.label>zabić smutek</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.description>Postać tej broni nienawidzi zabijania. Jeśli ta broń kogoś zabije, jej smutek przeniesie się psychicznie na posiadacza, obniżając jego nastrój na kilka dni.</OnKill_ThoughtBad.description>
+
+  <NeedKill.label>zabić pragnienie</NeedKill.label>
+  <NeedKill.description>Postać tej broni znajduje cel w rozlewie krwi. Jeśli nie zabija przez 20 dni, wpada w gniew i psychicznie skarży się na tego, kto jest z nim związany.</NeedKill.description>
+
+
+  <!-- No exclusion tags -->
+
+  <PsyfocusMeditationBonus.label>psy-meditative</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>Postać tej broni jest naturalnie medytacyjna i pomaga jej posiadaczowi skupić się na psychicznej medytacji. Posiadacz zyskuje dodatkowe 10% skupienia psychicznego na dzień medytacji, o ile trzyma broń.</PsyfocusMeditationBonus.description>
+
+  <NoPain.label>bezbolesny</NoPain.label>
+  <NoPain.description>Postać tej broni ma jakąś metodę psychicznego obezwładniania bólu. Ten, kto trzyma broń, nie odczuje żadnego bólu.</NoPain.description>
+
+  <SpeedBoost.label>szybki ruch</SpeedBoost.label>
+  <SpeedBoost.description>Postać tej broni ma poczucie ruchu. Daje to posiadaczowi, dzięki czemu porusza się o 15% szybciej tak długo, jak trzymana jest broń.</SpeedBoost.description>
+
+  <HungerMaker.label>napady głodu</HungerMaker.label>
+  <HungerMaker.description>Postać tej broni kocha jedzenie i przekazuje to każdemu, kto się z nią zwiąże. Wskaźnik głodu osoby związanej będzie o 50% wyższy.</HungerMaker.description>
+
+  <NeuralHeatRecoveryGain.label>chłodzenie neuronowe</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>Postać tej broni ma zdolność rozpraszania ciepła neuronowego posiadacza. Rozpraszanie ciepła w neuronach przez posiadacza jest zwiększone o 0,15 na sekundę.</NeuralHeatRecoveryGain.description>
+
+
+  <!-- Misc -->
+
+  <NeverBond.label>wolny posiadacz</NeverBond.label>
+  <NeverBond.description>Postać tej broni nie tworzy więzi w normalny sposób. Każdy może go podnieść i użyć.</NeverBond.description>
+
+  <Jealous.label>zazdrosny</Jealous.label>
+  <Jealous.description>Postać tej broni staje się zła, gdy związana osoba używa innej broni, zmniejszając w ten sposób jej nastrój.</Jealous.description>
+
+
+</LanguageData>

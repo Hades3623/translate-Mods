@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_TobaccoHigh.stages.0.label>gładkie i łagodne</VBE_TobaccoHigh.stages.0.label>
+  <VBE_TobaccoHigh.stages.0.description>Ten papieros był właśnie tym, czego potrzebowałem, taki łagodny smak.</VBE_TobaccoHigh.stages.0.description>
+
+  <VBE_DeluxeTobaccoHigh.stages.0.label>sapiąc na luksusie</VBE_DeluxeTobaccoHigh.stages.0.label>
+  <VBE_DeluxeTobaccoHigh.stages.0.description>Cygaro sprawia, że ​​czuję się, jakbym osiągnął sukces w życiu.</VBE_DeluxeTobaccoHigh.stages.0.description>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <VBE_TobaccoWithdrawal.stages.1.label>wycofanie tytoniu</VBE_TobaccoWithdrawal.stages.1.label>
+  <VBE_TobaccoWithdrawal.stages.1.description>Naprawdę chciałbym zapalić. Zabiłbym za papierosa.</VBE_TobaccoWithdrawal.stages.1.description>
+
+
+</LanguageData>

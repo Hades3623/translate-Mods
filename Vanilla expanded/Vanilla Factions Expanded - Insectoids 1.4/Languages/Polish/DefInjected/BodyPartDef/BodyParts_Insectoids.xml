@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <VFEI_ExplosiveSac.label>worek wybuchowy</VFEI_ExplosiveSac.label>
+
+  <VFEI_FrontClaw.label>przedni pazur</VFEI_FrontClaw.label>
+  <VFEI_FrontClaw.labelShort>pazur</VFEI_FrontClaw.labelShort>
+
+
+  <!-- Scorpion parts -->
+
+  <VFEI_Thorax.label>tułów</VFEI_Thorax.label>
+  <VFEI_InsectTail.label>ogon</VFEI_InsectTail.label>
+  <VFEI_InsectSting.label>żądło</VFEI_InsectSting.label>
+  <VFEI_LeftPincer.label>lewy cęgi</VFEI_LeftPincer.label>
+  <VFEI_RightPincer.label>cęgi prawe</VFEI_RightPincer.label>
+
+
+</LanguageData>

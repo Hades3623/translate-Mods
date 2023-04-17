@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RaidPause.label>wstrzymany nalot</VPE_RaidPause.label>
+  <VPE_RaidPause.description>Chronopata wstrzymuje najazd.</VPE_RaidPause.description>
+
+  <VPE_TimeQuake.label>trzęsienie czasu</VPE_TimeQuake.label>
+  <VPE_TimeQuake.description>Ogromne czasowe zakłócenie.</VPE_TimeQuake.description>
+
+  <VPE_Hurricane.label>huragan</VPE_Hurricane.label>
+  <VPE_Hurricane.description>Staticlord wywołuje huragan.</VPE_Hurricane.description>
+
+  <VPE_PsychicFlashstorm.label>burza z piorunami</VPE_PsychicFlashstorm.label>
+  <VPE_PsychicFlashstorm.description>Dziwaczna zlokalizowana burza niszczy niewielki obszar powtarzającymi się uderzeniami piorunów.</VPE_PsychicFlashstorm.description>
+  <VPE_PsychicFlashstorm.endMessage>Burza się skończyła.</VPE_PsychicFlashstorm.endMessage>
+  <VPE_PsychicFlashstorm.letterText>Dziwaczna zlokalizowana burza błyskawiczna uderza w niewielki obszar. Może to spowodować ogromne pożary.</VPE_PsychicFlashstorm.letterText>
+
+  <VPE_IntenseShadows.label>intensyfikacja cieni</VPE_IntenseShadows.label>
+  <VPE_IntenseShadows.description>text.todo</VPE_IntenseShadows.description>
+  <VPE_IntenseShadows.endMessage>Cienie wracają do normy.</VPE_IntenseShadows.endMessage>
+
+
+</LanguageData>

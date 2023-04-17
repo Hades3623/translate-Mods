@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DrankSoda.label>pił sodę</VBE_DrankSoda.label>
+  <VBE_DrankSoda.description>Wyrzut cukru przedostaje się do krwiobiegu, dostarczając krótkotrwałej energii. Zapewnia 5% premię do manipulacji na 5 godzin.</VBE_DrankSoda.description>
+
+  <VBE_DrankTea.label>pił herbatę</VBE_DrankTea.label>
+  <VBE_DrankTea.description>Taniny naturalnie występujące w herbacie po przemianie materii zwiększają bodźce w układzie nerwowym, tłumiąc potrzebę snu, a także wzmacniają układ odpornościowy. Zwiększa szybkość uzyskiwania odporności o 15% i zapewnia 10% redukcję spadku szybkości spoczynku przez 5 godzin.</VBE_DrankTea.description>
+
+  <VBE_TequilaAsIngredient.label>wypił koktajl na bazie tequili</VBE_TequilaAsIngredient.label>
+  <VBE_TequilaAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników była tequila. Zapewnia premię do szansy na oswojenie zwierząt w wysokości 15 %.</VBE_TequilaAsIngredient.description>
+
+  <VBE_WhiskeyAsIngredient.label>wypił koktajl na bazie whisky</VBE_WhiskeyAsIngredient.label>
+  <VBE_WhiskeyAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników była whisky. Zapewnia premię do celności strzelania.</VBE_WhiskeyAsIngredient.description>
+
+  <VBE_VodkaAsIngredient.label>pił koktajl na bazie wódki</VBE_VodkaAsIngredient.label>
+  <VBE_VodkaAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników była wódka. Zwiększa szansę na unik o 20 %.</VBE_VodkaAsIngredient.description>
+
+  <VBE_GinAsIngredient.label>wypił koktajl na bazie ginu</VBE_GinAsIngredient.label>
+  <VBE_GinAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników był dżin.</VBE_GinAsIngredient.description>
+
+  <VBE_AmbrandyAsIngredient.label>wypił koktajl na bazie ambrandy</VBE_AmbrandyAsIngredient.label>
+  <VBE_AmbrandyAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników był ambrandy.</VBE_AmbrandyAsIngredient.description>
+
+  <VBE_RBMeadAsIngredient.label>wypił koktajl na bazie miodu pitnego</VBE_RBMeadAsIngredient.label>
+  <VBE_RBMeadAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników był miód pitny.</VBE_RBMeadAsIngredient.description>
+
+  <VBE_WineAsIngredient.label>pił koktajl na bazie wina</VBE_WineAsIngredient.label>
+  <VBE_WineAsIngredient.description>Ten kolonista wypił koktajl, którego jednym ze składników było wino. Ty potworze.</VBE_WineAsIngredient.description>
+
+  <VBE_ConsumedLuciferiumPowder.label>spożyty lucyferium w proszku (w posiłku)</VBE_ConsumedLuciferiumPowder.label>
+  <VBE_ConsumedLuciferiumPowder.description>Proszek lucyferium to bardzo drobno zmieszany proszek wykonany z lucyferium. Tak rozcieńczony lek z pewnością nie zagoi żadnych ran, ale znacznie ożywi jego konsumenta.</VBE_ConsumedLuciferiumPowder.description>
+
+  <VBE_ConsumedGoStock.label>spożytego bulionu go-go (w posiłku)</VBE_ConsumedGoStock.label>
+  <VBE_ConsumedGoStock.description>Bulion Go-Juice to żelatynizowana kostka Go-Juice, którą można raczej strawić niż wstrzyknąć. Tak rozcieńczony lek nie blokuje tak dużego bólu, a zalety bojowe będą znacznie subtelniejsze.</VBE_ConsumedGoStock.description>
+
+  <VBE_ConsumedWakeupPowder.label>spożyty proszek do budzenia (w posiłku)</VBE_ConsumedWakeupPowder.label>
+  <VBE_ConsumedWakeupPowder.description>Proszek do budzenia to pokruszona i sproszkowana forma pobudki, zaskakująco słodka i czasami używana jako zamiennik cukru w ​​deserach lub rozpuszczana w porannym espresso. Tak rozcieńczony lek nie będzie tak stymulujący. Należy pamiętać, że chociaż nie uzależnia, proszek do pobudki nadal niesie ze sobą ryzyko (choć bardzo małe) zawału serca.</VBE_ConsumedWakeupPowder.description>
+
+
+</LanguageData>

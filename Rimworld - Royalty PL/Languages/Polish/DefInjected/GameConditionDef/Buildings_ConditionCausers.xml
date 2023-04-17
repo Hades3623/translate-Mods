@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sun blocker -->
+
+  <SunBlocker.label>bloker słońca</SunBlocker.label>
+  <SunBlocker.description>Pobliski bloker słońca zamienia górną atmosferę w nieprzezroczystą, blokując słońce.</SunBlocker.description>
+  <SunBlocker.letterText>Bloker zaczął blokować słońce.</SunBlocker.letterText>
+
+
+  <!-- Smoke spewer -->
+
+  <GiantSmokeCloud.label>gigantyczna chmura dymu</GiantSmokeCloud.label>
+  <GiantSmokeCloud.description>Pobliska wyrzutnia dymu zmniejsza nasłonecznienie w tym rejonie.</GiantSmokeCloud.description>
+  <GiantSmokeCloud.letterText>Maszyna wyrzucająca dym zaczęła przesłaniać słońce.</GiantSmokeCloud.letterText>
+
+
+  <!-- Toxic spewer -->
+
+  <ToxicSpewer.label>generator toksycznych plam</ToxicSpewer.label>
+  <ToxicSpewer.description>Pobliski generator toksycznych plam spowija cały ten region trucizną.</ToxicSpewer.description>
+  <ToxicSpewer.letterText>Toksyczna machina zaczęła pokrywać cały region truciznami.</ToxicSpewer.letterText>
+
+
+  <!-- Weather controller -->
+
+  <WeatherController.label>wymuszenie pogody</WeatherController.label>
+  <WeatherController.description>Pobliski sterownik pogodowy wymusza taką konfigurację pogody.</WeatherController.description>
+  <WeatherController.endMessage>Kontroler pogody nie zmienia już pogody.</WeatherController.endMessage>
+  <WeatherController.letterText>Maszyna kontrolera pogody zaczęła wpływać na pogodę.</WeatherController.letterText>
+
+
+  <!-- Climate adjuster -->
+
+  <ClimateAdjustment.label>dostosowanie klimatu</ClimateAdjustment.label>
+  <ClimateAdjustment.description>Pobliska maszyna regulująca klimat zmienia temperaturę.</ClimateAdjustment.description>
+  <ClimateAdjustment.letterText>Maszyna regulująca klimat zaczęła przesuwać temperaturę.</ClimateAdjustment.letterText>
+
+
+  <!-- Psychic suppressor -->
+
+  <PsychicSuppression.label>tłumienie psychiczne</PsychicSuppression.label>
+  <PsychicSuppression.description>Psychiczne pole tłumiące oddziałuje na {0}s i zmniejsza ich świadomość. Efekt jest modulowany przez wrażliwość psychiczną danej osoby.</PsychicSuppression.description>
+  <PsychicSuppression.endMessage>Psychiczne pole tłumiące rozproszyło się.</PsychicSuppression.endMessage>
+  <PsychicSuppression.letterText>Psychiczne pole tłumiące zaczęło zmniejszać świadomość {0}s w całym regionie. Efekt jest modulowany przez wrażliwość psychiczną danej osoby.</PsychicSuppression.letterText>
+
+
+  <!-- EMI dynamo -->
+
+  <EMIField.label>Pole EMI</EMIField.label>
+  <EMIField.description>Pole EMI emituje pole zakłóceń EM, wyłączając urządzenia elektryczne.</EMIField.description>
+  <EMIField.endMessage>Pole EMI zniknęło.</EMIField.endMessage>
+  <EMIField.letterText>Wytworzyło się pole EMI. Powoduje ono wyłączenie urządzeń elektrycznych.</EMIField.letterText>
+
+
+</LanguageData>

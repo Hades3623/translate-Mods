@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Whiskey.label>whisky</VBE_Whiskey.label>
+  <VBE_Whiskey.description>Silny trunek destylowany ze sfermentowanego ziarna. Smaki starzejącej się beczki mają tendencję do przenikania tego alkoholu bardziej niż inne. Drzewny, prawie dymny smak jest wyraźny. Proste whisky są stereotypowo kojarzone z surowymi robotnikami fizycznymi i ciężkimi pracownikami, co jest częstym widokiem na parowych światach w całej galaktyce.</VBE_Whiskey.description>
+  <VBE_Whiskey.tools.0.label>butelka</VBE_Whiskey.tools.0.label>
+  <VBE_Whiskey.tools.1.label>szyja</VBE_Whiskey.tools.1.label>
+  <VBE_Whiskey.ingestible.ingestCommandString>Pij {0}</VBE_Whiskey.ingestible.ingestCommandString>
+  <VBE_Whiskey.ingestible.ingestReportString>Picie {0}.</VBE_Whiskey.ingestible.ingestReportString>
+
+  <VBE_DoubleWhiskey.label>whisky podwójnie leżakowana</VBE_DoubleWhiskey.label>
+  <VBE_DoubleWhiskey.description>Wynik ponownego starzenia whisky w nieużywanej lub lekko używanej beczce wtórnej. Profile smakowe są silniejsze, a podpalenie w gardle wyraźnie zredukowane. Wydłużony czas dojrzewania doskonałej whisky generalnie ukazuje poczucie merkantylizmu i klasy wśród konsumentów.</VBE_DoubleWhiskey.description>
+  <VBE_DoubleWhiskey.tools.0.label>butelka</VBE_DoubleWhiskey.tools.0.label>
+  <VBE_DoubleWhiskey.tools.1.label>szyja</VBE_DoubleWhiskey.tools.1.label>
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Pij {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Picie {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+
+
+</LanguageData>

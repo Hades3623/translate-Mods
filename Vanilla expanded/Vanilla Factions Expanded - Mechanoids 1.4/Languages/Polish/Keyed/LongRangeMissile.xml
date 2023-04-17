@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_SiloNoTarget>Obecnie nie ma celu</VFEM_SiloNoTarget>
+  <VFEM_SiloTargeting>Obecnie kierowanie na {0} z {1}</VFEM_SiloTargeting>
+  <VFEM_SiloConditionsSatisfied>Obecne wszystkie zasoby</VFEM_SiloConditionsSatisfied>
+  <VFEM_SiloConditionsUnsatisfied>Brakuje niektórych zasobów</VFEM_SiloConditionsUnsatisfied>
+  <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
+  <VFEM_SiloAimAtQuestSite>Lokalizacja nie zawiera obiektu wystarczająco dużego, aby można go było kierować</VFEM_SiloAimAtQuestSite>
+
+</LanguageData>

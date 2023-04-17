@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_ShirtRuffle.label>formalna koszula</Apparel_ShirtRuffle.label>
+  <Apparel_ShirtRuffle.description>Ozdobiona formalna koszula zapinana na guziki.</Apparel_ShirtRuffle.description>
+
+  <Apparel_Corset.label>gorset</Apparel_Corset.label>
+  <Apparel_Corset.description>Haftowany gorset z mocnym wzmocnieniem z fiszbin, aby zachować kobiecy kształt.</Apparel_Corset.description>
+
+  <Apparel_VestRoyal.label>formalna kamizelka</Apparel_VestRoyal.label>
+  <Apparel_VestRoyal.description>Kamizelka wyszywana skomplikowanymi motywami dekoracyjnymi.</Apparel_VestRoyal.description>
+
+  <Apparel_RobeRoyal.label>prestiżowa szata</Apparel_RobeRoyal.label>
+  <Apparel_RobeRoyal.description>Długa, lejąca się szata wyszywana skomplikowanymi dekoracyjnymi wzorami.</Apparel_RobeRoyal.description>
+
+  <Apparel_HatLadies.label>kapelusz damski</Apparel_HatLadies.label>
+  <Apparel_HatLadies.description>Dekoracyjna tradycyjna czapka ze skomplikowanym haftem.</Apparel_HatLadies.description>
+
+  <Apparel_HatTop.label>cylinder</Apparel_HatTop.label>
+  <Apparel_HatTop.description>Wysoki, sztywny, lśniący kapelusz.</Apparel_HatTop.description>
+
+  <Apparel_HatHood.label>kaptur</Apparel_HatHood.label>
+  <Apparel_HatHood.description>Drapowany kaptur zakrywający głowę i uszy.</Apparel_HatHood.description>
+
+  <Apparel_Coronet.label>diadem</Apparel_Coronet.label>
+  <Apparel_Coronet.description>Niewielkie nakrycie głowy w kształcie korony wykonane z metalu.</Apparel_Coronet.description>
+
+  <Apparel_Crown.label>Korona</Apparel_Crown.label>
+  <Apparel_Crown.description>Korona z metalu o wyszukanym designie.</Apparel_Crown.description>
+
+  <Apparel_CrownStellic.label>korona gwiezdna</Apparel_CrownStellic.label>
+  <Apparel_CrownStellic.description>Wspaniała metalowa korona o wyszukanym, apodyktycznym designie.</Apparel_CrownStellic.description>
+
+  <Apparel_Cape.label>peleryna</Apparel_Cape.label>
+  <Apparel_Cape.description>Długa peleryna o eleganckim kroju. Wisi po jednej stronie tułowia.</Apparel_Cape.description>
+
+  <Apparel_Beret.label>beret</Apparel_Beret.label>
+  <Apparel_Beret.description>Miękki, okrągły kapelusz z płaską koroną.</Apparel_Beret.description>
+
+
+</LanguageData>

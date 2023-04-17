@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Carpenter - slow deconstructor -->
+
+  <VFE_AncientMech_AncientCarpenter.label>Cieśla</VFE_AncientMech_AncientCarpenter.label>
+  <VFE_AncientMech_AncientCarpenter.labelPlural>stolarze</VFE_AncientMech_AncientCarpenter.labelPlural>
+  <VFE_AncientMech_AncientCarpenter.labelMale>stolarz męski</VFE_AncientMech_AncientCarpenter.labelMale>
+  <VFE_AncientMech_AncientCarpenter.labelMalePlural>męscy stolarze</VFE_AncientMech_AncientCarpenter.labelMalePlural>
+  <VFE_AncientMech_AncientCarpenter.labelFemale>stolarz</VFE_AncientMech_AncientCarpenter.labelFemale>
+  <VFE_AncientMech_AncientCarpenter.labelFemalePlural>kobiety stolarze</VFE_AncientMech_AncientCarpenter.labelFemalePlural>
+
+
+</LanguageData>

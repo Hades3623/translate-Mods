@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_MonoSword.label>monomiecz</MeleeWeapon_MonoSword.label>
+  <MeleeWeapon_MonoSword.description>Kryształowo-metaliczny długi miecz nasycony mechanizmami, które zachowują monomolekularną krawędź tnącą. Z łatwością przecina nawet gruby pancerz, a jego niewielka waga pozwala na szybkie ataki.</MeleeWeapon_MonoSword.description>
+  <MeleeWeapon_MonoSword.tools.0.label>uchwyt</MeleeWeapon_MonoSword.tools.0.label>
+  <MeleeWeapon_MonoSword.tools.1.label>punkt</MeleeWeapon_MonoSword.tools.1.label>
+  <MeleeWeapon_MonoSword.tools.2.label>krawędź</MeleeWeapon_MonoSword.tools.2.label>
+
+  <MeleeWeapon_Zeushammer.label>Młot zeusa</MeleeWeapon_Zeushammer.label>
+  <MeleeWeapon_Zeushammer.description>Młot bojowy z wbudowanym kondensatorem EMP. Po uderzeniu, oprócz obrażeń fizycznych, strzela w cel serią EMP.</MeleeWeapon_Zeushammer.description>
+  <MeleeWeapon_Zeushammer.tools.0.label>uchwyt</MeleeWeapon_Zeushammer.tools.0.label>
+  <MeleeWeapon_Zeushammer.tools.1.label>głowa</MeleeWeapon_Zeushammer.tools.1.label>
+
+  <MeleeWeapon_PlasmaSword.label>miecz plazmowy</MeleeWeapon_PlasmaSword.label>
+  <MeleeWeapon_PlasmaSword.description>Miecz z metalowym rdzeniem i ostrzem tnącym. Plazma jest owinięta wokół rdzenia, utrzymywana w miejscu przez pole energetyczne. Cele są zarówno przecinane przez metalowy rdzeń, jak i spalane lub podpalane przez osłonę plazmową.</MeleeWeapon_PlasmaSword.description>
+  <MeleeWeapon_PlasmaSword.tools.0.label>uchwyt</MeleeWeapon_PlasmaSword.tools.0.label>
+  <MeleeWeapon_PlasmaSword.tools.1.label>punkt</MeleeWeapon_PlasmaSword.tools.1.label>
+  <MeleeWeapon_PlasmaSword.tools.2.label>krawędź</MeleeWeapon_PlasmaSword.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_TechnophobeTantrum.label>Technofobowy napad złości</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.beginLetter>{0} Wpadł w napad złości technofobiczną.\n\n[PAWN_pronoun] ma zamiar dać upust gniewu na technologii</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0} Nie ma już złości technofobicznej.</VTE_TechnophobeTantrum.recoveryMessage>
+  <VTE_TechnophobeTantrum.baseInspectLine>Stan psychiczny: napad złości technofobicznej.</VTE_TechnophobeTantrum.baseInspectLine>
+
+  <VTE_PanicFreezing.label>Paniczne mrożenie</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.beginLetter>{0} Zamarza w panice.</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.beginLetterLabel>Atak paniki</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.recoveryMessage>{0} Nie ma już panicznego zamrożenia .</VTE_PanicFreezing.recoveryMessage>
+  <VTE_PanicFreezing.baseInspectLine>Stan psychiczny: zamarzanie w panice</VTE_PanicFreezing.baseInspectLine>
+
+  <VTE_Kleptomaniac.label>Kleptoman</VTE_Kleptomaniac.label>
+  <VTE_Kleptomaniac.beginLetter>{0} Kradnie przedmoity gościom.</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.beginLetterLabel>Kleptoman</VTE_Kleptomaniac.beginLetterLabel>
+  <VTE_Kleptomaniac.recoveryMessage>{0} Nie kradnie już przedmiotów od gości.</VTE_Kleptomaniac.recoveryMessage>
+  <VTE_Kleptomaniac.baseInspectLine>Stan psychiczny: kleptomaniak</VTE_Kleptomaniac.baseInspectLine>
+
+
+</LanguageData>

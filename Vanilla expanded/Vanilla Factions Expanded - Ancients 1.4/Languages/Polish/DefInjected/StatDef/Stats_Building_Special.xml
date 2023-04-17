@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_FailChance.label>Szansa niepowodzenia</VFEA_FailChance.label>
+  <VFEA_FailChance.description>Szansa, że operacja wstrzyknięcia nanitów nie powiedzie się.</VFEA_FailChance.description>
+
+  <VFEA_InjectingTimeFactor.label>współczynnik czasu wtrysku</VFEA_InjectingTimeFactor.label>
+  <VFEA_InjectingTimeFactor.description>Mnożnik szybkości działania kapsuły dostosowującej geny. Można go obniżyć poprzez znalezienie i zainstalowanie super-nanitowych pomp iniekcyjnych.</VFEA_InjectingTimeFactor.description>
+
+
+</LanguageData>

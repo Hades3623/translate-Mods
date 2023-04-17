@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_Intimidate.label>try to intimidate</VFEA_Intimidate.label>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</VFEA_Intimidate.logRulesInitiator.rulesStrings.0>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</VFEA_Intimidate.logRulesInitiator.rulesStrings.1>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</VFEA_Intimidate.logRulesInitiator.rulesStrings.2>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</VFEA_Intimidate.logRulesInitiator.rulesStrings.3>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</VFEA_Intimidate.logRulesInitiator.rulesStrings.4>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.5>negative->had no future</VFEA_Intimidate.logRulesInitiator.rulesStrings.5>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.6>negative->had no way to escape</VFEA_Intimidate.logRulesInitiator.rulesStrings.6>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.7>negative->should submit immediately</VFEA_Intimidate.logRulesInitiator.rulesStrings.7>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.8>negative->should forget [RECIPIENT_possessive] aspirations</VFEA_Intimidate.logRulesInitiator.rulesStrings.8>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.9>negative->should submit to the colony</VFEA_Intimidate.logRulesInitiator.rulesStrings.9>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.10>negative->should give up the information</VFEA_Intimidate.logRulesInitiator.rulesStrings.10>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.11>threat->torture</VFEA_Intimidate.logRulesInitiator.rulesStrings.11>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.12>threat->punishment</VFEA_Intimidate.logRulesInitiator.rulesStrings.12>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.13>threat->mutilation</VFEA_Intimidate.logRulesInitiator.rulesStrings.13>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.14>threat->starvation</VFEA_Intimidate.logRulesInitiator.rulesStrings.14>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.15>threat->lifetime incarceration</VFEA_Intimidate.logRulesInitiator.rulesStrings.15>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.16>threat->death</VFEA_Intimidate.logRulesInitiator.rulesStrings.16>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.17>threat->isolation</VFEA_Intimidate.logRulesInitiator.rulesStrings.17>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.18>threat->dismemberment</VFEA_Intimidate.logRulesInitiator.rulesStrings.18>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.19>threat->blunt trauma</VFEA_Intimidate.logRulesInitiator.rulesStrings.19>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.20>threat->lacerations</VFEA_Intimidate.logRulesInitiator.rulesStrings.20>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.21>threat->cannibalism</VFEA_Intimidate.logRulesInitiator.rulesStrings.21>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.22>threat->organ harvesting</VFEA_Intimidate.logRulesInitiator.rulesStrings.22>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.23>threat->long confinement</VFEA_Intimidate.logRulesInitiator.rulesStrings.23>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.24>refused->tried to escape</VFEA_Intimidate.logRulesInitiator.rulesStrings.24>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.25>refused->insulted the colony</VFEA_Intimidate.logRulesInitiator.rulesStrings.25>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.26>refused->resisted submitting</VFEA_Intimidate.logRulesInitiator.rulesStrings.26>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.27>refused->behaved impertinently</VFEA_Intimidate.logRulesInitiator.rulesStrings.27>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.28>disillusionment->should accept [RECIPIENT_possessive] situation</VFEA_Intimidate.logRulesInitiator.rulesStrings.28>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.29>disillusionment->had no hope for another future</VFEA_Intimidate.logRulesInitiator.rulesStrings.29>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.30>disillusionment->would be best off submitting</VFEA_Intimidate.logRulesInitiator.rulesStrings.30>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.31>disillusionment->would not survive on [RECIPIENT_possessive] own</VFEA_Intimidate.logRulesInitiator.rulesStrings.31>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.32>disillusionment->had no option but to submit</VFEA_Intimidate.logRulesInitiator.rulesStrings.32>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.33>givein->give in</VFEA_Intimidate.logRulesInitiator.rulesStrings.33>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.34>givein->submit [RECIPIENT_objective]self</VFEA_Intimidate.logRulesInitiator.rulesStrings.34>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.35>givein->surrender [RECIPIENT_objective]self</VFEA_Intimidate.logRulesInitiator.rulesStrings.35>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.36>givein->yield [RECIPIENT_objective]self</VFEA_Intimidate.logRulesInitiator.rulesStrings.36>
+
+
+</LanguageData>

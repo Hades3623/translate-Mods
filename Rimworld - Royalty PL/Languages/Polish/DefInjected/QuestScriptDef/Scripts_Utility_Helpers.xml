@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Params:
+    - helpersChance: Chance of helpers being included in the quest.
+    - helpersCount: The number of helpers to send. Default: 1-6.
+    - helpersLeaveAfterTicks: Ticks until helpers leave automatically. Default: 10 days (60000 ticks)
+        if -1, helpers won't leave until the quest has ended.
+    - generateShuttleOrPods: Whether or not this script handles pawns arriving. Hospitality quests add helpers into their loading list. -->
+
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.0>helpersParagraph(helpersCount==0)-&gt;</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.0>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.1>helpersParagraph(helpersCount==1)-&gt;\n\nA [helperKind_label] will be placed under your control. You will have to feed and house [helpers0_objective], but [helpers0_pronoun] may die in battle without consequence.\n\n</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.1>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.2>helpersParagraph(helpersCount&gt;=2)-&gt;\n\n[helpersCount] [helperKind_labelPlural] will be placed under your control. You will have to feed and house them, but they may die in battle without consequence.\n\n</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.2>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.3>helpersArrivalLetterEnd(helpersCount==0)-&gt;</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.3>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.4>helpersArrivalLetterEnd(helpersCount&gt;=1)-&gt;\n\n[helpersCount] [helpersLabelSingOrPlural] [helpersHasHave] been sent to assist you.</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.4>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.5>helpersLabelSingOrPlural(helpersCount==1)-&gt;[helperKind_label]</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.5>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.6>helpersLabelSingOrPlural(helpersCount&gt;=2)-&gt;[helperKind_labelPlural]</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.6>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.7>helpersHasHave(helpersCount==1)-&gt;has</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.7>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.8>helpersHasHave(helpersCount&gt;=2)-&gt;have</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.8>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.9>helpersIsAre(helpersCount==1)-&gt;is</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.9>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.10>helpersIsAre(helpersCount&gt;=2)-&gt;are</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings.10>
+  <Util_MaybeGenerateHelpers.root.nodes.0.node.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.node.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.node.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.node.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.node.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.node.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.0.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.0.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.0.elseNode.nodes.1.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.0.elseNode.nodes.1.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.1.name>helpersLeaveAfterTicks</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.1.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.1.elseNode.name>helpersLeaveAfterTicks</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.1.elseNode.name>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.9.node.node.nodes.0.node.label>[helpersLabelSingOrPlural] leaving</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.9.node.node.nodes.0.node.label>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.9.node.node.nodes.0.node.text>The [helpersLabelSingOrPlural] sent by [asker_nameDef] to aid you [helpersHasHave] spent too much time with you, and [helpersIsAre] now leaving.</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.node.nodes.9.node.node.nodes.0.node.text>
+  <Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.elseNode.name>helpersCount</Util_MaybeGenerateHelpers.root.nodes.0.elseNode.elseNode.elseNode.elseNode.name>
+  <Util_MaybeGenerateHelpers.root.nodes.1.name>helperKind</Util_MaybeGenerateHelpers.root.nodes.1.name>
+  <Util_MaybeGenerateHelpers.root.nodes.1.node.nodes.1.name>helpersPoints</Util_MaybeGenerateHelpers.root.nodes.1.node.nodes.1.name>
+  <Util_MaybeGenerateHelpers.root.nodes.1.elseNode.name>helpersPoints</Util_MaybeGenerateHelpers.root.nodes.1.elseNode.name>
+
+
+</LanguageData>

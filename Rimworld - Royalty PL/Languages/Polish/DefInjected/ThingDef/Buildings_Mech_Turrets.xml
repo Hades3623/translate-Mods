@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto mini-turret -->
+
+  <Turret_AutoMiniTurret.label>wieżyczka mini-sluger</Turret_AutoMiniTurret.label>
+  <Turret_AutoMiniTurret.description>Samozasilająca się wieża obronna wyposażona w słaby, ale dalekosiężny miotacz pocisków. Może eksplodować po uszkodzeniu.</Turret_AutoMiniTurret.description>
+
+  <Gun_MiniTurretMech.label>mini-slugger</Gun_MiniTurretMech.label>
+  <Gun_MiniTurretMech.description>Automatyczny miotacz kul na wieżyczce.</Gun_MiniTurretMech.description>
+
+  <Bullet_MiniSlug.label>mini-slug</Bullet_MiniSlug.label>
+
+
+  <!-- Auto charge blaster -->
+
+  <Turret_AutoChargeBlaster.label>wieżyczka z automatycznym ładowaniem</Turret_AutoChargeBlaster.label>
+  <Turret_AutoChargeBlaster.description>Samozasilająca się wieża z miotaczem ładunków. Nie może wykrywać celów z bardzo małej odległości.</Turret_AutoChargeBlaster.description>
+
+  <Gun_ChargeBlasterHeavyTurret.label>lekki miotacz ładunku</Gun_ChargeBlasterHeavyTurret.label>
+  <Gun_ChargeBlasterHeavyTurret.description>Naładowany impulsowo szybkostrzelny blaster do ognia obszarowego.</Gun_ChargeBlasterHeavyTurret.description>
+
+
+  <!-- Auto inferno turret -->
+
+  <Turret_AutoInferno.label>automatyczna wieżyczka piekła</Turret_AutoInferno.label>
+  <Turret_AutoInferno.description>Wieżyczka z własnym napędem zamontowana na działku piekielnym. Nie może wykrywać celów z bardzo małej odległości.</Turret_AutoInferno.description>
+
+
+  <!-- Auto mortar -->
+
+  <Turret_AutoMortar.label>zaprawa automatyczna</Turret_AutoMortar.label>
+  <Turret_AutoMortar.description>Samozaładowcza, samozaładowcza, automatyczna zaprawa. Może trafiać w cele z dowolnej odległości, ponad ścianami, ale jest dość niecelny.</Turret_AutoMortar.description>
+
+  <Artillery_AutoMortar.label>auto-mortar</Artillery_AutoMortar.label>
+
+
+</LanguageData>

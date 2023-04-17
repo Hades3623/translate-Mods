@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <RelicDestroyed.stages.0.label>zniszczony relikt</RelicDestroyed.stages.0.label>
+  <RelicDestroyed.stages.0.description>Relikwia została zniszczona! Parodia!</RelicDestroyed.stages.0.description>
+
+  <RelicLost.stages.0.label>zaginiony relikt</RelicLost.stages.0.label>
+  <RelicLost.stages.0.description>Relikwia zaginęła! Parodia!</RelicLost.stages.0.description>
+
+
+</LanguageData>

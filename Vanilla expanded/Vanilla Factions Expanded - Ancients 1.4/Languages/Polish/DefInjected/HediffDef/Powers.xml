@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Power_Blind.label>ślepota</Power_Blind.label>
+  <Power_Blind.description>Ośrodek w mózgu osoby badanej, który jest odpowiedzialny za przetwarzanie danych optycznych, został zahamowany, powodując całkowitą ślepotę, pomimo posiadania funkcjonalnego wzroku.</Power_Blind.description>
+
+  <Power_Deaf.label>głuchy</Power_Deaf.label>
+  <Power_Deaf.description>Ośrodek w mózgu osoby badanej, który jest odpowiedzialny za przetwarzanie danych słuchowych, został zahamowany, co powoduje, że osoba ta jest całkowicie głucha, mimo że ma sprawne kanały ucha wewnętrznego.</Power_Deaf.description>
+
+  <Power_Mute.label>niemowa</Power_Mute.label>
+  <Power_Mute.description>Obiekt rozwinął blokadę umysłową i nie może już tworzyć dźwięków za pomocą ust lub strun głosowych, eliminując wszelkie formy mowy.</Power_Mute.description>
+
+  <Power_Paralysis.label>paraliż psychiczny</Power_Paralysis.label>
+  <Power_Paralysis.description>Ośrodek mózgu osoby badanej odpowiedzialny za kontrolę motoryczną w nogach uległ zahamowaniu, co skutecznie czyni ją paraplegikiem.</Power_Paralysis.description>
+
+  <Power_PainHypersensitivity.label>nadwrażliwość na ból</Power_PainHypersensitivity.label>
+  <Power_PainHypersensitivity.description>Ośrodek w mózgu podmiotu, który jest odpowiedzialny za odczuwanie bólu, został nadmiernie rozwinięty, powodując, że nawet po nacięciu papieru czują się tak, jakby ich palec był gryziony przez dzikie zwierzę.</Power_PainHypersensitivity.description>
+
+  <Power_Unstoppable.label>niepowstrzymany</Power_Unstoppable.label>
+  <Power_Unstoppable.description>Mózg uczestnika nie jest już w stanie przetwarzać odczucia bólu. To pozwala im osiągnąć więcej, ale powstrzymuje ich ciało od możliwości wyłączenia się z nadmiernych uszkodzeń aż do zniszczenia.</Power_Unstoppable.description>
+
+  <VFEA_PlasteelClaw.label>pazur z super stali</VFEA_PlasteelClaw.label>
+  <VFEA_PlasteelClaw.description>Bojowa mutacja ręki stworzona przez super-nanitów. Tnie głęboko i jest wystarczająco silna, by zmiażdżyć czaszkę, jak dłoń miażdży jajko. Pazury mogą być chowane.</VFEA_PlasteelClaw.description>
+  <VFEA_PlasteelClaw.comps.0.tools.0.label>pazur z super stali</VFEA_PlasteelClaw.comps.0.tools.0.label>
+  <VFEA_PlasteelClaw.labelNoun>pazur z super stali</VFEA_PlasteelClaw.labelNoun>
+
+  <VFEA_RegrowingPart.label>regeneracja</VFEA_RegrowingPart.label>
+  <VFEA_RegrowingPart.description>Ta część ciała się regeneruje.</VFEA_RegrowingPart.description>
+  <VFEA_RegrowingPart.stages.0.label>kości</VFEA_RegrowingPart.stages.0.label>
+  <VFEA_RegrowingPart.stages.1.label>mięśnie</VFEA_RegrowingPart.stages.1.label>
+  <VFEA_RegrowingPart.stages.2.label>nerwy</VFEA_RegrowingPart.stages.2.label>
+  <VFEA_RegrowingPart.stages.3.label>skóra</VFEA_RegrowingPart.stages.3.label>
+  <VFEA_RegrowingPart.stages.4.label>wykończenie</VFEA_RegrowingPart.stages.4.label>
+
+
+</LanguageData>

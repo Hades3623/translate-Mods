@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: Charity refused beggars -->
+
+  <CharityRefused_Essential_Beggars.stages.0.label>nie pomogli żebrakom</CharityRefused_Essential_Beggars.stages.0.label>
+  <CharityRefused_Essential_Beggars.stages.0.description>Błagali o pomoc, ale odmówiliśmy. Co za pogwałcenie - czy jestem jeszcze człowiekiem?</CharityRefused_Essential_Beggars.stages.0.description>
+
+  <CharityRefused_Important_Beggars.stages.0.label>nie pomogli żebrakom</CharityRefused_Important_Beggars.stages.0.label>
+  <CharityRefused_Important_Beggars.stages.0.description>Błagali o pomoc, ale nic nie zrobiliśmy. To było bardzo złe.</CharityRefused_Important_Beggars.stages.0.description>
+
+  <CharityRefused_Worthwhile_Beggars.stages.0.label>nie pomogli żebrakom</CharityRefused_Worthwhile_Beggars.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars.stages.0.description>Poprosili o pomoc, a my nic nie zrobiliśmy. Powinniśmy się bardziej starać.</CharityRefused_Worthwhile_Beggars.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused beggars betrayed -->
+
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.label>zdradzeni żebracy</CharityRefused_Essential_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.description>Błagali o pomoc, a my ich zdradziliśmy. Czy kiedykolwiek sobie wybaczę?</CharityRefused_Essential_Beggars_Betrayed.stages.0.description>
+
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.label>zdradzeni żebracy</CharityRefused_Important_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.description>Błagali o pomoc, a my ich zdradziliśmy. To było przerażające.</CharityRefused_Important_Beggars_Betrayed.stages.0.description>
+
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>zdradzeni żebracy</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>Błagali o pomoc, a my ich zdradziliśmy. Nie możemy pozwolić, aby to się powtórzyło.</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused wanderer joins -->
+
+  <CharityRefused_Essential_WandererJoins.stages.0.label>wędrowiec odrzucony</CharityRefused_Essential_WandererJoins.stages.0.label>
+  <CharityRefused_Essential_WandererJoins.stages.0.description>Ktoś przyszedł po pomoc, a my go odrzuciliśmy. To, co zrobiliśmy, było nieludzkie.</CharityRefused_Essential_WandererJoins.stages.0.description>
+
+  <CharityRefused_Important_WandererJoins.stages.0.label>wędrowiec odrzucony</CharityRefused_Important_WandererJoins.stages.0.label>
+  <CharityRefused_Important_WandererJoins.stages.0.description>Byli w potrzebie, a my ich odrzuciliśmy. Robi to tylko straszna osoba.</CharityRefused_Important_WandererJoins.stages.0.description>
+
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.label>wędrowiec odrzucony</CharityRefused_Worthwhile_WandererJoins.stages.0.label>
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.description>Byli w potrzebie i odrzuciliśmy ich. Powinniśmy zrobić to lepiej.</CharityRefused_Worthwhile_WandererJoins.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused shuttle crash rescue -->
+
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>rozbijający się wahadłowiec zignorowany</CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>Rozbijali się, desperacko szukając pomocy, a my odmówiliśmy. Jak mam z tym żyć?</CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>
+
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.label>rozbijający się wahadłowiec zignorowany</CharityRefused_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.description>Rozbijali się, rozpaczliwie potrzebowali pomocy, a my powiedzieliśmy nie. To było takie złe.</CharityRefused_Important_ShuttleCrashRescue.stages.0.description>
+
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>rozbijający się wahadłowiec zignorowany</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>Rozbijali się, rozpaczliwie potrzebowali pomocy, a my powiedzieliśmy nie. To nie była dobra rzecz.</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused refugee pod crash -->
+
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.label>uchodzcy bez pomocy</CharityRefused_Essential_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.description>Byli ranni i potrzebowali pomocy, a my nie pomogliśmy. Jak mam z tym żyć?</CharityRefused_Essential_RefugeePodCrash.stages.0.description>
+
+  <CharityRefused_Important_RefugeePodCrash.stages.0.label>uchodzcy bez pomocy</CharityRefused_Important_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.0.description>Byli ranni i potrzebowali pomocy, a my nie pomogliśmy. Czy jestem w ogóle dobrą osobą?</CharityRefused_Important_RefugeePodCrash.stages.0.description>
+
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>uchodzcy bez pomocy</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>Byli ranni i potrzebowali pomocy, a my nie pomogliśmy. To nie było najlepsze.</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused hospitality refugees -->
+
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.label>uchodźcy nie pomogli</CharityRefused_Essential_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.description>Byli zdesperowani, a my nie pomogliśmy. Jak mogłem być tak nieludzki?</CharityRefused_Essential_HospitalityRefugees.stages.0.description>
+
+  <CharityRefused_Important_HospitalityRefugees.stages.0.label>uchodźcy nie pomogli</CharityRefused_Important_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.0.description>Byli zdesperowani, a my nie pomogliśmy. Byliśmy zobowiązani do pomocy.</CharityRefused_Important_HospitalityRefugees.stages.0.description>
+
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>uchodźcy nie pomogli</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>Byli zdesperowani, a my nie pomogliśmy. Nie było super.</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused intro wimp -->
+
+  <CharityRefused_Essential_IntroWimp.stages.0.label>szlachetny nie pomógł</CharityRefused_Essential_IntroWimp.stages.0.label>
+  <CharityRefused_Essential_IntroWimp.stages.0.description>Odmówiliśmy pomocy zdesperowanemu szlachcicowi. To było głęboko niemoralne.</CharityRefused_Essential_IntroWimp.stages.0.description>
+
+  <CharityRefused_Important_IntroWimp.stages.0.label>szlachetny nie pomógł</CharityRefused_Important_IntroWimp.stages.0.label>
+  <CharityRefused_Important_IntroWimp.stages.0.description>Odmówiliśmy pomocy zdesperowanemu szlachcicowi. Powinniśmy byli bardziej się postarać.</CharityRefused_Important_IntroWimp.stages.0.description>
+
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.label>szlachetny nie pomógł</CharityRefused_Worthwhile_IntroWimp.stages.0.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.description>Odmówiliśmy pomocy zdesperowanemu szlachcicowi. Być może nie jestem tak miłosierny, jak myślałem.</CharityRefused_Worthwhile_IntroWimp.stages.0.description>
+
+
+  <!-- Thoughts: Charity refused threat reward joiner -->
+
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>odrzucony stolarz w niebezpieczeństwie</CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>Odmówiliśmy pomocy komuś w realnym niebezpieczeństwie. Głęboko naruszyłem swoje przekonania.</CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>
+
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.label>odrzucony stolarz w niebezpieczeństwie</CharityRefused_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.description>Odmówiliśmy pomocy komuś w realnym niebezpieczeństwie. To zostanie ze mną na długo.</CharityRefused_Important_ThreatReward_Joiner.stages.0.description>
+
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>odrzucony stolarz w niebezpieczeństwie</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>Odmówiliśmy pomocy komuś w realnym niebezpieczeństwie. Nie było super.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled beggars -->
+
+  <CharityFulfilled_Essential_Beggars.stages.0.label>żebracy pomogli</CharityFulfilled_Essential_Beggars.stages.0.label>
+  <CharityFulfilled_Essential_Beggars.stages.0.description>Pomagaliśmy żebrakom w potrzebie. Naprawdę jestem dobrą osobą!</CharityFulfilled_Essential_Beggars.stages.0.description>
+
+  <CharityFulfilled_Important_Beggars.stages.0.label>żebracy pomogli</CharityFulfilled_Important_Beggars.stages.0.label>
+  <CharityFulfilled_Important_Beggars.stages.0.description>Pomagaliśmy żebrakom w potrzebie. To była właściwa rzecz.</CharityFulfilled_Important_Beggars.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.label>żebracy pomogli</CharityFulfilled_Worthwhile_Beggars.stages.0.label>
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.description>Pomagaliśmy żebrakom w potrzebie. Dobrze jest być dobrym dla ludzi.</CharityFulfilled_Worthwhile_Beggars.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled wanderer joins -->
+
+  <CharityFulfilled_Essential_WandererJoins.stages.0.label>wędrowiec pomógł</CharityFulfilled_Essential_WandererJoins.stages.0.label>
+  <CharityFulfilled_Essential_WandererJoins.stages.0.description>Pomogliśmy przeżyć zdesperowanemu wędrowcowi. Naprawdę jestem dobrą osobą!</CharityFulfilled_Essential_WandererJoins.stages.0.description>
+
+  <CharityFulfilled_Important_WandererJoins.stages.0.label>wędrowiec pomógł</CharityFulfilled_Important_WandererJoins.stages.0.label>
+  <CharityFulfilled_Important_WandererJoins.stages.0.description>Pomogliśmy przeżyć zdesperowanemu wędrowcowi. Pomaganie innym jest właściwą rzeczą.</CharityFulfilled_Important_WandererJoins.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>wędrowiec pomógł</CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>Pomogliśmy przeżyć zdesperowanemu wędrowcowi. To dobra rzecz.</CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled shuttle crash rescue -->
+
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>pomogli ocaleni z wahadłowców</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>Pomogliśmy osobom, które przeżyły katastrofę promu. Naprawdę jestem dobrą osobą!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>
+
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>pomogli ocaleni z wahadłowców</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>Pomogliśmy osobom, które przeżyły katastrofę promu. To była oczywiście właściwa rzecz.</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>pomogli ocaleni z wahadłowców</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>Pomogliśmy osobom, które przeżyły katastrofę promu. To była dobra rzecz.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled refugee pod crash -->
+
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>pomógł uchodźcy</CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>Pomogliśmy przeżyć rozbitemu uchodźcy. Naprawdę jestem dobrą osobą!</CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>
+
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.label>pomógł uchodźcy</CharityFulfilled_Important_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.description>Pomogliśmy przeżyć rozbitemu uchodźcy. Pomaganie innym jest ważne.</CharityFulfilled_Important_RefugeePodCrash.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>pomógł uchodźcy</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>Pomogliśmy przeżyć rozbitemu uchodźcy. To było dobre z mojej strony.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled hospitality refugees -->
+
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>uchodźcy gościli</CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>Pomogliśmy uchodźcom. Naprawdę jestem dobrą osobą!</CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>
+
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.label>uchodźcy gościli</CharityFulfilled_Important_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.description>Pomogliśmy uchodźcom. Pomaganie innym jest ważne.</CharityFulfilled_Important_HospitalityRefugees.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>uchodźcy gościli</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>Pomogliśmy uchodźcom. To było dobre z naszej strony.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled intro wimp -->
+
+  <CharityFulfilled_Essential_IntroWimp.stages.0.label>szlachetny pomógł</CharityFulfilled_Essential_IntroWimp.stages.0.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.0.description>Pomogliśmy królewskiemu w potrzebie. Naprawdę jesteśmy dobrymi ludźmi!</CharityFulfilled_Essential_IntroWimp.stages.0.description>
+
+  <CharityFulfilled_Important_IntroWimp.stages.0.label>szlachetny pomógł</CharityFulfilled_Important_IntroWimp.stages.0.label>
+  <CharityFulfilled_Important_IntroWimp.stages.0.description>Pomogliśmy królewskiemu w potrzebie. Pomaganie innym jest ważne.</CharityFulfilled_Important_IntroWimp.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>szlachetny pomógł</CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>Pomogliśmy królewskiemu w potrzebie. To było dobre z naszej strony.</CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>
+
+
+  <!-- Thoughts: Charity fulfilled threat reward joiner -->
+
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>zaakceptował kogoś w niebezpieczeństwie</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>Pomogliśmy komuś zagrożonemu. Naprawdę jesteśmy dobrymi ludźmi!</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>
+
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>zaakceptował kogoś w niebezpieczeństwie</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>Pomogliśmy komuś zagrożonemu. To była właściwa rzecz.</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>
+
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>zaakceptował kogoś w niebezpieczeństwie</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>Pomogliśmy komuś zagrożonemu. To było całkiem niezłe.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>
+
+
+</LanguageData>

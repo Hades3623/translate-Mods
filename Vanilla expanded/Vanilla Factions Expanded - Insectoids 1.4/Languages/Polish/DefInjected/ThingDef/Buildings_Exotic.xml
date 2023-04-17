@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Infested Crashed Ship Module -->
+
+  <VFEI_InfestedCrashedShipModule.label>zainfekowany rozbity moduł statku</VFEI_InfestedCrashedShipModule.label>
+  <VFEI_InfestedCrashedShipModule.description>Tajemniczy fragment od dawna zniszczonego statku kosmicznego. Może zawierać egzotyczne materiały, komputery, a nawet postacie AI. Wydaje się, że jest całkowicie pokryty biomasą i grudkami galaretki owadoidalnej. Jest całkiem pewne, że ten stary wrak może zawierać wielkie niebezpieczeństwa.</VFEI_InfestedCrashedShipModule.description>
+
+
+  <!-- Infested Crashed Ship Part -->
+
+  <VFEI_InfestedCrashedShipPart.label>część rozbitego statku</VFEI_InfestedCrashedShipPart.label>
+  <VFEI_InfestedCrashedShipPart.description>Tajemniczy rozbity kawałek statku kosmicznego. Może zawierać egzotyczne materiały, komputery, a nawet postacie AI. Ten wydaje się być pokryty biomasą i galaretką z owadów. W kadłubie słychać dziwne ćwierkanie owadów.</VFEI_InfestedCrashedShipPart.description>
+
+
+  <!-- Infested Ship Chunk -->
+
+  <VFEI_InfestedShipChunk.label>zainfekowany fragment statku</VFEI_InfestedShipChunk.label>
+  <VFEI_InfestedShipChunk.description>Kawałek statku kosmicznego pokryty biomasą i galaretką z owadów. W kadłubie słychać dziwne ćwierkanie owadów. Można go rozłożyć, aby uzyskać użyteczną stal i komponenty.</VFEI_InfestedShipChunk.description>
+
+
+  <!-- Etheral -->
+
+  <VFEI_InsectMeteoriteIncoming.label>meteoryt (nadchodzący)</VFEI_InsectMeteoriteIncoming.label>
+
+
+</LanguageData>

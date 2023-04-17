@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <Darklight_Preferred_BlindingLight.stages.0.label>oślepiające światło</Darklight_Preferred_BlindingLight.stages.0.label>
+  <Darklight_Preferred_BlindingLight.stages.0.description>Nie mogę znieść tego strasznego światła. Moje zmysły są przytłoczone!</Darklight_Preferred_BlindingLight.stages.0.description>
+
+  <Darklight_Preferred_IndoorLight.stages.0.label>światło wewnętrzne</Darklight_Preferred_IndoorLight.stages.0.label>
+  <Darklight_Preferred_IndoorLight.stages.0.description>To wewnętrzne światło jest zbyt jasne. Wolałbym coś ciemniejszego.</Darklight_Preferred_IndoorLight.stages.0.description>
+
+  <Darklight_Preferred_Darklight.stages.0.label>ciemne światło</Darklight_Preferred_Darklight.stages.0.label>
+  <Darklight_Preferred_Darklight.stages.0.description>To przyćmione światło jest idealne. Czuję się skoncentrowany i pełen energii.</Darklight_Preferred_Darklight.stages.0.description>
+
+
+</LanguageData>

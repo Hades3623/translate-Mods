@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sun blocker -->
+
+  <SunBlocker.label>filtr przeciwsłoneczny</SunBlocker.label>
+  <SunBlocker.description>Ultratechnologiczna maszyna, która generuje arkusz egzotycznych pól na dużych wysokościach, zamieniając niebo w nieprzezroczysty i zasłaniając słońce.</SunBlocker.description>
+
+
+  <!-- Smoke spewer -->
+
+  <SmokeSpewer.label>miotacz dymu</SmokeSpewer.label>
+  <SmokeSpewer.description>Ultratechnologiczna broń masowego rażenia przeznaczona do blokowania obszaru. Zbierając dostępne związki i przekształcając je w samoreprodukujące się, nieprzezroczyste molekuły, może wyrzucać wystarczającą ilość dymu, aby zablokować słońce w całym regionie planety.</SmokeSpewer.description>
+
+
+  <!-- Toxic spewer -->
+
+  <ToxicSpewer.label>trująca plucha</ToxicSpewer.label>
+  <ToxicSpewer.description>Ultratechnologiczna broń masowego rażenia przeznaczona do blokowania obszaru. To urządzenie zbiera dostępne związki i przekształca je w samoreprodukujące się trucizny. Wyrzucając je do atmosfery, może zatruć cały region planety.</ToxicSpewer.description>
+
+
+  <!-- Weather controller -->
+
+  <WeatherController.label>sterownik pogodowy</WeatherController.label>
+  <WeatherController.description>Ultratechnologiczne urządzenie do kontrolowania pogody. Wykorzystując chemikalia i egzotyczne pola, wymusza konkretną konfigurację pogody.</WeatherController.description>
+
+
+  <!-- Climate adjuster -->
+
+  <ClimateAdjuster.label>regulator klimatu</ClimateAdjuster.label>
+  <ClimateAdjuster.description>Ultratechnologiczne urządzenie do kontroli klimatu. Wykorzystując chemikalia i egzotyczne pola do manipulowania atmosferą, zmienia temperaturę w tym regionie świata.</ClimateAdjuster.description>
+
+
+  <!-- Psychic droner -->
+
+  <PsychicDroner.label>dron psychiczny</PsychicDroner.label>
+  <PsychicDroner.description>Archotechniczne urządzenie przekazujące myśli szalonej superinteligencji. Generuje potężnego drona psychicznego dostrojonego do jednej płci i oddziałującego na cały region planety. Osoby tej płci będą zaniepokojone tym efektem, co obniży ich nastrój i prawdopodobnie doprowadzi ich do szaleństwa. Efekt jest modulowany przez wrażliwość psychiczną jednostki.</PsychicDroner.description>
+
+
+  <!-- Psychic suppressor -->
+
+  <PsychicSuppressor.label>tłumik psychiczny</PsychicSuppressor.label>
+  <PsychicSuppressor.description>Archotechniczne urządzenie, które generuje potężne pole tłumienia psychicznego dostosowane do konkretnej płci. Osoby tej płci mają stłumioną aktywność psychiczną, zmniejszając świadomość. Efekt jest modulowany przez wrażliwość psychiczną jednostki.</PsychicSuppressor.description>
+
+
+  <!-- EMI dynamo -->
+
+  <EMIDynamo.label>dynamo EMI</EMIDynamo.label>
+  <EMIDynamo.description>Potężny generator zakłóceń elektromagnetycznych. Zakłóca lub wyłącza urządzenia elektryczne w pobliskich regionach.</EMIDynamo.description>
+
+
+</LanguageData>

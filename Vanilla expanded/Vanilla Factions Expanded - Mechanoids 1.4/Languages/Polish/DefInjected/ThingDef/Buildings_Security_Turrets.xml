@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto charge blaster -->
+
+  <VFE_Turret_AutoChargeBlaster.label>ładuj wieżyczkę blasterową</VFE_Turret_AutoChargeBlaster.label>
+  <VFE_Turret_AutoChargeBlaster.description>Wieżyczka ładująca seriami, zdolna do skupiania ognia na pobliskich wrogich celach ze średniego zasięgu. Cele nieopancerzone raczej nie przeżyją więcej niż kilka wybuchów.</VFE_Turret_AutoChargeBlaster.description>
+
+  <VFE_Gun_AutoChargeBlaster.label>blaster automatycznego ładowania</VFE_Gun_AutoChargeBlaster.label>
+  <VFE_Gun_AutoChargeBlaster.description>Uratowany mechanoidalny miotacz ładujący przeznaczony do zamontowania na wieży.</VFE_Gun_AutoChargeBlaster.description>
+
+
+  <!-- Auto charge lance -->
+
+  <VFE_Turret_AutoChargeLance.label>wieżyczka lancy ładującej</VFE_Turret_AutoChargeLance.label>
+  <VFE_Turret_AutoChargeLance.description>Bardzo celna, choć nieco słabsza wersja lancy ładującej zamontowanej na prostolinijnej wieży. Cele w pancerzu wspomaganym nadal muszą być ostrożne, ponieważ pojedynczy szczęśliwy strzał jest nadal więcej niż zdolny do przebicia się przez plastykową pancerz.</VFE_Turret_AutoChargeLance.description>
+
+  <VFE_Gun_AutoChargeLance.label>lanca do automatycznego ładowania</VFE_Gun_AutoChargeLance.label>
+  <VFE_Gun_AutoChargeLance.description>Uratowana lanca mechanoidalna do zamontowania na wieży.</VFE_Gun_AutoChargeLance.description>
+
+
+  <!-- Auto inferno cannon -->
+
+  <VFE_Turret_AutoInfernoCannon.label>wieżyczka armaty piekła</VFE_Turret_AutoInfernoCannon.label>
+  <VFE_Turret_AutoInfernoCannon.description>Działo krótkiego zasięgu, które może wyrzucać strumienie ognia. Te wieże są zwykle używane w miejskiej wojnie na krótki dystans.</VFE_Turret_AutoInfernoCannon.description>
+
+  <VFE_Gun_AutoInfernoCannon.label>automatyczne działo piekła</VFE_Gun_AutoInfernoCannon.label>
+  <VFE_Gun_AutoInfernoCannon.description>Uratowane mechanoidalne działo piekielne przeznaczone do zamontowania na wieży.</VFE_Gun_AutoInfernoCannon.description>
+
+
+  <!-- Mortar -->
+
+  <VFE_Turret_AutoMortar.label>auto-mortar</VFE_Turret_AutoMortar.label>
+  <VFE_Turret_AutoMortar.description>Automatyczny moździerz i dalmierz zdolny do przetwarzania prostych współrzędnych i warunków pogodowych w celu ciągłego bombardowania wstępnie załadowanych pocisków moździerzowych.</VFE_Turret_AutoMortar.description>
+
+  <VFE_AutoMortar.label>auto-mortar</VFE_AutoMortar.label>
+  <VFE_AutoMortar.description>Automatyczna wyrzutnia moździerzy. Wbija bomby na ściany. Bardzo niedokładne, ale dalekosiężne.</VFE_AutoMortar.description>
+
+  <VFE_Turret_AutoTesla.label>automatyczna wieża tesli</VFE_Turret_AutoTesla.label>
+  <VFE_Turret_AutoTesla.description>Zmechanizowana wersja ciężkiej wieżyczki automatycznej. Jej pociski dużego kalibru zadają duże obrażenia na znacznych dystansach, ale nie może strzelać do celów bliskich. Ze względu na dużą ilość elementów elektrycznych, wieżyczka może wywołać wstrząs EMP, gdy zostanie wystarczająco uszkodzona.</VFE_Turret_AutoTesla.description>
+
+  <VFE_Gun_AutoTesla.label>auto tesla blaster</VFE_Gun_AutoTesla.label>
+  <VFE_Gun_AutoTesla.description>Auto-tesla to wieżyczka użytkowa, której zadaniem jest spowolnienie mechanoida bez możliwości przystosowania się do efektów. Cztery kondensatory są ładowane, aby uwolnić wiązkę elektryczności, która przed uwolnieniem jest starannie modulowana przez wewnętrzny system celowniczy. Po uderzeniu, skok mocy wpływa na moduł zasilania jednostki i wysysa wszelkie rezerwy, po czym stara się przeskoczyć do pobliskiej maszyny, stopniowo słabnąc. Może to nastąpić dwukrotnie, zanim początkowo modulowany prąd stanie się zbyt podobny do gospodarzy, po czym system bezpieczeństwa uziemia nadmiar mocy.</VFE_Gun_AutoTesla.description>
+
+  <VFE_Bullet_TeslaProjectile.label>piorun</VFE_Bullet_TeslaProjectile.label>
+
+
+</LanguageData>

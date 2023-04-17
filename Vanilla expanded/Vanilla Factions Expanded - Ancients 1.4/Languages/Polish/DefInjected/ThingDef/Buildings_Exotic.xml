@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LargeSupplyCrate.label>duża skrzynia hermetyczna</VFEA_LargeSupplyCrate.label>
+  <VFEA_LargeSupplyCrate.description>Duża skrzynia zawierająca trochę surowców budowlanych i komponentów. Hakowanie jej trwa krótko i nie ma ryzyka niebezpieczeństwa.</VFEA_LargeSupplyCrate.description>
+
+  <VFEA_AncientBroadcastStation.label>starożytna stacja nadawcza</VFEA_AncientBroadcastStation.label>
+  <VFEA_AncientBroadcastStation.description>Stara stacja komunikacyjna dalekiego zasięgu, często spotykana w starożytnych skarbcach. Można się do niej włamać, aby znaleźć lokalizację następnej krypty.</VFEA_AncientBroadcastStation.description>
+
+  <VFEA_PipelineJunction.label>węzeł rurociągów</VFEA_PipelineJunction.label>
+  <VFEA_PipelineJunction.description>Duży podziemny rurociąg z paliwem chemicznym łączy się z zewnętrznym portem w tym miejscu. Po włamaniu się do niego uzyskuje się duże ilości chemicznego paliwa, ale samo włamanie może trochę potrwać, a nawet przywołać insekty.</VFEA_PipelineJunction.description>
+
+  <VFEA_LargeLockedDoor.label>duże, zamknięte drzwi</VFEA_LargeLockedDoor.label>
+  <VFEA_LargeLockedDoor.description>Duże drzwi do skarbca, często spotykane w pomieszczeniu wejściowym. Ze względu na mechanizm samozachowawczy, drzwi są na stałe zablokowane i wymagają pewnego stopnia hakowania, aby je otworzyć.</VFEA_LargeLockedDoor.description>
+
+  <VFEA_AncientSupplyCrate.label>starożytna skrzynia zaopatrzeniowa</VFEA_AncientSupplyCrate.label>
+  <VFEA_AncientSupplyCrate.description>Starożytna skrzynia z pewnymi zasobami budowlanymi i komponentami, które są wyrzucane za pomocą spadochronu. Zhakowanie jej zajmuje niewiele czasu i może spowodować nalot, ale na pewno zawiera starożytną technologię.</VFEA_AncientSupplyCrate.description>
+
+
+</LanguageData>

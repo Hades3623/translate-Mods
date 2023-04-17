@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MonumentMarker.label>znacznik pomnika</MonumentMarker.label>
+  <MonumentMarker.description>Zaznacza miejsce, w którym zamierzasz postawić pomnik. Po umieszczeniu nie można go przenieść.</MonumentMarker.description>
+
+  <BulletShieldPsychic.label>przeskok</BulletShieldPsychic.label>
+  <Flashstorm.label>burza błyskawiczna</Flashstorm.label>
+  <SolarPinhole.label>otworek słoneczny</SolarPinhole.label>
+
+
+</LanguageData>

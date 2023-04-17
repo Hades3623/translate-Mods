@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_PlantTimeskip.label>przeskok czasu roślin</VPE_PlantTimeskip.label>
+  <VPE_PlantTimeskip.description>Wyhoduje wszystkie rośliny w promieniu wokół rzucającego do dojrzałości.</VPE_PlantTimeskip.description>
+
+  <VPE_TimeskipMeditation.label>medytacja z przeskokiem czasu</VPE_TimeskipMeditation.label>
+  <VPE_TimeskipMeditation.description>Wprowadza rzucającego w śpiączkę, którą sam zadał, na sześć godzin, gdy zdobędzie znaczną ilość doświadczenia do następnego poziomu Psycast i odzyska pełną Psyfokus. Biologicznie postarza rzucającego o pięć lat.</VPE_TimeskipMeditation.description>
+
+  <VPE_WordofForetelling.label>słowo przepowiedni</VPE_WordofForetelling.label>
+  <VPE_WordofForetelling.description>Psychiczne szepty o tym, co nadejdzie. Pionki kolonii są natchnione, neutralni lub sojusznicy poprawiają relacje, więźniowie tracą opór, a wrogowie wycofują się z zagłady.</VPE_WordofForetelling.description>
+
+  <VPE_CraftTimeskip.label>rzemieślniczy przeskok czasowy</VPE_CraftTimeskip.label>
+  <VPE_CraftTimeskip.description>Używając bardzo precyzyjnego pomijania czasu, przenosi żądany element do stanu końcowego, tak jakby twórca kontynuował nad nim pracę. Postarza się rzucającego o 3 lata.</VPE_CraftTimeskip.description>
+
+  <VPE_Age.label>wiek</VPE_Age.label>
+  <VPE_Age.description>Bardzo nieefektywnie wysysa energię życiową z żywego celu, odmładzając rzucającego o 2 lata i postarzając drugiego o 10. Bardzo wyniszczające skutki dla ofiary i uważane za wrogie działanie sojuszników.</VPE_Age.description>
+
+  <VPE_RaidPause.label>pauza nalotu</VPE_RaidPause.label>
+  <VPE_RaidPause.description>W zależności od wrażliwości psychicznej rzucającego, spowalnia wszystkich najeźdźców na mapie do całkowitego zatrzymania na maksymalnie pięć minut. Zaatakowanie dowolnego raidera, którego to dotyczy, powoduje, że wszyscy wracają do akcji.</VPE_RaidPause.description>
+
+  <VPE_SeasonTimeskip.label>sezon przeskoku czasowego</VPE_SeasonTimeskip.label>
+  <VPE_SeasonTimeskip.description>Unieruchamia całą planetę w trwającym przez cały sezon spowolnieniu wywołanym psychicznie, skutecznie przeskakując do przodu o sezon. Niemal natychmiastowy efekt, bardzo męczący i wprawiający rzucającego w śpiączkę.</VPE_SeasonTimeskip.description>
+
+  <VPE_TimeSphere.label>sfera czasu</VPE_TimeSphere.label>
+  <VPE_TimeSphere.description>Psychicznie kompresuje upływ czasu na danym obszarze. Żywe stworzenia szybko się starzeją, rośliny kwitną i więdną, a struktury zaczynają się rozpadać pod wpływem dziwacznego stresu.</VPE_TimeSphere.description>
+
+  <VPE_TimeReversal.label>odwrócenie czasu</VPE_TimeReversal.label>
+  <VPE_TimeReversal.description>Nieefektywnie wysysa energię życiową do żywego celu, postarzając rzucającego o 5 lat i osłabiając drugiego o 10. Ma minimalny wiek, usuwa kary związane z wiekiem i wprowadza rzucającego w śpiączkę.</VPE_TimeReversal.description>
+
+  <VPE_Timequake.label>trzęsienie czasu</VPE_Timequake.label>
+  <VPE_Timequake.description>Znajdź nieciągłość w polu psychicznym i skompresuj ją, uwalniając ogromne zaburzenia czasowe. Każda istota w zasięgu, ale poza bezpiecznym wewnętrznym kręgiem, będzie szybko się starzeć, a struktury ulegną zniekształceniu. Rzucenie tego zajmuje 20 sekund medytacji, po czym rzucający zapada w pięciodniową psychiczną śpiączkę. Niepokojące echa trzęsień czasu zadadzą ból wszystkim przez wiele kilometrów wokół, powodując dyplomatyczne konsekwencje dla wszystkich frakcji.</VPE_Timequake.description>
+
+
+</LanguageData>

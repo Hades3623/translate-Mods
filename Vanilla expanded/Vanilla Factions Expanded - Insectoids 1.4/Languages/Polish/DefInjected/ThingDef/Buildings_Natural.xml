@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_Mote.label>pyłek</VFEI_Mote.label>
+  <VFEI_Mote.description>Nie przejmuj się mną, jestem dla ciebie bezużyteczny</VFEI_Mote.description>
+
+  <VFEI_TunnelHiveSpawner.label>tunel</VFEI_TunnelHiveSpawner.label>
+
+  <VFEI_LargeHive.label>duży ul</VFEI_LargeHive.label>
+  <VFEI_LargeHive.description>Ogromny rój insektoidów. Jeśli zostanie aktywowany, z czasem wytworzy dodatkowe typy owadów i ule, a także pyszną i wartościową galaretkę z owadów.</VFEI_LargeHive.description>
+
+
+  <!-- Insectoid Larvae Cocoon -->
+
+  <VFEI_InsectoidLarvaeCocoon.label>kokon</VFEI_InsectoidLarvaeCocoon.label>
+  <VFEI_InsectoidLarvaeCocoon.description>Larwy kokon gigantycznych owadów.</VFEI_InsectoidLarvaeCocoon.description>
+
+
+  <!-- Burrows -->
+
+  <VFEI_BurrowSmall.label>mała nora</VFEI_BurrowSmall.label>
+  <VFEI_BurrowSmall.description>Nora prowadząca do sieci tuneli insektoidów. Będzie okresowo rozmnażać fale owadów z niższych kast, aż zostaną zniszczone.</VFEI_BurrowSmall.description>
+
+  <VFEI_BurrowMedium.label>średnia nora</VFEI_BurrowMedium.label>
+  <VFEI_BurrowMedium.description>Nora prowadząca do sieci tuneli insektoidów. Będzie okresowo rozmnażać fale owadów z wyższych kast, aż zostaną zniszczone.</VFEI_BurrowMedium.description>
+
+  <VFEI_BurrowRoyal.label>królewska nora</VFEI_BurrowRoyal.label>
+  <VFEI_BurrowRoyal.description>Nora prowadząca do sieci tuneli insektoidów. Okresowo będzie rodzić najwyższą kastę owadów - królewskie potomstwo królowej, dopóki nie zostanie zniszczone.</VFEI_BurrowRoyal.description>
+
+
+</LanguageData>

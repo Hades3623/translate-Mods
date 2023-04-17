@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <KillWithNobleWeapon.stages.0.label>zwycięstwo szlachetną bronią</KillWithNobleWeapon.stages.0.label>
+  <KillWithNobleWeapon.stages.0.description>Odniosłem zwycięstwo, dzierżąc szlachetną broń!</KillWithNobleWeapon.stages.0.description>
+
+  <UsedDespisedWeapon.stages.0.label>używana pogardzana broń</UsedDespisedWeapon.stages.0.label>
+  <UsedDespisedWeapon.stages.0.description>Użyłem brudnej broni, której nigdy nie powinno się używać. Jak upokarzające.</UsedDespisedWeapon.stages.0.description>
+
+  <WieldingNobleOrDespisedWeapon.stages.0.label>dzierżący {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.0.label>
+  <WieldingNobleOrDespisedWeapon.stages.0.description>Mam {WEAPON_label}. Taka szlachetna broń!</WieldingNobleOrDespisedWeapon.stages.0.description>
+  <WieldingNobleOrDespisedWeapon.stages.1.label>dzierżący {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.1.label>
+  <WieldingNobleOrDespisedWeapon.stages.1.description>Mam {WEAPON_label}. Taka obrzydliwa broń!</WieldingNobleOrDespisedWeapon.stages.1.description>
+
+
+</LanguageData>

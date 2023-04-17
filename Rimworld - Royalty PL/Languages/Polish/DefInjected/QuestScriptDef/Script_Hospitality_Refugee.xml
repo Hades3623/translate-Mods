@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hospitality_Refugee.questNameRules.rulesStrings.0>questName(lodgerCount==1)-&gt;[asker_nameDef] the [lodgerAdj]</Hospitality_Refugee.questNameRules.rulesStrings.0>
+  <Hospitality_Refugee.questNameRules.rulesStrings.1>questName(lodgerCount==1)-&gt;[athe] [lodgerAdj] [lodgerSingle]</Hospitality_Refugee.questNameRules.rulesStrings.1>
+  <Hospitality_Refugee.questNameRules.rulesStrings.2>questName(p=2,lodgerCount&gt;=2)-&gt;[lodgerAdj] [lodgerPlural]</Hospitality_Refugee.questNameRules.rulesStrings.2>
+  <Hospitality_Refugee.questNameRules.rulesStrings.3>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef]'s [lodgerAdj] [lodgerPlural]</Hospitality_Refugee.questNameRules.rulesStrings.3>
+  <Hospitality_Refugee.questNameRules.rulesStrings.4>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef]'s [lodgerPlural]</Hospitality_Refugee.questNameRules.rulesStrings.4>
+  <Hospitality_Refugee.questNameRules.rulesStrings.5>athe-&gt;a</Hospitality_Refugee.questNameRules.rulesStrings.5>
+  <Hospitality_Refugee.questNameRules.rulesStrings.6>athe-&gt;the</Hospitality_Refugee.questNameRules.rulesStrings.6>
+  <Hospitality_Refugee.questNameRules.rulesStrings.7>lodgerAdj-&gt;tired</Hospitality_Refugee.questNameRules.rulesStrings.7>
+  <Hospitality_Refugee.questNameRules.rulesStrings.8>lodgerAdj-&gt;lost</Hospitality_Refugee.questNameRules.rulesStrings.8>
+  <Hospitality_Refugee.questNameRules.rulesStrings.9>lodgerAdj-&gt;destitute</Hospitality_Refugee.questNameRules.rulesStrings.9>
+  <Hospitality_Refugee.questNameRules.rulesStrings.10>lodgerAdj-&gt;poor</Hospitality_Refugee.questNameRules.rulesStrings.10>
+  <Hospitality_Refugee.questNameRules.rulesStrings.11>lodgerAdj-&gt;desperate</Hospitality_Refugee.questNameRules.rulesStrings.11>
+  <Hospitality_Refugee.questNameRules.rulesStrings.12>lodgerAdj-&gt;sad</Hospitality_Refugee.questNameRules.rulesStrings.12>
+  <Hospitality_Refugee.questNameRules.rulesStrings.13>lodgerAdj-&gt;dusty</Hospitality_Refugee.questNameRules.rulesStrings.13>
+  <Hospitality_Refugee.questNameRules.rulesStrings.14>lodgerAdj-&gt;hopeless</Hospitality_Refugee.questNameRules.rulesStrings.14>
+  <Hospitality_Refugee.questNameRules.rulesStrings.15>lodgerAdj-&gt;unknown</Hospitality_Refugee.questNameRules.rulesStrings.15>
+  <Hospitality_Refugee.questNameRules.rulesStrings.16>lodgerAdj-&gt;forlorn</Hospitality_Refugee.questNameRules.rulesStrings.16>
+  <Hospitality_Refugee.questNameRules.rulesStrings.17>lodgerAdj-&gt;forsaken</Hospitality_Refugee.questNameRules.rulesStrings.17>
+  <Hospitality_Refugee.questNameRules.rulesStrings.18>lodgerSingle-&gt;traveler</Hospitality_Refugee.questNameRules.rulesStrings.18>
+  <Hospitality_Refugee.questNameRules.rulesStrings.19>lodgerSingle-&gt;refugee</Hospitality_Refugee.questNameRules.rulesStrings.19>
+  <Hospitality_Refugee.questNameRules.rulesStrings.20>lodgerSingle-&gt;drifter</Hospitality_Refugee.questNameRules.rulesStrings.20>
+  <Hospitality_Refugee.questNameRules.rulesStrings.21>lodgerSingle-&gt;survivor</Hospitality_Refugee.questNameRules.rulesStrings.21>
+  <Hospitality_Refugee.questNameRules.rulesStrings.22>lodgerSingle-&gt;nomad</Hospitality_Refugee.questNameRules.rulesStrings.22>
+  <Hospitality_Refugee.questNameRules.rulesStrings.23>lodgerSingle-&gt;vagabond</Hospitality_Refugee.questNameRules.rulesStrings.23>
+  <Hospitality_Refugee.questNameRules.rulesStrings.24>lodgerPlural-&gt;travelers</Hospitality_Refugee.questNameRules.rulesStrings.24>
+  <Hospitality_Refugee.questNameRules.rulesStrings.25>lodgerPlural-&gt;refugees</Hospitality_Refugee.questNameRules.rulesStrings.25>
+  <Hospitality_Refugee.questNameRules.rulesStrings.26>lodgerPlural-&gt;drifters</Hospitality_Refugee.questNameRules.rulesStrings.26>
+  <Hospitality_Refugee.questNameRules.rulesStrings.27>lodgerPlural-&gt;survivors</Hospitality_Refugee.questNameRules.rulesStrings.27>
+  <Hospitality_Refugee.questNameRules.rulesStrings.28>lodgerPlural-&gt;nomads</Hospitality_Refugee.questNameRules.rulesStrings.28>
+  <Hospitality_Refugee.questNameRules.rulesStrings.29>lodgerPlural-&gt;vagabonds</Hospitality_Refugee.questNameRules.rulesStrings.29>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;refugee</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings.0>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;refugees</Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings.1>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.0>offer(lodgerCount==1)-&gt;offers</Hospitality_Refugee.questDescriptionRules.rulesStrings.0>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.1>offer(lodgerCount&gt;=2)-&gt;offer</Hospitality_Refugee.questDescriptionRules.rulesStrings.1>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.2>lodgersPronoun(lodgerCount==1)-&gt;[asker_pronoun]</Hospitality_Refugee.questDescriptionRules.rulesStrings.2>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.3>lodgersPronoun(lodgerCount&gt;=2)-&gt;they</Hospitality_Refugee.questDescriptionRules.rulesStrings.3>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.4>lodgersPreposition(lodgerCount==1)-&gt;[asker_objective]self</Hospitality_Refugee.questDescriptionRules.rulesStrings.4>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.5>lodgersPreposition(lodgerCount&gt;=2)-&gt;themselves</Hospitality_Refugee.questDescriptionRules.rulesStrings.5>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.6>lodgersObjective(lodgerCount==1)-&gt;[asker_objective]</Hospitality_Refugee.questDescriptionRules.rulesStrings.6>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.7>lodgersObjective(lodgerCount&gt;=2)-&gt;them</Hospitality_Refugee.questDescriptionRules.rulesStrings.7>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.8>lodgersPossessive(lodgerCount==1)-&gt;[asker_possessive]</Hospitality_Refugee.questDescriptionRules.rulesStrings.8>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.9>lodgersPossessive(lodgerCount&gt;=2)-&gt;their</Hospitality_Refugee.questDescriptionRules.rulesStrings.9>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.10>lodgersSingularOrPluralDef(lodgerCount==1)-&gt;[asker_nameDef]</Hospitality_Refugee.questDescriptionRules.rulesStrings.10>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.11>lodgersSingularOrPluralDef(lodgerCount&gt;=2)-&gt;the [lodgersLabelPlural]</Hospitality_Refugee.questDescriptionRules.rulesStrings.11>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.12>questDescription-&gt;[approachInfo] [claimInfo] [asker_nameDef] begs you for permission to stay at [map_definite] for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.\n\nIn return, [lodgersPronoun] [offer] to work and fight for free during that time.\n\n[joinInfo] [lodgersPronoun] may also reward you later for helping [lodgersObjective] - but there is no way to know [lodgersPossessive] true intentions.\n\n[travelerInfo] not part of any faction. If you wish, you can choose to kill, arrest, sell, or harvest [lodgersObjective], without diplomatic consequences.</Hospitality_Refugee.questDescriptionRules.rulesStrings.12>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.13>approachInfo(lodgerCount==1)-&gt;A desperate [faction_pawnSingular] named [asker_nameDef] is approaching.</Hospitality_Refugee.questDescriptionRules.rulesStrings.13>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.14>approachInfo(lodgerCount==2)-&gt;[asker_nameDef] and another desperate [faction_pawnSingular] are approaching.</Hospitality_Refugee.questDescriptionRules.rulesStrings.14>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.15>approachInfo(lodgerCount&gt;=3)-&gt;[lodgerCount] desperate [faction_pawnsPlural] are approaching. Their leader is called [asker_nameDef].</Hospitality_Refugee.questDescriptionRules.rulesStrings.15>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.16>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] claims to have lost [asker_possessive] home in a recent attack.</Hospitality_Refugee.questDescriptionRules.rulesStrings.16>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.17>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] claims to woken up from cryptosleep all alone and friendless.</Hospitality_Refugee.questDescriptionRules.rulesStrings.17>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.18>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] claims to have been chased from [asker_possessive] home by a vengeful ex-lover.</Hospitality_Refugee.questDescriptionRules.rulesStrings.18>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.19>claimInfo(lodgerCount==1)-&gt;[asker_nameDef] claims to have been banished after an argument with a village leader.</Hospitality_Refugee.questDescriptionRules.rulesStrings.19>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.20>claimInfo(lodgerCount&gt;=2)-&gt;They claim to have lost their home in a recent attack.</Hospitality_Refugee.questDescriptionRules.rulesStrings.20>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.21>claimInfo(lodgerCount&gt;=2)-&gt;They claim to have escaped an organ harvesting operation.</Hospitality_Refugee.questDescriptionRules.rulesStrings.21>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.22>claimInfo(lodgerCount&gt;=2)-&gt;They say they escaped from a slave caravan.</Hospitality_Refugee.questDescriptionRules.rulesStrings.22>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.23>claimInfo(lodgerCount&gt;=2)-&gt;They say that crop blights starved them out of their village.</Hospitality_Refugee.questDescriptionRules.rulesStrings.23>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.24>claimInfo(lodgerCount&gt;=2)-&gt;They say a great flashstorm burned down their home.</Hospitality_Refugee.questDescriptionRules.rulesStrings.24>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.25>claimInfo(lodgerCount&gt;=2)-&gt;They say their caravan was ambushed and everything was taken.</Hospitality_Refugee.questDescriptionRules.rulesStrings.25>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.26>claimInfo(lodgerCount&gt;=2)-&gt;They say they were banished from their town due to moral disagreements.</Hospitality_Refugee.questDescriptionRules.rulesStrings.26>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.27>joinInfo(lodgerCount==1)-&gt;If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</Hospitality_Refugee.questDescriptionRules.rulesStrings.27>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.28>joinInfo(lodgerCount&gt;=2)-&gt;If you make them happy, some of them may offer to join you.</Hospitality_Refugee.questDescriptionRules.rulesStrings.28>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.29>travelerInfo(lodgerCount==1)-&gt;This [faction_pawnSingular] is</Hospitality_Refugee.questDescriptionRules.rulesStrings.29>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings.30>travelerInfo(lodgerCount&gt;=2)-&gt;These [faction_pawnsPlural] are</Hospitality_Refugee.questDescriptionRules.rulesStrings.30>
+  <Hospitality_Refugee.questContentRules.rulesStrings.0>lastOrNot(lodgerCount==1)-&gt;</Hospitality_Refugee.questContentRules.rulesStrings.0>
+  <Hospitality_Refugee.questContentRules.rulesStrings.1>lastOrNot(lodgerCount&gt;=2)-&gt;last</Hospitality_Refugee.questContentRules.rulesStrings.1>
+  <Hospitality_Refugee.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(lodgerCount==1)-&gt;[lodgersLabel]</Hospitality_Refugee.questContentRules.rulesStrings.2>
+  <Hospitality_Refugee.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)-&gt;[lodgersLabelPlural]</Hospitality_Refugee.questContentRules.rulesStrings.3>
+  <Hospitality_Refugee.questContentRules.rulesStrings.4>lodgersArriveLetterLabel-&gt;[lodgersLabelSingularOrPlural] arrived</Hospitality_Refugee.questContentRules.rulesStrings.4>
+  <Hospitality_Refugee.questContentRules.rulesStrings.5>lodgersArriveLetterText-&gt;[lodgersSingularOrPluralDef] [hasHave] arrived. [lodgersPronoun] will stay with you for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.</Hospitality_Refugee.questContentRules.rulesStrings.5>
+  <Hospitality_Refugee.questContentRules.rulesStrings.6>hasHave(lodgerCount==1)-&gt;has</Hospitality_Refugee.questContentRules.rulesStrings.6>
+  <Hospitality_Refugee.questContentRules.rulesStrings.7>hasHave(lodgerCount&gt;=2)-&gt;have</Hospitality_Refugee.questContentRules.rulesStrings.7>
+  <Hospitality_Refugee.questContentRules.rulesStrings.8>appalledButNoAction-&gt;The {PAWNSALIVECOUNT_multiple ? others seem : last [lodgersLabel] is} appalled at this, but {PAWNSALIVECOUNT_multiple ? are: is} not taking action against you.</Hospitality_Refugee.questContentRules.rulesStrings.8>
+  <Hospitality_Refugee.questContentRules.rulesStrings.9>othersWillNotAccept-&gt;The {PAWNSALIVECOUNT_multiple ? others are : last [lodgersLabel] is} not willing to accept this</Hospitality_Refugee.questContentRules.rulesStrings.9>
+  <Hospitality_Refugee.questContentRules.rulesStrings.10>turnedViolent-&gt;[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } turned violently against you.</Hospitality_Refugee.questContentRules.rulesStrings.10>
+  <Hospitality_Refugee.questContentRules.rulesStrings.11>decidedToLeave-&gt;[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</Hospitality_Refugee.questContentRules.rulesStrings.11>
+  <Hospitality_Refugee.questContentRules.rulesStrings.12>whoAskedToStay-&gt;who asked to stay with you</Hospitality_Refugee.questContentRules.rulesStrings.12>
+  <Hospitality_Refugee.questContentRules.rulesStrings.13>oneOfThe-&gt;one of the desperate [faction_pawnsPlural] who asked to stay with you</Hospitality_Refugee.questContentRules.rulesStrings.13>
+  <Hospitality_Refugee.questContentRules.rulesStrings.14>questOver-&gt;The quest '[resolvedQuestName]' is over.</Hospitality_Refugee.questContentRules.rulesStrings.14>
+  <Hospitality_Refugee.questContentRules.rulesStrings.15>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] has died.</Hospitality_Refugee.questContentRules.rulesStrings.15>
+  <Hospitality_Refugee.questContentRules.rulesStrings.16>lodgerDiedMemoryThoughtLetterLabel-&gt;[lodgersLabel] died: Anger</Hospitality_Refugee.questContentRules.rulesStrings.16>
+  <Hospitality_Refugee.questContentRules.rulesStrings.17>lodgerDiedMemoryThoughtLetterText-&gt;[letterIntroDeath]\n\n[appalledButNoAction]</Hospitality_Refugee.questContentRules.rulesStrings.17>
+  <Hospitality_Refugee.questContentRules.rulesStrings.18>lodgerDiedAttackPlayerLetterLabel-&gt;[lodgersLabel] died: Revenge</Hospitality_Refugee.questContentRules.rulesStrings.18>
+  <Hospitality_Refugee.questContentRules.rulesStrings.19>lodgerDiedAttackPlayerLetterText-&gt;[letterIntroDeath]\n\n[turnedViolent]</Hospitality_Refugee.questContentRules.rulesStrings.19>
+  <Hospitality_Refugee.questContentRules.rulesStrings.20>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] died: Departure</Hospitality_Refugee.questContentRules.rulesStrings.20>
+  <Hospitality_Refugee.questContentRules.rulesStrings.21>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</Hospitality_Refugee.questContentRules.rulesStrings.21>
+  <Hospitality_Refugee.questContentRules.rulesStrings.22>lodgersAllDiedLetterLabel-&gt;Quest failed</Hospitality_Refugee.questContentRules.rulesStrings.22>
+  <Hospitality_Refugee.questContentRules.rulesStrings.23>lodgersAllDiedLetterText-&gt;{SUBJECT_definite}, the [lastOrNot] desperate [faction_pawnSingular] [whoAskedToStay], has died.\n\n[questOver]</Hospitality_Refugee.questContentRules.rulesStrings.23>
+  <Hospitality_Refugee.questContentRules.rulesStrings.24>letterIntroArrested-&gt;You arrested {SUBJECT_definite}, [oneOfThe].</Hospitality_Refugee.questContentRules.rulesStrings.24>
+  <Hospitality_Refugee.questContentRules.rulesStrings.25>lodgerArrestedMemoryThoughtLetterLabel-&gt;[lodgersLabel] arrested: Anger</Hospitality_Refugee.questContentRules.rulesStrings.25>
+  <Hospitality_Refugee.questContentRules.rulesStrings.26>lodgerArrestedMemoryThoughtLetterText-&gt;[letterIntroArrested]\n\n[appalledButNoAction]</Hospitality_Refugee.questContentRules.rulesStrings.26>
+  <Hospitality_Refugee.questContentRules.rulesStrings.27>lodgerArrestedAttackPlayerLetterLabel-&gt;[lodgersLabel] arrested: Revenge</Hospitality_Refugee.questContentRules.rulesStrings.27>
+  <Hospitality_Refugee.questContentRules.rulesStrings.28>lodgerArrestedAttackPlayerLetterText-&gt;[letterIntroArrested]\n\n[turnedViolent]</Hospitality_Refugee.questContentRules.rulesStrings.28>
+  <Hospitality_Refugee.questContentRules.rulesStrings.29>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrested: Departure</Hospitality_Refugee.questContentRules.rulesStrings.29>
+  <Hospitality_Refugee.questContentRules.rulesStrings.30>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</Hospitality_Refugee.questContentRules.rulesStrings.30>
+  <Hospitality_Refugee.questContentRules.rulesStrings.31>lodgersAllArrestedLetterLabel-&gt;Quest failed</Hospitality_Refugee.questContentRules.rulesStrings.31>
+  <Hospitality_Refugee.questContentRules.rulesStrings.32>lodgersAllArrestedLetterText-&gt;You arrested {SUBJECT_definite}, the [lastOrNot] desperate [faction_pawnSingular] [whoAskedToStay].\n\n[questOver]</Hospitality_Refugee.questContentRules.rulesStrings.32>
+  <Hospitality_Refugee.questContentRules.rulesStrings.33>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], was violated by surgery.</Hospitality_Refugee.questContentRules.rulesStrings.33>
+  <Hospitality_Refugee.questContentRules.rulesStrings.34>lodgerViolatedMemoryThoughtLetterLabel-&gt;[lodgersLabel] violated: Anger</Hospitality_Refugee.questContentRules.rulesStrings.34>
+  <Hospitality_Refugee.questContentRules.rulesStrings.35>lodgerViolatedMemoryThoughtLetterText-&gt;[letterIntroViolated]\n\n[appalledButNoAction]</Hospitality_Refugee.questContentRules.rulesStrings.35>
+  <Hospitality_Refugee.questContentRules.rulesStrings.36>lodgerViolatedAttackPlayerLetterLabel-&gt;[lodgersLabel] violated: Revenge</Hospitality_Refugee.questContentRules.rulesStrings.36>
+  <Hospitality_Refugee.questContentRules.rulesStrings.37>lodgerViolatedAttackPlayerLetterText-&gt;[letterIntroViolated]\n\n[turnedViolent]</Hospitality_Refugee.questContentRules.rulesStrings.37>
+  <Hospitality_Refugee.questContentRules.rulesStrings.38>lodgerViolatedLeaveMapLetterLabel-&gt;[lodgersLabel] arrested: Departure</Hospitality_Refugee.questContentRules.rulesStrings.38>
+  <Hospitality_Refugee.questContentRules.rulesStrings.39>lodgerViolatedLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</Hospitality_Refugee.questContentRules.rulesStrings.39>
+  <Hospitality_Refugee.questContentRules.rulesStrings.40>mutinyLetterLabel-&gt;Betrayal</Hospitality_Refugee.questContentRules.rulesStrings.40>
+  <Hospitality_Refugee.questContentRules.rulesStrings.41>mutinyLetterText-&gt;[lodgersSingularOrPluralDef] [whoAskedToStay] [areIs] turning against you!\n\nIt seems [lodgersPronoun] had this treachery planned all along.</Hospitality_Refugee.questContentRules.rulesStrings.41>
+  <Hospitality_Refugee.questContentRules.rulesStrings.42>areIs(lodgerCount==1)-&gt;is</Hospitality_Refugee.questContentRules.rulesStrings.42>
+  <Hospitality_Refugee.questContentRules.rulesStrings.43>areIs(lodgerCount&gt;=2)-&gt;are</Hospitality_Refugee.questContentRules.rulesStrings.43>
+  <Hospitality_Refugee.questContentRules.rulesStrings.44>betrayalOfferLetterLabel-&gt;Betrayal offer: [factionOpponent_nameDef]</Hospitality_Refugee.questContentRules.rulesStrings.44>
+  <Hospitality_Refugee.questContentRules.rulesStrings.45>betrayalOffserLetterText-&gt;[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</Hospitality_Refugee.questContentRules.rulesStrings.45>
+  <Hospitality_Refugee.questContentRules.rulesStrings.46>betrayalOfferRewardLetterLabel-&gt;Betrayal reward: [factionOpponent_nameDef]</Hospitality_Refugee.questContentRules.rulesStrings.46>
+  <Hospitality_Refugee.questContentRules.rulesStrings.47>betrayalOfferRewardLetterText-&gt;[factionOpponent_nameDef] promised you a reward if you killed [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] has heard news this has been done and is sending you the following via drop pod (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</Hospitality_Refugee.questContentRules.rulesStrings.47>
+  <Hospitality_Refugee.questContentRules.rulesStrings.48>betrayalOfferFailedLetterLabel-&gt;Betrayal reward retracted</Hospitality_Refugee.questContentRules.rulesStrings.48>
+  <Hospitality_Refugee.questContentRules.rulesStrings.49>betrayalOfferFailedLetterText-&gt;[factionOpponent_nameDef] has learned that one of the members of the [faction_name] is no longer at [map_definite]. [factionOpponent_nameDef] wanted all members of the [faction_name] to die and has therefore retracted [factionOpponent_possessive] offer.</Hospitality_Refugee.questContentRules.rulesStrings.49>
+  <Hospitality_Refugee.questContentRules.rulesStrings.50>otherLodgers(lodgerCount==1)-&gt;</Hospitality_Refugee.questContentRules.rulesStrings.50>
+  <Hospitality_Refugee.questContentRules.rulesStrings.51>otherLodgers(lodgerCount==2)-&gt;and another [lodgersLabel]</Hospitality_Refugee.questContentRules.rulesStrings.51>
+  <Hospitality_Refugee.questContentRules.rulesStrings.52>otherLodgers(lodgerCount&gt;=3)-&gt;and several [lodgersLabelPlural]</Hospitality_Refugee.questContentRules.rulesStrings.52>
+  <Hospitality_Refugee.questContentRules.rulesStrings.53>otherMembers(lodgerCount==1)-&gt;</Hospitality_Refugee.questContentRules.rulesStrings.53>
+  <Hospitality_Refugee.questContentRules.rulesStrings.54>otherMembers(lodgerCount&gt;=2)-&gt; and all other members of the [faction_name]</Hospitality_Refugee.questContentRules.rulesStrings.54>
+  <Hospitality_Refugee.questContentRules.rulesStrings.55>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] leaving</Hospitality_Refugee.questContentRules.rulesStrings.55>
+  <Hospitality_Refugee.questContentRules.rulesStrings.56>lodgersLeavingLetterText-&gt;{FACTION_leaderNameDef} thanks you for allowing {FACTION_leaderObjective} to stay at [map_definite] for these [questDurationTicks_duration]. {FACTION_leaderPronoun} is now moving on with {FACTION_leaderPossessive} people.\n\n{FACTION_leaderNameDef} says {FACTION_leaderPronoun} won't forget what you've done.</Hospitality_Refugee.questContentRules.rulesStrings.56>
+
+  <RefugeeDelayedReward.questNameRules.rulesStrings.0>questName-&gt;Refugee delayed reward</RefugeeDelayedReward.questNameRules.rulesStrings.0>
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings.0>questDescription-&gt;a delayed reward for refugee quest</RefugeeDelayedReward.questDescriptionRules.rulesStrings.0>
+  <RefugeeDelayedReward.questContentRules.rulesStrings.0>rewardLetterLabel-&gt;Hospitality reward</RefugeeDelayedReward.questContentRules.rulesStrings.0>
+  <RefugeeDelayedReward.questContentRules.rulesStrings.1>rewardLetterText-&gt;[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you helped [rewardGiver_objective] in desperate circumstances.\n\nSince then, [rewardGiver_pronoun] has gotten back on [rewardGiver_possessive] feet, and now [rewardGiver_pronoun] wants to reward you properly for your help. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</RefugeeDelayedReward.questContentRules.rulesStrings.1>
+
+
+</LanguageData>

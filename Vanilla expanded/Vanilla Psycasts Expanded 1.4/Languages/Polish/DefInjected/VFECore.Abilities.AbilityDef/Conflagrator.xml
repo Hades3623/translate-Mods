@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Flameball.label>ognista kula</VPE_Flameball.label>
+  <VPE_Flameball.description>Wygeneruj mały, delikatny strąk magmy, gdy rzucający odrzuca pocisk. Po uderzeniu ciecz rozpryskuje się w małym promieniu.</VPE_Flameball.description>
+
+  <VPE_SelfExplosion.label>własna eksplozja</VPE_SelfExplosion.label>
+  <VPE_SelfExplosion.description>Tworzy krótkotrwałą, zapalającą bramkę wirową wokół rzucającego, która jest połączona z ukrytymi zbiornikami łatwopalnego gazu pod ciśnieniem. Gdy gaz ucieka, zapala się i szybko rozprzestrzenia, zadając niewielkie bezpośrednie obrażenia, ale podpala prawie wszystko, czego dotknie.</VPE_SelfExplosion.description>
+
+  <VPE_Explosion.label>eksplozja</VPE_Explosion.label>
+  <VPE_Explosion.description>Generuje krótką, mikroprzeskok w podziemnych zbiornikach nierafinowanych chemikaliów organicznych, wraz z małą iskrą w wyznaczonym miejscu. Płonący gaz wybucha w dużym promieniu, a elementy chempaliwa wytryskują w niekontrolowany sposób.</VPE_Explosion.description>
+
+  <VPE_FireShield.label>ognista tarcza</VPE_FireShield.label>
+  <VPE_FireShield.description>Tworzy tymczasową zapalającą bramkę wirową wokół celu, która łączy się z pobliską gwiazdą, która rozciąga się na zewnątrz o kilka cali. Każdy, kto spróbuje zaatakować cel w zwarciu, zostanie podpalony, z dodatkową korzyścią polegającą na obezwładnieniu wszelkich innych efektów ognia.</VPE_FireShield.description>
+
+  <VPE_BreatheFlame.label>ognisty oddech</VPE_BreatheFlame.label>
+  <VPE_BreatheFlame.description>Generuje krótki, jednokierunkowy przeskok w podziemnych zbiornikach nierafinowanych organicznych substancji chemicznych, wraz z małą iskrą przed ustami rzucającego. Strumienie płonącego, nierafinowanego chemio-paliwa tryskają, podpalając wszystko.</VPE_BreatheFlame.description>
+
+  <VPE_EyeBlast.label>wybuch oka</VPE_EyeBlast.label>
+  <VPE_EyeBlast.description>Generuje dwie mikro, jednokierunkowe przeskoki przed oczami rzucającego, które łączą się z pobliskim białym karłem. Celując w lokalizację, aby zapobiec przestrzeleniu, oślepiająca energia wystrzeliwuje i podpala niewielki obszar.</VPE_EyeBlast.description>
+
+  <VPE_QuenchFlames.label>gaszenie płomieni</VPE_QuenchFlames.label>
+  <VPE_QuenchFlames.description>Generuje przeskoki związane z przelatywaniem pobliskich statków, które „gubią” pianę ogniową zawartą w systemie tłumienia ognia statku. Ponieważ jest co „pożyczyć”, promień jest imponujący.</VPE_QuenchFlames.description>
+
+  <VPE_MeteorShower.label>deszcz meteorytów</VPE_MeteorShower.label>
+  <VPE_MeteorShower.description>Wprowadza zniekształcenia grawitacyjne w orbitujących meteoroidach i kosmicznych śmieciach, aby uderzyć w wybrane przez rzucającego miejsce. Są one dostępne w grupach po 4, aby zapewnić optymalną kontrolę i zniszczenie.</VPE_MeteorShower.description>
+
+  <VPE_FireBeam.label>wiązka ognia</VPE_FireBeam.label>
+  <VPE_FireBeam.description>Próby odtworzenia mocy gwiazdy w skoncentrowanej kolumnie prawie upłynnionego tlenu. Wynikająca z tego emisja plazmy jest tak potężna, że ​​tylko najbardziej zaawansowane systemy uzbrojenia mogą mieć nadzieję na porównanie. Długa, intensywna koncentracja kończy się zapadnięciem rzucającego w 6-godzinną śpiączkę.</VPE_FireBeam.description>
+
+  <VPE_FlameTornado.label>ogniste tornado</VPE_FlameTornado.label>
+  <VPE_FlameTornado.description>Próby odtworzenia mocy gwiazdy w wirze skoncentrowanego tlenu. Zachodzący bałagan zachodzących reakcji tworzy łatwopalne produkty uboczne, jednocześnie pozostawiając całkowicie nieprzewidywalną trajektorię.</VPE_FlameTornado.description>
+
+
+</LanguageData>

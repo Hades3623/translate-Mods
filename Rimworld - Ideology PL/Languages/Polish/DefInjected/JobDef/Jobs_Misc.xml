@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeditatePray.reportString>praying.</MeditatePray.reportString>
+  <InduceSlaveToRebel.reportString>nakłanianie TargetA do buntu.</InduceSlaveToRebel.reportString>
+  <GiveToPawn.reportString>dając TargetA do TargetB.</GiveToPawn.reportString>
+  <OpenStylingStationDialog.reportString>zmiana stylu w TargetA.</OpenStylingStationDialog.reportString>
+  <UseStylingStation.reportString>zmiana stylu w TargetA.</UseStylingStation.reportString>
+  <UseStylingStationAutomatic.reportString>zmiana stylu w TargetA.</UseStylingStationAutomatic.reportString>
+  <DeliverToAltar.reportString>dostarczenie TargetA do ołtarza.</DeliverToAltar.reportString>
+  <Sacrifice.reportString>Poświęcenie TargetA.</Sacrifice.reportString>
+  <Scarify.reportString>Cel wertykulacyjnyA.</Scarify.reportString>
+  <Blind.reportString>Oślepiający TargetA.</Blind.reportString>
+  <ExtractRelic.reportString>wyodrębnianie TargetB z TargetA.</ExtractRelic.reportString>
+  <InstallRelic.reportString>instalowanie TargetA w TargetB</InstallRelic.reportString>
+  <ExtractToInventory.reportString>wyodrębnianie TargetA do inwentarza.</ExtractToInventory.reportString>
+  <GetNeuralSupercharge.reportString>uzyskanie doładowania neuronowego od TargetA</GetNeuralSupercharge.reportString>
+  <EnterBiosculpterPod.reportString>wchodząc biorzeźbiarz pod.</EnterBiosculpterPod.reportString>
+  <CarryToBiosculpterPod.reportString>przenoszenie TargetA do kapsuły biorzeźbiarza.</CarryToBiosculpterPod.reportString>
+  <RecolorApparel.reportString>zmiana koloru odzieży</RecolorApparel.reportString>
+  <ActivateArchonexusCore.reportString>powołując się na archotekę.</ActivateArchonexusCore.reportString>
+
+
+</LanguageData>

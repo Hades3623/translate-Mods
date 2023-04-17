@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_MindControlled.label>kontrola umysłu</VPE_MindControlled.label>
+  <VPE_MindControlled.description>Kontrola umysłu wywołana psychicznie, dająca absolutną kontrolę innej osobie.</VPE_MindControlled.description>
+
+  <VPE_MindScramble.label>zamieszanie umysłowe</VPE_MindScramble.label>
+  <VPE_MindScramble.description>Psychicznie wywołane zamieszanie umysłowe, spowodowane próbą bycia dwiema osobami naraz.</VPE_MindScramble.description>
+
+  <VPE_PsychicGuidance.label>psychiczne przewodnictwo</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.description>Psychicznie indukowane przewodnictwo wobec innej osoby.</VPE_PsychicGuidance.description>
+
+  <VPE_PsychicGuide.label>psychiczny przewodnik</VPE_PsychicGuide.label>
+  <VPE_PsychicGuide.description>Psychicznie wywołana nieobecność umysłu spowodowana udzielaniem wskazówek innej osobie.</VPE_PsychicGuide.description>
+
+  <VPE_Lucky.label>Szczęściarz</VPE_Lucky.label>
+  <VPE_Lucky.description>Psychicznie wywołane szczęście, które pozwala tej osobie zawsze trafić w cel i nigdy nie zostać trafionym przez wroga.</VPE_Lucky.description>
+
+  <VPE_UnLucky.label>pechowiec</VPE_UnLucky.label>
+  <VPE_UnLucky.description>Psychicznie wywołany pech, który powstrzymuje tę osobę przed trafieniem w cel, podczas gdy zawsze zostaje trafiony przez wroga.</VPE_UnLucky.description>
+
+
+</LanguageData>

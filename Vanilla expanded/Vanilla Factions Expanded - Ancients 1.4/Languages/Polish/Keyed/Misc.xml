@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEAncients.SolarPowerUp>Moc rozbłysku słonecznego</VFEAncients.SolarPowerUp>
+  <VFEAncients.TabPowers>Moce</VFEAncients.TabPowers>
+  <VFEAncients.Superpowers>Supermoce</VFEAncients.Superpowers>
+  <VFEAncients.Weaknesses>Słabości</VFEAncients.Weaknesses>
+  <VFEAncients.Effects>Efekty:</VFEAncients.Effects>
+  <VFEAncients.Effect.AddAbility>Daj umiejętność: {0}</VFEAncients.Effect.AddAbility>
+  <VFEAncients.Effect.AddHediff>Dodaj stan zdrowia: {0}</VFEAncients.Effect.AddHediff>
+  <VFEAncients.Effect.NullThought>Anuluj myśl: {0}</VFEAncients.Effect.NullThought>
+  <VFEAncients.MarksmanshipTooltip>100% (Marksmanship)</VFEAncients.MarksmanshipTooltip>
+  <VFEAncients.Reason.KilledSomeone>Powód: zabił kogoś</VFEAncients.Reason.KilledSomeone>
+  <VFEAncients.Reason.Rejected>Powód: odrzucony przez {0}</VFEAncients.Reason.Rejected>
+  <VFEAncients.CannotPrioritizeAudacious>Nie można ustalić priorytetów: {0} jest zuchwały</VFEAncients.CannotPrioritizeAudacious>
+  <VFEAncients.IncapableOfTooltipPower>Spowodowane przez moc: {0}</VFEAncients.IncapableOfTooltipPower>
+  <VFEAncients.NotInMentalState>Nie w stanie psychicznym</VFEAncients.NotInMentalState>
+  <VFEAncients.NotAnimal>Nie zwierzę</VFEAncients.NotAnimal>
+  <VFEAncients.Tame>Nie dotyczy oswojonych zwierząt</VFEAncients.Tame>
+  <VFEAncients.NoTargets>Brak możliwych celów</VFEAncients.NoTargets>
+  <VFEAncients.RefillsIn>Uzupełnienia w {0}</VFEAncients.RefillsIn>
+  <VFEAncients.EnterGeneTailoringPod>wprowadz do kapsuły dopasowywania genów</VFEAncients.EnterGeneTailoringPod>
+  <VFEAncients.CarryToGeneTailoringPod>Przenieś {0} do modułu dostosowującego geny</VFEAncients.CarryToGeneTailoringPod>
+  <VFEAncients.CarryToBioBattery>Przenieś {0} do bio-akumulatora</VFEAncients.CarryToBioBattery>
+  <VFEAncients.Empower>Dodaj supermoc</VFEAncients.Empower>
+  <VFEAncients.RemoveWeakness>Usuń słabość</VFEAncients.RemoveWeakness>
+  <VFEAncients.Empowered.Label>Eksperyment powiódł się: {0}</VFEAncients.Empowered.Label>
+  <VFEAncients.Empowered.Text>Eksperyment w kapsule dopasowującej geny zakończył się sukcesem! {0} uzyskał moc {1}. Jednak zyskały również słabość {2}.</VFEAncients.Empowered.Text>
+  <VFEAncients.RemoveWeakness.Label>Eksperyment powiódł się: {0}</VFEAncients.RemoveWeakness.Label>
+  <VFEAncients.RemoveWeakness.Text>Eksperyment w kapsule dopasowującej geny zakończył się sukcesem! {0} nie ma słabości {1}.</VFEAncients.RemoveWeakness.Text>
+  <VFEAncients.StartOperation>Rozpocznij operację</VFEAncients.StartOperation>
+  <VFEAncients.CurrentOperation>Aktualna operacja</VFEAncients.CurrentOperation>
+  <VFEAncients.ExperimentFailed>Eksperyment nie powiódł się</VFEAncients.ExperimentFailed>
+  <VFEAncients.Death>Śmierć</VFEAncients.Death>
+  <VFEAncients.ExperimentFailed.Death>Tester zmarł, a eksperyment się nie powiódł. Nie przyznano żadnych nowych uprawnień.</VFEAncients.ExperimentFailed.Death>
+  <VFEAncients.Berserk>Berserk</VFEAncients.Berserk>
+  <VFEAncients.ExperimentFailed.Berserk>Tester doznał poważnego uszkodzenia mózgu i oszalał. Nie przyznano żadnych nowych uprawnień.</VFEAncients.ExperimentFailed.Berserk>
+  <VFEAncients.BrainDeath>Śmierć mózgu</VFEAncients.BrainDeath>
+  <VFEAncients.ExperimentFailed.BrainDeath>Tester doznał całkowitej awarii funkcji mózgu i jest teraz w stanie śmierci mózgu. Nie przyznano żadnych nowych uprawnień.</VFEAncients.ExperimentFailed.BrainDeath>
+  <VFEAncients.LaunchSupplies>Uruchom materiały</VFEAncients.LaunchSupplies>
+  <VFEAncients.ExpiryIn>Samozniszczenie w {0}</VFEAncients.ExpiryIn>
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Żaden naczelnik nie jest zdolny do takiej rekrutacji.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <VFEAncients.InterrogationSuccess>Przesłuchanie zakończone sukcesem</VFEAncients.InterrogationSuccess>
+  <VFEAncients.InterrogationSuccessDetail>{0} pomyślnie przesłuchał {1}, który ujawnił lokalizację {2}.</VFEAncients.InterrogationSuccessDetail>
+  <VFEAncients.InterrogationFailure>Przesłuchanie nie powiodło się!</VFEAncients.InterrogationFailure>
+  <VFEAncients.DeterioratingUncontained>niezamknięty</VFEAncients.DeterioratingUncontained>
+  <VFEAncients.FireAtPods>Ogień do kapsuł zrzutowych</VFEAncients.FireAtPods>
+  <VFEAncients.FireAtPawns>Strzelaj do wrogów</VFEAncients.FireAtPawns>
+  <VFEAncients.FireAtProjectiles>Strzelaj w wybuchowe pociski</VFEAncients.FireAtProjectiles>
+  <VFEAncients.FireAtPodsDesc>Pozwól wieży obrony bezpośredniej strzelać do nadlatujących zasobników, w których znajdują się wrogie najeźdźcy.</VFEAncients.FireAtPodsDesc>
+  <VFEAncients.FireAtPawnsDesc>Pozwól wieży obrony bezpośredniej strzelać do pionków wroga w zasięgu, tak jak robi to normalna wieża.</VFEAncients.FireAtPawnsDesc>
+  <VFEAncients.FireAtProjectilesDesc>Pozwól wieży obrony bezpośredniej strzelać do nadlatujących wybuchowych pocisków, takich jak rakiety i pociski moździerzowe.</VFEAncients.FireAtProjectilesDesc>
+  <VFEAncients.PowerChoice>Zakończył się proces wstrzykiwania supernanitów. Ponieważ sprzęt laboratoryjny zawiera próbnik nanitowy, możesz teraz wybrać między dwiema parami mocy i słabości, aby uzyskać {0}.</VFEAncients.PowerChoice>
+  <VFEAncients.Select>Wybierać</VFEAncients.Select>
+  <VFEAncients.MassLeft>Mass Left: {0} / {1} ({2})</VFEAncients.MassLeft>
+  <VFEAncients.AlreadyMetaMorph>Już w postaci zwierzęcej</VFEAncients.AlreadyMetaMorph>
+  <VFEAncients.CancelOp>Anuluj operację</VFEAncients.CancelOp>
+  <VFEAncients.ConfirmSendPawn>Ta proca z zapasami zawiera pionka {PAWN_labelShort}. Nie będziesz w stanie odzyskać {PAWN_pronoun}, jeśli wyślesz {PAWN_pronoun}. Uruchomić mimo to?</VFEAncients.ConfirmSendPawn>
+  <VFEAncients.CancelOpDesc>Zdecyduj, że nie będziesz wykonywać operacji na {PAWN} i wyrzuć {PAWN_pronoun} z zasobnika dostosowywania genów.</VFEAncients.CancelOpDesc>
+  <VFEAncients.ExperimentFailureWarning>Przeprowadzenie tego eksperymentu ma {0} szansę na niepowodzenie. Wynika to z:{4}\n\nMożna to zmniejszyć, znajdując i instalując niektóre z tych budynków:\n{1}\n\nEksperyment potrwa {2} i nie można go zatrzymać po rozpoczęciu. Ma na to wpływ:{3}</VFEAncients.ExperimentFailureWarning>
+
+</LanguageData>

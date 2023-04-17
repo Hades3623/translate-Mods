@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_Isolationist.label>isolationist</VFEA_Isolationist.label>
+  <VFEA_Isolationist.description>Trust is a resource in low supply, as everyone we meet is the enemy.</VFEA_Isolationist.description>
+  <VFEA_Isolationist.generalRules.rulesStrings.0>memeAdjective-&gt;isolated</VFEA_Isolationist.generalRules.rulesStrings.0>
+  <VFEA_Isolationist.generalRules.rulesStrings.1>memeAdjective-&gt;hidden</VFEA_Isolationist.generalRules.rulesStrings.1>
+  <VFEA_Isolationist.generalRules.rulesStrings.2>memeAdjective-&gt;lone</VFEA_Isolationist.generalRules.rulesStrings.2>
+  <VFEA_Isolationist.generalRules.rulesStrings.3>memeAdjective-&gt;secluded</VFEA_Isolationist.generalRules.rulesStrings.3>
+  <VFEA_Isolationist.generalRules.rulesStrings.4>memeAdjective-&gt;exceptional</VFEA_Isolationist.generalRules.rulesStrings.4>
+  <VFEA_Isolationist.generalRules.rulesStrings.5>memeAdjective-&gt;superior</VFEA_Isolationist.generalRules.rulesStrings.5>
+  <VFEA_Isolationist.generalRules.rulesStrings.6>memeAdjective-&gt;detached</VFEA_Isolationist.generalRules.rulesStrings.6>
+  <VFEA_Isolationist.generalRules.rulesStrings.7>memeCreed-&gt;army</VFEA_Isolationist.generalRules.rulesStrings.7>
+  <VFEA_Isolationist.generalRules.rulesStrings.8>memeCreed-&gt;nation</VFEA_Isolationist.generalRules.rulesStrings.8>
+  <VFEA_Isolationist.generalRules.rulesStrings.9>memeHyphenPrefix-&gt;hidden</VFEA_Isolationist.generalRules.rulesStrings.9>
+  <VFEA_Isolationist.generalRules.rulesStrings.10>memeConcept-&gt;war</VFEA_Isolationist.generalRules.rulesStrings.10>
+  <VFEA_Isolationist.generalRules.rulesStrings.11>memeConcept-&gt;isolation</VFEA_Isolationist.generalRules.rulesStrings.11>
+  <VFEA_Isolationist.generalRules.rulesStrings.12>memeConcept-&gt;loneliness</VFEA_Isolationist.generalRules.rulesStrings.12>
+  <VFEA_Isolationist.generalRules.rulesStrings.13>memeLeaderNoun-&gt;general</VFEA_Isolationist.generalRules.rulesStrings.13>
+  <VFEA_Isolationist.generalRules.rulesStrings.14>memeLeaderNoun-&gt;commander</VFEA_Isolationist.generalRules.rulesStrings.14>
+  <VFEA_Isolationist.generalRules.rulesStrings.15>memeLeaderNoun-&gt;marshal</VFEA_Isolationist.generalRules.rulesStrings.15>
+  <VFEA_Isolationist.generalRules.rulesStrings.16>memeLeaderNoun-&gt;captain</VFEA_Isolationist.generalRules.rulesStrings.16>
+  <VFEA_Isolationist.generalRules.rulesStrings.17>memeLeaderNoun-&gt;sergeant</VFEA_Isolationist.generalRules.rulesStrings.17>
+  <VFEA_Isolationist.generalRules.rulesStrings.18>memeLeaderNoun-&gt;dictator</VFEA_Isolationist.generalRules.rulesStrings.18>
+  <VFEA_Isolationist.generalRules.rulesStrings.19>memeLeaderNoun-&gt;president</VFEA_Isolationist.generalRules.rulesStrings.19>
+  <VFEA_Isolationist.generalRules.rulesStrings.20>memeLeaderNoun-&gt;leader</VFEA_Isolationist.generalRules.rulesStrings.20>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Isolationist)        -&gt;The people of the [place_summary] [place_name] squabbled endlessly among themselves, and [deity0_name] became tired of discord and anointed [memberNamePlural] as the only rightful rulers of every living being.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Isolationist)  -&gt;The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, for they are your enemy, and peace with them was never an option"</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.1>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Isolationist)           -&gt;The people of the [place_summary] [place_name] worshipped [deity0_name]. [deity0_pronoun] saw that they were suited for [memeConcept], and ordained that they shall be the only faction worthy of ascension.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.2>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Isolationist)        -&gt;A [foeLeader] passed a law forbidding [memberNamePlural] from rising to the ruling classes of [place_name]. As such, [memberNamePlural] began to conspire and create hidden, secret alliances.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.3>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Isolationist)     -&gt;A warrior named [founderName] used [place_massWeapon] to destroy a [place_community]. [deity0_name] saw [founderName]'s ruthlessness told [founder_objective] to lead a life of isolation and secrecy.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.4>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Isolationist)         -&gt;[founderName] destroyed the capital of [place_name] with [place_massWeapon], killing the [foeLeader]. [founder_pronoun] did not take [founder_possessive] place as ruler of [place_name] - instead, [founderName] went into hiding.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.5>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Isolationist)           -&gt;[founderName] built an army that spread [founder_possessive] power and glory across the land, placing those who refused to follow rightly at the end of [founder_possessive] knife.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.6>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Isolationist)    -&gt;[founderName] instructed all outsiders to fight to the death, as peace was never an option. When the first city refused and begged to join [founder_objective], [founder_pronoun] used [place_massWeapon] to kill everyone inside.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.7>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Isolationist)         -&gt;I looked at this [foeLeader], with [foeLeader_possessive] pitiful [foeSoldiers], all that power left fallow. I tried to convince [foeLeader_objective] that</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.8>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Isolationist)              -&gt;we've long since proven that we have the strength to strike from the shadows, isolated but not weakened</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.9>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Isolationist) -&gt;That's why we're proud to express the strength of our hearts using the edges of our blades and the heads of our hammers.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.10>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Isolationist)    -&gt;It took the most superior humans to create the archotechs. With being as powerful as them, it's only proper that we hide in the shadows.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.11>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Isolationist)     -&gt;The archotechs can wipe us out without hesitation - just as we should wipe out our enemies.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.12>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Isolationist) -&gt;The archotechs will never take us to join them - and we should never give this opportunity to our enemies.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.13>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Isolationist)     -&gt;Powerful spirits of [spiritElement] decide who is fit to rule, and lend power to their chosen when they slay others.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.14>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.15>animistProphecy(tag=meme_Isolationist) -&gt;[itIsSaid] that a new order will be created when one supreme ruler emerges from the shadows on a planet filled to the brim with blood and viscera.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.15>
+  <VFEA_Isolationist.symbolPacks.0.adjective>isolated</VFEA_Isolationist.symbolPacks.0.adjective>
+  <VFEA_Isolationist.symbolPacks.1.adjective>secluded</VFEA_Isolationist.symbolPacks.1.adjective>
+  <VFEA_Isolationist.symbolPacks.2.adjective>secret</VFEA_Isolationist.symbolPacks.2.adjective>
+
+
+</LanguageData>

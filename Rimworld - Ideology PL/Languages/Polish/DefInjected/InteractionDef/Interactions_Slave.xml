@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Suppress.label>stłumić</Suppress.label>
+  <Suppress.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] powiedział [RECIPIENT_nameDef], że za bunt będą kary.</Suppress.logRulesInitiator.rulesStrings.0>
+  <Suppress.logRulesInitiator.rulesStrings.1>r_logentry->INITIATOR [INITIATOR_nameDef] ostrzegł [RECIPIENT_nameDef], że nieposłuszeństwo zostanie ukarane.</Suppress.logRulesInitiator.rulesStrings.1>
+  <Suppress.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] przestrzega [RECIPIENT_nameDef] przed wszelkiego rodzaju wykroczeniami.</Suppress.logRulesInitiator.rulesStrings.2>
+  <Suppress.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] zasugerował, aby [RECIPIENT_nameDef] wykonywał polecenia i nie zadawał pytań.</Suppress.logRulesInitiator.rulesStrings.3>
+
+  <SparkSlaveRebellion.label>wywołać bunt niewolników</SparkSlaveRebellion.label>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] zasugerował, żeby uciekali.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.0>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] zachęcał [RECIPIENT_nameDef] do odebrania [RECIPIENT_possessive] freedom.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.1>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] mówił o zakończeniu ich zniewolenia i ucieczce.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.2>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] mówił o życiu poza służbą i zachęcał [RECIPIENT_nameDef] do ucieczki.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.3>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] szepnął, że ochrona jest słaba i teraz jest dobry moment na ucieczkę.</SparkSlaveRebellion.logRulesInitiator.rulesStrings.4>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox_Tilable.label>uchylna skrzynia do sadzenia</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Uprawia rośliny w pudełku z ziemią. Nie wymaga zasilania. \n
+Można zbudować w dowolnym kształcie.</VFE_PlanterBox_Tilable.description>
+
+  <VFE_Hydroponics_Tilable.label>uchylna wanna do hydroponiki</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Sztuczna kąpiel odżywcza do uprawy roślin. Pompy składników odżywczych muszą pracować w sposób ciągły; rośliny umrą po odcięciu zasilania. 
+ 
+Ta wersja jest modułowa i można ją złożyć w dowolnym kształcie.</VFE_Hydroponics_Tilable.description>
+
+  <VFE_Ecosystem_Tilable.label>sztuczny ekosystem do przechylania</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Szybko uprawia rośliny w sztucznym, zamkniętym ekosystemie, który można skonfigurować tak, aby skutecznie hodował nawet wybredne rośliny. Wymaga dużej mocy do pracy; rośliny umrą po odcięciu zasilania. Zawiera wbudowaną lampę przeciwsłoneczną zapewniającą światło dla roślin. \n
+Ta wersja jest modułowa i można ją złożyć w dowolnym kształcie.</VFE_Ecosystem_Tilable.description>
+
+
+  <VFE_PlanterBox.label>skrzynka plantacyjna</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Uprawia rośliny w pudełku z ziemią. Nie wymaga mocy do pracy.</VFE_PlanterBox.description>
+  <VFE_Ecosystem.label>sztuczny ekosystem</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Szybko rośnie rośliny w sztucznym, zamkniętym ekosystemie. Wymaga dużej mocy do pracy; rośliny umrą po odcięciu zasilania. 
+ 
+Zawiera wbudowaną lampę słoneczną zapewniającą światło dla roślin.</VFE_Ecosystem.description>
+
+</LanguageData>

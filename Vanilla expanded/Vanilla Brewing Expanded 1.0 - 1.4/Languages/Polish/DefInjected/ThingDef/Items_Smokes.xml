@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Cigarettes.label>papierosy</VBE_Cigarettes.label>
+  <VBE_Cigarettes.description>Mała, zwinięta papierowa tuba, luźno nadziewana liśćmi tytoniu. Oferuje krótką euforię, a także stymulację umysłową i jest bardzo uzależniająca. Ostry zapach jest generalnie nielubiany na początku, ale staje się znacznie przyjemniejszy, gdy palacz staje się bardziej uzależniony. Można go wytworzyć bez wyposażenia, w miejscu wytwarzania.</VBE_Cigarettes.description>
+  <VBE_Cigarettes.ingestible.ingestCommandString>Dym {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <VBE_Cigarettes.ingestible.ingestReportString>Palenie {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+
+  <VBE_Cigars.label>cygara</VBE_Cigars.label>
+  <VBE_Cigars.description>Tłusty, suszony liść tytoniu nadziewany po brzegi większą ilością liści tytoniu i owinięty wokół niego złotą folią. Cygara mają historycznie szykowny wygląd i zwykle są dostępne tylko dla tych, którzy regularnie mieszają się z elitą świata brokatu. Cygara są często aromatyzowane cytrusami lub wanilią, aby ich smak i zapach były mniej cierpkie.</VBE_Cigars.description>
+  <VBE_Cigars.ingestible.ingestCommandString>Dym {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <VBE_Cigars.ingestible.ingestReportString>Palenie {0}.</VBE_Cigars.ingestible.ingestReportString>
+
+
+</LanguageData>

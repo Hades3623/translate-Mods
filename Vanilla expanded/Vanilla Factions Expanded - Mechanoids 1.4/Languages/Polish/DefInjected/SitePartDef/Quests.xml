@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEV_AbandonedFactory.label>opuszczona fabryka</VFEV_AbandonedFactory.label>
+  <VFEV_AbandonedFactory.description>Opuszczona fabryka.</VFEV_AbandonedFactory.description>
+
+  <VFEV_BroadcastingStation.label>opuszczona stacja nadawcza</VFEV_BroadcastingStation.label>
+  <VFEV_BroadcastingStation.description>Stacja nadawcza.</VFEV_BroadcastingStation.description>
+
+
+</LanguageData>

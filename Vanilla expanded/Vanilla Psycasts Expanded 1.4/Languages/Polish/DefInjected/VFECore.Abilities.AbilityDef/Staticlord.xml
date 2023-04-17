@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Bolt.label>pocisk</VPE_Bolt.label>
+  <VPE_Bolt.description>Ciska słabym pociskiem elektryczności, by trafić mały cel, powodując niewielkie oparzenia przy bezpośrednich trafieniach i obszarowe obrażenia EMP.</VPE_Bolt.description>
+
+  <VPE_ChainBolt.label>pocisk łańcuchowy</VPE_ChainBolt.label>
+  <VPE_ChainBolt.description>Wystrzeliwuje żywą błyskawicę elektryczności do celu, która następnie może podążać za 5 kolejnymi pobliskimi celami, zadając niewielkie oparzenia i obrażenia EMP.</VPE_ChainBolt.description>
+
+  <VPE_Thunderbolt.label>piorun</VPE_Thunderbolt.label>
+  <VPE_Thunderbolt.description>Przywołuje piorun, który uderza w cel, powodując oparzenia przy bezpośrednich trafieniach i większe obrażenia obszarowe EMP.</VPE_Thunderbolt.description>
+
+  <VPE_StaticAura.label>statyczna aura</VPE_StaticAura.label>
+  <VPE_StaticAura.description>Zaklinacz wyznacza pobliski cel, który otrzyma aurę narastającej elektryczności, która nałoży efekty EMP na wszystko, co obce, do którego się zbliży, w tym budowle, pionki i obiekty elektryczne.</VPE_StaticAura.description>
+
+  <VPE_Recharge.label>Doładowanie</VPE_Recharge.label>
+  <VPE_Recharge.description>Ostrożnie i delikatnie dostraja strumień prądu do dotykanego akumulatora, aby naładować go mocą 100 kW lub równowartością 100 Wd/s. Czas ładowania zależy od wrażliwości psychicznej rzucającego.</VPE_Recharge.description>
+
+  <VPE_BallLightning.label>piorun kulisty</VPE_BallLightning.label>
+  <VPE_BallLightning.description>Urządzenie do rzucania ściska kulę skondensowanej elektryczności, która powoli przemieszcza się w wyznaczone miejsce. Kilka sekund po zwolnieniu zacznie rozładowywać się w okoliczne cele żywymi pociskami elektryczności.</VPE_BallLightning.description>
+
+  <VPE_StaticPulse.label>impuls statyczny</VPE_StaticPulse.label>
+  <VPE_StaticPulse.description>Rzucający rzuca ogromną ilość napięcia do otaczającego powietrza, powodując wybuch EMP o ogromnym promieniu, który w przeciwnym razie jest nieszkodliwy.</VPE_StaticPulse.description>
+
+  <VPE_Vortex.label>wir</VPE_Vortex.label>
+  <VPE_Vortex.description>Manifestuje ziejący wir elektryczności wysokiego napięcia - przekierowany przez bramkę z burzy mgławicowej - w obszarze docelowym z dużym efektem. Silnie utrudnia ruch i manipulację proporcjonalnie, z najsilniejszym efektem w centrum.</VPE_Vortex.description>
+
+  <VPE_Hurricane.label>huragan</VPE_Hurricane.label>
+  <VPE_Hurricane.description>Rzucający na siłę zmienia pogodę – za pomocą szeroko rozpowszechnionych przepustów różnicowych – w ulewę z wiatrami o sile huraganu, która trwa tak długo, jak długo rzucający jest w stanie poradzić sobie z akumulacją ciepła i może natychmiast zatrzymać się do woli. Osoby przebywające na zewnątrz będą doświadczać coraz większych ograniczeń wzroku, poruszania się i manipulacji, aż do całkowitego zatrzymania.</VPE_Hurricane.description>
+
+  <VPE_Flashstorm.label>burza z piorunami</VPE_Flashstorm.label>
+  <VPE_Flashstorm.description>Użyj skoncentrowanych przeskoków różnicy ciśnień w atmosferze, aby wygenerować zlokalizowaną burzę błyskową. Burza przez jakiś czas uderza w okolicę piorunami, zanim się rozproszy.</VPE_Flashstorm.description>
+
+
+</LanguageData>

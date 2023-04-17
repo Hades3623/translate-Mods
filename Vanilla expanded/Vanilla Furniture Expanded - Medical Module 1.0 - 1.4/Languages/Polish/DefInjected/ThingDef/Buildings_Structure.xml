@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wall_SterileRed.label>czerwona sterylna ściana</Wall_SterileRed.label>
+  <Wall_SterileRed.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileRed.description>
+  <Wall_SterileRed_Blueprint.label>czerwona sterylna ściana (plan)</Wall_SterileRed_Blueprint.label>
+  <Wall_SterileRed_Frame.label>czerwona sterylna ściana (budynek)</Wall_SterileRed_Frame.label>
+  <Wall_SterileRed_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileRed_Frame.description>
+
+  <Wall_SterileGreen.label>zielona sterylna ściana</Wall_SterileGreen.label>
+  <Wall_SterileGreen.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileGreen.description>
+  <Wall_SterileGreen_Blueprint.label>zielona sterylna ściana (plan)</Wall_SterileGreen_Blueprint.label>
+  <Wall_SterileGreen_Frame.label>zielona sterylna ściana (budynek)</Wall_SterileGreen_Frame.label>
+  <Wall_SterileGreen_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileGreen_Frame.description>
+
+  <Wall_SterileBlue.label>niebieska sterylna ściana</Wall_SterileBlue.label>
+  <Wall_SterileBlue.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileBlue.description>
+  <Wall_SterileBlue_Blueprint.label>niebieska sterylna ściana (plan)</Wall_SterileBlue_Blueprint.label>
+  <Wall_SterileBlue_Frame.label>niebieska sterylna ściana (budynek)</Wall_SterileBlue_Frame.label>
+  <Wall_SterileBlue_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileBlue_Frame.description>
+
+  <Wall_SterileCream.label>kremowa ściana sterylna</Wall_SterileCream.label>
+  <Wall_SterileCream.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileCream.description>
+  <Wall_SterileCream_Blueprint.label>kremowa sterylna ściana (plan)</Wall_SterileCream_Blueprint.label>
+  <Wall_SterileCream_Frame.label>kremowa ściana sterylna (budynek)</Wall_SterileCream_Frame.label>
+  <Wall_SterileCream_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileCream_Frame.description>
+
+  <Wall_SterileDark.label>ciemna sterylna ściana</Wall_SterileDark.label>
+  <Wall_SterileDark.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileDark.description>
+  <Wall_SterileDark_Blueprint.label>ciemna sterylna ściana (plan)</Wall_SterileDark_Blueprint.label>
+  <Wall_SterileDark_Frame.label>ciemna sterylna ściana (budynek)</Wall_SterileDark_Frame.label>
+  <Wall_SterileDark_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileDark_Frame.description>
+
+  <Wall_SterileGold.label>ściana sterylna złota</Wall_SterileGold.label>
+  <Wall_SterileGold.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileGold.description>
+  <Wall_SterileGold_Blueprint.label>złota sterylna ściana (plan)</Wall_SterileGold_Blueprint.label>
+  <Wall_SterileGold_Frame.label>złota sterylna ściana (budynek)</Wall_SterileGold_Frame.label>
+  <Wall_SterileGold_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileGold_Frame.description>
+
+  <Wall_SterileTeal.label>turkusowa sterylna ścianka</Wall_SterileTeal.label>
+  <Wall_SterileTeal.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileTeal.description>
+  <Wall_SterileTeal_Blueprint.label>turkusowa sterylna ściana (plan)</Wall_SterileTeal_Blueprint.label>
+  <Wall_SterileTeal_Frame.label>turkusowa sterylna ściana (budynek)</Wall_SterileTeal_Frame.label>
+  <Wall_SterileTeal_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileTeal_Frame.description>
+
+  <Wall_SterileBrown.label>brązowa sterylna ściana</Wall_SterileBrown.label>
+  <Wall_SterileBrown.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileBrown.description>
+  <Wall_SterileBrown_Blueprint.label>brązowa sterylna ściana (plan)</Wall_SterileBrown_Blueprint.label>
+  <Wall_SterileBrown_Frame.label>brązowa sterylna ściana (budynek)</Wall_SterileBrown_Frame.label>
+  <Wall_SterileBrown_Frame.description>Nieprzejezdna ściana. Potrafi utrzymać dach. Wyposażony w specjalne właściwości zwiększające czystość, aby stworzyć sterylne środowisko.</Wall_SterileBrown_Frame.description>
+
+
+</LanguageData>

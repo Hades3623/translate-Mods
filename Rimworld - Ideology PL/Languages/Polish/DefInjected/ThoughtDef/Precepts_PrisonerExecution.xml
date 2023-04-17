@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: More intense version of vanilla "know X executed" thoughts -->
+
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.0.label>uzasadnione wykonanie</ExecutedGuest_Know_Abhorrent_Mood.stages.0.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.0.description>Stracono winnego więźnia lub gościa. To było uzasadnione, ale nadal smutne.</ExecutedGuest_Know_Abhorrent_Mood.stages.0.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.1.label>ktoś został uśpiony</ExecutedGuest_Know_Abhorrent_Mood.stages.1.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.1.description>Uśmiercono więźnia lub gościa. To było ludzkie, ale wciąż smutne.</ExecutedGuest_Know_Abhorrent_Mood.stages.1.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.2.label>ktoś został stracony</ExecutedGuest_Know_Abhorrent_Mood.stages.2.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.2.description>Więzień lub gość został zabity z zimną krwią. Wydawało się to trochę złe.</ExecutedGuest_Know_Abhorrent_Mood.stages.2.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.3.label>ktoś został zamordowany narządem</ExecutedGuest_Know_Abhorrent_Mood.stages.3.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.3.description>Zginął więzień lub gość, ponieważ kolonia zabrała mu części ciała. To jest straszne.</ExecutedGuest_Know_Abhorrent_Mood.stages.3.description>
+
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.0.label>uzasadniona egzekucja kolonisty</ExecutedColonist_Know_Abhorrent_Mood.stages.0.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.0.description>Stracono winnego kolonistę. To było uzasadnione, ale nadal smutne.</ExecutedColonist_Know_Abhorrent_Mood.stages.0.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.1.label>eutanazja kolonistów</ExecutedColonist_Know_Abhorrent_Mood.stages.1.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.1.description>Uśpiono kolonistę. To było ludzkie, ale wciąż smutne.</ExecutedColonist_Know_Abhorrent_Mood.stages.1.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.2.label>kolonista stracony</ExecutedColonist_Know_Abhorrent_Mood.stages.2.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.2.description>Kolonista został zabity z zimną krwią. Wydawało się to trochę złe.</ExecutedColonist_Know_Abhorrent_Mood.stages.2.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.3.label>narządy kolonistów-zbierane</ExecutedColonist_Know_Abhorrent_Mood.stages.3.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.3.description>Zginął kolonista, ponieważ ktoś odebrał mu części ciała. To jest straszne.</ExecutedColonist_Know_Abhorrent_Mood.stages.3.description>
+
+
+  <!-- Thoughts: Executed prisoner -->
+
+  <ExecutedPrisoner_Know_Abhorrent.stages.0.label>stracony więzień</ExecutedPrisoner_Know_Abhorrent.stages.0.label>
+  <InnocentPrisonerDied_Know_Abhorrent.stages.0.label>odpowiedzialny za śmierć więźnia</InnocentPrisonerDied_Know_Abhorrent.stages.0.label>
+
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.label>niewinny więzień zmarł</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.description>Jeden z naszych więźniów zmarł, mimo że był nieszkodliwy. Powinniśmy być w stanie zaopiekować się naszymi więźniami. Gdybyśmy chcieli ich śmierci, moglibyśmy przynajmniej przeprowadzić uporządkowaną egzekucję, zamiast pozwolić na to barbarzyństwo.</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.0.description>
+
+  <InnocentPrisonerDied_Abhorrent.stages.0.label>zmarł niewinny więzień (odpowiedzialny)</InnocentPrisonerDied_Abhorrent.stages.0.label>
+  <InnocentPrisonerDied_Abhorrent.stages.0.description>Byłem odpowiedzialny za śmierć więźnia. Muszę być naprawdę zła.</InnocentPrisonerDied_Abhorrent.stages.0.description>
+
+  <ExecutedPrisoner_Horrible.stages.0.label>stracony więzień</ExecutedPrisoner_Horrible.stages.0.label>
+  <ExecutedPrisoner_Horrible.stages.0.description>Musiałem dokonać egzekucji więźnia. To straszna obraza moich przekonań.</ExecutedPrisoner_Horrible.stages.0.description>
+
+  <InnocentPrisonerDied_Horrible.stages.0.label>zmarł niewinny więzień (odpowiedzialny)</InnocentPrisonerDied_Horrible.stages.0.label>
+  <InnocentPrisonerDied_Horrible.stages.0.description>Byłem odpowiedzialny za śmierć więźnia. Czy nie jestem straszną osobą?</InnocentPrisonerDied_Horrible.stages.0.description>
+
+  <ExecutedPrisoner_Know_Horrible.stages.0.label>stracony więzień</ExecutedPrisoner_Know_Horrible.stages.0.label>
+  <InnocentPrisonerDied_Know_Horrible.stages.0.label>odpowiedzialny za śmierć więźnia</InnocentPrisonerDied_Know_Horrible.stages.0.label>
+
+  <ExecutedPrisonerInnocent_Horrible.stages.0.label>stracony niewinny więzień</ExecutedPrisonerInnocent_Horrible.stages.0.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.0.description>Musiałem dokonać egzekucji niewinnego więźnia. To straszna obraza moich przekonań.</ExecutedPrisonerInnocent_Horrible.stages.0.description>
+
+  <ExecutedPrisonerInnocent_Know_Horrible.stages.0.label>stracony niewinny więzień</ExecutedPrisonerInnocent_Know_Horrible.stages.0.label>
+
+  <ExecutedPrisonerGuilty_Respected.stages.0.label>stracony winny więzień</ExecutedPrisonerGuilty_Respected.stages.0.label>
+  <ExecutedPrisonerGuilty_Respected.stages.0.description>Zabiłem winnego więźnia. Sprawiedliwość została oddana!</ExecutedPrisonerGuilty_Respected.stages.0.description>
+
+  <GuiltyPrisonerDied_Respected.stages.0.label>winny więzień zmarł (odpowiedzialny)</GuiltyPrisonerDied_Respected.stages.0.label>
+  <GuiltyPrisonerDied_Respected.stages.0.description>Spowodowałem śmierć winnego więźnia. Niech sprawiedliwość będzie służyć.</GuiltyPrisonerDied_Respected.stages.0.description>
+
+  <ExecutedPrisonerGuilty_Know_Respected.stages.0.label>stracony winny więzień</ExecutedPrisonerGuilty_Know_Respected.stages.0.label>
+
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.label>winny więzień stracony</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.label>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.description>Zabiliśmy winnego więźnia. Sprawiedliwość została oddana!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.0.description>
+
+  <GuiltyPrisonerDied_Know_Respected.stages.0.label>odpowiedzialny za śmierć więźnia</GuiltyPrisonerDied_Know_Respected.stages.0.label>
+
+  <ExecutedPrisoner_Respected.stages.0.label>stracony więzień</ExecutedPrisoner_Respected.stages.0.label>
+  <ExecutedPrisoner_Respected.stages.0.description>Zabiłem więźnia. Zwycięstwo ma konsekwencje.</ExecutedPrisoner_Respected.stages.0.description>
+
+  <PrisonerDied_Respected.stages.0.label>więzień zmarł (odpowiedzialny)</PrisonerDied_Respected.stages.0.label>
+  <PrisonerDied_Respected.stages.0.description>Byłem odpowiedzialny za śmierć więźnia! Teraz wszyscy będą mnie szanować.</PrisonerDied_Respected.stages.0.description>
+
+  <ExecutedPrisoner_Know_Respected.stages.0.label>stracony więzień</ExecutedPrisoner_Know_Respected.stages.0.label>
+  <PrisonerDied_Know_Respected.stages.0.label>odpowiedzialny za śmierć więźnia</PrisonerDied_Know_Respected.stages.0.label>
+
+  <Execution_Know_Respected_Mood.stages.0.label>wykonanie</Execution_Know_Respected_Mood.stages.0.label>
+  <Execution_Know_Respected_Mood.stages.0.description>Zabiliśmy więźnia lub gościa. Nasza dominacja jest jasna!</Execution_Know_Respected_Mood.stages.0.description>
+
+  <NoRecentExecution.stages.0.label>brak egzekucji</NoRecentExecution.stages.0.label>
+  <NoRecentExecution.stages.0.description>Zbyt długo nie wykonaliśmy egzekucji więźnia. Czy jesteśmy tak słabi, że nie odbieramy życia?</NoRecentExecution.stages.0.description>
+
+
+</LanguageData>

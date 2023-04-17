@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodRot.label>zgnilizna krwi</BloodRot.label>
+  <BloodRot.description>Powoli rozwijająca się choroba bakteryjna. Bakterie mają niewielki wpływ na ofiarę w fazie wzrostu, ale po osiągnięciu poziomu nasycenia wywołają burzę toksyn, która prowadzi do natychmiastowej śmierci.\n\nUkład odpornościowy w końcu usunie gnicie krwi, więc standardową metodą leczenia jest stosowanie normalnego lekarstwa, aby go stłumić, dopóki to się nie stanie. Lekarze z Glitterworld mogą użyć ogromnej dawki mechanicznej, aby natychmiast usunąć infekcję, ale jest to kosztowne.</BloodRot.description>
+  <BloodRot.stages.0.label>mniejszy</BloodRot.stages.0.label>
+  <BloodRot.stages.1.label>główny</BloodRot.stages.1.label>
+  <BloodRot.stages.2.label>skrajny</BloodRot.stages.2.label>
+
+  <Abasia.label>abazja paralityczna</Abasia.label>
+  <Abasia.description>Stan, w którym osoba nie może chodzić, ingerując w korę mózgową. Po odpowiednim czasie pacjenci naturalnie wracają do zdrowia, gdy mózg się przebudowuje, ale proces jest powolny. Jest też szansa na szczęśliwe wczesne wyzdrowienie. Chorobę tę można całkowicie wyleczyć specjalnym zabiegiem, ale zabieg wymaga dużych ilości leków glitterworld.</Abasia.description>
+
+
+</LanguageData>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ceremony thoughts -->
+
+  <BlindingCeremony_Know_Horrible.stages.0.label>oślepiająca ceremonia</BlindingCeremony_Know_Horrible.stages.0.label>
+  <BlindingCeremony_Know_Horrible.stages.0.description>Oślepiliśmy kogoś z powodu przekonań ideologicznych! To jest źle!</BlindingCeremony_Know_Horrible.stages.0.description>
+
+  <BlindingCeremony_Self_Respected.stages.0.label>był oślepiony</BlindingCeremony_Self_Respected.stages.0.label>
+  <BlindingCeremony_Self_Respected.stages.0.description>Zostałem zaślepiony podczas sprawiedliwej ceremonii. Wreszcie mogę zacząć uczyć się widzieć.</BlindingCeremony_Self_Respected.stages.0.description>
+
+  <BlindingCeremony_Self_Elevated.stages.0.label>był oślepiony</BlindingCeremony_Self_Elevated.stages.0.label>
+  <BlindingCeremony_Self_Elevated.stages.0.description>Zostałem zaślepiony podczas sprawiedliwej ceremonii. Wreszcie mogę zacząć uczyć się widzieć.</BlindingCeremony_Self_Elevated.stages.0.description>
+
+  <BlindingCeremony_Self_Sublime.stages.0.label>był oślepiony</BlindingCeremony_Self_Sublime.stages.0.label>
+  <BlindingCeremony_Self_Sublime.stages.0.description>Zostałem zaślepiony podczas sprawiedliwej ceremonii. Wreszcie mogę zacząć uczyć się widzieć.</BlindingCeremony_Self_Sublime.stages.0.description>
+
+
+  <!-- Thoughts : Blind -->
+
+  <Blindness_Respected_Blind.stages.0.label>ślepy</Blindness_Respected_Blind.stages.0.label>
+  <Blindness_Respected_Blind.stages.0.description>Teraz, gdy straciłem wzrok, widzę wyraźnie.</Blindness_Respected_Blind.stages.0.description>
+
+  <Blindness_Elevated_Blind.stages.0.label>ślepy</Blindness_Elevated_Blind.stages.0.label>
+  <Blindness_Elevated_Blind.stages.0.description>Mogę odkrywać większą świadomość poprzez moją niezdolność widzenia.</Blindness_Elevated_Blind.stages.0.description>
+
+  <Blindness_Sublime_Blind.stages.0.label>ślepy</Blindness_Sublime_Blind.stages.0.label>
+  <Blindness_Sublime_Blind.stages.0.description>Mogę swobodnie eksplorować głębiny mojego umysłu i prawdziwą rzeczywistość, nie ograniczając mnie wzrokiem.</Blindness_Sublime_Blind.stages.0.description>
+
+  <Blindness_Respected_Blind_Social.stages.0.label>ślepy</Blindness_Respected_Blind_Social.stages.0.label>
+  <Blindness_Elevated_Blind_Social.stages.0.label>ślepy</Blindness_Elevated_Blind_Social.stages.0.label>
+  <Blindness_Sublime_Blind_Social.stages.0.label>ślepy</Blindness_Sublime_Blind_Social.stages.0.label>
+
+
+  <!-- Thoughts: Artificial blindness -->
+
+  <Blindness_ArtificialBlind.stages.0.label>widzenie zablokowane</Blindness_ArtificialBlind.stages.0.label>
+  <Blindness_ArtificialBlind.stages.0.description>Zablokowanie wzroku daje mojemu umysłowi bliższy dostęp do prawdziwej rzeczywistości. To nie jest tak dobre, jak trwałe zaślepienie, ale jest do zaakceptowania.</Blindness_ArtificialBlind.stages.0.description>
+
+
+  <!-- Thoughts: half-blind -->
+
+  <Blindness_Elevated_HalfBlind.stages.0.label>half-blind</Blindness_Elevated_HalfBlind.stages.0.label>
+  <Blindness_Elevated_HalfBlind.stages.0.description>Jestem na drodze do oświecenia przez ślepotę.</Blindness_Elevated_HalfBlind.stages.0.description>
+
+  <Blindness_Sublime_HalfBlind.stages.0.label>half-blind</Blindness_Sublime_HalfBlind.stages.0.label>
+  <Blindness_Sublime_HalfBlind.stages.0.description>Jestem na skraju prawdziwego oświecenia przez ślepotę.</Blindness_Sublime_HalfBlind.stages.0.description>
+
+  <Blindness_Elevated_HalfBlind_Social.stages.0.label>half-blind</Blindness_Elevated_HalfBlind_Social.stages.0.label>
+  <Blindness_Sublime_HalfBlind_Social.stages.0.label>half-blind</Blindness_Sublime_HalfBlind_Social.stages.0.label>
+
+
+  <!-- Thoughts: Not blind -->
+
+  <Blindness_Elevated_NonBlind.stages.0.label>nie ślepy</Blindness_Elevated_NonBlind.stages.0.label>
+  <Blindness_Elevated_NonBlind.stages.0.description>Chciałbym być niewidomy, aby móc lepiej połączyć się z prawdziwą rzeczywistością. Albo przynajmniej powinienem mieć zawiązane oczy.</Blindness_Elevated_NonBlind.stages.0.description>
+
+  <Blindness_Sublime_NonBlind.stages.0.label>nie ślepy</Blindness_Sublime_NonBlind.stages.0.label>
+  <Blindness_Sublime_NonBlind.stages.0.description>Tak bardzo chciałbym być ślepy. Potrzebuję, aby te fizyczne widoki zniknęły, abym mógł dotknąć prawdziwej rzeczywistości. Powinienem przynajmniej założyć opaskę na oczy.</Blindness_Sublime_NonBlind.stages.0.description>
+
+  <Blindness_Respected_NonBlind_Social.stages.0.label>widzący</Blindness_Respected_NonBlind_Social.stages.0.label>
+  <Blindness_Elevated_NonBlind_Social.stages.0.label>widzący</Blindness_Elevated_NonBlind_Social.stages.0.label>
+  <Blindness_Sublime_NonBlind_Social.stages.0.label>widzący</Blindness_Sublime_NonBlind_Social.stages.0.label>
+
+
+</LanguageData>

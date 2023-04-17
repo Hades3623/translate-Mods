@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerWeaponBladelink.rulePack.rulesStrings.0>r_weapon_name(p=3)->[noun][verber]</NamerWeaponBladelink.rulePack.rulesStrings.0>
+  <NamerWeaponBladelink.rulePack.rulesStrings.1>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.1>
+  <NamerWeaponBladelink.rulePack.rulesStrings.2>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.2>
+  <NamerWeaponBladelink.rulePack.rulesStrings.3>r_weapon_name(p=1)->[beginSyl][endSyl]</NamerWeaponBladelink.rulePack.rulesStrings.3>
+  <NamerWeaponBladelink.rulePack.rulesStrings.4>r_weapon_name(p=1)->[NamePerson]</NamerWeaponBladelink.rulePack.rulesStrings.4>
+  <NamerWeaponBladelink.rulePack.rulesStrings.5>r_weapon_name(p=1)->[nameAnimal]</NamerWeaponBladelink.rulePack.rulesStrings.5>
+  <NamerWeaponBladelink.rulePack.rulesStrings.6>nameAnimal->[NameAnimalUnisex]</NamerWeaponBladelink.rulePack.rulesStrings.6>
+  <NamerWeaponBladelink.rulePack.rulesStrings.7>nameAnimal->[NameAnimalMale]</NamerWeaponBladelink.rulePack.rulesStrings.7>
+  <NamerWeaponBladelink.rulePack.rulesStrings.8>nameAnimal->[NameAnimalFemale]</NamerWeaponBladelink.rulePack.rulesStrings.8>
+  <NamerWeaponBladelink.rulePack.rulesStrings.9>noun->oath</NamerWeaponBladelink.rulePack.rulesStrings.9>
+  <NamerWeaponBladelink.rulePack.rulesStrings.10>noun->promise</NamerWeaponBladelink.rulePack.rulesStrings.10>
+  <NamerWeaponBladelink.rulePack.rulesStrings.11>noun->death</NamerWeaponBladelink.rulePack.rulesStrings.11>
+  <NamerWeaponBladelink.rulePack.rulesStrings.12>noun->pain</NamerWeaponBladelink.rulePack.rulesStrings.12>
+  <NamerWeaponBladelink.rulePack.rulesStrings.13>noun->blood</NamerWeaponBladelink.rulePack.rulesStrings.13>
+  <NamerWeaponBladelink.rulePack.rulesStrings.14>noun->doom</NamerWeaponBladelink.rulePack.rulesStrings.14>
+  <NamerWeaponBladelink.rulePack.rulesStrings.15>noun->murder</NamerWeaponBladelink.rulePack.rulesStrings.15>
+  <NamerWeaponBladelink.rulePack.rulesStrings.16>noun->justice</NamerWeaponBladelink.rulePack.rulesStrings.16>
+  <NamerWeaponBladelink.rulePack.rulesStrings.17>noun->fear</NamerWeaponBladelink.rulePack.rulesStrings.17>
+  <NamerWeaponBladelink.rulePack.rulesStrings.18>noun->terror</NamerWeaponBladelink.rulePack.rulesStrings.18>
+  <NamerWeaponBladelink.rulePack.rulesStrings.19>noun->chaos</NamerWeaponBladelink.rulePack.rulesStrings.19>
+  <NamerWeaponBladelink.rulePack.rulesStrings.20>noun->order</NamerWeaponBladelink.rulePack.rulesStrings.20>
+  <NamerWeaponBladelink.rulePack.rulesStrings.21>noun->war</NamerWeaponBladelink.rulePack.rulesStrings.21>
+  <NamerWeaponBladelink.rulePack.rulesStrings.22>noun->silence</NamerWeaponBladelink.rulePack.rulesStrings.22>
+  <NamerWeaponBladelink.rulePack.rulesStrings.23>noun->debt</NamerWeaponBladelink.rulePack.rulesStrings.23>
+  <NamerWeaponBladelink.rulePack.rulesStrings.24>verber->keeper</NamerWeaponBladelink.rulePack.rulesStrings.24>
+  <NamerWeaponBladelink.rulePack.rulesStrings.25>verber->bringer</NamerWeaponBladelink.rulePack.rulesStrings.25>
+  <NamerWeaponBladelink.rulePack.rulesStrings.26>verber->sender</NamerWeaponBladelink.rulePack.rulesStrings.26>
+  <NamerWeaponBladelink.rulePack.rulesStrings.27>verber->giver</NamerWeaponBladelink.rulePack.rulesStrings.27>
+  <NamerWeaponBladelink.rulePack.rulesStrings.28>verber->maker</NamerWeaponBladelink.rulePack.rulesStrings.28>
+  <NamerWeaponBladelink.rulePack.rulesStrings.29>verber->crusher</NamerWeaponBladelink.rulePack.rulesStrings.29>
+  <NamerWeaponBladelink.rulePack.rulesStrings.30>verber->breaker</NamerWeaponBladelink.rulePack.rulesStrings.30>
+  <NamerWeaponBladelink.rulePack.rulesStrings.31>verber->smasher</NamerWeaponBladelink.rulePack.rulesStrings.31>
+  <NamerWeaponBladelink.rulePack.rulesStrings.32>verber->bender</NamerWeaponBladelink.rulePack.rulesStrings.32>
+  <NamerWeaponBladelink.rulePack.rulesStrings.33>verber->knower</NamerWeaponBladelink.rulePack.rulesStrings.33>
+  <NamerWeaponBladelink.rulePack.rulesStrings.34>verber->doer</NamerWeaponBladelink.rulePack.rulesStrings.34>
+  <NamerWeaponBladelink.rulePack.rulesStrings.35>beginSyl->vi</NamerWeaponBladelink.rulePack.rulesStrings.35>
+  <NamerWeaponBladelink.rulePack.rulesStrings.36>beginSyl->na</NamerWeaponBladelink.rulePack.rulesStrings.36>
+  <NamerWeaponBladelink.rulePack.rulesStrings.37>beginSyl->lo</NamerWeaponBladelink.rulePack.rulesStrings.37>
+  <NamerWeaponBladelink.rulePack.rulesStrings.38>beginSyl->ra</NamerWeaponBladelink.rulePack.rulesStrings.38>
+  <NamerWeaponBladelink.rulePack.rulesStrings.39>beginSyl->to</NamerWeaponBladelink.rulePack.rulesStrings.39>
+  <NamerWeaponBladelink.rulePack.rulesStrings.40>beginSyl->ger</NamerWeaponBladelink.rulePack.rulesStrings.40>
+  <NamerWeaponBladelink.rulePack.rulesStrings.41>beginSyl->xan</NamerWeaponBladelink.rulePack.rulesStrings.41>
+  <NamerWeaponBladelink.rulePack.rulesStrings.42>beginSyl->kel</NamerWeaponBladelink.rulePack.rulesStrings.42>
+  <NamerWeaponBladelink.rulePack.rulesStrings.43>middleSyl->ser</NamerWeaponBladelink.rulePack.rulesStrings.43>
+  <NamerWeaponBladelink.rulePack.rulesStrings.44>middleSyl->gar</NamerWeaponBladelink.rulePack.rulesStrings.44>
+  <NamerWeaponBladelink.rulePack.rulesStrings.45>middleSyl->lor</NamerWeaponBladelink.rulePack.rulesStrings.45>
+  <NamerWeaponBladelink.rulePack.rulesStrings.46>middleSyl->ven</NamerWeaponBladelink.rulePack.rulesStrings.46>
+  <NamerWeaponBladelink.rulePack.rulesStrings.47>middleSyl->zan</NamerWeaponBladelink.rulePack.rulesStrings.47>
+  <NamerWeaponBladelink.rulePack.rulesStrings.48>middleSyl->xal</NamerWeaponBladelink.rulePack.rulesStrings.48>
+  <NamerWeaponBladelink.rulePack.rulesStrings.49>endSyl->ys</NamerWeaponBladelink.rulePack.rulesStrings.49>
+  <NamerWeaponBladelink.rulePack.rulesStrings.50>endSyl->or</NamerWeaponBladelink.rulePack.rulesStrings.50>
+  <NamerWeaponBladelink.rulePack.rulesStrings.51>endSyl->ar</NamerWeaponBladelink.rulePack.rulesStrings.51>
+  <NamerWeaponBladelink.rulePack.rulesStrings.52>endSyl->sum</NamerWeaponBladelink.rulePack.rulesStrings.52>
+  <NamerWeaponBladelink.rulePack.rulesStrings.53>endSyl->dor</NamerWeaponBladelink.rulePack.rulesStrings.53>
+  <NamerWeaponBladelink.rulePack.rulesStrings.54>endSyl->mar</NamerWeaponBladelink.rulePack.rulesStrings.54>
+  <NamerWeaponBladelink.rulePack.rulesStrings.55>endSyl->gur</NamerWeaponBladelink.rulePack.rulesStrings.55>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_MeleeWeapon_EltexDagger.label>sztylet eltex</VPE_MeleeWeapon_EltexDagger.label>
+  <VPE_MeleeWeapon_EltexDagger.description>Średniowieczny sztylet przetykany materiałami do psychicznego ogniskowania. Chociaż wzmacnia psychiczną wrażliwość posiadacza i rozpraszanie ciepła w neuronach, służy również jako doskonała broń do walki w zwarciu, ponieważ opiera się na tej samej idei, co każdy inny nóż: rękojeść do trzymania i ostra krawędź do cięcia.</VPE_MeleeWeapon_EltexDagger.description>
+  <VPE_MeleeWeapon_EltexDagger.tools.0.label>uchwyt</VPE_MeleeWeapon_EltexDagger.tools.0.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.1.label>ostrze</VPE_MeleeWeapon_EltexDagger.tools.1.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.2.label>punkt</VPE_MeleeWeapon_EltexDagger.tools.2.label>
+
+  <VPE_MeleeWeapon_EltexMace.label>maczuga eltex</VPE_MeleeWeapon_EltexMace.label>
+  <VPE_MeleeWeapon_EltexMace.description>Średniowieczna buława przetykana materiałami do psychicznego ogniskowania. Chociaż zwiększa psychiczną wrażliwość posiadacza i rozpraszanie ciepła w neuronach, służy również jako doskonała broń do walki w zwarciu, zaprojektowana do skutecznego zamachu i śmiercionośnych uderzeń.</VPE_MeleeWeapon_EltexMace.description>
+  <VPE_MeleeWeapon_EltexMace.tools.0.label>uchwyt</VPE_MeleeWeapon_EltexMace.tools.0.label>
+  <VPE_MeleeWeapon_EltexMace.tools.1.label>głowa</VPE_MeleeWeapon_EltexMace.tools.1.label>
+
+  <VPE_MeleeWeapon_EltexSword.label>eltexowy miecz</VPE_MeleeWeapon_EltexSword.label>
+  <VPE_MeleeWeapon_EltexSword.description>Średniowieczny miecz przetykany materiałami do psychicznego ogniskowania. Chociaż wzmacnia psychiczną wrażliwość posiadacza i rozpraszanie ciepła w neuronach, służy również jako doskonała broń do walki w zwarciu. Dobry do dźgania lub cięcia. Jest lekki i zwinny, co czasami pozwala pokonać większą, cięższą broń.</VPE_MeleeWeapon_EltexSword.description>
+  <VPE_MeleeWeapon_EltexSword.tools.0.label>uchwyt</VPE_MeleeWeapon_EltexSword.tools.0.label>
+  <VPE_MeleeWeapon_EltexSword.tools.1.label>punkt</VPE_MeleeWeapon_EltexSword.tools.1.label>
+  <VPE_MeleeWeapon_EltexSword.tools.2.label>Brzeg</VPE_MeleeWeapon_EltexSword.tools.2.label>
+
+
+</LanguageData>

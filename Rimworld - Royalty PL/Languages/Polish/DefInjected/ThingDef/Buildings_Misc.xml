@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShipLandingBeacon.label>latarnia lądowania statku</ShipLandingBeacon.label>
+  <ShipLandingBeacon.description>Zaznacza róg obszaru lądowania. Cztery z nich umieszczone w rogach wolnej przestrzeni (minimum 9x9) tworzą lądowisko. Statki kosmiczne zazwyczaj lądują na podkładkach, jeśli to możliwe.</ShipLandingBeacon.description>
+
+  <MeditationSpot.label>miejsce medytacji</MeditationSpot.label>
+  <MeditationSpot.description>Wyznacza miejsce do medytacji. Psycasterzy mogą tutaj medytować, aby uzyskać psyfocus. Jeśli w pobliżu znajduje się obiekt skupiający, taki jak rzeźba, psycaster będzie mógł się na nim skupić, aby zwiększyć jego wzmocnienie psychofokusa. Jednak różni ludzie mogą używać różnych obiektów ostrości.</MeditationSpot.description>
+
+  <NatureShrine_Small.label>mała świątynia przyrody</NatureShrine_Small.label>
+  <NatureShrine_Small.description>Mała kapliczka ku czci istot duchowych. Plemienni psycholodzy mogą skupić się na tym sanktuarium podczas medytacji, aby zwiększyć psychikę. Kapliczki przyrody tracą swoją moc, gdy znajdują się w pobliżu sztucznych konstrukcji, dlatego zawsze są budowane w naturze. Ponieważ dla niespostrzeżonych przybyszów wyglądają jak naturalne obiekty, najeźdźcy na ogół je ignorują.</NatureShrine_Small.description>
+
+  <NatureShrine_Large.label>duża świątynia przyrody</NatureShrine_Large.label>
+  <NatureShrine_Large.description>Duża świątynia ku czci istot duchowych. Plemienni psycholodzy mogą skupić się na tym sanktuarium podczas medytacji, aby zwiększyć psychikę. Kapliczki przyrody tracą swoją moc, gdy znajdują się w pobliżu sztucznych konstrukcji, dlatego zawsze są budowane w naturze. Ponieważ dla niespostrzeżonych przybyszów wyglądają jak naturalne obiekty, najeźdźcy na ogół je ignorują.</NatureShrine_Large.description>
+
+  <AnimusStone.label>kamień animus</AnimusStone.label>
+  <AnimusStone.description>Starożytny kamień jadeitowy ze świętymi rzeźbami plemiennymi. Plemienni psycholodzy mogą skupić się na tych kamieniach podczas medytacji, aby zwiększyć swoją psychikę bardziej niż typowa świątynia przyrody.\n\nRóżne kultury plemienne opowiadają różne historie o tych kamieniach, ale większość zgadza się, że zostały stworzone przez ducha starożytnego świata w czasach Wielka moc. Ponieważ dla niespostrzeżonych przybyszów wyglądają jak naturalne obiekty, najeźdźcy na ogół je ignorują.</AnimusStone.description>
+
+
+</LanguageData>

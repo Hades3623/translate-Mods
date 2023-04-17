@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Empire.label>zniszczone imperium</Empire.label>
+  <Empire.description>Ultratechnologiczne społeczeństwo uchodźców z innej planety, zorganizowane według feudalnych linii.\n\nŻyli przez tysiące lat w stabilnym wieloplanetarnym imperium z surowym systemem kastowym, zawiłym kodeksem etyki wojowników i wymuszonym zastojem kulturowym. Najechani przez potężnych obcych, uciekli. Pomimo utraty prawie wszystkich swoich ludzi, ich flota i technologia nadal czynią ich potężnymi.\n\nOdmówią handlu z każdym, kto nie ma odpowiedniego tytułu królewskiego.</Empire.description>
+  <Empire.pawnsPlural>Imperium</Empire.pawnsPlural>
+  <Empire.leaderTitle>wysoka gwiazda</Empire.leaderTitle>
+
+
+</LanguageData>

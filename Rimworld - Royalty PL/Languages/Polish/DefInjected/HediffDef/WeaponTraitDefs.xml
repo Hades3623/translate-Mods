@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- No exclusion tags -->
+
+  <NoPain.label>bezbolesność psychiczna</NoPain.label>
+  <NoPain.description>Ból jest wyłączany przez psychiczny wpływ trzymanej broni.</NoPain.description>
+
+  <SpeedBoost.label>prędkość psychiczna</SpeedBoost.label>
+  <SpeedBoost.description>Ruch jest przyspieszany przez psychiczny wpływ trzymanej broni.</SpeedBoost.description>
+
+  <HungerMaker.label>psychiczny głód</HungerMaker.label>
+  <HungerMaker.description>Głód jest zwiększany przez psychiczny wpływ broni związanej.</HungerMaker.description>
+
+  <NeuralHeatRecoveryGain.label>wspomagane chłodzenie neuronowe</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>Rozpraszanie ciepła w neuronach jest poprawiane przez psychiczny wpływ broni związanej.</NeuralHeatRecoveryGain.description>
+
+
+</LanguageData>

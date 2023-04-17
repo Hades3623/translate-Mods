@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SKULL PART -->
+
+  <SZ_Skull.label>czaszka</SZ_Skull.label>
+
+
+  <!-- JAW PART -->
+
+  <SZ_Jaw.label>szczęka</SZ_Jaw.label>
+
+
+  <!-- CRANIAL BONES -->
+
+  <SZ_Occipital_Bone.label>kości potylicznej</SZ_Occipital_Bone.label>
+  <SZ_Parietal_Bone.label>kość ciemieniowa</SZ_Parietal_Bone.label>
+  <SZ_Temporal_Bone.label>kość skroniowa</SZ_Temporal_Bone.label>
+  <SZ_Frontal_Bone.label>kość czołowa</SZ_Frontal_Bone.label>
+  <SZ_Sphenoid_Bone.label>kość klinowa</SZ_Sphenoid_Bone.label>
+  <SZ_Ethmoid_Bone.label>kość sitowa</SZ_Ethmoid_Bone.label>
+
+
+  <!-- FACIAL BONES -->
+
+  <SZ_Zygomatic_Bone.label>kość jarzmowa</SZ_Zygomatic_Bone.label>
+  <SZ_Palatine_Bone.label>kość podniebienna</SZ_Palatine_Bone.label>
+  <SZ_Inferior_Nasal_Concha.label>dolna małżowina nosowa</SZ_Inferior_Nasal_Concha.label>
+  <SZ_Nasal_Bone.label>kość nosowa</SZ_Nasal_Bone.label>
+  <SZ_Lacrimal_Bone.label>kość łzowa</SZ_Lacrimal_Bone.label>
+  <SZ_Vomer.label>vomer</SZ_Vomer.label>
+  <SZ_Mandible.label>żuchwa</SZ_Mandible.label>
+
+
+</LanguageData>

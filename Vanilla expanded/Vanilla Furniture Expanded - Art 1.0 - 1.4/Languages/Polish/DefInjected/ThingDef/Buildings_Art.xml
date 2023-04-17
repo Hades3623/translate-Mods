@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Pottery.label>garncarstwo</VFE_Pottery.label>
+  <VFE_Pottery.description>Niewielkich rozmiarów ceramika z rycinami artystycznymi. Można wytworzyć w miejscu wytwarzania.</VFE_Pottery.description>
+
+  <VFE_StatueSmall.label>mały posąg</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>Niewielkich rozmiarów kawałek materiału na ozdobnym postumencie, wyrzeźbiony w artystyczną formę.</VFE_StatueSmall.description>
+
+  <VFE_Carving.label>rzeźba</VFE_Carving.label>
+  <VFE_Carving.description>Mała rzeźba wyrzeźbiona z wysokości do pasa na ścianie. Może pełnić funkcję osłony.</VFE_Carving.description>
+
+  <VFE_StatueLarge.label>duży posąg</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>Kawałek materiału wielkości osoby na ozdobnym cokole, wyrzeźbiony w artystyczną formę.</VFE_StatueLarge.description>
+
+  <VFE_StatueGrand.label>wielki posąg</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>Ogromny kawałek materiału na ozdobnym cokole, wyrzeźbiony w artystyczną formę.</VFE_StatueGrand.description>
+
+  <VFE_Monument.label>pomnik</VFE_Monument.label>
+  <VFE_Monument.description>Nieprzejezdny, masywny pomnik z ozdobnym cokołem i dużym dziełem sztuki.</VFE_Monument.description>
+
+  <VFE_Relief.label>ulga</VFE_Relief.label>
+  <VFE_Relief.description>Nieprzejezdny, długi kawałek ściany z wyrzeźbionym w nim artystycznym reliefem.</VFE_Relief.description>
+
+  <VFE_Pillar.label>filar</VFE_Pillar.label>
+  <VFE_Pillar.description>Nieprzejezdny, zdobiony filar, który może utrzymać dach.</VFE_Pillar.description>
+
+  <VFE_Obelisk.label>obelisk</VFE_Obelisk.label>
+  <VFE_Obelisk.description>Wysoki kawałek materiału ukształtowany w obelisk z dziełem sztuki wyrzeźbionym po bokach.</VFE_Obelisk.description>
+
+  <VFE_Plinth.label>cokół</VFE_Plinth.label>
+  <VFE_Plinth.description>Mały cokół z wyrytymi po bokach artystycznymi obrazami. Może być używany do przechowywania różnych przedmiotów. Przechowywane w nim przedmioty nie ulegną pogorszeniu, nawet jeśli znajdują się na zewnątrz.</VFE_Plinth.description>
+
+  <VFE_DecorativePlantPot.label>ozdobna doniczka</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>Posadź ozdobne kwiaty na tej ozdobnej doniczce, aby poprawić nastrój ludzi w pobliżu.</VFE_DecorativePlantPot.description>
+
+  <VFE_Wallpaper.label>Tapeta</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>Nieprzejezdna ściana z piękną tapetą. Potrafi utrzymać dach.</VFE_Wallpaper.description>
+  <VFE_Wallpaper_Blueprint.label>tapeta (plan)</VFE_Wallpaper_Blueprint.label>
+  <VFE_Wallpaper_Frame.label>tapeta (budynek)</VFE_Wallpaper_Frame.label>
+  <VFE_Wallpaper_Frame.description>Nieprzejezdna ściana z piękną tapetą. Potrafi utrzymać dach.</VFE_Wallpaper_Frame.description>
+
+
+</LanguageData>

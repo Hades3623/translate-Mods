@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic Pacifier -->
+
+  <VFEI_Artifacts_PsychicPacifier.label>Psychiczny Pacyfikator</VFEI_Artifacts_PsychicPacifier.label>
+  <VFEI_Artifacts_PsychicPacifier.description>Artefakt jednorazowego użytku, który kieruje psychiczny pacyfikujący wybuch w stronę postaci, zmuszając ją do przyłączenia się do twojej frakcji. Istnieje duże ryzyko uszkodzenia mózgu. Działa na duże odległości i przez ściany.</VFEI_Artifacts_PsychicPacifier.description>
+  <VFEI_Artifacts_PsychicPacifier.verbs.0.label>psychiczny oswajacz zwierząt</VFEI_Artifacts_PsychicPacifier.verbs.0.label>
+
+
+  <!-- Psychic Animal Tamer -->
+
+  <VFEI_Artifacts_PsychicAnimalTamer.label>psychiczny pogromca zwierząt</VFEI_Artifacts_PsychicAnimalTamer.label>
+  <VFEI_Artifacts_PsychicAnimalTamer.description>Jednorazowy pogromca zwierząt psychicznych. To przytłacza umysł celu przerażającą mentalną perswazją, wprowadzając go w stan transcendentalny, w którym nabiera zaufania i zapału do ciebie. Istnieje ryzyko uszkodzenia mózgu. Działa na duże odległości i przez ściany.</VFEI_Artifacts_PsychicAnimalTamer.description>
+  <VFEI_Artifacts_PsychicAnimalTamer.verbs.0.label>psychiczny oswajacz zwierząt</VFEI_Artifacts_PsychicAnimalTamer.verbs.0.label>
+
+
+  <!-- Archotech Eraser -->
+
+  <VFEI_Artifacts_ArchotechEraser.label>archotechniczna gumka</VFEI_Artifacts_ArchotechEraser.label>
+  <VFEI_Artifacts_ArchotechEraser.description>Artefakt jednorazowego użytku, który wykorzystuje rdzeń wanometryczny do wymazania wszystkiego w promieniu 10 z istnienia. Musi być uruchamiany ręcznie.</VFEI_Artifacts_ArchotechEraser.description>
+  <VFEI_Artifacts_ArchotechEraser.verbs.0.label>archotechniczna gumka</VFEI_Artifacts_ArchotechEraser.verbs.0.label>
+
+
+  <!-- Archotech Teleporter -->
+
+  <VFEI_Artifacts_ArchotechTeleporter.label>Archotech teleporter</VFEI_Artifacts_ArchotechTeleporter.label>
+  <VFEI_Artifacts_ArchotechTeleporter.description>Artefakt jednorazowego użytku, który umożliwia transport do 500 kg masy z jednego miejsca na inne miejsce na planecie. Nie można jej używać do dawania prezentów ani napadu na inną frakcję.</VFEI_Artifacts_ArchotechTeleporter.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SummonedSkeleton.label>szkielet</VPE_SummonedSkeleton.label>
+  <VPE_SummonedSkeleton.description>Psychicznie reanimowany szkielet zmarłego osobnika. Niezwykle agresywny, ale wkrótce zwiędnie w nicość.</VPE_SummonedSkeleton.description>
+  <VPE_SummonedSkeleton.tools.0.label>lewa pięść</VPE_SummonedSkeleton.tools.0.label>
+  <VPE_SummonedSkeleton.tools.1.label>prawa pieść</VPE_SummonedSkeleton.tools.1.label>
+
+
+</LanguageData>

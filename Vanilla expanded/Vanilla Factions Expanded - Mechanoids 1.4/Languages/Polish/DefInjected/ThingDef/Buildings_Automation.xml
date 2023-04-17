@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_HeavyHopper.label>Lej fabryczny</VFEM_HeavyHopper.label>
+  <VFEM_HeavyHopper.description>Zawiera zasoby do wykorzystania przez zautomatyzowane maszyny.</VFEM_HeavyHopper.description>
+
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>Ekstraktor ze stali</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.description>Duża maszyna z serią młotków, magnesów i odlewni. Młotki rozbijają kawałki skał w pył, po czym magnesy zbierają metalowe fragmenty, zanim zostaną upuszczone i stopione w bardziej czyste, użyteczne kawałki. Ta maszyna charakteryzuje się notorycznie niską wydajnością, ponieważ większość kawałków skały zawiera znikomą ilość wydobywalnego materiału. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk wyrobów elektronicznych.</VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
+
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>Asembler komponentów</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>Absurdalnie duża maszyna złożona z szeregu odlewni i form odlewniczych. Ogólnie rzecz biorąc, maszyna jest w stanie z łatwością wyprodukować dowolny podstawowy element elektroniczny lub mechaniczny. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk elektroniki.</VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
+
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>Zaawansowany asembler</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>Szeroki moduł fabryczny przeznaczony do wbudowywania i programowania obwodów dla zaawansowanych urządzeń elektronicznych. Dokładne wewnętrzne działanie tego modułu jest nieco zagadkowe dla kolonii innych niż spacery, jednak efekt końcowy jest niekwestionowanej jakości. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk elektronicznych.</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
+
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>Odstojnik chemfuel</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>Raczej prymitywna maszyna zdolna do topienia substancji organicznych za pomocą kwasu w użyteczne paliwo chemiczne. Dołączone lejki przyjmują pobliskie zwłoki lub drewno, szybko je rozkładają, a następnie topią w pojedynczej dużej kadzi przed wydaniem. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk amunicji i uzbrojenia (M.A.F.).</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
+
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>Kowal zmechanizowany</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>Bardzo duża maszyna z wieloma ruchomymi częściami, zdolna przyjąć stal, komponenty i tkaniny do przodu przez system pasów i powoli złożyć je w podstawowe uzbrojenie. Maszyna jest w stanie wyprodukować prymitywną broń lekką o normalnej jakości, chociaż proces ten jest bardzo czasochłonny i energochłonny. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk amunicji i uzbrojenia.</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
+
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>Odlewnia artyleryjska</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>Maszyna zdolna do przyjmowania części używanych przy montażu pocisków balistycznych dużego kalibru. Potrafi tworzyć różnorodne muszle wybierane przez producenta. 
+ 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha fabryk amunicji i uzbrojenia (M.A.F.).</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
+
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.label>Recykling tekstyliów</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.description>Maszyna zdolna do szybkiego ustawiania, szatkowania i sortowania części odzieży na nadające się do użytku odzyskane części lub tkaniny. Nigdzie nie jest w pełni wydajna, ale bardzo przydatna do odzyskiwania bezużytecznych materiałów. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Wearables and Textile Factory (W.T.F.).</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
+
+  <VFEM_WearablesAndTextileFactory_AutoLoom.label>Automatyczne krosno</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <VFEM_WearablesAndTextileFactory_AutoLoom.description>Duża maszyna, która skanuje pobliskie tkaniny przechodzące przez dwa wałki, po czym szereg zacisków, nożyc i igieł zszywa, tka i szyje podstawowe ubrania na raz. Użytkownik musi jedynie określić żądany typ odzieży z gotowego szablonu opcji. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Wearables and Textile Factory (W.T.F.).</VFEM_WearablesAndTextileFactory_AutoLoom.description>
+
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>Syntezator Synthread</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>Zaawansowana technologicznie maszyna, która jest ledwo rozumiana nawet przez najbardziej intelektualnie uzdolnione kolonie. W komplecie z serią pras siatkowych i igieł plazmowych zdolnych do atomowego wyrównywania podstawowych materiałów, w wyniku czego nowy materiał jest nie do odróżnienia od syntezatora. Zamiast samodzielnie tworzyć materiał, maszyna jest skonfigurowana do modyfikowania określonej istniejącej odzieży. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Wearables and Textile Factory (W.T.F.).</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
+
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>Maszynka do mielenia mięsa</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.description>Średniej wielkości, ale onieśmielająca maszyna, zwłoki są wciągane przez zaciski, a następnie ważone, analizowane i prymitywnie rozrywane. Kawałki mięsa są następnie mielone na drobno przetworzone i zaskakująco aromatyczne, ale kłopotliwe mięso. Ze względu na wszechogarniający charakter procesu maszyna daje dwukrotnie więcej mięsa, ale nie daje żadnej skóry ani skóry z włożonych zwłok. Co więcej, podczas gdy maszyna będzie rzeźbiła insektoidy i ludzkie zwłoki, nie przekształci ich mięsa w przetworzone mięso. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Provisions Packaging Factory (P.P.F.).</VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
+
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>Piec przenośnikowy</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.description>Bardzo długi piec przemysłowy z centralnym przenośnikiem taśmowym i systemem próżniowym, zdolny do przyjmowania pobliskiej surowej żywności z podłączonych lejów i przetwarzania jej. Można łatwo wyprodukować podstawowe gotowe posiłki i produkty suszone. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Provisions Packaging Factory (P.P.F.).</VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
+
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>Zaparzacz neutroaminy</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>Duża kadź przemysłowa przeznaczona do wytwarzania zawsze nieuchwytnego prekursora neutroaminy. Chociaż dokładna receptura produktu jest ogólnie tajemnicą handlową, efektem końcowym tej maszyny jest gruby glicerol wykonany z tłuszczu wytopionego bardzo podobnego do neutroaminy i w pełni nadający się do przetworzenia w dalsze produkty. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; Część łańcucha Medicinal Compounding Factory (MCF).</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
+
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>Granulator medyczny</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>Maszyna umożliwiająca granulację w młynie, a następnie prasowanie produktów medycznych w pigułki za pomocą szeregu zacisków i pras kształtowych. Może również produkować prefabrykowane zestawy zdrowotne. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Medicinal Compounding Factory (M.C.F.).</VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
+
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>Proszek do leków</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>Mała maszyna przeznaczona do drobnego przetwarzania i sproszkowania ekstraktu z liści psychoidu, a następnie pakowania go do późniejszego użycia lub sprzedaży. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Medicinal Compounding Factory (M.C.F.).</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
+
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>Wiertarka automatyczna</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>Większa, ale zautomatyzowana wersja głębokiego wiertła na poziomie powierzchni. To podstawowe, ale wydajne wiertło może wydobywać i wydobywać odłamki skalne do dalszego przetwarzania bez udziału człowieka. Nie zraża uli owadów. Wiertło nie wytworzy kawałka skały, jeśli wykryje inny już czekający na odzyskanie lub w którymkolwiek z sąsiadujących płytek. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część łańcucha Masonry and Metallics Factory (M.M.F.).</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>Piła murarska</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>Nieporęczna i bardzo głośna fabryka, w zasadzie seria spinek, dłut i pił przeznaczonych do przytrzymywania kawałków skały w miejscu, które można wyciąć i lekko wygładzić w cegły nadające się do układania w stosy. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część Łańcuch Fabryki Masonry and Metallics (MMF).</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
+
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>Plasteel Forge</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>Nieco zaawansowany technologicznie i mało zrozumiały moduł fabryczny, zdolny do łączenia stali, sproszkowanych cegieł kamiennych i chemicznego paliwa w plastelinę. Dokładna formuła i metodologia rafinacji plasteliny jest zwykle zablokowana przez militarystyczne światy kuźni, ale produkt wytwarzany przez tę maszynę jest wystarczająco bliską replikacją. \ N 
+ &lt;color=#33d733&gt; Łańcuch automatyzacji: &lt;/color&gt; część fabryki kamieniarstwa i metali ) łańcuch.</VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
+
+  <VFEM_VersatileAssembler.label>wszechstronny asembler</VFEM_VersatileAssembler.label>
+  <VFEM_VersatileAssembler.description>Duży, zrobotyzowany montaż fabryczny zbudowany z myślą o zaawansowanej programowalności. Wszechstronny asembler można zmodyfikować, aby stworzyć prawie wszystko, od elektroniki po proste towary konsumpcyjne. \ N 
+UWAGA: ta fabryka jest używana do przechowywania przepisów z innych modów, które nie pasują do żadnego z innych modułów. \ N 
+ { 0} Łańcuch automatyzacji: &lt;/color&gt; Wszechstronny asembler nie jest częścią żadnego łańcucha automatyzacji, jest to niezależny budynek.</VFEM_VersatileAssembler.description>
+
+  <VFEM_Autocrane.label>Auto-dźwig</VFEM_Autocrane.label>
+  <VFEM_Autocrane.description>Niezwykle duża, nieruchoma konstrukcja przypominająca dźwig, zamontowana na wysokim pylonie. Narzędzia budowlane, młoty, spawarki i szlifierki pozwalają temu żurawiowi na autonomiczne budowanie dowolnych projektów w promieniu, pod warunkiem, że zostały dostarczone zasoby do ich budowy. Mimo że ma duży promień, może być odinstalowany i przeniesiony, gdy wymaga tego nowy plac budowy.</VFEM_Autocrane.description>
+
+
+</LanguageData>

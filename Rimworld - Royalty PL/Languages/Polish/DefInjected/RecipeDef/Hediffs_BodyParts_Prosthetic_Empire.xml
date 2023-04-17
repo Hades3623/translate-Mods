@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mindscrew -->
+
+  <InstallMindscrew.label>Śruba umysłowa</InstallMindscrew.label>
+  <InstallMindscrew.description>Zainstaluj Śrube umysłową.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>Instalowanie Śruby umysłowej.</InstallMindscrew.jobString>
+
+
+  <!-- Drill arm -->
+
+  <InstallDrillArm.label>zainstaluj ramię wiertnicze</InstallDrillArm.label>
+  <InstallDrillArm.description>Zainstaluj ramię wiertnicze.</InstallDrillArm.description>
+  <InstallDrillArm.jobString>Instalowanie ramienia wiertniczego.</InstallDrillArm.jobString>
+
+
+  <!-- Field hand -->
+
+  <InstallFieldHand.label>zainstaluj Pomocnik terenowy</InstallFieldHand.label>
+  <InstallFieldHand.description>Zainstaluj Pomocnik terenowy.</InstallFieldHand.description>
+  <InstallFieldHand.jobString>Instalacja Pomocnik terenowy.</InstallFieldHand.jobString>
+
+
+  <!-- Hand talon -->
+
+  <InstallHandTalon.label>zainstaluj szpon ręczny</InstallHandTalon.label>
+  <InstallHandTalon.description>Zainstaluj szpon ręczny.</InstallHandTalon.description>
+  <InstallHandTalon.jobString>Instalowanie pazura ręcznego.</InstallHandTalon.jobString>
+
+  <RemoveHandTalon.label>usuń szpon ręczny</RemoveHandTalon.label>
+  <RemoveHandTalon.description>Usuń szpon ręczny.</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>Usunięcie pazura ręczny.</RemoveHandTalon.jobString>
+
+
+  <!-- Elbow blade -->
+
+  <InstallElbowBlade.label>zainstaluj ostrze łokcia</InstallElbowBlade.label>
+  <InstallElbowBlade.description>Zainstaluj ostrze łokciowe.</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>Instalowanie ostrza łokciowego.</InstallElbowBlade.jobString>
+
+  <RemoveElbowBlade.label>zdejmij ostrze łokcia</RemoveElbowBlade.label>
+  <RemoveElbowBlade.description>Zdejmij ostrze łokcia.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>Zdejmowanie ostrza łokciowego.</RemoveElbowBlade.jobString>
+
+
+  <!-- Knee spike -->
+
+  <InstallKneeSpike.label>zainstaluj kolce kolanowe</InstallKneeSpike.label>
+  <InstallKneeSpike.description>Zainstaluj kolec kolanowy.</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>Instalowanie kolca kolanowego.</InstallKneeSpike.jobString>
+
+  <RemoveKneeSpike.label>usuń kolec kolanowy</RemoveKneeSpike.label>
+  <RemoveKneeSpike.description>Usuń kolce kolanowe.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>Usuwanie kolca kolanowego.</RemoveKneeSpike.jobString>
+
+
+  <!-- venom fangs -->
+
+  <InstallVenomFangs.label>zainstaluj kły jadu</InstallVenomFangs.label>
+  <InstallVenomFangs.description>Zainstaluj kły jadowe.</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>Instalowanie kłów jadowych.</InstallVenomFangs.jobString>
+
+  <RemoveVenomFangs.label>usuń kły jadowe</RemoveVenomFangs.label>
+  <RemoveVenomFangs.description>Usuń kły jadowe.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>Usuwanie kłów jadowych.</RemoveVenomFangs.jobString>
+
+
+  <!-- venom talon -->
+
+  <InstallVenomTalon.label>zainstaluj szpon jadu</InstallVenomTalon.label>
+  <InstallVenomTalon.description>Zainstaluj szpon jadu.</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>Instalowanie szponu jadu.</InstallVenomTalon.jobString>
+
+  <RemoveVenomTalon.label>usuń szpon jadu</RemoveVenomTalon.label>
+  <RemoveVenomTalon.description>Usuń szpon jadu.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>Usuwanie szponu jadu.</RemoveVenomTalon.jobString>
+
+
+</LanguageData>

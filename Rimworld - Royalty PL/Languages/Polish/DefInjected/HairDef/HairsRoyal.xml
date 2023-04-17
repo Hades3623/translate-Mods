@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royal Female -->
+
+  <Artist.label>artysta</Artist.label>
+  <Mary.label>mary</Mary.label>
+  <Anne.label>Anna</Anne.label>
+  <Elisabeth.label>Elisabeth</Elisabeth.label>
+  <Jane.label>Jane</Jane.label>
+  <Lisa.label>Lisa</Lisa.label>
+  <Victoria.label>Wiktoria</Victoria.label>
+
+
+  <!-- Royal Male -->
+
+  <Henry.label>henz</Henry.label>
+  <Richard.label>Ryszarda</Richard.label>
+  <Stephen.label>Stephen</Stephen.label>
+  <William.label>william</William.label>
+
+
+</LanguageData>

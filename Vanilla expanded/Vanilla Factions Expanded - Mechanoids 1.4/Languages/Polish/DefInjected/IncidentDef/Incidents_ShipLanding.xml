@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_MechShipDestroyed.label>Statek mechanoidów zniszczony</VFEM_MechShipDestroyed.label>
+  <VFEM_MechShipDestroyed.letterText>Dzięki sprytnym strategiom, dużej liczbie ofiar i niesamowitej wytrwałości {FACTION_name} zdołał zniszczyć {1}.</VFEM_MechShipDestroyed.letterText>
+  <VFEM_MechShipDestroyed.letterLabel>{FACTION_name} zniszczona {1}</VFEM_MechShipDestroyed.letterLabel>
+
+  <VFEM_ShipLandFrigate.label>fregata lądująca na statku</VFEM_ShipLandFrigate.label>
+  <VFEM_ShipLandFrigate.letterText>{0} wysłał nowy statek na lądowanie na planecie. \ 
+Mały statek często używany do operacji rozpoznania naziemnego. Ma minimalne mechanizmy obronne. Po zniszczeniu obecność mechanoidów na powierzchni zostanie zmniejszona. \n
+Jeśli pozostaną one sprawne, przyczyni się do wzrostu mechanoidalnych oddziałów atakujących.</VFEM_ShipLandFrigate.letterText>
+  <VFEM_ShipLandFrigate.letterLabel>Ship Landed: Fregata</VFEM_ShipLandFrigate.letterLabel>
+
+  <VFEM_ShipLandDestroyer.label>niszczyciel okrętów</VFEM_ShipLandDestroyer.label>
+  <VFEM_ShipLandDestroyer.letterText>{0} wysłał nowy statek na lądowanie na naszej planecie. \n 
+Niszczyciel to średniej wielkości statek zwykle służący jako obrońca ula mechanoidów.nie ma obrony krótkiego zasięgu. Po zniszczeniu obecność mechanoidów na powierzchni zostanie zmniejszona. \n 
+Jeśli pozostaną one sprawne, przyczyni się do wzrostu mechanoidalnych oddziałów atakujących.</VFEM_ShipLandDestroyer.letterText>
+  <VFEM_ShipLandDestroyer.letterLabel>Ship Landed: Destroyer</VFEM_ShipLandDestroyer.letterLabel>
+
+  <VFEM_ShipLandCruiser.label>krążownik do lądowania statku</VFEM_ShipLandCruiser.label>
+  <VFEM_ShipLandCruiser.letterText>{0} wysłał nowy statek, aby wylądował na planecie. \n 
+Cruiser to średniej wielkości statek zwykle służący jako większość floty mechanoidów. Ma szereg środków obronnych krótkiego zasięgu, ale brakuje mu broni dalekiego zasięgu. Po zniszczeniu obecność mechanoidów na powierzchni zostanie zmniejszona. \n 
+Jeśli pozostaną one sprawne, przyczyni się do wzrostu mechanoidalnych oddziałów atakujących.</VFEM_ShipLandCruiser.letterText>
+  <VFEM_ShipLandCruiser.letterLabel>Ship Landed: Cruiser</VFEM_ShipLandCruiser.letterLabel>
+
+  <VFEM_ShipLandTroopship.label>statek lądujący na statku</VFEM_ShipLandTroopship.label>
+  <VFEM_ShipLandTroopship.letterText>{0} wysłał nowy statek, aby wylądował na planecie. \n 
+Statek to duży mechanoidalny statek-fabryka, który jest w stanie wyprodukować duże ilości gotowych do walki mechanoidów w bardzo krótkim czasie. Po zniszczeniu obecność mechanoidów na powierzchni zostanie zmniejszona. \n 
+Jeśli pozostaną one sprawne, przyczyni się do wzrostu mechanoidalnych oddziałów atakujących.</VFEM_ShipLandTroopship.letterText>
+  <VFEM_ShipLandTroopship.letterLabel>Ship Landed: Troopship</VFEM_ShipLandTroopship.letterLabel>
+
+  <VFEM_ShipLandCarrier.label>statek lądujący</VFEM_ShipLandCarrier.label>
+  <VFEM_ShipLandCarrier.letterText>{0} wysłał nowy statek, aby wylądował na planecie. \n 
+Carrier to największy statek w ulu mechanoidów, silnie broniony i dysponujący licznymi sposobami produkcji nowych, gotowych do walki jednostek mechanoidów. Po zniszczeniu obecność mechanoidów na powierzchni zostanie zmniejszona. \n 
+Jeśli pozostaną one sprawne, przyczyni się do wzrostu mechanoidalnych oddziałów atakujących.</VFEM_ShipLandCarrier.letterText>
+  <VFEM_ShipLandCarrier.letterLabel>Statek wylądował: przewoźnik</VFEM_ShipLandCarrier.letterLabel>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tribal -->
+
+  <Face_Tiger.label>Tygrys</Face_Tiger.label>
+  <Face_Cobweb.label>pajęczyna</Face_Cobweb.label>
+  <Face_Eclipse.label>zaćmienie</Face_Eclipse.label>
+  <Face_Line.label>linia</Face_Line.label>
+  <Face_Oracle.label>wyrocznia</Face_Oracle.label>
+  <Face_Pantheon.label>panteon</Face_Pantheon.label>
+  <Face_Warpaint.label>obraz o tematyce wojennej</Face_Warpaint.label>
+  <Face_Worried.label>zmartwiony</Face_Worried.label>
+  <Body_Tiger.label>Tygrys</Body_Tiger.label>
+  <Body_Buttons.label>guziki</Body_Buttons.label>
+  <Body_Rings.label>pierścionki</Body_Rings.label>
+
+
+  <!-- Gang -->
+
+  <Face_Tear.label>łza</Face_Tear.label>
+  <Face_Headshot.label>strzał w głowę</Face_Headshot.label>
+  <Face_Double.label>podwójnie</Face_Double.label>
+  <Face_Love.label>miłość</Face_Love.label>
+  <Face_Stars.label>gwiazdy</Face_Stars.label>
+  <Body_Heart.label>serce</Body_Heart.label>
+  <Body_Cross.label>przechodzić</Body_Cross.label>
+  <Body_Jester.label>błazen</Body_Jester.label>
+  <Body_Moon.label>księżyc</Body_Moon.label>
+  <Body_Power.label>moc</Body_Power.label>
+  <Body_Royal.label>królewski</Body_Royal.label>
+  <Body_Wings.label>skrzydełka</Body_Wings.label>
+
+
+  <!-- Cannibal -->
+
+  <Body_Skull.label>czaszka</Body_Skull.label>
+  <Face_Spider.label>pająk</Face_Spider.label>
+  <Body_Scar.label>blizna</Body_Scar.label>
+  <Body_Skeleton.label>szkielet</Body_Skeleton.label>
+  <Body_Spike.label>kolec</Body_Spike.label>
+
+
+  <!-- Misc -->
+
+  <Body_Insect.label>owad</Body_Insect.label>
+  <Body_Sun.label>słońce</Body_Sun.label>
+
+
+</LanguageData>

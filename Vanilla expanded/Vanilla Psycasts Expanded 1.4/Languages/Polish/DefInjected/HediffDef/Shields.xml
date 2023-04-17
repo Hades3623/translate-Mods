@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_FireShield.label>ognista tarcza</VPE_FireShield.label>
+  <VPE_FireShield.description>Tarcza ognia, podpala atakujących w zwarciu</VPE_FireShield.description>
+
+  <VPE_StaticAura.label>statyczna aura</VPE_StaticAura.label>
+  <VPE_StaticAura.description>Aura elektryczności statycznej powoduje wyładowanie EMP</VPE_StaticAura.description>
+
+
+</LanguageData>

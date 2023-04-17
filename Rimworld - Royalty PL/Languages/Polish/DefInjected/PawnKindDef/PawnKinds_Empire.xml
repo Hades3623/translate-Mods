@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Imperial civilians -->
+
+  <Empire_Common_Lodger.label>cesarski obywatel</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelPlural>obywateli cesarskich</Empire_Common_Lodger.labelPlural>
+
+  <Empire_Common_Trader.label>cesarski kupiec</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelPlural>imperialni kupcy</Empire_Common_Trader.labelPlural>
+
+  <Empire_Common_Laborer.label>cesarski robotnik</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelPlural>imperialni robotnicy</Empire_Common_Laborer.labelPlural>
+
+
+  <!-- Trooper -->
+
+  <Empire_Fighter_Trooper.label>policjant</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelPlural>policjanci</Empire_Fighter_Trooper.labelPlural>
+
+
+  <!-- Janissary -->
+
+  <Empire_Fighter_Janissary.label>janczar</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelPlural>janczarów</Empire_Fighter_Janissary.labelPlural>
+
+
+  <!-- Champion -->
+
+  <Empire_Fighter_Champion.label>mistrz</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelPlural>mistrzowie</Empire_Fighter_Champion.labelPlural>
+
+
+  <!-- Cataphract -->
+
+  <Empire_Fighter_Cataphract.label>katafrakt</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelPlural>katafrakci</Empire_Fighter_Cataphract.labelPlural>
+
+
+  <!-- Stellic Guard -->
+
+  <Empire_Fighter_StellicGuardRanged.label>gwiezdny obrońca</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>gwiezdni obrońcy</Empire_Fighter_StellicGuardRanged.labelPlural>
+
+  <Empire_Fighter_StellicGuardMelee.label>gwiezdny naczelnik</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>gwiezdni naczelnicy</Empire_Fighter_StellicGuardMelee.labelPlural>
+
+
+  <!-- Royals -->
+
+  <Empire_Royal_NobleWimp.label>szlachetny</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.labelPlural>szlachetni</Empire_Royal_NobleWimp.labelPlural>
+
+  <Empire_Royal_Yeoman.label>yeoman</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.labelPlural>yeomans</Empire_Royal_Yeoman.labelPlural>
+
+  <Empire_Royal_Esquire.label>akolita</Empire_Royal_Esquire.label>
+  <Empire_Royal_Esquire.labelPlural>akolici</Empire_Royal_Esquire.labelPlural>
+
+  <Empire_Royal_Knight.label>rycerz</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.labelPlural>rycerze</Empire_Royal_Knight.labelPlural>
+  <Empire_Royal_Knight.labelMale>męski rycerz</Empire_Royal_Knight.labelMale>
+  <Empire_Royal_Knight.labelMalePlural>rycerze płci męskiej</Empire_Royal_Knight.labelMalePlural>
+  <Empire_Royal_Knight.labelFemale>dama</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_Knight.labelFemalePlural>damy</Empire_Royal_Knight.labelFemalePlural>
+
+  <Empire_Royal_Praetor.label>pretor</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.labelPlural>pretorzy</Empire_Royal_Praetor.labelPlural>
+
+  <Empire_Royal_Baron.label>baron</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.labelPlural>baronowie</Empire_Royal_Baron.labelPlural>
+  <Empire_Royal_Baron.labelMale>męski baron</Empire_Royal_Baron.labelMale>
+  <Empire_Royal_Baron.labelMalePlural>męskich baronów</Empire_Royal_Baron.labelMalePlural>
+  <Empire_Royal_Baron.labelFemale>baronowa</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.labelFemalePlural>baronowa</Empire_Royal_Baron.labelFemalePlural>
+
+  <Empire_Royal_Count.label>liczący się</Empire_Royal_Count.label>
+  <Empire_Royal_Count.labelPlural>liczący się</Empire_Royal_Count.labelPlural>
+  <Empire_Royal_Count.labelMale>hrabia</Empire_Royal_Count.labelMale>
+  <Empire_Royal_Count.labelMalePlural>hrabie</Empire_Royal_Count.labelMalePlural>
+  <Empire_Royal_Count.labelFemale>hrabina</Empire_Royal_Count.labelFemale>
+  <Empire_Royal_Count.labelFemalePlural>hrabiny</Empire_Royal_Count.labelFemalePlural>
+
+  <Empire_Royal_Duke.label>książę</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.labelPlural>książęta</Empire_Royal_Duke.labelPlural>
+  <Empire_Royal_Duke.labelMale>mężczyzna książę</Empire_Royal_Duke.labelMale>
+  <Empire_Royal_Duke.labelMalePlural>książęta płci męskiej</Empire_Royal_Duke.labelMalePlural>
+  <Empire_Royal_Duke.labelFemale>księżna</Empire_Royal_Duke.labelFemale>
+  <Empire_Royal_Duke.labelFemalePlural>księżne</Empire_Royal_Duke.labelFemalePlural>
+
+  <Empire_Royal_Consul.label>konsul</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.labelPlural>konsulowie</Empire_Royal_Consul.labelPlural>
+
+  <Empire_Royal_Stellarch.label>gwiezdny</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.labelPlural>gwiezdne</Empire_Royal_Stellarch.labelPlural>
+
+  <Empire_Royal_Bestower.label>obdarzający</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.labelPlural>obdarzający</Empire_Royal_Bestower.labelPlural>
+
+
+</LanguageData>

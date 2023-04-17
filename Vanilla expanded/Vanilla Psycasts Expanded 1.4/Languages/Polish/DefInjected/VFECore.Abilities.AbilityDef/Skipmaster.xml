@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SolarPinhole.label>otwór słoneczny</VPE_SolarPinhole.label>
+  <VPE_SolarPinhole.description>Wygeneruj mikroskopijną bramkę połączoną z jądrem pobliskiej gwiazdy na kilka dni. Materia słoneczna przecieka przez punkcik w czasoprzestrzeni, oświetlając i ogrzewając otaczający obszar, aż się zamknie. Światło wystarcza do pracy, ale nie wystarcza do wzrostu roślin.</VPE_SolarPinhole.description>
+
+  <VPE_Chunkskip.label>przenikanie przez skały</VPE_Chunkskip.label>
+  <VPE_Chunkskip.description>Pomiń 5 kawałków skały lub żużlu, aby rozrzucić je w pobliżu punktu docelowego. Jest to przydatne do tworzenia osłon podczas operacji ofensywnych.</VPE_Chunkskip.description>
+
+  <VPE_Waterskip.label>skok wodny</VPE_Waterskip.label>
+  <VPE_Waterskip.description>Oblej cel wodą, gasząc pożary. Woda jest archotechnologicznie pomijana z odległych zbiorników wodnych lub podziemnych warstw wodonośnych.</VPE_Waterskip.description>
+
+  <VPE_ChaosSkip.label>pomiń chaos</VPE_ChaosSkip.label>
+  <VPE_ChaosSkip.description>Teleportuj cel do losowej pozycji w pobliżu miejsca, z którego zaczął. Ogłusza cel na sekundę i jest uważany za wrogie działanie.</VPE_ChaosSkip.description>
+
+  <VPE_Skip.label>przesunięcie</VPE_Skip.label>
+  <VPE_Skip.description>Teleportuj cel w żądaną pozycję, nie za daleko od jego punktu startowego. Jest to uważane za wrogie działanie.</VPE_Skip.description>
+
+  <VPE_Wallraise.label>podniesienie ściany</VPE_Wallraise.label>
+  <VPE_Wallraise.description>Utwórz tymczasową ścianę, podnosząc gruz i ziemię z głębi ziemi. Przyzwoity zasięg i przydatny w blokowaniu linii wzroku i ruchu na kilka godzin.</VPE_Wallraise.description>
+
+  <VPE_Smokepop.label>dym</VPE_Smokepop.label>
+  <VPE_Smokepop.description>Pomijaj cząsteczki kurzu spod powierzchni ziemi, tworząc gęstą chmurę. Zmniejsza to celność każdego wystrzelonego przez nią strzału i zapobiega całkowitemu zablokowaniu wieży.</VPE_Smokepop.description>
+
+  <VPE_MassChaosSkip.label>pomiń masowy chaos</VPE_MassChaosSkip.label>
+  <VPE_MassChaosSkip.description>Pomiń wszystkich w pobliżu punktu docelowego do losowej lokalizacji w pobliżu. Uważany za uciążliwy, ponieważ może narazić sojuszników na niebezpieczeństwo.</VPE_MassChaosSkip.description>
+
+  <VPE_Skipdoor.label>skipdoor</VPE_Skipdoor.label>
+  <VPE_Skipdoor.description>Tworzy otwarcie na sieć bramek, które można umieścić w dowolnym miejscu o stałej obecności. Sieć jest powiązana ze zbiorową świadomością grupy, pozwalając innym z niej korzystać, a różni psycholodzy mogą ją dodawać. Jednak punkty wejścia są wrażliwe na zakłócenia fizyczne, które mogą spowodować ich zawalenie.</VPE_Skipdoor.description>
+
+  <VPE_Farskip.label>farskip</VPE_Farskip.label>
+  <VPE_Farskip.description>Pomiń rzucającego wraz ze wszystkimi, którzy stoją w jego pobliżu, do sojusznika w odległej lokalizacji. Może to wysłać ludzi daleko po całej planecie, a pominięci ludzie zawsze będą pojawiać się w pobliżu losowego sojusznika na docelowej mapie i będą ogłuszeni przez kilka sekund po podróży.</VPE_Farskip.description>
+
+
+</LanguageData>

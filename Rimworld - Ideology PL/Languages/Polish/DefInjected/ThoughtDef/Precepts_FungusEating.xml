@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <AteNonFungusPlant_Despised.stages.0.label>zjadłem surową roślinę bez grzybów</AteNonFungusPlant_Despised.stages.0.label>
+  <AteNonFungusPlant_Despised.stages.0.description>Musiałem zjeść roślinny pokarm bez grzybów, którym gardzę. Zdecydowanie wolę grzyby.</AteNonFungusPlant_Despised.stages.0.description>
+
+  <AteNonFungusMealWithPlants_Despised.stages.0.label>zjadłem gotowane rośliny bez grzybów</AteNonFungusMealWithPlants_Despised.stages.0.label>
+  <AteNonFungusMealWithPlants_Despised.stages.0.description>Zjadłem posiłek z rośliną światła. Chciałbym, żeby to był grzyb.</AteNonFungusMealWithPlants_Despised.stages.0.description>
+
+  <AteFungus_Prefered.stages.0.label>zjadłem grzyba</AteFungus_Prefered.stages.0.label>
+  <AteFungus_Prefered.stages.0.description>Zjadłem trochę grzybów i to właśnie lubię!</AteFungus_Prefered.stages.0.description>
+
+  <AteFungusAsIngredient_Prefered.stages.0.label>zjadł ugotowany grzyb</AteFungusAsIngredient_Prefered.stages.0.label>
+  <AteFungusAsIngredient_Prefered.stages.0.description>Zjadłem posiłek z grzybami. Czy jest jakieś danie, którego nie uzupełnia?</AteFungusAsIngredient_Prefered.stages.0.description>
+
+  <AteFungus_Despised.stages.0.label>zjadłem surowego grzyba</AteFungus_Despised.stages.0.label>
+  <AteFungus_Despised.stages.0.description>Ten grzyb pachniał jak wilgotne szmaty i nie smakował lepiej.</AteFungus_Despised.stages.0.description>
+
+  <AteFungusAsIngredient_Despised.stages.0.label>zjadłem ugotowany grzyb</AteFungusAsIngredient_Despised.stages.0.label>
+  <AteFungusAsIngredient_Despised.stages.0.description>Cały posiłek pachniał jak zdechły szczur pozostawiony w stojącej sadzawce.</AteFungusAsIngredient_Despised.stages.0.description>
+
+
+</LanguageData>

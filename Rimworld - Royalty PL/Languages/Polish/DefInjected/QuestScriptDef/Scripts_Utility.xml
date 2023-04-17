@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Util_DecideRandomAsker.root.nodes.0.name>askerIsNullChance</Util_DecideRandomAsker.root.nodes.0.name>
+  <Util_DecideRandomAsker.root.nodes.0.elseNode.name>askerIsNullChance</Util_DecideRandomAsker.root.nodes.0.elseNode.name>
+  <Util_DecideRandomAsker.root.nodes.1.nodes.0.name>askerIsNull</Util_DecideRandomAsker.root.nodes.1.nodes.0.name>
+  <Util_DecideRandomAsker.root.nodes.1.nodes.2.nodes.0.name>askerSeniorityRange</Util_DecideRandomAsker.root.nodes.1.nodes.2.nodes.0.name>
+  <Util_DecideRandomAsker.root.nodes.1.nodes.2.nodes.0.elseNode.name>askerSeniorityRange</Util_DecideRandomAsker.root.nodes.1.nodes.2.nodes.0.elseNode.name>
+
+  <Util_Constants_Monuments.root.nodes.0.name>keepMonumentTicks</Util_Constants_Monuments.root.nodes.0.name>
+  <Util_Constants_Monuments.root.nodes.1.name>goodwillChangeIfMonumentDestroyed</Util_Constants_Monuments.root.nodes.1.name>
+
+
+</LanguageData>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Centipede -->
+
+  <VFE_Mech_AdvancedCentipede.label>zaawansowana stonoga</VFE_Mech_AdvancedCentipede.label>
+  <VFE_Mech_AdvancedCentipede.labelPlural>zaawansowane stonogi</VFE_Mech_AdvancedCentipede.labelPlural>
+  <VFE_Mech_AdvancedCentipede.labelMale>samiec zaawansowanej stonogi</VFE_Mech_AdvancedCentipede.labelMale>
+  <VFE_Mech_AdvancedCentipede.labelMalePlural>samce zaawansowane stonogi</VFE_Mech_AdvancedCentipede.labelMalePlural>
+  <VFE_Mech_AdvancedCentipede.labelFemale>samica zaawansowana stonoga</VFE_Mech_AdvancedCentipede.labelFemale>
+  <VFE_Mech_AdvancedCentipede.labelFemalePlural>samice zaawansowanych stonóg</VFE_Mech_AdvancedCentipede.labelFemalePlural>
+
+
+  <!-- Advanced Lancer - fast mid-range shooter -->
+
+  <VFE_Mech_AdvancedLancer.label>zaawansowany lancer</VFE_Mech_AdvancedLancer.label>
+  <VFE_Mech_AdvancedLancer.labelPlural>zaawansowanych lansjerów</VFE_Mech_AdvancedLancer.labelPlural>
+  <VFE_Mech_AdvancedLancer.labelMale>mężczyzna zaawansowany lancer</VFE_Mech_AdvancedLancer.labelMale>
+  <VFE_Mech_AdvancedLancer.labelMalePlural>zaawansowani lancerze płci męskiej</VFE_Mech_AdvancedLancer.labelMalePlural>
+  <VFE_Mech_AdvancedLancer.labelFemale>samica zaawansowany lancer</VFE_Mech_AdvancedLancer.labelFemale>
+  <VFE_Mech_AdvancedLancer.labelFemalePlural>zaawansowane lancerki</VFE_Mech_AdvancedLancer.labelFemalePlural>
+
+
+  <!-- Advanced Knight - slow short-range shooter -->
+
+  <VFE_Mech_AdvancedKnight.label>zaawansowany rycerz</VFE_Mech_AdvancedKnight.label>
+  <VFE_Mech_AdvancedKnight.labelPlural>zaawansowani rycerze</VFE_Mech_AdvancedKnight.labelPlural>
+  <VFE_Mech_AdvancedKnight.labelMale>męski zaawansowany rycerz</VFE_Mech_AdvancedKnight.labelMale>
+  <VFE_Mech_AdvancedKnight.labelMalePlural>zaawansowani rycerze płci męskiej</VFE_Mech_AdvancedKnight.labelMalePlural>
+  <VFE_Mech_AdvancedKnight.labelFemale>kobieta zaawansowany rycerz</VFE_Mech_AdvancedKnight.labelFemale>
+  <VFE_Mech_AdvancedKnight.labelFemalePlural>kobiet zaawansowanych rycerzy</VFE_Mech_AdvancedKnight.labelFemalePlural>
+
+
+  <!-- Advanced Inquisitor - armored short-range flamer -->
+
+  <VFE_Mech_AdvancedInquisitor.label>zaawansowany inkwizytor</VFE_Mech_AdvancedInquisitor.label>
+  <VFE_Mech_AdvancedInquisitor.labelPlural>zaawansowanych inkwizytorów</VFE_Mech_AdvancedInquisitor.labelPlural>
+  <VFE_Mech_AdvancedInquisitor.labelMale>zaawansowany inkwizytor</VFE_Mech_AdvancedInquisitor.labelMale>
+  <VFE_Mech_AdvancedInquisitor.labelMalePlural>zaawansowani inkwizytorzy płci męskiej</VFE_Mech_AdvancedInquisitor.labelMalePlural>
+  <VFE_Mech_AdvancedInquisitor.labelFemale>zaawansowana inkwizytorka</VFE_Mech_AdvancedInquisitor.labelFemale>
+  <VFE_Mech_AdvancedInquisitor.labelFemalePlural>zaawansowane inkwizytorki</VFE_Mech_AdvancedInquisitor.labelFemalePlural>
+
+
+  <!-- Advanced Scyther - fast melee -->
+
+  <VFE_Mech_AdvancedScyther.label>zaawansowany scyther</VFE_Mech_AdvancedScyther.label>
+  <VFE_Mech_AdvancedScyther.labelPlural>zaawansowanych scytherów</VFE_Mech_AdvancedScyther.labelPlural>
+  <VFE_Mech_AdvancedScyther.labelMale>mężczyzna zaawansowany scyther</VFE_Mech_AdvancedScyther.labelMale>
+  <VFE_Mech_AdvancedScyther.labelMalePlural>męskie zaawansowane scythers</VFE_Mech_AdvancedScyther.labelMalePlural>
+  <VFE_Mech_AdvancedScyther.labelFemale>scyther zaawansowany</VFE_Mech_AdvancedScyther.labelFemale>
+  <VFE_Mech_AdvancedScyther.labelFemalePlural>zaawansowane scythers</VFE_Mech_AdvancedScyther.labelFemalePlural>
+
+
+  <!-- Advanced Pikeman - slow sniper weak at close range -->
+
+  <VFE_Mech_AdvancedPikeman.label>zaawansowany pikinier</VFE_Mech_AdvancedPikeman.label>
+  <VFE_Mech_AdvancedPikeman.labelPlural>zaawansowanych pikinierów</VFE_Mech_AdvancedPikeman.labelPlural>
+  <VFE_Mech_AdvancedPikeman.labelMale>mężczyzna zaawansowany pikinier</VFE_Mech_AdvancedPikeman.labelMale>
+  <VFE_Mech_AdvancedPikeman.labelMalePlural>zaawansowani pikinierzy płci męskiej</VFE_Mech_AdvancedPikeman.labelMalePlural>
+  <VFE_Mech_AdvancedPikeman.labelFemale>kobieta zaawansowana pikiniera</VFE_Mech_AdvancedPikeman.labelFemale>
+  <VFE_Mech_AdvancedPikeman.labelFemalePlural>zaawansowane pikinierki</VFE_Mech_AdvancedPikeman.labelFemalePlural>
+
+
+  <!-- Advanced Carpenter - slow deconstructor -->
+
+  <VFE_Mech_AdvancedCarpenter.label>zaawansowany stolarz</VFE_Mech_AdvancedCarpenter.label>
+  <VFE_Mech_AdvancedCarpenter.labelPlural>zaawansowanych stolarzy</VFE_Mech_AdvancedCarpenter.labelPlural>
+  <VFE_Mech_AdvancedCarpenter.labelMale>mężczyzna zaawansowany stolarz</VFE_Mech_AdvancedCarpenter.labelMale>
+  <VFE_Mech_AdvancedCarpenter.labelMalePlural>zaawansowani stolarze płci męskiej</VFE_Mech_AdvancedCarpenter.labelMalePlural>
+  <VFE_Mech_AdvancedCarpenter.labelFemale>kobieta zaawansowany stolarz</VFE_Mech_AdvancedCarpenter.labelFemale>
+  <VFE_Mech_AdvancedCarpenter.labelFemalePlural>kobiet zaawansowanych stolarzy</VFE_Mech_AdvancedCarpenter.labelFemalePlural>
+
+
+  <!-- Advanced Termite -->
+
+  <VFE_Mech_AdvTermite.label>zaawansowany termit</VFE_Mech_AdvTermite.label>
+  <VFE_Mech_AdvTermite.labelPlural>termity</VFE_Mech_AdvTermite.labelPlural>
+  <VFE_Mech_AdvTermite.labelMale>męski zaawansowany termit</VFE_Mech_AdvTermite.labelMale>
+  <VFE_Mech_AdvTermite.labelMalePlural>męski termit</VFE_Mech_AdvTermite.labelMalePlural>
+  <VFE_Mech_AdvTermite.labelFemale>żeński zaawansowany termit</VFE_Mech_AdvTermite.labelFemale>
+  <VFE_Mech_AdvTermite.labelFemalePlural>żeński termit</VFE_Mech_AdvTermite.labelFemalePlural>
+
+
+</LanguageData>

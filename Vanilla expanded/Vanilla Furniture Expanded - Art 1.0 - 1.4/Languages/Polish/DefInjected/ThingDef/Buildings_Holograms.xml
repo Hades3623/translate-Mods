@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedHologram.label>niedokończony hologram</UnfinishedHologram.label>
+
+  <HologramBase.label>podstawa hologramu</HologramBase.label>
+  <HologramBase.description>Urządzenie do projekcji obrazu wielkości człowieka, przedstawiające grafikę wykonaną przy użyciu kilku języków programowania. Musi być podłączony, aby wyświetlić grafikę.</HologramBase.description>
+
+  <VFE_HologramOn.label>hologram</VFE_HologramOn.label>
+  <VFE_HologramOn.description>Urządzenie do projekcji obrazu wielkości człowieka, przedstawiające grafikę wykonaną przy użyciu kilku języków programowania. Musi być podłączony, aby wyświetlić grafikę.</VFE_HologramOn.description>
+
+
+</LanguageData>

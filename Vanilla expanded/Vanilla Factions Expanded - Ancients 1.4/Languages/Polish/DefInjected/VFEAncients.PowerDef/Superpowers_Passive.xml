@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EagleEye.label>Sokole oko</EagleEye.label>
+  <EagleEye.description>Percepcja głębi została znacznie poprawiona wraz z szybkością reakcji, co pozwoliło im szybko dostosować łuk rażenia, aby trafiać w cele dwa razy dalej niż to możliwe.</EagleEye.description>
+
+  <Marksmanship.label>celność</Marksmanship.label>
+  <Marksmanship.description>Percepcja głębi została znacząco poprawiona wraz z ich ostrością wzroku, co daje im doskonałą, precyzyjną celność przy broni dystansowej.</Marksmanship.description>
+
+  <Assassin.label>morderca</Assassin.label>
+  <Assassin.description>Podmiot stał się zdolny do zadawania bardzo precyzyjnych ciosów nawet w szaleńczej walce wręcz, wiedząc dokładnie, gdzie się zamachnąć, aby trafić w mózg lub serce.</Assassin.description>
+
+  <SuperStrength.label>Super siła</SuperStrength.label>
+  <SuperStrength.description>Mięśnie zostały wzmocnione wrzecionami z gęstego włókna, co znacznie poprawia ich stosunek mocy do masy i czyni je prawie dwukrotnie silniejszymi niż wcześniej. To podwaja ich obrażenia w walce wręcz oraz pojemność ekwipunku lokalnego i karawany.</SuperStrength.description>
+
+  <MartialArtist.label>artysta sztuk walki</MartialArtist.label>
+  <MartialArtist.description>Szybkość reakcji została znacznie poprawiona wraz z ich koordynacją ręka-oko, co pozwala im zawsze trafiać i nigdy nie być trafionym w starciach w zwarciu.</MartialArtist.description>
+
+  <BulletproofSkin.label>kuloodporna skóra</BulletproofSkin.label>
+  <BulletproofSkin.description>Skóra i włókno mięśniowe u tego osobnika stały się niewiarygodnie gęste, co zapobiega skaleczeniu. Nie robi nic, aby zapobiec siniakom lub złamaniu kości.</BulletproofSkin.description>
+
+  <PlasteelSkeleton.label>szkielet z plasteli</PlasteelSkeleton.label>
+  <PlasteelSkeleton.description>Struktura szkieletowa obiektu została powoli, ale całkowicie zastąpiona przez Plasteel, bez żadnych wad, które można znaleźć nigdzie. Ich kości nie mogą być złamane ani złamane.</PlasteelSkeleton.description>
+
+  <SelfResurrection.label>samo zmartwychwstanie</SelfResurrection.label>
+  <SelfResurrection.description>Podmiot jest praktycznie zombie, ponieważ gdy ich funkcje cielesne i umysłowe ustają, ich ciało przechodzi w stan zawieszenia. W ciągu 3 dni ich ciało wyzdrowieje z wszelkich poważnych ran i zmartwychwstanie, a większość ran pozostanie.</SelfResurrection.description>
+
+  <RedundantStomach.label>zbędny żołądek</RedundantStomach.label>
+  <RedundantStomach.description>Ciało podmiotu stało się tak biegłe w wydobywaniu energii ze środowiska, że ​​nie musi już jeść. Takimi źródłami energii mogą być toksyny, pola EMI, światło słoneczne, ładunki statyczne lub promieniowanie.</RedundantStomach.description>
+
+  <Darkvision.label>mroczna wizja</Darkvision.label>
+  <Darkvision.description>Podmiot rozwija odblaskowe błony w tylnej części oczu, które są również bardzo słabo bioluminescencyjne, a ich źrenice zamieniają się w pionowe szczeliny. Oznacza to, że widzą nawet w ciemności, jakby to było w biały dzień.</Darkvision.description>
+
+  <RegeneratingLimbs.label>regeneracja kończyn</RegeneratingLimbs.label>
+  <RegeneratingLimbs.description>Ciało badanego rozwinęło zmutowaną kolonię grzybów, która może replikować brakujące narządy lub kończyny, „pamiętając”, czego brakuje ciału.</RegeneratingLimbs.description>
+
+  <EfficientBuilder.label>sprawny budowniczy</EfficientBuilder.label>
+  <EfficientBuilder.description>Podmiot rozwinął niezwykłą umiejętność wykrywania i przewidywania naprężeń w konstrukcjach, co pozwala zaoszczędzić jedną czwartą zasobów przez połowę czasu bez narażania integralności strukturalnej.</EfficientBuilder.description>
+
+  <MasterfulCraft.label>mistrzowskie rzemiosło</MasterfulCraft.label>
+  <MasterfulCraft.description>Wrażliwość dotykowa badanego i koordynacja ręka-oko gwałtownie wzrosły, dając im doskonałe umiejętności rękodzielnicze i konsekwentnie mogąc wystawiać przedmioty o 2 stopnie wyżej niż podobni pracownicy.</MasterfulCraft.description>
+
+  <ColdResistance.label>Odporność na zimno</ColdResistance.label>
+  <ColdResistance.description>Obiekt ma na całym ciele małe guzki, które są w stanie uchronić go przed zimnem. Funkcjonują poprzez nadmierne stymulowanie mięśni ciała do wytwarzania ciepła, uczucie podobne do drgania prawie bez przerwy, które uczą się ignorować, nawet jeśli dzieje się to podczas snu.</ColdResistance.description>
+
+  <HeatResistance.label>wytrzymałość cieplna</HeatResistance.label>
+  <HeatResistance.description>Podmiot rozwinął na całym ciele maleńkie guzki, które są w stanie uchronić go przed upałem. Działają poprzez nadmierną stymulację gruczołów potowych organizmu i jako takie nigdy nie doznają udaru cieplnego, nie można ich podpalić i ignorować wstrętu do bycia spoconymi.</HeatResistance.description>
+
+  <Celebrity.label>sława</Celebrity.label>
+  <Celebrity.description>Świadomość społeczna i ogólna sympatia podmiotu stały się niemal legendarne. Zawsze wiedzą, co należy powiedzieć i nikt nie może przeboleć tego, jak cholernie są lubiani.</Celebrity.description>
+
+  <MasterHacker.label>mistrz hakerów</MasterHacker.label>
+  <MasterHacker.description>Podmiot rozwinął niezwykłą żarliwość umysłową, jeśli chodzi o rozwiązywanie kodu komputerowego. Kiedy są zmuszeni do wyjaśnienia, mogą tylko odpowiedzieć „to po prostu działa”. Pozwala to podmiotowi na natychmiastowe przeprowadzenie wszystkich operacji hakerskich.</MasterHacker.description>
+
+  <Loner.label>samotnik</Loner.label>
+  <Loner.description>Podmiot jest w stanie osiągnąć formę medytacyjnego zen, gdy jest sam, i jest w stanie uzupełnić Rekreację, jeśli jest w samotności.</Loner.description>
+
+  <BlastResistance.label>odporność na wybuch</BlastResistance.label>
+  <BlastResistance.description>Skóra obiektu zmieniła się na nienewtonowską, twardniejąc pod wpływem ekstremalnie dużych prędkości uderzenia, takich jak odłamki granatów.</BlastResistance.description>
+
+  <PromisingCandidate.label>obiecujący kandydat</PromisingCandidate.label>
+  <PromisingCandidate.description>Z braku lepszego określenia geny podmiotu zostały udoskonalone pod kątem zmian genetycznych. Są całkowicie plastyczne i można je ulepszyć bez problemu lub ryzyka niepowodzenia krytycznego eksperymentu.</PromisingCandidate.description>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related content -->
+
+  <SlaughteredAnimal_Know_Prohibited.stages.0.label>zabite zwierzę</SlaughteredAnimal_Know_Prohibited.stages.0.label>
+
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>zwierzę zabite</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>Ktoś zabił zwierzę! Tragiczna utrata wyjątkowego życia.</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>
+
+  <SlaughteredAnimal_Horrible.stages.0.label>zabite zwierzę</SlaughteredAnimal_Horrible.stages.0.label>
+  <SlaughteredAnimal_Horrible.stages.0.description>Musiałem zarżnąć zwierzę! To było straszne zgasić taki umysł.</SlaughteredAnimal_Horrible.stages.0.description>
+
+  <SlaughteredAnimal_Know_Horrible.stages.0.label>zabite zwierzę</SlaughteredAnimal_Know_Horrible.stages.0.label>
+
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>zwierzę zabite</SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>Ktoś zabił zwierzę! Co za okropna rzecz, zgasić taki umysł.</SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>
+
+  <SlaughteredAnimal_Disapproved.stages.0.label>zabite zwierzę</SlaughteredAnimal_Disapproved.stages.0.label>
+  <SlaughteredAnimal_Disapproved.stages.0.description>Musiałem ubić i zwierzę. To było brzydkie.</SlaughteredAnimal_Disapproved.stages.0.description>
+
+  <SlaughteredAnimal_Know_Disapproved.stages.0.label>zabite zwierzę</SlaughteredAnimal_Know_Disapproved.stages.0.label>
+
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>zwierzę zabite</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>Ktoś zabił zwierzę. To smutna sprawa.</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>
+
+
+</LanguageData>

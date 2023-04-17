@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_VaultWall.label>ściana sklepienia</VFEA_VaultWall.label>
+  <VFEA_VaultWall.description>Gruba, potrójnie wzmocniona stalowa ściana. Prawie niezniszczalna.</VFEA_VaultWall.description>
+
+  <VFEA_VaultDoor.label>drzwi skarbca</VFEA_VaultDoor.label>
+  <VFEA_VaultDoor.description>Grube automatyczne drzwi krypty, których otwieranie i zamykanie zajmuje bardzo dużo czasu, ale są prawie niezniszczalne. Jeśli zasilanie zostanie odcięte, pozostają zablokowane.</VFEA_VaultDoor.description>
+
+
+</LanguageData>

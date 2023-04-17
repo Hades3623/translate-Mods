@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_BondedAnimalDiedHater.stages.0.label>Zwierze związane z {0} nie żyje</VTE_BondedAnimalDiedHater.stages.0.label>
+  <VTE_BondedAnimalDiedHater.stages.0.description>Takie obrzydliwe, irytujące zwierzę. Cieszę się ,że już go nie ma!</VTE_BondedAnimalDiedHater.stages.0.description>
+
+  <VTE_BondedAnimalLostHater.stages.0.label>Zwierze związane z {0} zagineło</VTE_BondedAnimalLostHater.stages.0.label>
+  <VTE_BondedAnimalLostHater.stages.0.description>Takie obrzydliwe, irytujące zwierzę. Cieszę się ,że już go nie ma!</VTE_BondedAnimalLostHater.stages.0.description>
+
+  <VTE_BondedAnimalBanishedHater.stages.0.label>Zwierze związane z {0} zostałó wygnane</VTE_BondedAnimalBanishedHater.stages.0.label>
+  <VTE_BondedAnimalBanishedHater.stages.0.description>W końcu moje związane zwierzę zostało wygnane.</VTE_BondedAnimalBanishedHater.stages.0.description>
+
+  <VTE_NuzzledHater.stages.0.label>ocierać sie</VTE_NuzzledHater.stages.0.label>
+  <VTE_NuzzledHater.stages.0.description>Obrzydliwe zwierze otarło się o mnie .</VTE_NuzzledHater.stages.0.description>
+
+  <VTE_KilledMyBondedAnimalHater.stages.0.label>Zabiłem swoje związane zwierzę</VTE_KilledMyBondedAnimalHater.stages.0.label>
+
+  <VTE_SoldMyBondedAnimalHater.stages.0.label>Związane zwierzę zostało oddane.</VTE_SoldMyBondedAnimalHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>Oddał moje związane zwierzę.</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalHater.stages.0.description>Moje paskudne związane zwierzę zostało oddane, najwyższy czas!</VTE_SoldMyBondedAnimalHater.stages.0.description>
+
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>Oddał moje związane zwierzę</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>Oddał moje związane zwierzę.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Moje paskudne związane zwierzę zostało oddane, najwyższy czas!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+
+  <VTE_KilledColonyAnimalHater.stages.0.label>zabite zwierzę z kolonii</VTE_KilledColonyAnimalHater.stages.0.label>
+
+  <VTE_BondedAnimalMasterHater.stages.0.label>{0} Mistrz</VTE_BondedAnimalMasterHater.stages.0.label>
+  <VTE_BondedAnimalMasterHater.stages.0.description>Przebywanie w pobliżu tej paskudnej rzeczy sprawia, że ​​nienawidzę samego życia.</VTE_BondedAnimalMasterHater.stages.0.description>
+  <VTE_BondedAnimalMasterHater.stages.1.label>Mistrz {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+  <VTE_BondedAnimalMasterHater.stages.1.description>Przebywanie w pobliżu tej paskudnej rzeczy sprawia, że ​​nienawidzę samego życia.</VTE_BondedAnimalMasterHater.stages.1.description>
+
+  <VTE_NotBondedAnimalMasterHater.stages.0.label>Nie jest mistrzem {0} </VTE_NotBondedAnimalMasterHater.stages.0.label>
+  <VTE_NotBondedAnimalMasterHater.stages.0.description>To coś może mnie lubić, ale na pewno nie lubię tego z powrotem  - cieszę się, że ktoś inny to wziął.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+  <VTE_NotBondedAnimalMasterHater.stages.1.label>Nie jest mistrzem {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+  <VTE_NotBondedAnimalMasterHater.stages.1.description>To coś może mnie lubić, ale na pewno nie lubię tego z powrotem - cieszę się, że ktoś inny to wziął.</VTE_NotBondedAnimalMasterHater.stages.1.description>
+
+
+</LanguageData>

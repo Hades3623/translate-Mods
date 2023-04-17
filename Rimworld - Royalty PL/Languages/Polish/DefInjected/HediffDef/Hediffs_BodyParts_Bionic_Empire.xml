@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neurocalculator -->
+
+  <Neurocalculator.label>neurokalkulator</Neurocalculator.label>
+  <Neurocalculator.description>Zainstalowany neurokalkulator.</Neurocalculator.description>
+  <Neurocalculator.labelNoun>neurokalkulator</Neurocalculator.labelNoun>
+
+
+  <!-- Learning assistant -->
+
+  <LearningAssistant.label>asystent nauki</LearningAssistant.label>
+  <LearningAssistant.description>Zainstalowany asystent nauki.</LearningAssistant.description>
+  <LearningAssistant.labelNoun>asystent w nauce</LearningAssistant.labelNoun>
+
+
+  <!-- Gastro-analyzer -->
+
+  <GastroAnalyzer.label>gastro-analyzer</GastroAnalyzer.label>
+  <GastroAnalyzer.description>Zainstalowany gastroanalizator.</GastroAnalyzer.description>
+  <GastroAnalyzer.labelNoun>gastroanalizator</GastroAnalyzer.labelNoun>
+
+
+  <!-- Immunoenhancer -->
+
+  <Immunoenhancer.label>wzmacniacz odporności</Immunoenhancer.label>
+  <Immunoenhancer.description>Zainstalowany immunowzmacniacz.</Immunoenhancer.description>
+  <Immunoenhancer.labelNoun>wzmacniacz odporności</Immunoenhancer.labelNoun>
+
+
+  <!-- Coagulator -->
+
+  <Coagulator.label>koagulator</Coagulator.label>
+  <Coagulator.description>Zainstalowany implant koagulatora.</Coagulator.description>
+  <Coagulator.labelNoun>koagulator</Coagulator.labelNoun>
+
+
+  <!-- Healing enhancer -->
+
+  <HealingEnhancer.label>wzmacniający leczenia</HealingEnhancer.label>
+  <HealingEnhancer.description>Zainstalowany implant wzmacniający leczenie.</HealingEnhancer.description>
+  <HealingEnhancer.labelNoun>wzmacniający leczenie</HealingEnhancer.labelNoun>
+
+
+  <!-- Toughskin gland -->
+
+  <ToughskinGland.label>gruczoł twardej skóry</ToughskinGland.label>
+  <ToughskinGland.description>Zainstalowany gruczoł twardej skóry.</ToughskinGland.description>
+  <ToughskinGland.labelNoun>gruczoł twardoskórny</ToughskinGland.labelNoun>
+
+
+  <!-- Armorskin gland -->
+
+  <ArmorskinGland.label>gruczoł zbroi</ArmorskinGland.label>
+  <ArmorskinGland.description>Zainstalowany gruczoł zbroi.</ArmorskinGland.description>
+  <ArmorskinGland.labelNoun>gruczoł skórno-zbrojowy</ArmorskinGland.labelNoun>
+
+
+  <!-- Stoneskin gland -->
+
+  <StoneskinGland.label>gruczoł kamiennoskóry</StoneskinGland.label>
+  <StoneskinGland.description>Zainstalowany gruczoł kamionkowy.</StoneskinGland.description>
+  <StoneskinGland.labelNoun>gruczoł kamiennoskóry</StoneskinGland.labelNoun>
+
+
+  <!-- Aesthetic shaper -->
+
+  <AestheticShaper.label>estetyczny kształtownik</AestheticShaper.label>
+  <AestheticShaper.description>Zainstalowana estetyczny kształtownik.</AestheticShaper.description>
+  <AestheticShaper.labelNoun>estetyczny kształtownik</AestheticShaper.labelNoun>
+
+
+  <!-- Aesthetic nose -->
+
+  <AestheticNose.label>estetyczny nos</AestheticNose.label>
+  <AestheticNose.description>Zainstalowany estetyczny nos.</AestheticNose.description>
+  <AestheticNose.labelNoun>estetyczny nos</AestheticNose.labelNoun>
+
+
+  <!-- Love enhancer -->
+
+  <LoveEnhancer.label>wzmacniacz miłości</LoveEnhancer.label>
+  <LoveEnhancer.description>Zainstalowany wzmacniacz miłości.</LoveEnhancer.description>
+  <LoveEnhancer.labelNoun>wzmacniacz miłości</LoveEnhancer.labelNoun>
+
+
+  <!-- Detoxifier stomach -->
+
+  <DetoxifierStomach.label>żołądek odtruwający</DetoxifierStomach.label>
+  <DetoxifierStomach.description>Zainstalowany żołądek odtruwający.</DetoxifierStomach.description>
+  <DetoxifierStomach.labelNoun>żołądek odtruwający</DetoxifierStomach.labelNoun>
+
+
+  <!-- Reprocessor stomach -->
+
+  <ReprocessorStomach.label>żołądek reprocesora</ReprocessorStomach.label>
+  <ReprocessorStomach.description>Zainstalowany żołądek reprocesora.</ReprocessorStomach.description>
+  <ReprocessorStomach.labelNoun>żołądek reprocesora</ReprocessorStomach.labelNoun>
+
+
+  <!-- Nuclear stomach -->
+
+  <NuclearStomach.label>żołądek jądrowy</NuclearStomach.label>
+  <NuclearStomach.description>Zainstalowany żołądek jądrowy.</NuclearStomach.description>
+  <NuclearStomach.labelNoun>jądrowy żołądek</NuclearStomach.labelNoun>
+
+
+  <!-- Circadian assistant -->
+
+  <CircadianAssistant.label>asystent dobowy</CircadianAssistant.label>
+  <CircadianAssistant.description>Zainstalowany asystent dobowy.</CircadianAssistant.description>
+  <CircadianAssistant.labelNoun>asystent dobowy</CircadianAssistant.labelNoun>
+
+
+  <!-- Circadian half-cycler -->
+
+  <CircadianHalfCycler.label>półcykl dobowy</CircadianHalfCycler.label>
+  <CircadianHalfCycler.description>Zainstalowany półcykler dobowy.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.labelNoun>półcykl dobowy</CircadianHalfCycler.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData> 
+
+  <VCEF_RawAnchovy.label>anchois</VCEF_RawAnchovy.label>
+  <VCEF_RawAnchovy.description>Surowa sardela. Mała, pospolita ryba pastewna z rodziny Engraulidae. Większość gatunków występuje w wodach morskich, ale kilka z nich dostanie się do wód słonawych, a niektóre są ograniczone do wód słodkich.</VCEF_RawAnchovy.description>
+  <VCEF_RawAnchovy.tools.0.label>anchois</VCEF_RawAnchovy.tools.0.label>
+
+  <VCEF_RawAngelfish.label>skalary</VCEF_RawAngelfish.label>
+  <VCEF_RawAngelfish.description>Surowy skalary. Skalary to kilka gatunków ryb, zarówno morskich, jak i słodkowodnych, zwykle o jasnych kolorach i głębokich, bocznie ściśniętych ciałach.</VCEF_RawAngelfish.description>
+  <VCEF_RawAngelfish.tools.0.label>skalary</VCEF_RawAngelfish.tools.0.label>
+
+  <VCEF_RawAnglerfish.label>żabnica</VCEF_RawAnglerfish.label>
+  <VCEF_RawAnglerfish.description>Surowa żabnica. Żabnica to koścista ryba nazwana ze względu na charakterystyczny sposób drapieżnictwa, w którym mięsisty wzrost z głowy ryby (esca lub illicium) działa jak przynęta na inne ryby.</VCEF_RawAnglerfish.description>
+  <VCEF_RawAnglerfish.tools.0.label>żabnica</VCEF_RawAnglerfish.tools.0.label>
+
+  <VCEF_RawBass.label>Bass</VCEF_RawBass.label>
+  <VCEF_RawBass.description>Surowy bas. Bass to nazwa wspólna dla wielu gatunków ryb. Termin obejmuje zarówno gatunki słodkowodne, jak i morskie, należące do dużego rzędu Perciformes.</VCEF_RawBass.description>
+  <VCEF_RawBass.tools.0.label>Bass</VCEF_RawBass.tools.0.label>
+
+  <VCEF_RawCatfish.label>Sum</VCEF_RawCatfish.label>
+  <VCEF_RawCatfish.description>Surowy sum. Sumy to zróżnicowana grupa ryb płetwiastych. Nazwany na cześć wydatnych zadziorów, które przypominają kocie wąsy.</VCEF_RawCatfish.description>
+  <VCEF_RawCatfish.tools.0.label>Sum</VCEF_RawCatfish.tools.0.label>
+
+  <VCEF_RawClownfish.label>błazenek</VCEF_RawClownfish.label>
+  <VCEF_RawClownfish.description>Surowe błazenki. W naturze błazenki tworzą symbiotyczne mutualizmy z ukwiałami. W zależności od gatunku, błazenki są ogólnie żółte, pomarańczowe lub czerwonawe lub czarnawe, a wiele z nich ma białe paski lub łaty.</VCEF_RawClownfish.description>
+  <VCEF_RawClownfish.tools.0.label>błazenek</VCEF_RawClownfish.tools.0.label>
+
+  <VCEF_RawCod.label>dorsz</VCEF_RawCod.label>
+  <VCEF_RawCod.description>Surowy dorsz. Dorsz to kilka dużych gatunków ryb z żarłocznym apetytem, ​​żerujących głównie na innych rybach i różnych bezkręgowcach. Dorsz od dawna uważany jest za doskonałą rybę do spożycia przez ludzi, ze swoim łuszczącym się białym miąższem, wysoką zawartością białka i niską zawartością tłuszczu.</VCEF_RawCod.description>
+  <VCEF_RawCod.tools.0.label>dorsz</VCEF_RawCod.tools.0.label>
+
+  <VCEF_RawEel.label>węgorz</VCEF_RawEel.label>
+  <VCEF_RawEel.description>Surowy węgorz. Węgorz to ryba płetwiasta należąca do rzędu Anguilliformes. Węgorze to wydłużone ryby, pozbawione płetw brzusznych, a wielu gatunkom brakuje również płetw piersiowych. Węgorze pływają, wytwarzając fale ciała, które przemieszczają się wzdłuż ich ciał.</VCEF_RawEel.description>
+  <VCEF_RawEel.tools.0.label>węgorz</VCEF_RawEel.tools.0.label>
+
+  <VCEF_RawGoldfish.label>złota Rybka</VCEF_RawGoldfish.label>
+  <VCEF_RawGoldfish.description>Surowa złota rybka. Złota rybka (Carassius auratus) to ryba słodkowodna z rodziny Cyprinidae z rzędu Cypriniformes. Jest to jedna z najczęściej hodowanych ryb akwariowych.</VCEF_RawGoldfish.description>
+  <VCEF_RawGoldfish.tools.0.label>złota Rybka</VCEF_RawGoldfish.tools.0.label>
+
+  <VCEF_RawGuppy.label>gupik</VCEF_RawGuppy.label>
+  <VCEF_RawGuppy.description>Surowy gupik. Gupik (Poecilia reticulata), znany również jako milioner i tęczówka, jest jedną z najczęściej występujących ryb tropikalnych na świecie i jednym z najpopularniejszych gatunków ryb słodkowodnych w akwariach.</VCEF_RawGuppy.description>
+  <VCEF_RawGuppy.tools.0.label>gupik</VCEF_RawGuppy.tools.0.label>
+
+  <VCEF_RawHaddock.label>plamiak</VCEF_RawHaddock.label>
+  <VCEF_RawHaddock.description>Surowy plamiak. Plamiak (Melanogrammus aeglefinus) to ryba słonowodna z rodziny Gadidae, czyli dorsza prawdziwego. Jest to ważna ryba spożywcza i jest tradycyjnie spożywana jako świeża lub wędzona.</VCEF_RawHaddock.description>
+  <VCEF_RawHaddock.tools.0.label>plamiak</VCEF_RawHaddock.tools.0.label>
+
+  <VCEF_RawHalibut.label>halibut</VCEF_RawHalibut.label>
+  <VCEF_RawHalibut.description>Surowy halibut. Halibut to potoczna nazwa stosowana głównie do dwóch płastug z rodziny storni prawostronnych. Rzadziej i tylko w niektórych regionach inne gatunki płastug są również określane jako halibuty.</VCEF_RawHalibut.description>
+  <VCEF_RawHalibut.tools.0.label>halibut</VCEF_RawHalibut.tools.0.label>
+
+  <VCEF_RawHerring.label>śledź</VCEF_RawHerring.label>
+  <VCEF_RawHerring.description>Surowy śledź. Śledzie to ryby pastewne, w większości należące do rodziny Clupeidae. Śledzie często przemieszczają się w dużych ławicach wokół łowisk i w pobliżu wybrzeża.</VCEF_RawHerring.description>
+  <VCEF_RawHerring.tools.0.label>śledź</VCEF_RawHerring.tools.0.label>
+
+  <VCEF_RawKoi.label>koi</VCEF_RawKoi.label>
+  <VCEF_RawKoi.description>Surowe koi. Koi to kolorowe odmiany karpia amurskiego (Cyprinus rubrofuscus), które są trzymane w celach dekoracyjnych w zewnętrznych stawach karpiowych lub ogrodach wodnych.</VCEF_RawKoi.description>
+  <VCEF_RawKoi.tools.0.label>koi</VCEF_RawKoi.tools.0.label>
+
+  <VCEF_RawLobster.label>Homar</VCEF_RawLobster.label>
+  <VCEF_RawLobster.description>Surowy homar. Homary to duże skorupiaki morskie. Homary mają długie ciała z muskularnymi ogonami. Trzy z ich pięciu par nóg mają pazury, w tym pierwsza para, która jest zwykle znacznie większa niż pozostałe.</VCEF_RawLobster.description>
+  <VCEF_RawLobster.tools.0.label>Homar</VCEF_RawLobster.tools.0.label>
+
+  <VCEF_RawMackerel.label>makrela</VCEF_RawMackerel.label>
+  <VCEF_RawMackerel.description>Surowa makrela. Makrela to potoczna nazwa stosowana do wielu różnych gatunków ryb pelagicznych, głównie z rodziny Scombridae. Występują zarówno w morzach umiarkowanych, jak i tropikalnych, głównie wzdłuż wybrzeża lub na morzu w środowisku oceanicznym.</VCEF_RawMackerel.description>
+  <VCEF_RawMackerel.tools.0.label>makrela</VCEF_RawMackerel.tools.0.label>
+
+  <VCEF_RawMinnow.label>rybka</VCEF_RawMinnow.label>
+  <VCEF_RawMinnow.description>Surowa rybka. Minnow to potoczna nazwa wielu gatunków małych ryb słodkowodnych należących do kilku rodzajów rodziny Cyprinidae.</VCEF_RawMinnow.description>
+  <VCEF_RawMinnow.tools.0.label>rybka</VCEF_RawMinnow.tools.0.label>
+
+  <VCEF_RawPerch.label>okoń</VCEF_RawPerch.label>
+  <VCEF_RawPerch.description>Surowy okoń. Okoń to potoczna nazwa ryb z rodzaju Perca, słodkowodnych rybowatych należących do rodziny Percidae. Okoń zawdzięcza swoją nazwę dużej grupie kręgowców: Perciformes. Wiele gatunków ryb słodkowodnych przypomina mniej więcej okonie, ale należy do różnych rodzajów.</VCEF_RawPerch.description>
+  <VCEF_RawPerch.tools.0.label>okoń</VCEF_RawPerch.tools.0.label>
+
+  <VCEF_RawPiranha.label>Pirania</VCEF_RawPiranha.label>
+  <VCEF_RawPiranha.description>Surowa pirania. Pirania to ryba słodkowodna zamieszkująca rzeki, równiny zalewowe, jeziora i zbiorniki wodne. Chociaż często opisywane są jako wyjątkowo drapieżne i żywiące się głównie rybami, ich nawyki żywieniowe znacznie się różnią i będą również przyjmować materiał roślinny, co prowadzi do ich klasyfikacji jako wszystkożerne.</VCEF_RawPiranha.description>
+  <VCEF_RawPiranha.tools.0.label>Pirania</VCEF_RawPiranha.tools.0.label>
+
+  <VCEF_RawPufferfish.label>rozdymka tygrysia</VCEF_RawPufferfish.label>
+  <VCEF_RawPufferfish.description>Surowe rozdymki. Rozdymki to rodzina głównie ryb morskich i estuaryjnych. Większość gatunków rozdymkowatych jest toksyczna, a niektóre należą do najbardziej trujących kręgowców na świecie. U niektórych gatunków narządy wewnętrzne, takie jak wątroba, a czasami ich skóra, zawierają tetrodotoksynę i są wysoce toksyczne dla większości zwierząt po spożyciu; niemniej jednak mięso niektórych gatunków jest uważane za przysmak, gdy jest przygotowywane przez specjalnie przeszkolonych kucharzy.</VCEF_RawPufferfish.description>
+  <VCEF_RawPufferfish.tools.0.label>rozdymka tygrysia</VCEF_RawPufferfish.tools.0.label>
+  
+  <VCEF_RawSalmon.label>łosoś</VCEF_RawSalmon.label>
+  <VCEF_RawSalmon.description>Surowy łosoś. Łosoś to potoczna nazwa kilku gatunków ryb płetwiastych z rodziny Salmonidae. Zazwyczaj łosoś jest anadromiczny: wylęgają się w słodkiej wodzie, migrują do oceanu, a następnie wracają do słodkiej wody, aby się rozmnażać. Jednak populacje kilku gatunków są ograniczone do świeżej wody przez całe życie.</VCEF_RawSalmon.description>
+  <VCEF_RawSalmon.tools.0.label>łosoś</VCEF_RawSalmon.tools.0.label>
+
+  <VCEF_RawSprat.label>szprot</VCEF_RawSprat.label>
+  <VCEF_RawSprat.description>Surowy szprot. Szprot to nazwa zwyczajowa stosowana dla grupy ryb pastewnych należących do rodzaju Sprattus z rodziny Clupeidae. Podobnie jak większość ryb pastewnych, szproty są bardzo aktywnymi, małymi, tłustymi rybami. Podróżują w dużych ławicach z innymi rybami i pływają przez cały dzień.</VCEF_RawSprat.description>
+  <VCEF_RawSprat.tools.0.label>szprot</VCEF_RawSprat.tools.0.label>
+
+  <VCEF_RawSwordfish.label>miecznik</VCEF_RawSwordfish.label>
+  <VCEF_RawSwordfish.description>Surowy miecznik. Miecznik, znany również jako broadbills, to duże, bardzo migrujące, drapieżne ryby charakteryzujące się długim, płaskim, spiczastym dziobem.</VCEF_RawSwordfish.description>
+  <VCEF_RawSwordfish.tools.0.label>miecznik</VCEF_RawSwordfish.tools.0.label>
+
+  <VCEF_RawTrout.label>pstrąg</VCEF_RawTrout.label>
+  <VCEF_RawTrout.description>Surowy pstrąg. Pstrąg to potoczna nazwa wielu gatunków ryb słodkowodnych. Większość gatunków pstrągów żyje wyłącznie w słodkowodnych jeziorach i rzekach, podczas gdy są inne, takie jak stalogłowiec, który może spędzić dwa lub trzy lata na morzu, zanim powróci do słodkiej wody na tarło (zwyczaj bardziej typowy dla łososia).</VCEF_RawTrout.description>
+  <VCEF_RawTrout.tools.0.label>pstrąg</VCEF_RawTrout.tools.0.label>
+
+  <VCEF_RawTuna.label>Tuńczyk</VCEF_RawTuna.label>
+  <VCEF_RawTuna.description>Surowy tuńczyk. Tuńczyk to duże ryby morskie. Aktywny i zwinny drapieżnik, tuńczyk ma smukłe, opływowe ciało i należy do najszybciej pływających ryb pelagicznych. Tuńczyk jest wysoko ceniony jako ryba spożywcza. Oprócz ich wartości handlowej jako pożywienia, wielki rozmiar, prędkość i moc, jaką wykazują jako drapieżniki wierzchołka, wzbudzają podziw rybaków, pisarzy i naukowców.</VCEF_RawTuna.description>
+  <VCEF_RawTuna.tools.0.label>Tuńczyk</VCEF_RawTuna.tools.0.label>
+
+
+</LanguageData>

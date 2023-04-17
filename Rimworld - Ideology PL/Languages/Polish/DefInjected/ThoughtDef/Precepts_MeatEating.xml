@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: Ate meat -->
+
+  <AteMeat_Abhorrent.stages.0.label>zjadłem mięso</AteMeat_Abhorrent.stages.0.label>
+  <AteMeat_Abhorrent.stages.0.description>Musiałem jeść mięso. To było odrażające pogwałcenie wszystkiego, w co wierzę.</AteMeat_Abhorrent.stages.0.description>
+
+  <AteMeat_Know_Abhorrent.stages.0.label>zjadłem mięso</AteMeat_Know_Abhorrent.stages.0.label>
+
+  <AteMeat_Horrible.stages.0.label>zjadłem mięso</AteMeat_Horrible.stages.0.label>
+  <AteMeat_Horrible.stages.0.description>Musiałem jeść mięso. To było straszne pogwałcenie moich przekonań.</AteMeat_Horrible.stages.0.description>
+
+  <AteMeat_Know_Horrible.stages.0.label>zjadłem mięso</AteMeat_Know_Horrible.stages.0.label>
+
+  <AteMeat_Disapproved.stages.0.label>zjadłem mięso</AteMeat_Disapproved.stages.0.label>
+  <AteMeat_Disapproved.stages.0.description>Musiałem jeść mięso. To nie jest coś, co aprobuję.</AteMeat_Disapproved.stages.0.description>
+
+  <AteMeat_Know_Disapproved.stages.0.label>zjadłem mięso</AteMeat_Know_Disapproved.stages.0.label>
+
+
+  <!-- Thoughts: Ate non-meat -->
+
+  <AteNonMeat_Abhorrent.stages.0.label>zjadłem niemięso</AteNonMeat_Abhorrent.stages.0.label>
+  <AteNonMeat_Abhorrent.stages.0.description>Musiałem jeść niemięsne jedzenie. To było odrażające pogwałcenie właściwej diety mięsożerców.</AteNonMeat_Abhorrent.stages.0.description>
+
+  <AteNonMeat_Know_Abhorrent.stages.0.label>zjadłem niemięso</AteNonMeat_Know_Abhorrent.stages.0.label>
+
+  <AteNonMeat_Horrible.stages.0.label>zjadłem niemięso</AteNonMeat_Horrible.stages.0.label>
+  <AteNonMeat_Horrible.stages.0.description>Musiałem jeść niemięsne jedzenie. To było straszne naruszenie prawidłowej diety mięsożerców.</AteNonMeat_Horrible.stages.0.description>
+
+  <AteNonMeat_Know_Horrible.stages.0.label>zjadłem niemięso</AteNonMeat_Know_Horrible.stages.0.label>
+
+  <AteNonMeat_Disapproved.stages.0.label>zjadłem niemięso</AteNonMeat_Disapproved.stages.0.label>
+  <AteNonMeat_Disapproved.stages.0.description>Musiałem jeść niemięsne jedzenie. Było to niedopuszczalne odstępstwo od właściwej diety mięsożernej.</AteNonMeat_Disapproved.stages.0.description>
+
+  <AteNonMeat_Know_Disapproved.stages.0.label>zjadłem niemięso</AteNonMeat_Know_Disapproved.stages.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ancient security turret -->
+
+  <VFEA_Turret_AncientSecurityTurret.label>starożytna wieża bezpieczeństwa</VFEA_Turret_AncientSecurityTurret.label>
+  <VFEA_Turret_AncientSecurityTurret.description>Przenośna automatyczna wieżyczka. Podstawowe w kształcie i formie, ale niewiarygodnie użyteczne.</VFEA_Turret_AncientSecurityTurret.description>
+
+  <VFEA_Bullet_AncientSecurityTurret.label>starożytna kula wieży bezpieczeństwa</VFEA_Bullet_AncientSecurityTurret.label>
+
+  <VFEA_Gun_AncientSecurityTurret.label>starożytny pistolet wieżyczki bezpieczeństwa</VFEA_Gun_AncientSecurityTurret.label>
+  <VFEA_Gun_AncientSecurityTurret.description>Bardzo niezawodne automatyczne działo przeznaczone do zamontowania na wieży.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_Gun_AncientSecurityTurret.description>
+
+
+  <!-- Ancient Point Defense Turret -->
+
+  <VFEA_Turret_AncientPointDefense.label>starożytna wieża obrony punktowej</VFEA_Turret_AncientPointDefense.label>
+  <VFEA_Turret_AncientPointDefense.description>Duża wieża często używana do obrony starożytnych kompleksów. Używa dwóch minigunów, aby szybko pozbyć się wrogów i wybuchowych pocisków.\n\nTa struktura została zbudowana przez dawno zapomnianą cywilizację i nie można już replikować tej technologii. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_Turret_AncientPointDefense.description>
+
+  <VFEA_Bullet_AncientPointDefenseTurret.label>starożytna kula z wieżyczką obrony punktowej</VFEA_Bullet_AncientPointDefenseTurret.label>
+
+  <VFEA_Gun_AncientPointDefenseTurret.label>starożytna wieża obrony punktowej</VFEA_Gun_AncientPointDefenseTurret.label>
+  <VFEA_Gun_AncientPointDefenseTurret.description>Zestaw minigunów, które można przyczepić do wieży.</VFEA_Gun_AncientPointDefenseTurret.description>
+  <VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>punkt ochrony</VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>
+
+
+</LanguageData>

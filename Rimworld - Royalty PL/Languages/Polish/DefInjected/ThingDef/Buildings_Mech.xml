@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unstable power cell -->
+
+  <UnstablePowerCell.label>niestabilne ogniwo zasilające</UnstablePowerCell.label>
+  <UnstablePowerCell.description>Mechanoidalny agregat prądotwórczy. Wanometryczny rdzeń zasilający będzie działał bez końca, pobierając energię z fluktuacji pianki kwantowej.\n\nWewnętrzny system wzmacniacza sprawia, że ​​jest niestabilny. W przypadku uszkodzenia jednostka wygeneruje potężną eksplozję.\n\nNiektórzy odważni ludzie kradną je z mechanoidów na własny użytek jako elektrownie lub bomby obronne. Jednak niezamierzona detonacja może być katastrofalna.</UnstablePowerCell.description>
+
+
+  <!-- gloomlight -->
+
+  <Gloomlight.label>Światło mroku</Gloomlight.label>
+  <Gloomlight.description>Mechanoidalne światło z własnym zasilaniem. Mroczne światła można rozłożyć, aby uzyskać cenne zasoby, lub wykorzystać jako światła - ale tylko wtedy, gdy zostaną przechwycone w stanie nienaruszonym. Wewnętrzna mikroogniwa zapali się i zniszczy materiały, jeśli urządzenie zostanie zbytnio uszkodzone.</Gloomlight.description>
+
+
+  <!-- Defoliator -->
+
+  <Defoliator.label>defoliator</Defoliator.label>
+  <Defoliator.description>Urządzenie blokujące obszar, które unicestwia pobliskie rośliny bez wpływu na zwierzęta.\n\nW wojnach planetarnych ta broń jest rozrzucana po polach uprawnych lub dżunglach, by uniemożliwić wrogiemu jedzenie lub osłonę. Zwykle są kojarzone z rojami mechanoidów opadających na orbitę.</Defoliator.description>
+
+
+</LanguageData>

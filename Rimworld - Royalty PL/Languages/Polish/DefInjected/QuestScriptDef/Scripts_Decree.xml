@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Decree_ProduceItem.questNameRules.rulesStrings.0>questName-&gt;[defToProduce_label] production decree</Decree_ProduceItem.questNameRules.rulesStrings.0>
+  <Decree_ProduceItem.questDescriptionRules.rulesStrings.0>questDescription-&gt;[decreeIntro]
+\nYou must produce:
+\n - [thingToProduceLabel]
+\n[decreeThreatInfo]</Decree_ProduceItem.questDescriptionRules.rulesStrings.0>
+  <Decree_ProduceItem.root.nodes.1.name>decreeDays</Decree_ProduceItem.root.nodes.1.name>
+
+  <Decree_HarvestCrop.questNameRules.rulesStrings.0>questName-&gt;[plantToHarvest_label] harvest decree</Decree_HarvestCrop.questNameRules.rulesStrings.0>
+  <Decree_HarvestCrop.questDescriptionRules.rulesStrings.0>questDescription-&gt;[decreeIntro]
+\nYou must harvest [plantToHarvest_label] x[harvestItemCount].
+\nYou may need to plant and grow the [plantToHarvest_label] first.
+\n[decreeThreatInfo]</Decree_HarvestCrop.questDescriptionRules.rulesStrings.0>
+  <Decree_HarvestCrop.root.nodes.2.name>decreeDays</Decree_HarvestCrop.root.nodes.2.name>
+
+  <Decree_HuntAnimal.questNameRules.rulesStrings.0>questName-&gt;[animalToHunt_label] hunting decree</Decree_HuntAnimal.questNameRules.rulesStrings.0>
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings.0>questDescription-&gt;[decreeIntro]
+\nYou must hunt or slaughter [animalToHuntWithCount].
+\n[decreeThreatInfo]</Decree_HuntAnimal.questDescriptionRules.rulesStrings.0>
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings.1>animalToHuntWithCount(countToHunt==1)-&gt;[animalToHunt_indefinite]</Decree_HuntAnimal.questDescriptionRules.rulesStrings.1>
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings.2>animalToHuntWithCount(countToHunt!=1)-&gt;[countToHunt] [animalToHunt_labelPlural]</Decree_HuntAnimal.questDescriptionRules.rulesStrings.2>
+  <Decree_HuntAnimal.root.nodes.1.name>decreeDays</Decree_HuntAnimal.root.nodes.1.name>
+
+  <Decree_BuildMonument.questNameRules.rulesStrings.0>questName-&gt;monument decree</Decree_BuildMonument.questNameRules.rulesStrings.0>
+  <Decree_BuildMonument.questDescriptionRules.rulesStrings.0>questDescription-&gt;[decreeIntro]
+\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):
+\n[monumentRequiredResources]
+\n[decreeThreatInfo]
+\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</Decree_BuildMonument.questDescriptionRules.rulesStrings.0>
+  <Decree_BuildMonument.root.nodes.3.name>decreeDays</Decree_BuildMonument.root.nodes.3.name>
+  <Decree_BuildMonument.root.nodes.12.name>thingsToDrop</Decree_BuildMonument.root.nodes.12.name>
+  <Decree_BuildMonument.root.nodes.15.node.nodes.1.label>New monument marker arrived</Decree_BuildMonument.root.nodes.15.node.nodes.1.label>
+  <Decree_BuildMonument.root.nodes.15.node.nodes.1.text>Since the monument marker has been destroyed, a new one has been sent.</Decree_BuildMonument.root.nodes.15.node.nodes.1.text>
+  <Decree_BuildMonument.root.nodes.16.node.nodes.2.label>Monument completed</Decree_BuildMonument.root.nodes.16.node.nodes.2.label>
+  <Decree_BuildMonument.root.nodes.16.node.nodes.2.text>You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased.</Decree_BuildMonument.root.nodes.16.node.nodes.2.text>
+  <Decree_BuildMonument.root.nodes.16.node.nodes.3.node.nodes.0.text>[asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this.</Decree_BuildMonument.root.nodes.16.node.nodes.3.node.nodes.0.text>
+  <Decree_BuildMonument.root.nodes.16.node.nodes.3.node.nodes.0.label>Monument destroyed</Decree_BuildMonument.root.nodes.16.node.nodes.3.node.nodes.0.label>
+
+
+</LanguageData>

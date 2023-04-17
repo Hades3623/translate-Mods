@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_SodaFountain.label>fontanna sodowa</VBE_SodaFountain.label>
+  <VBE_SodaFountain.description>Kompleksowa jednostka do produkcji sody. Syrop jest dokładnie mieszany z wodą, gazowany, a następnie głęboko schłodzony przed rozlaniem do wysterylizowanych butelek.</VBE_SodaFountain.description>
+
+  <VBE_AmbrandyDistillery.label>gorzelnia ambrandy</VBE_AmbrandyDistillery.label>
+  <VBE_AmbrandyDistillery.description>Pozłacana destylarnia o bardzo delikatnym rzemiośle przeznaczona do leżakowania ambrozji w zdatnej do picia formie.</VBE_AmbrandyDistillery.description>
+
+  <VBE_WhiskeyCask.label>beczka whisky</VBE_WhiskeyCask.label>
+  <VBE_WhiskeyCask.description>Ogromna beczka przeznaczona do starzenia dużej ilości whisky naraz. Do mieszanki nadawane są naturalne, drzewne aromaty, ponieważ beczka sama wchłania część płynu podczas procesu fermentacji. Każde światło słoneczne padające na beczkę może spowolnić proces fermentacji, a nawet zrujnować całą partię.</VBE_WhiskeyCask.description>
+
+  <VBE_TequilaBarrel.label>beczka tequili</VBE_TequilaBarrel.label>
+  <VBE_TequilaBarrel.description>Niewielki agregat chłodniczy i fermentor, idealny do przechowywania za ladą ciepłego salonu, ale nie radzi sobie zbyt dobrze w deszczu.</VBE_TequilaBarrel.description>
+
+  <VBE_VodkaDrum.label>beczka na wódkę</VBE_VodkaDrum.label>
+  <VBE_VodkaDrum.description>Tani pojemnik przeznaczony do przechowywania wody, zmodernizowany tak, aby był hermetyczny do krótkotrwałej fermentacji.</VBE_VodkaDrum.description>
+
+  <VBE_GinStill.label>Gin Still</VBE_GinStill.label>
+  <VBE_GinStill.description>W pełni metalowe destylatory przemysłowe, przeznaczone do oczyszczania i fermentacji dżinu do postaci nadającej się do picia. Metaliczna konstrukcja oznacza, że ​​starzenie jest możliwe w szerokim zakresie temperatur i warunków.</VBE_GinStill.description>
+
+
+</LanguageData>

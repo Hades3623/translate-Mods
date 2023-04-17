@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neurocalculator -->
+
+  <InstallNeurocalculator.label>zainstaluj neurokalkulator</InstallNeurocalculator.label>
+  <InstallNeurocalculator.description>Zainstaluj neurokalkulator.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>Instalowanie neurokalkulatora.</InstallNeurocalculator.jobString>
+
+  <RemoveNeurocalculator.label>usuń neurokalkulator</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.description>Usuń neurokalkulator.</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.jobString>Usuwanie neurokalkulatora.</RemoveNeurocalculator.jobString>
+
+
+  <!-- Learning assistant -->
+
+  <InstallLearningAssistant.label>zainstaluj asystenta nauki</InstallLearningAssistant.label>
+  <InstallLearningAssistant.description>Zainstaluj asystenta nauki.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>Instalowanie asystenta nauki.</InstallLearningAssistant.jobString>
+
+  <RemoveLearningAssistant.label>usuń asystenta nauki</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.description>Usuń asystenta nauki.</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.jobString>Usuwam asystenta nauki.</RemoveLearningAssistant.jobString>
+
+
+  <!-- Gastro-analyzer -->
+
+  <InstallGastroAnalyzer.label>zainstaluj gastroanalizator</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.description>Zainstaluj gastroanalizator.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>Instalacja gastroanalizatora.</InstallGastroAnalyzer.jobString>
+
+  <RemoveGastroAnalyzer.label>usuń gastroanalizator</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.description>Wyjmij gastroanalizator.</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.jobString>Usuwanie gastroanalizatora.</RemoveGastroAnalyzer.jobString>
+
+
+  <!-- Immunoenhancer -->
+
+  <InstallImmunoenhancer.label>zainstaluj wzmacniacz odporności</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.description>Zainstaluj wzmacniacz odporności.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>Instalowanie wzmacniacza odporności.</InstallImmunoenhancer.jobString>
+
+  <RemoveImmunoenhancer.label>usuń wzmacniacz odporności</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.description>Usuń wzmacniacz odporności.</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.jobString>Usuwanie wzmacniacza odporności.</RemoveImmunoenhancer.jobString>
+
+
+  <!-- Coagulator -->
+
+  <InstallCoagulator.label>zainstalować koagulator</InstallCoagulator.label>
+  <InstallCoagulator.description>Zainstaluj koagulator.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>Instalowanie koagulatora.</InstallCoagulator.jobString>
+
+  <RemoveCoagulator.label>usuń koagulator</RemoveCoagulator.label>
+  <RemoveCoagulator.description>Usuń koagulator.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>Usuwanie koagulatora.</RemoveCoagulator.jobString>
+
+
+  <!-- Healing enhancer -->
+
+  <InstallHealingEnhancer.label>zainstaluj wzmacniacz leczenia</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.description>Zainstaluj wzmacniacz leczenia.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>Instalowanie wzmacniacza leczenia.</InstallHealingEnhancer.jobString>
+
+  <RemoveHealingEnhancer.label>usuń wzmacniacz leczenia</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.description>Usuń wzmacniacz leczenia.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.jobString>Usunięcie wzmacniacza leczenia.</RemoveHealingEnhancer.jobString>
+
+
+  <!-- Toughskin gland -->
+
+  <InstallToughskinGland.label>zainstaluj gruczoł twardej skóry</InstallToughskinGland.label>
+  <InstallToughskinGland.description>Zainstaluj gruczoł twardej skóry.</InstallToughskinGland.description>
+  <InstallToughskinGland.jobString>Instalowanie gruczoł twardej skóry.</InstallToughskinGland.jobString>
+
+  <RemoveToughskinGland.label>usuń gruczoł twardej skóry</RemoveToughskinGland.label>
+  <RemoveToughskinGland.description>Usuń gruczoł twardej skóry.</RemoveToughskinGland.description>
+  <RemoveToughskinGland.jobString>Usunięcie gruczoł twardej skóry.</RemoveToughskinGland.jobString>
+
+
+  <!-- Armorskin gland -->
+
+  <InstallArmorskinGland.label>zainstaluj gruczoł zbroi,</InstallArmorskinGland.label>
+  <InstallArmorskinGland.description>Zainstaluj gruczoł zbroi.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.jobString>Instalowanie gruczołu zbroi.</InstallArmorskinGland.jobString>
+
+  <RemoveArmorskinGland.label>usuń gruczoł zbroi</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.description>Usuń gruczoł zbroi.</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.jobString>Usunięcie gruczołu zbroi.</RemoveArmorskinGland.jobString>
+
+
+  <!-- Stoneskin gland -->
+
+  <InstallStoneskinGland.label>zainstaluj gruczoł kamiennoskóry</InstallStoneskinGland.label>
+  <InstallStoneskinGland.description>Zainstaluj gruczoł kamiennoskóry.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.jobString>Instalowanie gruczołu kamiennoskóry.</InstallStoneskinGland.jobString>
+
+  <RemoveStoneskinGland.label>usuń gruczoł kamiennoskóry</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.description>Usuń gruczoł kamiennoskóry.</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.jobString>Usuwanie gruczołu kamiennoskórego.</RemoveStoneskinGland.jobString>
+
+
+  <!-- Aesthetic shaper -->
+
+  <InstallAestheticShaper.label>zainstaluj estetyczny kształtownik</InstallAestheticShaper.label>
+  <InstallAestheticShaper.description>Zainstaluj estetyczny kształtownik.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>Instalowanie estetycznego kształtownika.</InstallAestheticShaper.jobString>
+
+  <RemoveAestheticShaper.label>usuń estetyczny kształtownik</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.description>Usuń estetyczny kształtownik.</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.jobString>Usunięcie estetycznego kształtownika.</RemoveAestheticShaper.jobString>
+
+
+  <!-- Aesthetic nose -->
+
+  <InstallAestheticNose.label>zainstaluj estetyczny nos</InstallAestheticNose.label>
+  <InstallAestheticNose.description>Zainstaluj estetyczny nos.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>Montaż estetycznego nosa.</InstallAestheticNose.jobString>
+
+  <RemoveAestheticNose.label>usuń estetyczny nos</RemoveAestheticNose.label>
+  <RemoveAestheticNose.description>Usuń estetyczny nos.</RemoveAestheticNose.description>
+  <RemoveAestheticNose.jobString>Usunięcie estetycznego nosa.</RemoveAestheticNose.jobString>
+
+
+  <!-- Love enhancer -->
+
+  <InstallLoveEnhancer.label>zainstaluj wzmacniacz miłości</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.description>Zainstaluj wzmacniacz miłości.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>Instalowanie wzmacniacza miłości.</InstallLoveEnhancer.jobString>
+
+  <RemoveLoveEnhancer.label>usuń wzmacniacz miłości</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.description>Usuń wzmacniacz miłości.</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.jobString>Usuwanie wzmacniacza miłości.</RemoveLoveEnhancer.jobString>
+
+
+  <!-- Detoxifier stomach -->
+
+  <InstallDetoxifierStomach.label>zainstaluj żołądek odtruwający</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.description>Zainstaluj żołądek odtruwający.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.jobString>Instalacja odtruwającego żołądka.</InstallDetoxifierStomach.jobString>
+
+
+  <!-- Reprocessor stomach -->
+
+  <InstallReprocessorStomach.label>zainstaluj żołądek reprocesora</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.description>Zainstaluj żołądek reprocesora.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.jobString>Instalowanie reprocesora żołądka.</InstallReprocessorStomach.jobString>
+
+
+  <!-- Nuclear stomach -->
+
+  <InstallNuclearStomach.label>zainstaluj żołądek jądrowy</InstallNuclearStomach.label>
+  <InstallNuclearStomach.description>Zainstaluj żołądek jądrowy.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.jobString>Instalacja żołądka jądrowego.</InstallNuclearStomach.jobString>
+
+
+  <!-- Circadian assistant -->
+
+  <InstallCircadianAssistant.label>zainstaluj asystenta dobowego</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.description>Zainstaluj asystenta dobowego.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>Instalowanie asystenta dobowego.</InstallCircadianAssistant.jobString>
+
+  <RemoveCircadianAssistant.label>usuń asystenta dobowego</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.description>Usuń asystenta dobowego.</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.jobString>Usunięcie asystenta dobowego.</RemoveCircadianAssistant.jobString>
+
+
+  <!-- Circadian half-cycler -->
+
+  <InstallCircadianHalfCycler.label>zainstaluj półcykler dobowy</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.description>Zainstaluj półcykler dobowy.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>Instalowanie półcyklera dobowego.</InstallCircadianHalfCycler.jobString>
+
+  <RemoveCircadianHalfCycler.label>usuń półcykler dobowy</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.description>Usuń półcykler dobowy.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.jobString>Usuwanie półcyklera dobowego.</RemoveCircadianHalfCycler.jobString>
+
+
+</LanguageData>

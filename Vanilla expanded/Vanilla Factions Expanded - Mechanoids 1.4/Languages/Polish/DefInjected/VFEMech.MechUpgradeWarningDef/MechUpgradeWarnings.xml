@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <firstWarning.label>Ostrzeżenie o aktualizacji mechanoidów</firstWarning.label>
+  <firstWarning.description>Mechanoidy są bliskie uzyskania masy krytycznej, zanim otrzymają aktualizację sprzętu. Zniszcz ich statki, aby ich powstrzymać.</firstWarning.description>
+
+  <secondWarning.label>Zbliża się aktualizacja mechanoidów</secondWarning.label>
+  <secondWarning.description>Jeśli nie zniszczysz ich statków, mechanoidy wkrótce osiągną masę krytyczną i otrzymają ulepszenie sprzętu.</secondWarning.description>
+
+  <thirdWarning.label>Ulepszenie mechanoidy zakończone</thirdWarning.label>
+  <thirdWarning.description>Mechanizmy uzyskały masę krytyczną i otrzymały ulepszenie sprzętowe. Zniszcz statki mechanoidów, aby zmniejszyć ich obecność.</thirdWarning.description>
+
+
+</LanguageData>

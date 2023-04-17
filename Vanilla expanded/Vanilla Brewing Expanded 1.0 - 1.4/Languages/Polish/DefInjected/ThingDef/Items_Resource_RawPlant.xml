@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_RawCoffee.label>ziarna kawy</VBE_RawCoffee.label>
+  <VBE_RawCoffee.description>Kawałki jagód kawowca, zwanych zwięźle „ziarnami kawy”. Można je palić, aby wydobyć mocny i gorzki smak, a także naturalną kofeinę.</VBE_RawCoffee.description>
+
+  <VBE_RawTea.label>liście herbaty</VBE_RawTea.label>
+  <VBE_RawTea.description>Liście krzewu herbacianego. Można je gotować na różne ziemiste i kojące napoje.</VBE_RawTea.description>
+
+  <VBE_RawTobacco.label>liście tytoniu</VBE_RawTobacco.label>
+  <VBE_RawTobacco.description>Liście tytoniu. Liście tytoniu można dość łatwo suszyć, a następnie zwijać i palić, zapewniając łagodny efekt stymulujący.</VBE_RawTobacco.description>
+
+
+</LanguageData>

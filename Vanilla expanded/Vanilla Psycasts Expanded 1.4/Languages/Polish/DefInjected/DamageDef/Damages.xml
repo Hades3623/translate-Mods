@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_NeuralHeatBlast.label>neuronalny podmuch ciepła</VPE_NeuralHeatBlast.label>
+
+  <VPE_Rot.label>gnić</VPE_Rot.label>
+  <VPE_Rot.deathMessage>{0} zgnił na śmierć.</VPE_Rot.deathMessage>
+
+
+</LanguageData>

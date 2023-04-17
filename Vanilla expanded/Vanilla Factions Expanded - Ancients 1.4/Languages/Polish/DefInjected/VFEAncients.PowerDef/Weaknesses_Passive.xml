@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prideful.label>dumny</Prideful.label>
+  <Prideful.description>Podmiot rozwinął prawdopodobnie niesłuszne poczucie dumy z powodu swojej terapii genowej i nie znosi dobrze odrzucenia, czasami gwałtownie. Odrzucenie może wywołać stan psychiczny mordercy wbrew interesom miłosnym.</Prideful.description>
+
+  <Bloodlust.label>żądza krwi</Bloodlust.label>
+  <Bloodlust.description>Gruczoły hormonalne podmiotu stały się nadwrażliwe, a spowodowanie śmierci kogoś powoduje ogromny wzrost dopaminy i sprawia, że ​​czuje się niesamowicie przyjemnie, skutecznie uzależniając się od morderstwa. To z kolei może doprowadzić do tego, że jedno zabójstwo stanie się długim łańcuchem rzezi wywołanej wściekłością.</Bloodlust.description>
+
+  <Paranoid.label>paranoidalny</Paranoid.label>
+  <Paranoid.description>Podmiot rozwinął ogromny przypadek tęsknoty za domem i czuje się bezpiecznie tylko wtedy, gdy znajduje się w tym, co uważa za dom.</Paranoid.description>
+
+  <Audacious.label>zuchwały</Audacious.label>
+  <Audacious.description>Podmiot rozwinął całkowite lekceważenie wszelkich autorytetów poza własnym i będzie robił tylko to, co chce.</Audacious.description>
+
+  <Callous.label>stwardniały</Callous.label>
+  <Callous.description>Temat stał się bezduszny i lekceważy świętość życia, mordując dawnych kolegów czy nawet przyjacielskie przekomarzanie się. Dopóki mają gdzie usiąść, nie obchodzi ich to.</Callous.description>
+
+  <Immature.label>niedojrzały</Immature.label>
+  <Immature.description>Podmiot stracił kilka metod wyrażania swoich emocji, potrafił przekazać swój punkt widzenia jedynie poprzez napady złości.</Immature.description>
+
+  <EasilyBored.label>łatwo nudzi</EasilyBored.label>
+  <EasilyBored.description>Funkcje poznawcze podmiotu stały się nadmiernie rozwinięte i wymagają dwukrotnie szybszej stymulacji rekreacyjnej, aby opóźnić paraliżującą umysł nudę.</EasilyBored.description>
+
+  <EasilyEnraged.label>łatwo wściekły</EasilyEnraged.label>
+  <EasilyEnraged.description>Podmiot rozwinął prawdopodobnie niesłuszne poczucie dumy z powodu swojej terapii genowej i nie znosi dobrze krytyki, powodując, że za każdym razem, gdy zostanie zlekceważony, wpada w psychotyczną wściekłość.</EasilyEnraged.description>
+
+  <Sickly.label>chorowity</Sickly.label>
+  <Sickly.description>Odpowiedź immunologiczna osobnika została zrujnowana, co wymaga częstych wizyt u lekarza, ponieważ stale zapadają na nowe choroby, tak jak wyzdrowieli z poprzedniej.</Sickly.description>
+
+  <Zealot.label>gorliwiec</Zealot.label>
+  <Zealot.description>Podmiot rozwinął intensywny stan gorliwości, że wszyscy, którzy są wbrew woli kolonii, nie zasługują na życie.</Zealot.description>
+
+  <Lustful.label>niemiły</Lustful.label>
+  <Lustful.description>Produkcja hormonów przez podmiot weszła w nadmierną dynamikę, powodując, że nieustannie wygłaszają odrażające uwagi lub gesty i generują złą relacje między nimi a kolegami.</Lustful.description>
+
+  <Hallucinations.label>halucynacje</Hallucinations.label>
+  <Hallucinations.description>Podmiot regularnie cierpi na halucynacje słuchowe i wzrokowe, całkowicie przekonany, że widzi coś, czego nie ma. Czasami próbuje je zabić, strzelając do nich z broni.</Hallucinations.description>
+
+
+</LanguageData>

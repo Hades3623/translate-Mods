@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_GinHigh.label>wysoki gin</VBE_GinHigh.label>
+  <VBE_GinHigh.description>Wypiłem trochę ginu. Zwiększa wpływ społeczny.</VBE_GinHigh.description>
+  <VBE_GinHigh.stages.0.label>ciepło</VBE_GinHigh.stages.0.label>
+  <VBE_GinHigh.stages.1.label>nietrzeźwy</VBE_GinHigh.stages.1.label>
+  <VBE_GinHigh.stages.2.label>pijany</VBE_GinHigh.stages.2.label>
+  <VBE_GinHigh.stages.3.label>wbity</VBE_GinHigh.stages.3.label>
+  <VBE_GinHigh.stages.4.label>zaciemnienie</VBE_GinHigh.stages.4.label>
+  <VBE_GinHigh.labelNoun>wysoki gin</VBE_GinHigh.labelNoun>
+
+
+</LanguageData>

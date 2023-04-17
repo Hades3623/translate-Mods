@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SteelConstruct.label>konstrukcja stalowa</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.description>Kawałek stalowego żużla, ożywiony potężną energią psychiczną. Zaangażuje się w pobliskie zagrożenia i obroni mistrza przed wszelkimi krzywdami, jakie mogą go spotkać.\n&lt;color=#E5E54C&gt;Efekt w grze:&lt;/color&gt;Konstrukty generują ciągłe ciepło dla przywoływanego przez siebie castera. Utrzymywanie przy życiu zbyt wielu konstruktów może uniemożliwić Psychocasterowi rzucanie innych zdolności.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.tools.0.label>głowa</VPE_SteelConstruct.tools.0.label>
+
+
+  <!-- Rock -->
+
+  <VPE_RockConstruct.label>konstrukcja skalna</VPE_RockConstruct.label>
+  <VPE_RockConstruct.description>Kawałek skalnego chrzęstu, ożywiony potężną energią psychiczną. Będzie wykonywał proste prace wokół kolonii niestrudzenie i z maksymalnym poświęceniem.\n&lt;color=#E5E54C&gt;Efekt w grze:&lt;/color&gt;Konstrukty generują ciągłe ciepło dla casterów, którzy je przywołali. Utrzymywanie przy życiu zbyt wielu konstruktów może uniemożliwić Psychocasterowi rzucanie innych umiejętności.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.tools.0.label>głowa</VPE_RockConstruct.tools.0.label>
+
+
+</LanguageData>

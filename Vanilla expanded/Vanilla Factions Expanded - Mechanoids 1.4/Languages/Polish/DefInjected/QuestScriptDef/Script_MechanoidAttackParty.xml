@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.0>
+  questName-&gt; Ratowanie ludzi z [asker_faction_name]
+  </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.1>
+  questName-&gt; Mechanoidy oblężenie [asker_faction_name]
+  </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.2>
+  questName-&gt; [asker_faction_name] Under Siege
+  </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.3>
+  questName-&gt; [asker_faction_name] Atakowany
+  </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings.0>
+  questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] z [asker_faction_name], mówi, że placówka [asker_possessive] jest atakowana przez mechanoidy.
+\n [asker_nameDef] nie ma nikogo, kto mógłby im pomóc, ale mówi, że jeśli uda ci się dotrzeć do placówki na czas, ludzie, których uratujesz, będą mogli dołączyć do ciebie. \n\n Możesz spodziewać się znacznej przewagi liczebnej obrońców.
+</VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.7.node.name>
+  siteThreatChance
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.7.node.name>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.7.elseNode.name>
+  siteThreatChance
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.7.elseNode.name>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.label>
+  Misja wygasła: [resolvedQuestName]
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.text>
+  Posterunek padł ofiarą ataku mechanoidów. Zadanie [resolvedQuestName] wygasło.
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.label>
+  Pokonane mechanoidy
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.text>
+  Wszystkie mechanoidy w okolicy zostały pokonane.
+  </VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.text>
+
+
+</LanguageData>

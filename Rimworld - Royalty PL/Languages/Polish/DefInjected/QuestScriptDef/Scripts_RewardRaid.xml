@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>questName-&gt;[enemyFaction_pawnsPlural] of Fortune</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.0>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>questName-&gt;[violence] of Fortune</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.1>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>questName-&gt;[violence] for Hire</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.2>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>questName-&gt;[violence] for Profit</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.3>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>questName-&gt;Rewarded [violence]</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.4>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>questName-&gt;Paid [violence]</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.5>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>questName-&gt;Compensated [violence]</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.6>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>questName(reward==royalFavor)-&gt;[enemyFaction_pawnsPlural] for Favor</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.7>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>questName(reward==royalFavor)-&gt;[violence] for Favor</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.8>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>violence-&gt;Violence</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.9>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>violence-&gt;Battle</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.10>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>violence-&gt;Combat</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.11>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>violence-&gt;War</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.12>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>violence-&gt;Fighting</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.13>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>violence-&gt;Bloodshed</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.14>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>violence-&gt;Attack</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.15>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>violence-&gt;Defense</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.16>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>violence-&gt;Conflict</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.17>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>violence-&gt;Hostility</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.18>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>violence-&gt;Warfare</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings.19>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], wants you to help save one of [asker_possessive] caravans. The caravan is being hunted near [map_definite] by (*Threat)[numGroupsOf] [enemyFaction_pawnsPlural](/Threat) from [enemyFaction_name]. [asker_nameDef] wants you to signal the [enemyFaction_pawnsPlural] to draw them away from the caravan - and towards you.[endingCommon]</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.0>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request of you.
+\n(*Threat)[groupsOf](/Threat) from [enemyFaction_name] have been harassing [asker_possessive] caravans in the area. [asker_nameDef] asks that you send them a challenge message, attracting them to attack and eliminating the threat yourself.[endingCommon]</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.1>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>groupsOf(raidCount==1,priority=1)-&gt;[enemyFaction_pawnsPlural]</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.2>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>groupsOf-&gt;[numGroupsOf] [enemyFaction_pawnsPlural]</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.3>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>endingCommon(helpersCount==0)-&gt;\n\n[pawnKindsParagraph]\n\nIf you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.4>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>endingCommon(helpersCount&gt;=1)-&gt;\n\n[pawnKindsParagraph][helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings.5>
+  <ThreatReward_Raid_MiscReward.root.nodes.6.name>firstRaidDelayTicks</ThreatReward_Raid_MiscReward.root.nodes.6.name>
+
+
+</LanguageData>

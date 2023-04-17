@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_EnchantQuality.label>popraw jakość</VPE_EnchantQuality.label>
+  <VPE_EnchantQuality.description>Rzucający koncentruje się na przedmiocie i stara się poprawić jego jakość poprzez nieznaczne przekształcenie materiału, ale nie może naśladować pracy mistrza.</VPE_EnchantQuality.description>
+
+  <VPE_Mend.label>naprawa przedmiotu</VPE_Mend.label>
+  <VPE_Mend.description>Rzucający koncentruje się na przedmiocie i próbuje naprawić obecne uszkodzenia poprzez ponowne wiązanie materiału, przy czym efekt skaluje się wraz z jego wrażliwością psychiczną.</VPE_Mend.description>
+
+  <VPE_ConjureHeatPearls.label>wyczarować perły ciepła</VPE_ConjureHeatPearls.label>
+  <VPE_ConjureHeatPearls.description>Zamienia minimalną ilość ciepła rzucającego na metafizyczne perły. Można nimi rzucić na innych psychoterapeutów, aby wywołać na nich ogromne ilości ciepła, ale poza tym są nieszkodliwe.</VPE_ConjureHeatPearls.description>
+
+  <VPE_Haywire.label>pogmatwanie IFF</VPE_Haywire.label>
+  <VPE_Haywire.description>Wyznacza obszar doświadczania zakłóceń psychicznych, skutecznie mieszając IFF systemów elektronicznych, jednocześnie identyfikując ludzi rzucającego jako sojuszników. Skala czasu trwania z wrażliwością psychiczną.</VPE_Haywire.description>
+
+  <VPE_Power.label>moc</VPE_Power.label>
+  <VPE_Power.description>Metafizycznie zmienia pobór mocy wyznaczonego sprzętu, aby przez kilka dni wydobywać energię bezpośrednio z fluktuacji piany kwantowej. Skala czasu trwania z wrażliwością psychiczną.</VPE_Power.description>
+
+  <VPE_RockConstruct.label>konstrukcja skalna</VPE_RockConstruct.label>
+  <VPE_RockConstruct.description>Przekształca minimalną ilość pojemności cieplnej rzucającego w metafizyczne kryształy, które można wszczepić w bryłę kamienia. Ta nowa skalna konstrukcja jest w stanie wykonywać proste prace domowe, a rozbicie kryształu umożliwia przywrócenie pojemności cieplnej.</VPE_RockConstruct.description>
+
+  <VPE_SteelConstruct.label>konstrukcja stalowa</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.description>Przekształca minimalną ilość pojemności cieplnej rzucającego w metafizyczne kryształy, które można wszczepić w stal. Ten nowy stalowy konstrukt będzie podążał za rzucającym i chronił go przed obrażeniami, a rozbicie kryształu pozwala przywrócić pojemność cieplną.</VPE_SteelConstruct.description>
+
+  <VPE_CraftPsyRing.label>rzemieślniczy psyring</VPE_CraftPsyRing.label>
+  <VPE_CraftPsyRing.description>Psychicznie zmienia formę kawałka eltexu w kształt pierścienia, który jest nasycony psychocastową wiedzą rzucającego. Kiedy jest noszony przez innego psycastera, tymczasowo pozwala im to wykorzystać tę wiedzę do wykonania zapisanego psycastu bez praktyki.</VPE_CraftPsyRing.description>
+
+  <VPE_WordofProgress.label>słowo postępu</VPE_WordofProgress.label>
+  <VPE_WordofProgress.description>Wypowiadaj słowa zachęcające do rozwiązywania problemów, jednocześnie doładowując umysł celu przenikliwym wglądem. Cel będzie doświadczał podwójnej szybkości badań i przyrostu umiejętności intelektualnych przez 5 dni, skalując się wraz z jego wrażliwością psychiczną.</VPE_WordofProgress.description>
+
+  <VPE_ReverseEngineer.label>inżynier odwrotny</VPE_ReverseEngineer.label>
+  <VPE_ReverseEngineer.description>Rzucający koncentruje się na przedmiocie i próbuje rozwikłać wiedzę potrzebną do wyprodukowania większej ich liczby. Długa, intensywna koncentracja kończy się zapadnięciem rzucającego w 12-godzinną śpiączkę.</VPE_ReverseEngineer.description>
+
+
+</LanguageData>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Common construction quest naming text -->
+
+  <QuestConstructionNameCommon.rulePack.rulesStrings.0>questName->[constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.0>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.1>questName->A [constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.1>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.2>questName->The [constAdj] [construction]</QuestConstructionNameCommon.rulePack.rulesStrings.2>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.3>constAdj(p=20)->[AdjectiveLarge]</QuestConstructionNameCommon.rulePack.rulesStrings.3>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.4>constAdj->terrible</QuestConstructionNameCommon.rulePack.rulesStrings.4>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.5>constAdj->great</QuestConstructionNameCommon.rulePack.rulesStrings.5>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.6>constAdj->grand</QuestConstructionNameCommon.rulePack.rulesStrings.6>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.7>constAdj->dangerous</QuestConstructionNameCommon.rulePack.rulesStrings.7>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.8>constAdj->monumental</QuestConstructionNameCommon.rulePack.rulesStrings.8>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.9>constAdj->extravagant</QuestConstructionNameCommon.rulePack.rulesStrings.9>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.10>constAdj->foreboding</QuestConstructionNameCommon.rulePack.rulesStrings.10>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.11>constAdj->frightening</QuestConstructionNameCommon.rulePack.rulesStrings.11>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.12>constAdj->dreadful</QuestConstructionNameCommon.rulePack.rulesStrings.12>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.13>constAdj->fearful</QuestConstructionNameCommon.rulePack.rulesStrings.13>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.14>constAdj->awesome</QuestConstructionNameCommon.rulePack.rulesStrings.14>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.15>constAdj->prophetic</QuestConstructionNameCommon.rulePack.rulesStrings.15>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.16>constAdj->harrowing</QuestConstructionNameCommon.rulePack.rulesStrings.16>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.17>constAdj->glittering</QuestConstructionNameCommon.rulePack.rulesStrings.17>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.18>constAdj->shining</QuestConstructionNameCommon.rulePack.rulesStrings.18>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.19>constAdj->amazing</QuestConstructionNameCommon.rulePack.rulesStrings.19>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.20>construction(p=3)->construction</QuestConstructionNameCommon.rulePack.rulesStrings.20>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.21>construction(p=2)->structure</QuestConstructionNameCommon.rulePack.rulesStrings.21>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.22>construction(p=2)->building</QuestConstructionNameCommon.rulePack.rulesStrings.22>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.23>construction->monument</QuestConstructionNameCommon.rulePack.rulesStrings.23>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.24>construction->edifice</QuestConstructionNameCommon.rulePack.rulesStrings.24>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.25>construction->blueprint</QuestConstructionNameCommon.rulePack.rulesStrings.25>
+  <QuestConstructionNameCommon.rulePack.rulesStrings.26>construction->assembly</QuestConstructionNameCommon.rulePack.rulesStrings.26>
+
+
+  <!-- Common construction quest description text -->
+
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.0>questDescription(askerIsNull==true)->A mysterious message has arrived. It seems it was transmitted by a machine persona that refuses to name itself. The message asks that you build a very specific monument.
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.0>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.1>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.2>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] is requesting that you build a monument [buildReason].
+\n[commonEnding]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.2>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.3>asker2(askerIsNull==true)->the archotech</QuestConstructionDescriptionCommon.rulePack.rulesStrings.3>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.4>asker2(asker_factionLeader==True)->[asker_nameDef]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.4>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.5>asker2(asker_royalInCurrentFaction==True)->the [asker_royalTitleInCurrentFaction]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.5>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.6>buildReason->to commemorate the [PersonalCharacteristic] of [asker_possessive] [PersonFamily]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.6>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.7>buildReason->to commemorate [asker_possessive] own [PersonalCharacteristic]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.7>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.8>buildReason->to insult the [PersonalCharacteristic] of [asker_possessive] rival</QuestConstructionDescriptionCommon.rulePack.rulesStrings.8>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.9>buildReason->to reduce feelings of [ConceptAngsty] amongst the people</QuestConstructionDescriptionCommon.rulePack.rulesStrings.9>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.10>buildReason->to express how [AdjectiveBadass] [asker_pronoun] is</QuestConstructionDescriptionCommon.rulePack.rulesStrings.10>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.11>buildReason->to commemorate [asker_possessive] [asker_faction_pawnsPlural] who have fallen in battle</QuestConstructionDescriptionCommon.rulePack.rulesStrings.11>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.12>buildReason->to honor [asker_possessive] [PersonFamily]</QuestConstructionDescriptionCommon.rulePack.rulesStrings.12>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.13>buildReason->to honor the work of [PersonJob]s</QuestConstructionDescriptionCommon.rulePack.rulesStrings.13>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.14>buildReason->to spread images of [asker_possessive] [glory] across the land</QuestConstructionDescriptionCommon.rulePack.rulesStrings.14>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.15>glory->glory</QuestConstructionDescriptionCommon.rulePack.rulesStrings.15>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.16>glory->martial honor</QuestConstructionDescriptionCommon.rulePack.rulesStrings.16>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.17>glory->victories</QuestConstructionDescriptionCommon.rulePack.rulesStrings.17>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.18>glory->throne</QuestConstructionDescriptionCommon.rulePack.rulesStrings.18>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.19>glory->great ship</QuestConstructionDescriptionCommon.rulePack.rulesStrings.19>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.20>glory->wealth</QuestConstructionDescriptionCommon.rulePack.rulesStrings.20>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.21>glory->family</QuestConstructionDescriptionCommon.rulePack.rulesStrings.21>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.22>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</QuestConstructionDescriptionCommon.rulePack.rulesStrings.22>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings.23>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</QuestConstructionDescriptionCommon.rulePack.rulesStrings.23>
+
+
+</LanguageData>

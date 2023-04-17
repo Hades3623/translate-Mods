@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neurocalculator -->
+
+  <Neurocalculator.label>neurokalkulator</Neurocalculator.label>
+  <Neurocalculator.description>Nieinteligentny mikrokomputer sterowany przez wizualny/dotykowy interfejs neuronowy. Wspomaga pamięć i obliczenia, podobnie jak wbudowany w mózg kalkulator i notatnik.</Neurocalculator.description>
+
+
+  <!-- Learning assistant -->
+
+  <LearningAssistant.label>asystent nauki</LearningAssistant.label>
+  <LearningAssistant.description>Sensoryczny system nagrywania, który odtwarza ważne przeżycia podczas snu, wzmacniając tworzenie nowych wspomnień.</LearningAssistant.description>
+
+
+  <!-- Gastro-analyzer -->
+
+  <GastroAnalyzer.label>gastro-analyzer</GastroAnalyzer.label>
+  <GastroAnalyzer.description>Ten bioniczny implant nosowy poprawia zmysł węchu, skupiając się na zapachach związanych z jedzeniem. Wielowarstwowa ultradrobna siatka absorpcyjna wykrywa związki w powietrzu. Mikroprocesor formatuje odczyty w sygnał nerwu węchowego, który jest wysyłany do mózgu przez interfejs łącza nerwowego. W rezultacie użytkownik może wąchać żywność z głębią, bogactwem i precyzją nieznaną wśród nieulepszonych ludzi, co pozwala im na bardziej efektywne gotowanie. Całość jest na tyle mała, że ​​można ją zamontować w nosie bez wpływu na wygląd użytkownika.</GastroAnalyzer.description>
+
+
+  <!-- Immunoenhancer -->
+
+  <Immunoenhancer.label>wzmacniacz odporności</Immunoenhancer.label>
+  <Immunoenhancer.description>Komputer analizujący kontroluje krwioobieg, klasyfikuje patogeny i szybko skłania naturalny układ odpornościowy organizmu do reagowania na nie szybciej niż mógłby samodzielnie. To znacznie przyspiesza przyrost odporności.</Immunoenhancer.description>
+
+
+  <!-- Coagulator -->
+
+  <Coagulator.label>koagulator</Coagulator.label>
+  <Coagulator.description>Uwalnia czynniki krzepnięcia w odpowiedzi na utratę krwi, znacznie zmniejszając częstość krwawień.</Coagulator.description>
+
+
+  <!-- Healing enhancer -->
+
+  <HealingEnhancer.label>wzmacniający gojenie</HealingEnhancer.label>
+  <HealingEnhancer.description>Uwalnia nanomaszyny i czynniki gojące, które przyspieszają gojenie się ran. Ten implant pomaga tylko przy ranach fizycznych i nie pomaga w walce z chorobami lub innymi problemami zdrowotnymi.</HealingEnhancer.description>
+
+
+  <!-- Toughskin gland -->
+
+  <ToughskinGland.label>gruczoł twardej skóry</ToughskinGland.label>
+  <ToughskinGland.description>Ten bioniczny gruczoł uwalnia chemikalia i nanomaszyny, które wzmacniają skórę, czyniąc ją nieco bardziej odporną na uszkodzenia. Chociaż nie zapewnia tak dużej ochrony, jak niektóre inne gruczoły utwardzające skórę, gruczoł twardoskórny ma tę zaletę, że nie zmienia zauważalnie wyglądu użytkownika.</ToughskinGland.description>
+
+
+  <!-- Armorskin gland -->
+
+  <ArmorskinGland.label>gruczoł zbroi</ArmorskinGland.label>
+  <ArmorskinGland.description>Ten bioniczny gruczoł uwalnia chemikalia i nanomaszyny, które wzmacniają skórę i dodają elastyczne podskórne płytki keratynowe w strategicznych punktach. Dzięki temu użytkownik jest bardziej odporny na uszkodzenia całego ciała. Niestety zmiany te sprawiają, że skóra wydaje się skórzasta, ze zmarszczkami na całym ciele i twarzy, co powszechnie uważa się za brzydkie.</ArmorskinGland.description>
+
+
+  <!-- Stoneskin gland -->
+
+  <StoneskinGland.label>gruczoł kamiennoskóry</StoneskinGland.label>
+  <StoneskinGland.description>Ten bioniczny gruczoł uwalnia chemikalia i nanomaszyny, które przekształcają skórę użytkownika we wbudowaną zbroję. Cały naskórek gęstnieje i twardnieje, aby był odporny na oparzenia, a połączone zewnętrzne płytki keratynowe tworzą się wszędzie, gdzie tylko mogą – w tym na głowie i twarzy. Chociaż bardzo trudno jest fizycznie zranić kogoś za pomocą tego implantu, płytki i twarda skóra znacznie zmniejszają atrakcyjność fizyczną użytkownika.</StoneskinGland.description>
+
+
+  <!-- Aesthetic shaper -->
+
+  <AestheticShaper.label>estetyczny kształtownik</AestheticShaper.label>
+  <AestheticShaper.description>Wyrafinowany pakiet wpływów hormonalnych i mechanicznych modeluje mięśnie i tłuszcz na ciele, dodając tam, gdzie jest to potrzebne do uzyskania pożądanego wyglądu, niefunkcjonalną tkankę estetyczną. Implant ten można skonfigurować tak, aby formował różne kształty ciała zgodnie z gustem użytkownika lub jego partnera.</AestheticShaper.description>
+
+
+  <!-- Aesthetic nose -->
+
+  <AestheticNose.label>estetyczny nos</AestheticNose.label>
+  <AestheticNose.description>Nos jest ukształtowany zgodnie z pożądaną przez użytkownika formą, dopasowując się do panujących standardów urody i wzmacniając wrażenia fizyczne.</AestheticNose.description>
+
+
+  <!-- Love enhancer -->
+
+  <LoveEnhancer.label>wzmacniacz miłości</LoveEnhancer.label>
+  <LoveEnhancer.description>Ludzie zawsze starali się wykorzystywać każdą nową technologię, aby zwiększyć satysfakcję seksualną. Bionika nie była wyjątkiem. Implant ten powoduje fizyczne i chemiczne zmiany w ciele, które wzmacniają doświadczanie miłości dla obojga partnerów - zarówno fizycznie, jak i psychicznie. Jednostka implantu może dostosować się do wzmocnienia zarówno mężczyzn, jak i kobiet po wszczepieniu.</LoveEnhancer.description>
+
+
+  <!-- Detoxifier stomach -->
+
+  <DetoxifierStomach.label>żołądek detoksykujący</DetoxifierStomach.label>
+  <DetoxifierStomach.description>Zamiennik sztucznego żołądka z filtrem toksyn o szerokim spektrum działania i systemem neutralizacji. Pozwala użytkownikowi jeść prawie wszystko, nie martwiąc się o zatrucie pokarmowe.</DetoxifierStomach.description>
+
+
+  <!-- Reprocessor stomach -->
+
+  <ReprocessorStomach.label>żołądek reprocesora</ReprocessorStomach.label>
+  <ReprocessorStomach.description>Zaawansowany system przetwarzania chemicznego rozkłada składniki odżywcze, których organizm normalnie nigdy nie mógłby wykorzystać, prowadząc do zwiększonej wydajności.</ReprocessorStomach.description>
+
+
+  <!-- Nuclear stomach -->
+
+  <NuclearStomach.label>żołądek jądrowy</NuclearStomach.label>
+  <NuclearStomach.description>Reaktor mikrojądrowy w połączeniu ze złożoną syntezą chemiczną zastępuje zapotrzebowanie organizmu na energię pokarmową. Jedzenie jest potrzebne tylko do uzupełnienia materii utraconej z organizmu, znacznie zmniejszając zapotrzebowanie użytkownika. Ten sztuczny żołądek nie może dostać zatrucia pokarmowego. Jednak jest mało miejsca na osłonę reaktora, więc promieniowanie zwiększa ryzyko raka.</NuclearStomach.description>
+
+
+  <!-- Circadian assistant -->
+
+  <CircadianAssistant.label>asystent dobowy</CircadianAssistant.label>
+  <CircadianAssistant.description>Sztuczny gruczoł. Wytwarza chemikalia i nanomaszyny, które usuwają nagromadzone toksyny z mózgu.</CircadianAssistant.description>
+
+
+  <!-- Circadian half-cycler -->
+
+  <CircadianHalfCycler.label>półcykl dobowy</CircadianHalfCycler.label>
+  <CircadianHalfCycler.description>Redirector sygnału, który izoluje połowę mózgu, pozwalając drugiej połowie spać, podczas gdy użytkownik nie śpi na zewnątrz. Dzięki naprzemiennym półmózgom użytkownik nigdy nie musi spać. Niestety dwie półkule są lepsze niż jedna - praca z połową mózgu powoduje zmniejszenie świadomości.</CircadianHalfCycler.description>
+
+
+</LanguageData>

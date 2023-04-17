@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShieldGeneratorMortar.label>mech wysokiej tarczy</ShieldGeneratorMortar.label>
+  <ShieldGeneratorMortar.description>Urządzenie ekranujące, które emituje pole repulsora pędu. Strzały mogą wyjść, ale nie do środka.\n\nTen jest dostrojony pod dużymi kątami, więc blokuje pociski moździerzowe.\n\nJednostka może zostać tymczasowo wyłączona przez ataki EMP, albo przez porażenie samą jednostką projekcyjną, albo za pomocą Amunicja EMP na tarczy.</ShieldGeneratorMortar.description>
+
+  <ShieldGeneratorBullets.label>mech o niskiej tarczy</ShieldGeneratorBullets.label>
+  <ShieldGeneratorBullets.description>Urządzenie ekranujące, które emituje pole repulsora pędu. Strzały mogą wyjść, ale nie do środka.\n\nTen jest dostrojony do niskich kątów, więc blokuje pociski z poziomu gruntu, takie jak pociski.\n\nUrządzenie może zostać tymczasowo wyłączone przez ataki EMP, albo przez porażenie projektorem lub używając amunicji EMP na tarczy.</ShieldGeneratorBullets.description>
+
+
+</LanguageData>

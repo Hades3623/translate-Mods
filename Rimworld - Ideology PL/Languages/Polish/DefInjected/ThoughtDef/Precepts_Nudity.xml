@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.label>nosić ubrania</AnyBodyPartCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.description>Nie pochwalam zakrywania się, a jednak robię to.</AnyBodyPartCovered_Disapproved_Male.stages.0.description>
+
+  <AnyBodyPartCovered_Disapproved_Female.stages.0.label>nosić ubrania</AnyBodyPartCovered_Disapproved_Female.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.0.description>Nie pochwalam zakrywania się, a jednak robię to.</AnyBodyPartCovered_Disapproved_Female.stages.0.description>
+
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.label>nosił ubrania</AnyBodyPartCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.description>Ukryłem swoje ciało. To było złe.</AnyBodyPartCovered_Disapproved_Memory.stages.0.description>
+
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>nosić ubrania</AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.0.label>nosić ubrania</AnyBodyPartCovered_Disapproved_Social_Female.stages.0.label>
+
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>noszenie ubrania (bez pachwiny)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>Duszenie skóry jest złe. Tylko pachwiny powinny być zakryte.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>
+
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.label>noszenie ubrania (bez pachwiny)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.description>Duszenie skóry jest złe. Tylko pachwiny powinny być zakryte.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.0.description>
+
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>nosił ubrania (bez pachwiny)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>Ukrywanie skóry jest złe, ale i tak to zrobiłem. Tylko pachwiny powinny być zakryte.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>
+
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>noszenie ubrania (bez pachwiny)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.0.label>noszenie ubrania (bez pachwiny)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.0.label>
+
+  <GroinUncovered_Disapproved_Male.stages.0.label>odkryta pachwina</GroinUncovered_Disapproved_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Male.stages.0.description>Nie powinienem wychodzić z moich intymnych części ciała.</GroinUncovered_Disapproved_Male.stages.0.description>
+
+  <GroinUncovered_Disapproved_Female.stages.0.label>odkryta pachwina</GroinUncovered_Disapproved_Female.stages.0.label>
+  <GroinUncovered_Disapproved_Female.stages.0.description>Nie powinienem wychodzić z moich intymnych części ciała.</GroinUncovered_Disapproved_Female.stages.0.description>
+
+  <GroinUncovered_Disapproved_Social_Male.stages.0.label>odkryta pachwina</GroinUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Social_Female.stages.0.label>odkryta pachwina</GroinUncovered_Disapproved_Social_Female.stages.0.label>
+
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.label>odkryta pachwina/klatka piersiowa</GroinOrChestUncovered_Disapproved_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.description>Nie lubię pokazywać moich intymnych części ani klatki piersiowej.</GroinOrChestUncovered_Disapproved_Male.stages.0.description>
+
+  <GroinOrChestUncovered_Disapproved_Female.stages.0.label>odkryta pachwina/klatka piersiowa</GroinOrChestUncovered_Disapproved_Female.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Female.stages.0.description>Nie lubię pokazywać moich intymnych części ani klatki piersiowej.</GroinOrChestUncovered_Disapproved_Female.stages.0.description>
+
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>odkryta pachwina/klatka piersiowa</GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Social_Female.stages.0.label>odkryta pachwina/klatka piersiowa</GroinOrChestUncovered_Disapproved_Social_Female.stages.0.label>
+
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>odkryta pachwina/klatka piersiowa/włosy</GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>To źle pokazywać się w ten sposób. Widoczna może być tylko twarz.</GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>
+
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.0.label>odkryta pachwina/klatka piersiowa/włosy</GroinChestOrHairUncovered_Disapproved_Female.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.0.description>To źle pokazywać się w ten sposób. Widoczna może być tylko twarz.</GroinChestOrHairUncovered_Disapproved_Female.stages.0.description>
+
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>odkrył każdą część ciała</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Social_Female.stages.0.label>odkrył każdą część ciała</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.0.label>
+
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>odkrył każdą część ciała</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>Pokazywanie się światu jest złe. Powinienem być całkowicie zakryty.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>
+
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.label>odkrył każdą część ciała</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.description>Pokazywanie się światu jest złe. Powinienem być całkowicie zakryty.</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.0.description>
+
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>odkrył każdą część ciała</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.0.label>odkrył każdą część ciała</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.0.label>
+
+
+</LanguageData>

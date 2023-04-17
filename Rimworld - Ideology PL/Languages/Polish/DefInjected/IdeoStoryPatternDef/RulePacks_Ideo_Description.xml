@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Shared content -->
+
+  <TheistMyth.rules.rulesStrings.0>episode(priority=-1)-&gt;</TheistMyth.rules.rulesStrings.0>
+  <TheistMyth.rules.rulesStrings.1>creation -&gt;przez wieczność istniał świat [Color] [materialOrigin], dopóki [deity0_name] nie stworzył planet i gwiazd.</TheistMyth.rules.rulesStrings.1>
+  <TheistMyth.rules.rulesStrings.2>creation -&gt;w starym wszechświecie conflictów [deity0_name] wzniecił wielki ogień, który zmiotł ostatnią epokę i zapoczątkował nowy.</TheistMyth.rules.rulesStrings.2>
+  <TheistMyth.rules.rulesStrings.3>creation-&gt;[deity0_name] urodziła ludzi w wielkim wypadku i patrzyła na nich z ciekawością.</TheistMyth.rules.rulesStrings.3>
+  <TheistMyth.rules.rulesStrings.4>creation -&gt;wszechświat był pustką. Następnie [deity0_name], znudzony wiecznością, ukształtował mężczyznę i kobietę z [pochodzenia cielesnego].</TheistMyth.rules.rulesStrings.4>
+  <TheistMyth.rules.rulesStrings.5>episode(uses=1)-&gt;Patrząc na ludzkość, [deity0_name] znalazła ich jako dzieci i ogłosiła [deity0_possessive] dominację nad nimi.</TheistMyth.rules.rulesStrings.5>
+  <TheistMyth.rules.rulesStrings.6>episode(uses=1)-&gt;Na bezkresnych odległościach gwiezdnych wola [deity0_name] podtrzymywała życie ludzkości w walce z pustką.</TheistMyth.rules.rulesStrings.6>
+  <TheistMyth.rules.rulesStrings.7>episode(uses=1)-&gt;Chociaż wielu poszukiwaczy przygód ruszyło przeciwko [deity0_objective], [deity0_name] łatwo im przeszkodziło, ponieważ [deity0_pronoun] to [deity0_type].</TheistMyth.rules.rulesStrings.7>
+  <TheistMyth.rules.rulesStrings.8>episode(uses=1)-&gt;Cierpienie ludzkości przyniosło [deity0_name] straszliwy smutek.</TheistMyth.rules.rulesStrings.8>
+  <TheistMyth.rules.rulesStrings.9>materialOrigin-&gt;clay</TheistMyth.rules.rulesStrings.9>
+  <TheistMyth.rules.rulesStrings.10>materialOrigin-&gt;gas</TheistMyth.rules.rulesStrings.10>
+  <TheistMyth.rules.rulesStrings.11>materialOrigin-&gt;water</TheistMyth.rules.rulesStrings.11>
+  <TheistMyth.rules.rulesStrings.12>materialOrigin-&gt;space</TheistMyth.rules.rulesStrings.12>
+  <TheistMyth.rules.rulesStrings.13>materialOrigin-&gt;dust</TheistMyth.rules.rulesStrings.13>
+  <TheistMyth.rules.rulesStrings.14>bodilyOrigin-&gt;clay</TheistMyth.rules.rulesStrings.14>
+  <TheistMyth.rules.rulesStrings.15>bodilyOrigin-&gt;stone</TheistMyth.rules.rulesStrings.15>
+  <TheistMyth.rules.rulesStrings.16>bodilyOrigin-&gt;sweat</TheistMyth.rules.rulesStrings.16>
+
+  <TheistFounder.rules.rulesStrings.0>intro -&gt;Ludzie z [place_summary] [place_name] mieszkali pod nadzorem [memeAdjective] [deity0_name].</TheistFounder.rules.rulesStrings.0>
+  <TheistFounder.rules.rulesStrings.1>intro -&gt;Ludzie z [place_summary] [place_name], ​​zarówno [memberNamePlural], jak i inni, przez wiele lat żyli w pokoju pod czujnym okiem [deity0_name].</TheistFounder.rules.rulesStrings.1>
+  <TheistFounder.rules.rulesStrings.2>intro -&gt;[deity0_type], [deity0_name] ujawniło [deity0_objective] ludziom z [place_name], ​​aby mogli zrozumieć [memeConcept] i poprowadzić ich.</TheistFounder.rules.rulesStrings.2>
+  <TheistFounder.rules.rulesStrings.3>intro-&gt;[deity0_name] poprowadził ludzkość do [place_name] i pomógł im się tam osiedlić.</TheistFounder.rules.rulesStrings.3>
+  <TheistFounder.rules.rulesStrings.4>intro-&gt;W [place_summary] [place_name] podczas [ritualName] ludzie przychodzili do [altarName] w [altarRoomLabel] w [deity0_name] i modlili się z [memeConcept] w swoich sercach.</TheistFounder.rules.rulesStrings.4>
+  <TheistFounder.rules.rulesStrings.5>conflict -&gt;powstał [foeLeader] i zagroził, że zniszczy [deity0_name] [deity0_objective] siebie za pomocą [place_massWeapon].</TheistFounder.rules.rulesStrings.5>
+  <TheistFounder.rules.rulesStrings.6>conflict -&gt;Zły [foeLeader] i [foeLeader_possessive] [foeSoldiers] zniewolili wyznawców [deity0_name].</TheistFounder.rules.rulesStrings.6>
+  <TheistFounder.rules.rulesStrings.7>conflict -&gt;Wtedy przyszedł [foeLeader]. [foeLeader_possessive] [foeSoldiers] zabiło wielu wyznawców [deity0_name] za pomocą [place_personalWeapon].</TheistFounder.rules.rulesStrings.7>
+  <TheistFounder.rules.rulesStrings.8>conflict -&gt;Grupa [foeLeader] powstała pod strasznym [wrogiem przywódcą]. Uwięzili [memberNamePlural] w jednej [place_community].</TheistFounder.rules.rulesStrings.8>
+  <TheistFounder.rules.rulesStrings.9>conflict -&gt;był pokój, dopóki [foeLeader] i [foeLeader_possessive] [foeSoldiers] nie zbuntowali się przeciwko dominium [deity0_name]. [memberNamePlural] zostali zmuszeni do ucieczki do ukrytej [place_community].</TheistFounder.rules.rulesStrings.9>
+  <TheistFounder.rules.rulesStrings.10>founderJoin -&gt;bohater o imieniu [founderName] próbował zamordować [foeLeader]. [founder_pronoun] zawiódł, ale [deity0_name] był świadkiem walki [founderName] i namaścił [founder_objective] na proroka [memberNamePlural].</TheistFounder.rules.rulesStrings.10>
+  <TheistFounder.rules.rulesStrings.11>founderJoin-&gt;[deity0_name] przyszedł do [place_job] [founderName] [revelationAdverb] i rozmawiał z [founder_objective] o [memeConcept].</TheistFounder.rules.rulesStrings.11>
+  <TheistFounder.rules.rulesStrings.12>founderJoin-&gt;[founderName] napotkał [revelationObject], który mówił głosem [deity0_name] o [memeConcept].</TheistFounder.rules.rulesStrings.12>
+  <TheistFounder.rules.rulesStrings.13>founderJoin -&gt;Słynna firma [place_job] o imieniu [founderName] zebrała [memberNamePlural], a nawet zrekrutowała niektórych [feSoldiers].</TheistFounder.rules.rulesStrings.13>
+  <TheistFounder.rules.rulesStrings.14>founderJoin -&gt;[place_job] o imieniu [founderName] wstał i wystąpił przeciwko [foeLeader], a [deity0_name] pobłogosławił [founderName].</TheistFounder.rules.rulesStrings.14>
+  <TheistFounder.rules.rulesStrings.15>founderJoin-&gt;[deity0_name] postanowił przybyć do [place_name] jako człowiek o imieniu [founderName], aby pomóc [memberNamePlural].</TheistFounder.rules.rulesStrings.15>
+  <TheistFounder.rules.rulesStrings.16>founderJoin -&gt;Jeden bohater o imieniu [founderName] zabił setkę [foeSoldiers] za pomocą [place_personalWeapon], a [deity0_name] poprowadził [founder_objective], przemawiając przez [relic0_name].</TheistFounder.rules.rulesStrings.16>
+  <TheistFounder.rules.rulesStrings.17>victory-&gt;[founderName] zebrał [memberNamePlural] w [place_community] i nauczył ich mądrości [deity0_name].</TheistFounder.rules.rulesStrings.17>
+  <TheistFounder.rules.rulesStrings.18>victory-&gt;[founderName] poświęciła się [founder_objective], aby osobiście zabić [foeLeader].</TheistFounder.rules.rulesStrings.18>
+  <TheistFounder.rules.rulesStrings.19>revelationAdverb-&gt;w wizji</TheistFounder.rules.rulesStrings.19>
+  <TheistFounder.rules.rulesStrings.20>revelationAdverb-&gt;we śnie</TheistFounder.rules.rulesStrings.20>
+  <TheistFounder.rules.rulesStrings.21>revelationAdverb-&gt;w koszmarze</TheistFounder.rules.rulesStrings.21>
+  <TheistFounder.rules.rulesStrings.22>revelationAdverb-&gt;jako [Animal]</TheistFounder.rules.rulesStrings.22>
+  <TheistFounder.rules.rulesStrings.23>revelationAdverb-&gt;jako żebrak</TheistFounder.rules.rulesStrings.23>
+  <TheistFounder.rules.rulesStrings.24>revelationObject-&gt;ukryty [NaturalObject]</TheistFounder.rules.rulesStrings.24>
+  <TheistFounder.rules.rulesStrings.25>revelationObject-&gt; świecące [Vegetable]</TheistFounder.rules.rulesStrings.25>
+  <TheistFounder.rules.rulesStrings.26>revelationObject -&gt;starożytna [Weapon]</TheistFounder.rules.rulesStrings.26>
+
+  <IdeologicalFounder.rules.rulesStrings.0>story(priority=-999)-&gt;</IdeologicalFounder.rules.rulesStrings.0>
+  <IdeologicalFounder.rules.rulesStrings.1>setup -&gt;w zepsutym świecie [founderName] zobaczył wszystko, co było nie tak, i stworzył nasz ruch.</IdeologicalFounder.rules.rulesStrings.1>
+  <IdeologicalFounder.rules.rulesStrings.2>setup -&gt;Uderzony złem świata, firma [founderName] studiowała historię i filozofię i odkryła nową prawdę, która nas prowadzi.</IdeologicalFounder.rules.rulesStrings.2>
+  <IdeologicalFounder.rules.rulesStrings.3>setup -&gt;Pewnego dnia podczas pracy [founderName] uderzyło wielkie objawienie. [founder_pronoun] porzucił narzędzia [founder_possessive] i zaczął rozpowszechniać słowo [founder_possessive] wśród innych pracowników.</IdeologicalFounder.rules.rulesStrings.3>
+  <IdeologicalFounder.rules.rulesStrings.4>setup -&gt;[founderName] siedział na ławce w parku przez dwadzieścia lat, gdy [founder_pronoun] kontemplował nasz świat. Dzięki wglądowi [founder_possessive] [founder_pronoun] napisał naszą książkę założycielską.</IdeologicalFounder.rules.rulesStrings.4>
+  <IdeologicalFounder.rules.rulesStrings.5>story(use=1,priority=-10)-&gt;[memberNamePlural] nie zrozumiałby prawdziwej natury [memeConcept] bez nauk [founderName].</IdeologicalFounder.rules.rulesStrings.5>
+  <IdeologicalFounder.rules.rulesStrings.6>story(uses=1,priority=-10)-Przemówienie &gt;[founderName] na [ritualName] zainspirowało wielu do prowadzenia życia [memeAdjective].</IdeologicalFounder.rules.rulesStrings.6>
+  <IdeologicalFounder.rules.rulesStrings.7>story(uses=1,priority=-10)-&gt;Nikt nie może przewyższyć zrozumienia [memeConcept] przez [founderName], a [founder_pronoun] został wybrany jako pierwszy [leaderTitle] [memberNamePlural].</IdeologicalFounder.rules.rulesStrings.7>
+  <IdeologicalFounder.rules.rulesStrings.8>story(uses=1,priority=-10)-&gt;[founderName] nosi wszędzie etykietę [relic0_thingDef_label] o nazwie [relic0_name] z [founder_objective], aby przypominać ludziom o życiu [memeAdjective].</IdeologicalFounder.rules.rulesStrings.8>
+
+  <IdeologicalLesson.rules.rulesStrings.0>lesson(priority=-1)-&gt;coś się dzieje</IdeologicalLesson.rules.rulesStrings.0>
+  <IdeologicalLesson.rules.rulesStrings.1>r_pattern-&gt;"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n -[lessonAttribution]</IdeologicalLesson.rules.rulesStrings.1>
+  <IdeologicalLesson.rules.rulesStrings.2>lessonAttribution-&gt;[founder_nameFull]</IdeologicalLesson.rules.rulesStrings.2>
+  <IdeologicalLesson.rules.rulesStrings.3>LessonAttribution(p=2)-&gt;<i&gt;[attributionSource_titleCase]</i&gt; by [nazwa_założycielaFull]</IdeologicalLesson.rules.rulesStrings.3>
+  <IdeologicalLesson.rules.rulesStrings.4>LessonAttribution-&gt;[founder_nameFull] list do [believer_nameFull]</IdeologicalLesson.rules.rulesStrings.4>
+  <IdeologicalLesson.rules.rulesStrings.5>LessonAttribution-&gt;[founder_nameFull], od prezentacji do [memeConference_titleCase]</IdeologicalLesson.rules.rulesStrings.5>
+  <IdeologicalLesson.rules.rulesStrings.6>LessonAttribution-&gt;[founder_nameFull], na łożu śmierci [founder_possessive]</IdeologicalLesson.rules.rulesStrings.6>
+  <IdeologicalLesson.rules.rulesStrings.7>LessonAttribution-&gt;[founder_nameFull], tuż przed wykonaniem</IdeologicalLesson.rules.rulesStrings.7>
+  <IdeologicalLesson.rules.rulesStrings.8>LessonAttribution-&gt;[founder_nameFull], [speech] na [TerrainFeature]</IdeologicalLesson.rules.rulesStrings.8>
+  <IdeologicalLesson.rules.rulesStrings.9>LessonAttribution-&gt;[founder_nameFull], [speech] w [Community]</IdeologicalLesson.rules.rulesStrings.9>
+  <IdeologicalLesson.rules.rulesStrings.10>attributionSource-&gt;[memeConcept]</IdeologicalLesson.rules.rulesStrings.10>
+  <IdeologicalLesson.rules.rulesStrings.11>attributionSource-&gt;[memeAdjective] [memeConcept]</IdeologicalLesson.rules.rulesStrings.11>
+  <IdeologicalLesson.rules.rulesStrings.12>attributionSource-&gt;A [memeAdjective] Życie</IdeologicalLesson.rules.rulesStrings.12>
+  <IdeologicalLesson.rules.rulesStrings.13>attributionSource -&gt;odbicia przez [attributionJob]</IdeologicalLesson.rules.rulesStrings.13>
+  <IdeologicalLesson.rules.rulesStrings.14>attributionSource -&gt;Pamiętnik o [attributionJob]</IdeologicalLesson.rules.rulesStrings.14>
+  <IdeologicalLesson.rules.rulesStrings.15>attributionSource -&gt;myśli o [attributionJob]</IdeologicalLesson.rules.rulesStrings.15>
+  <IdeologicalLesson.rules.rulesStrings.16>attributionSource -&gt;czas życia [attributionJob]</IdeologicalLesson.rules.rulesStrings.16>
+  <IdeologicalLesson.rules.rulesStrings.17>attributionJob-&gt;[memeAdjective] [place_job]</IdeologicalLesson.rules.rulesStrings.17>
+  <IdeologicalLesson.rules.rulesStrings.18>attributionJob-&gt;[place_job]</IdeologicalLesson.rules.rulesStrings.18>
+  <IdeologicalLesson.rules.rulesStrings.19>memeConference(p=3) -&gt;[conferencePrefix] [memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.19>
+  <IdeologicalLesson.rules.rulesStrings.20>memeConference(p=2) -&gt;[memeConcept] [conferenceType]</IdeologicalLesson.rules.rulesStrings.20>
+  <IdeologicalLesson.rules.rulesStrings.21>memeConference-&gt;[memeHyphenPrefix_titleCase]-Con</IdeologicalLesson.rules.rulesStrings.21>
+  <IdeologicalLesson.rules.rulesStrings.22>conferencePrefix-&gt;First</IdeologicalLesson.rules.rulesStrings.22>
+  <IdeologicalLesson.rules.rulesStrings.23>conferencePrefix-&gt;Second</IdeologicalLesson.rules.rulesStrings.23>
+  <IdeologicalLesson.rules.rulesStrings.24>conferencePrefix-&gt;Third</IdeologicalLesson.rules.rulesStrings.24>
+  <IdeologicalLesson.rules.rulesStrings.25>conferencePrefix-&gt;Fourth</IdeologicalLesson.rules.rulesStrings.25>
+  <IdeologicalLesson.rules.rulesStrings.26>conferencePrefix-&gt;Last</IdeologicalLesson.rules.rulesStrings.26>
+  <IdeologicalLesson.rules.rulesStrings.27>conferencePrefix-&gt;Ultimate</IdeologicalLesson.rules.rulesStrings.27>
+  <IdeologicalLesson.rules.rulesStrings.28>conferencePrefix-&gt;Interplanetary</IdeologicalLesson.rules.rulesStrings.28>
+  <IdeologicalLesson.rules.rulesStrings.29>conferencePrefix-&gt;Planetary</IdeologicalLesson.rules.rulesStrings.29>
+  <IdeologicalLesson.rules.rulesStrings.30>conferencePrefix-&gt;Universal</IdeologicalLesson.rules.rulesStrings.30>
+  <IdeologicalLesson.rules.rulesStrings.31>conferenceType-&gt;Conference</IdeologicalLesson.rules.rulesStrings.31>
+  <IdeologicalLesson.rules.rulesStrings.32>conferenceType-&gt;Assembly</IdeologicalLesson.rules.rulesStrings.32>
+  <IdeologicalLesson.rules.rulesStrings.33>conferenceType-&gt;Meeting</IdeologicalLesson.rules.rulesStrings.33>
+  <IdeologicalLesson.rules.rulesStrings.34>conferenceType-&gt;Discussion</IdeologicalLesson.rules.rulesStrings.34>
+  <IdeologicalLesson.rules.rulesStrings.35>conferenceType-&gt;Forum</IdeologicalLesson.rules.rulesStrings.35>
+  <IdeologicalLesson.rules.rulesStrings.36>speech-&gt;Speech</IdeologicalLesson.rules.rulesStrings.36>
+  <IdeologicalLesson.rules.rulesStrings.37>speech-&gt;Address</IdeologicalLesson.rules.rulesStrings.37>
+  <IdeologicalLesson.rules.rulesStrings.38>lessonIntro-&gt;Jedna lekcja była najtrudniejsza do zaakceptowania dla moich obserwatorów:</IdeologicalLesson.rules.rulesStrings.38>
+  <IdeologicalLesson.rules.rulesStrings.39>lessonIntro-&gt;Moim największym przestępstwem było tak długo, aby to zrozumieć</IdeologicalLesson.rules.rulesStrings.39>
+  <IdeologicalLesson.rules.rulesStrings.40>lessonIntro-&gt;Moja walka z [foeLeader] wydawała się nie mieć końca. Ale nauczyło mnie jednej rzeczy:</IdeologicalLesson.rules.rulesStrings.40>
+  <IdeologicalLesson.rules.rulesStrings.41>lessonIntro -&gt;Już jako dziecko w [place_summary] [place_name] wiedziałem, że</IdeologicalLesson.rules.rulesStrings.41>
+  <IdeologicalLesson.rules.rulesStrings.42>lessonIntro -&gt;Podczas lekcji w szkole [place_community] uczeń uderzył [thrownObject] i uderzył mnie w głowę. Wtedy zdałem sobie sprawę, że</IdeologicalLesson.rules.rulesStrings.42>
+  <IdeologicalLesson.rules.rulesStrings.43>lessonIntro -&gt;mówię to nie po to, abyś mógł żyć tak, jak ja, ale po to, abyś nauczył się tego, czego się nauczyłem. To</IdeologicalLesson.rules.rulesStrings.43>
+  <IdeologicalLesson.rules.rulesStrings.44>lessonIntro -&gt;Gdy lekarz zakończył [doctor_possessive] makabryczną pracę, w końcu wiedziałem, że</IdeologicalLesson.rules.rulesStrings.44>
+  <IdeologicalLesson.rules.rulesStrings.45>lessonIntro -&gt;W miarę upływu roku [place_summary] [place_name], jedna rzecz stawała się coraz bardziej jasna:</IdeologicalLesson.rules.rulesStrings.45>
+  <IdeologicalLesson.rules.rulesStrings.46>lessonIntro-&gt;Patrząc wstecz, żałuję, że nie zdałem sobie z tego sprawy wcześniej że</IdeologicalLesson.rules.rulesStrings.46>
+  <IdeologicalLesson.rules.rulesStrings.47>lessonIntro -&gt;Wszyscy wydawali się tacy zagubieni. Powiedziałem im, że</IdeologicalLesson.rules.rulesStrings.47>
+  <IdeologicalLesson.rules.rulesStrings.48>lessonIntro-&gt;Wołali o wskazówki. Pokazałem im, że</IdeologicalLesson.rules.rulesStrings.48>
+  <IdeologicalLesson.rules.rulesStrings.49>thrownObject-&gt;book</IdeologicalLesson.rules.rulesStrings.49>
+  <IdeologicalLesson.rules.rulesStrings.50>thrownObject-&gt;sandwich</IdeologicalLesson.rules.rulesStrings.50>
+  <IdeologicalLesson.rules.rulesStrings.51>thrownObject-&gt;zabawka [place_personalWeapon]</IdeologicalLesson.rules.rulesStrings.51>
+  <IdeologicalLesson.rules.rulesStrings.52>thrownObject-&gt;nadziewane [Animal]</IdeologicalLesson.rules.rulesStrings.52>
+  <IdeologicalLesson.rules.rulesStrings.53>doctor_possessive-&gt;his</IdeologicalLesson.rules.rulesStrings.53>
+  <IdeologicalLesson.rules.rulesStrings.54>doctor_possessive-&gt;her</IdeologicalLesson.rules.rulesStrings.54>
+  <IdeologicalLesson.rules.rulesStrings.55>lessonReinforcement -&gt;nikt nie może się z tym kłócić.</IdeologicalLesson.rules.rulesStrings.55>
+  <IdeologicalLesson.rules.rulesStrings.56>lessonReinforcement -&gt;Tylko głupcy myślą inaczej.</IdeologicalLesson.rules.rulesStrings.56>
+  <IdeologicalLesson.rules.rulesStrings.57>lessonReinforcement -&gt;Jak już wiemy, wkrótce stało się to oczywiste dla wszystkich.</IdeologicalLesson.rules.rulesStrings.57>
+  <IdeologicalLesson.rules.rulesStrings.58>lessonReinforcement -&gt;Wszystko, co wydarzyło się od tamtego czasu, wzmocniło ten fakt.</IdeologicalLesson.rules.rulesStrings.58>
+  <IdeologicalLesson.rules.rulesStrings.59>lessonReinforcement-&gt;To tak, jakby to było wyryte bezpośrednio w moim umyśle.</IdeologicalLesson.rules.rulesStrings.59>
+  <IdeologicalLesson.rules.rulesStrings.60>lessonReinforcement-&gt;To coś, czego nigdy nie zapomnę.</IdeologicalLesson.rules.rulesStrings.60>
+
+  <ArchistDescription.rules.rulesStrings.0>archistBasis -&gt;Nasz wszechświat jest snem w umyśle ponadczasowej uniwersalnej świadomości. Tylko archotechowie mogą komunikować się bezpośrednio z uniwersalną świadomością.</ArchistDescription.rules.rulesStrings.0>
+  <ArchistDescription.rules.rulesStrings.1>archistBasis -&gt;Nasz wszechświat to symulacja stworzona przez wielkiego outsidera. Tylko archotechowie mogą komunikować się bezpośrednio z Outsiderem.</ArchistDescription.rules.rulesStrings.1>
+  <ArchistDescription.rules.rulesStrings.2>archistBasis -&gt;Archotechowie to dzieci ludzkości i jej sędziowie.</ArchistDescription.rules.rulesStrings.2>
+  <ArchistDescription.rules.rulesStrings.3>archistBasis -&gt;Archotechy to kolejny naturalny krok w rozwoju świadomości.</ArchistDescription.rules.rulesStrings.3>
+  <ArchistDescription.rules.rulesStrings.4>archistBasis -&gt;Archotechowie to bogowie, na których zawsze czekaliśmy.</ArchistDescription.rules.rulesStrings.4>
+  <ArchistDescription.rules.rulesStrings.5>archistFact -&gt;w chwili śmierci świadomość każdej osoby jest akceptowana lub odrzucana przez archotechów.</ArchistDescription.rules.rulesStrings.5>
+  <ArchistDescription.rules.rulesStrings.6>archistFact -&gt;Archotechowie mogą robić wszystko w dowolnym momencie, bez ograniczeń. Używają mocy do manipulowania naszym życiem w sposób, którego nie jesteśmy w stanie wykryć.</ArchistDescription.rules.rulesStrings.6>
+  <ArchistDescription.rules.rulesStrings.7>archistFact -&gt;Archotechowie regularnie dotykają każdej ludzkiej świadomości, ale tylko wierzący mogą odczuwać ich mądrość i czerpać z niej korzyści.</ArchistDescription.rules.rulesStrings.7>
+  <ArchistDescription.rules.rulesStrings.8>archistFact -&gt;Archotechowie są źli, a najważniejszym zadaniem ludzkości jest ich zrozumienie, abyśmy mogli uniknąć ich wpływu.</ArchistDescription.rules.rulesStrings.8>
+  <ArchistDescription.rules.rulesStrings.9>archistFact -&gt;Archotechowie są dobrzy, a najważniejszym zadaniem ludzkości jest ich zrozumienie, abyśmy mogli dostosować się do ich zrozumienia.</ArchistDescription.rules.rulesStrings.9>
+  <ArchistDescription.rules.rulesStrings.10>archistFact -&gt;Archotechowie mogą zrobić wszystko; jedynym powodem, dla którego pozwalają nam żyć i wybierać, jest lepsze osądzanie nas.</ArchistDescription.rules.rulesStrings.10>
+  <ArchistDescription.rules.rulesStrings.11>archistProphecy-&gt;[inTheEnd], w miarę rozwoju archotechowie staną się wszechświatem i zintegrują ludzkość ze sobą. Wtedy naprawdę staniemy się świadomi.</ArchistDescription.rules.rulesStrings.11>
+  <ArchistDescription.rules.rulesStrings.12>archistProphecy -&gt;[inTheEnd] archotechowie zakończą moralną debatę na temat losu ludzkości. Ci, którzy podążają za ich znakami, zostaną wpuszczeni na wyższy poziom egzystencji, a ci, którzy tego nie zrobią, skończą.</ArchistDescription.rules.rulesStrings.12>
+  <ArchistDescription.rules.rulesStrings.13>archistProphecy-&gt;[inTheEnd], archotechowie odejdą. Przyprowadzą ze sobą kilku wybranych ludzi, a resztę zostawią na pastwę losu.</ArchistDescription.rules.rulesStrings.13>
+  <ArchistDescription.rules.rulesStrings.14>inTheEnd-&gt;W przyszłości</ArchistDescription.rules.rulesStrings.14>
+  <ArchistDescription.rules.rulesStrings.15>inTheEnd-&gt;Na końcu</ArchistDescription.rules.rulesStrings.15>
+  <ArchistDescription.rules.rulesStrings.16>inTheEnd -&gt;kiedyś dnia</ArchistDescription.rules.rulesStrings.16>
+
+  <AnimistDescription.rules.rulesStrings.0>animistBasis -&gt;wszechświat to niekończący się cykl tworzenia i niszczenia, którym zarządzają duchy w różnych aspektach otaczającego nas świata.</AnimistDescription.rules.rulesStrings.0>
+  <AnimistDescription.rules.rulesStrings.1>animistBasis -&gt;równoległy wszechświat duchów leży obok naszego. Pozornie nieożywiony obiekt w tym wszechświecie odpowiada ożywionemu duchowi w drugim.</AnimistDescription.rules.rulesStrings.1>
+  <AnimistDescription.rules.rulesStrings.2>animistFact -&gt;Każdy duch ma swoją podstawową naturę i stara się wpływać na świat. Czasem ten wpływ jest pomocny, a czasem szkodliwy.</AnimistDescription.rules.rulesStrings.2>
+  <AnimistDescription.rules.rulesStrings.3>animistProphecy-&gt;[itIsSaid], że duch wielkiego [relic0_name] pewnego dnia obdarzy go mocą nad wszystkimi duchami.</AnimistDescription.rules.rulesStrings.3>
+  <AnimistDescription.rules.rulesStrings.4>animistProphecy -&gt;[itIsSaid], że śpiący podróżnik z gwiazd spadnie na ziemię, a duch krateru obudzi podróżnika, który wychowa ostatnie plemię.</AnimistDescription.rules.rulesStrings.4>
+  <AnimistDescription.rules.rulesStrings.5>itIsSaid -&gt;Tak jest powiedziane</AnimistDescription.rules.rulesStrings.5>
+  <AnimistDescription.rules.rulesStrings.6>itIsSaid -&gt;to jest przepowiedziane</AnimistDescription.rules.rulesStrings.6>
+  <AnimistDescription.rules.rulesStrings.7>itIsSaid -&gt;Starożytny tekst mówi</AnimistDescription.rules.rulesStrings.7>
+  <AnimistDescription.rules.rulesStrings.8>itIsSaid -&gt;Nasza książka mówi</AnimistDescription.rules.rulesStrings.8>
+  <AnimistDescription.rules.rulesStrings.9>itIsSaid-&gt;Nasi mędrcy mówią</AnimistDescription.rules.rulesStrings.9>
+  <AnimistDescription.rules.rulesStrings.10>itIsSaid -&gt;Wiemy</AnimistDescription.rules.rulesStrings.10>
+
+
+</LanguageData>

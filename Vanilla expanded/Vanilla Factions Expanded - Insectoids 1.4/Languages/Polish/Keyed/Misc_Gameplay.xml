@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Incubator: Genome Lists -->
+  <VFEI_InsertFirstGenomeDesc>Wybierz pierwszy genom do inkubatora bioinżynierii</VFEI_InsertFirstGenomeDesc>
+  <None_InsertFirstGenome>Pierwszy genom: brak</None_InsertFirstGenome>
+  <VFEI_RoyalGenome_InsertFirstGenome>Pierwszy genom: Royal</VFEI_RoyalGenome_InsertFirstGenome>
+  <VFEI_WarriorGenome_InsertFirstGenome>Pierwszy genom: wojownik</VFEI_WarriorGenome_InsertFirstGenome>
+  <VFEI_DroneGenome_InsertFirstGenome>Pierwszy genom: dron</VFEI_DroneGenome_InsertFirstGenome>
+
+  <VFEI_InsertSecondGenomeDesc>Wybierz drugi genom do inkubatora bioinżynierii</VFEI_InsertSecondGenomeDesc>
+  <None_InsertSecondGenome>Drugi genom: brak</None_InsertSecondGenome>
+  <VFEI_RoyalGenome_InsertSecondGenome>Drugi genom: Royal</VFEI_RoyalGenome_InsertSecondGenome>
+  <VFEI_WarriorGenome_InsertSecondGenome>Drugi genom: wojownik</VFEI_WarriorGenome_InsertSecondGenome>
+  <VFEI_DroneGenome_InsertSecondGenome>Drugi genom: dron</VFEI_DroneGenome_InsertSecondGenome>
+
+  <VFEI_InsertThirdGenomeDesc>Wybierz trzeci genom do inkubatora bioinżynierii</VFEI_InsertThirdGenomeDesc>
+  <None_InsertThirdGenome>Trzeci genom: brak</None_InsertThirdGenome>
+  <VFEI_RoyalGenome_InsertThirdGenome>Trzeci genom: Royal</VFEI_RoyalGenome_InsertThirdGenome>
+  <VFEI_WarriorGenome_InsertThirdGenome>Trzeci genom: Wojownik</VFEI_WarriorGenome_InsertThirdGenome>
+  <VFEI_DroneGenome_InsertThirdGenome>Trzeci genom: dron</VFEI_DroneGenome_InsertThirdGenome>
+
+  <VFEI_RoyalGenome>Królewski Genom</VFEI_RoyalGenome>
+  <VFEI_WarriorGenome>Genom wojownika</VFEI_WarriorGenome>
+  <VFEI_DroneGenome>Genom drona</VFEI_DroneGenome>
+  <VFEI_None>Zostaw puste</VFEI_None>
+
+  <!-- Incubator: General -->
+  <VFEI_NoGeneticMaterial>Na mapie nie ma tego typu materiału genetycznego</VFEI_NoGeneticMaterial>
+  <VFEI_SelectAtLeastOne>Co najmniej jedna z trzech szczelin w inkubatorze musi być wypełniona materiałem genetycznym</VFEI_SelectAtLeastOne>
+
+  <VFEI_StartInsertion>Rozpocznij wstawianie genów</VFEI_StartInsertion>
+  <VFEI_StartInsertionDesc>Nakaż kolonistom rozpoczęcie wstawiania materiału genetycznego do inkubatora. To jest praca przewozowa.</VFEI_StartInsertionDesc>
+
+  <VFEI_RemoveAllGenes>Usuń geny</VFEI_RemoveAllGenes>
+  <VFEI_RemoveAllGenesDesc>Opróżnij inkubator, usuwając wszystkie geny, które nadal mogą być w nim przechowywane.</VFEI_RemoveAllGenesDesc>
+
+  <VFEI_CancelJobs>Anuluj wstawianie</VFEI_CancelJobs>
+  <VFEI_CancelJobsDesc>Anuluje wstawienie genów. Wszystkie zlecenia przenoszenia genów zostaną anulowane.</VFEI_CancelJobsDesc>
+
+  <VFEI_Engage>Aktywuj inkubator</VFEI_Engage>
+  <VFEI_EngageDesc>Aktywuj Inkubator, aby stworzyć nowy insektoid z wprowadzonych materiałów genetycznych</VFEI_EngageDesc>
+
+  <VFEI_NoGenesFound>Twoi koloniści nie byli w stanie odzyskać materiału genetycznego</VFEI_NoGenesFound>
+
+  <VFEI_WaitTillJobsEnd>Materiał genetyczny wciąż jest przenoszony do inkubatora</VFEI_WaitTillJobsEnd>
+
+  <VFEI_IncubationInProgress>Inkubacja w toku. {0} zostanie utworzony w:</VFEI_IncubationInProgress>
+
+  <VFEI_CombinationNoResults>Ta kombinacja nie daje żadnych rezultatów</VFEI_CombinationNoResults>
+
+  <!-- Incubator: Power related -->
+  <VFEI_NotPowered>Inkubator bioinżynierii nie jest teraz zasilany</VFEI_NotPowered>
+  <VFEI_IncubationFailurePower>Postęp inkubacji nie powiódł się z powodu braku zasilania</VFEI_IncubationFailurePower>
+
+  <!-- Incubator: Failure -->
+  <VFEI_FailureMonstrosity>Coś poszło katastrofalnie nie tak z postępem inkubacji!</VFEI_FailureMonstrosity>
+  <VFEI_FailureDeath>Coś poszło nie tak z postępem inkubacji. Insektoid wyłania się martwy</VFEI_FailureDeath>
+  <VFEI_FailureDisease>Coś poszło nie tak z postępem inkubacji. Insektoid wydaje się chory</VFEI_FailureDisease>
+
+  <!-- For patches -->
+  <VFEI_BlackHiveGenome_InsertFirstGenome>Pierwszy genom: Czarny Ul</VFEI_BlackHiveGenome_InsertFirstGenome>
+  <VFEI_BlackHiveGenome_InsertSecondGenome>Drugi genom: Czarny Ul</VFEI_BlackHiveGenome_InsertSecondGenome>
+  <VFEI_BlackHiveGenome_InsertThirdGenome>Trzeci genom: Czarny Ul</VFEI_BlackHiveGenome_InsertThirdGenome>
+  <VFEI_BlackHiveGenome>Genom czarnego ula</VFEI_BlackHiveGenome>
+
+  <!-- Comp Strings -->
+  <VFEI_MonstrosityTimeToLive>Degeneracja komórek w: {0}</VFEI_MonstrosityTimeToLive>
+  <LarvaeTimeSpawn>{0} przed następnym spawnowaniem się larw.</LarvaeTimeSpawn>
+  <InsectSpawned>Owady przybyły i atakują.</InsectSpawned>
+  <InsectsArriveIn>{0} przybywają za {1}</InsectsArriveIn>
+  <CocoonInsectSpawnIn>{0} przed ikrą owadów.</CocoonInsectSpawnIn>
+  <NoMoreSpawningAllowed>Królowa odpoczywa.</NoMoreSpawningAllowed>
+  <VFEI_Egg>Produkcja jaj</VFEI_Egg>
+
+  <!-- Artifact letter -->
+  <LetterLabelForcedTame>{1_kind} został oswojony na siłę</LetterLabelForcedTame>
+  <LetterArtifactTame>{0} stał się oswojony.</LetterArtifactTame>
+
+  <LetterLabelForcedTameFail>{1_kind} wymuszone oswajanie nie powiodło się</LetterLabelForcedTameFail>
+  <LetterArtifactTameFail>{0} oswajanie nie powiodło się, doprowadzając zwierzę do szaleństwa.</LetterArtifactTameFail>
+
+  <LetterLabelForcedRecruit>{0} dołącza do Twojej frakcji.</LetterLabelForcedRecruit>
+  <LetterArtifactRecruit>{0} został spacyfikowany i dołącza do Twojej frakcji!</LetterArtifactRecruit>
+  <GoodWillAffectedByArtifact>Dobra wola, gdy cel frakcji spadł o 50 z powodu użycia artefaktu na jednym z jej członków.</GoodWillAffectedByArtifact>
+
+  <!-- Random mutation letters -->
+  <MutationOutcome>Wynik mutacji</MutationOutcome>
+  <MutationOutcomeLetter>Powstała mutacja: {0}.</MutationOutcomeLetter>
+  <FailedMutation>Mutacja nie powiodła się!</FailedMutation>
+  <FailedMutationLetter>Mutacja nie powiodła się, żadna część ciała nie mogła się rozwinąć.</FailedMutationLetter>
+
+  <!-- Repeller utils -->
+  <InfestationNegated>Zapobiegnięto inwazji.</InfestationNegated>
+
+  <!-- Royal jelly transormation letter -->
+  <TransformationLLabel>Transformation!</TransformationLLabel>
+  <TransformationLetter>Z powodu odstawienia od mleczka pszczelego {0} został przekształcony w megaspider. Nadal należy do twojej frakcji i nikogo nie zaatakuje.</TransformationLetter>
+
+  <!-- Teleporter -->
+  <TeleportButton>teleport</TeleportButton>
+  <TeleportHere>Teleportuj się tutaj.</TeleportHere>
+  <TeleportDesc>Teleportuj wszystkie wybrane przedmioty i pionki do celu.</TeleportDesc>
+  <TeleportDestInvalid>Miejsce docelowe teleportacji jest nieprawidłowe.</TeleportDestInvalid>
+  <TeleportDestTooFar>Cel teleportacji jest za daleko!</TeleportDestTooFar>
+  <TeleportWillDestroy>Teleportowanie się do tego miejsca spowoduje utratę zawartości.</TeleportWillDestroy>
+  <TeleportDone>Teleportacja się powiodła.</TeleportDone>
+
+  <TeleportToSiteCenter>{0}: Teleportuj się do centrum</TeleportToSiteCenter>
+  <TeleportToSiteEdge>{0}: Teleport przy krawędzi</TeleportToSiteEdge>
+
+  <TeleportDoneCaravan>Stworzona karawana</TeleportDoneCaravan>
+  <TeleportAddToCaravan>Teleportuj zawartość do {0}</TeleportAddToCaravan>
+  <TeleportDoneCAdded>Teleportacja się powiodła, zawartość została dodana do karawany.</TeleportDoneCAdded>
+
+  <TeleportAndGift>Podaruj prezent {0} ({1}).</TeleportAndGift>
+
+  <TeleportAndTarget>Zrób zbliżenie i wybierz miejsce teleportacji</TeleportAndTarget>
+
+  <TeleportAndAttackCenter>Atak {0}: Teleport w centrum</TeleportAndAttackCenter>
+  <TeleportAndAttackEgde>Atak {0}: Teleport przy krawędzi</TeleportAndAttackEgde>
+
+  <TeleportDestroyed>Ponieważ nie było żadnych teleportowanych kolonistów, teleportacja nie powiodła się, a zawartość została utracona.</TeleportDestroyed>
+
+  <!-- Settings strings -->
+  <SName>Rozszerzone frakcje wanilii - Insektoidy</SName>
+  <PusleLabel>Efekt impulsu odstraszającego:</PusleLabel>
+  <PusleTooltip>Włącz lub wyłącz efekt pulsu odstraszacza infestacji dźwiękowej.</PusleTooltip>
+
+</LanguageData>

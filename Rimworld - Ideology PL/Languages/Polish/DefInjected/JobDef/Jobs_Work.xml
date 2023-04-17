@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prisoner -->
+
+  <PrisonerEnslave.reportString>zniewolenie TargetA.</PrisonerEnslave.reportString>
+  <PrisonerConvert.reportString>konwersja TargetA.</PrisonerConvert.reportString>
+
+
+  <!-- Slave -->
+
+  <SlaveSuppress.reportString>tłumienie TargetA.</SlaveSuppress.reportString>
+  <SlaveEmancipation.reportString>emancypujący TargetA.</SlaveEmancipation.reportString>
+  <SlaveExecution.reportString>wykonywanie TargetA.</SlaveExecution.reportString>
+  <Hack.reportString>hakowanie TargetA.</Hack.reportString>
+
+
+  <!-- Misc -->
+
+  <PlantSeed.reportString>sadzenie TargetA.</PlantSeed.reportString>
+  <CreateAndEnterCocoon.reportString>tworzenie kokonu.</CreateAndEnterCocoon.reportString>
+  <ReturnToGauranlenTree.reportString>wracając do TargetA.</ReturnToGauranlenTree.reportString>
+  <MergeIntoGaumakerPod.reportString>scalanie w TargetB.</MergeIntoGaumakerPod.reportString>
+  <ChangeTreeMode.reportString>zmieniająca się driada kasty TargetA</ChangeTreeMode.reportString>
+  <PruneGauranlenTree.reportString>przycinanie TargetA.</PruneGauranlenTree.reportString>
+  <ExtractSkull.reportString>pobranie czaszki z TargetA.</ExtractSkull.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_PsychicNoDamage.label>psychiczny</VFEI_PsychicNoDamage.label>
+  <VFEI_PsychicNoDamage.deathMessage>{0} został zabity.</VFEI_PsychicNoDamage.deathMessage>
+
+  <VFEI_ToxicSting.label>toksyczne żądło</VFEI_ToxicSting.label>
+  <VFEI_ToxicSting.deathMessage>{0} został użądlony na śmierć.</VFEI_ToxicSting.deathMessage>
+
+
+</LanguageData>

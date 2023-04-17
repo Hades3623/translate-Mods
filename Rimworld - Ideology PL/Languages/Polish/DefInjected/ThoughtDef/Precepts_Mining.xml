@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: Mined -->
+
+  <Mined_Know_Prohibited.stages.0.label>zaminowany</Mined_Know_Prohibited.stages.0.label>
+
+  <Mined_Know_Prohibited_Mood.stages.0.label>zaminowany</Mined_Know_Prohibited_Mood.stages.0.label>
+  <Mined_Know_Prohibited_Mood.stages.0.description>Wydobyliśmy dziurę w czystej ziemi. Co za straszna obraza natury.</Mined_Know_Prohibited_Mood.stages.0.description>
+
+  <Mined_Horrible.stages.0.label>zaminowany</Mined_Horrible.stages.0.label>
+  <Mined_Horrible.stages.0.description>Musiałem wykopać dziurę. To była obraza ziemi.</Mined_Horrible.stages.0.description>
+
+  <Mined_Know_Horrible.stages.0.label>zaminowany</Mined_Know_Horrible.stages.0.label>
+
+  <Mined_Know_Horrible_Mood.stages.0.label>zaminowany</Mined_Know_Horrible_Mood.stages.0.label>
+  <Mined_Know_Horrible_Mood.stages.0.description>Ktoś wykopał dziurę w czystej ziemi. To było straszne naruszenie natury.</Mined_Know_Horrible_Mood.stages.0.description>
+
+  <Mined_Disapproved.stages.0.label>zaminowany</Mined_Disapproved.stages.0.label>
+  <Mined_Disapproved.stages.0.description>Musiałem wykopać dziurę. Nie pochwalam szkodzenia ziemi w ten sposób.</Mined_Disapproved.stages.0.description>
+
+  <Mined_Know_Disapproved.stages.0.label>zaminowany</Mined_Know_Disapproved.stages.0.label>
+
+  <Mined_Know_Disapproved_Mood.stages.0.label>zaminowany</Mined_Know_Disapproved_Mood.stages.0.label>
+  <Mined_Know_Disapproved_Mood.stages.0.description>Ktoś wykopał dziurę w czystej ziemi. Błędem jest straszyć świat w ten sposób.</Mined_Know_Disapproved_Mood.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TargetLightRadius>Aktualny promień światła</TargetLightRadius>
+  <CurrentLightOpacity>Aktualna intensywność</CurrentLightOpacity>
+
+  <CommandRaiseLightRDesc>Zwiększ aktualny promień.</CommandRaiseLightRDesc>
+  <CommandLowerLightRDesc>Zmniejsz aktualny promień.</CommandLowerLightRDesc>
+
+  <CommandRaiseLightIntDesc>Zwiększ bieżącą intensywność.</CommandRaiseLightIntDesc>
+  <CommandLowerLightIntDesc>Zmniejsz natężenie prądu.</CommandLowerLightIntDesc>
+
+  <LightIntensityPercent>% intesywność.</LightIntensityPercent>
+  <LightRadiusCells>Promień komórki.</LightRadiusCells>
+
+  <SwitchedColourDesc>Zmień kolor światła na</SwitchedColourDesc>
+  <LightColourRed>Czerwony</LightColourRed>
+  <LightColourGreen>Zielony</LightColourGreen>
+  <LightColourBlue>niebieski</LightColourBlue>
+  <LightColourWhite>Biały</LightColourWhite>
+
+  <EnableAutoForbid>Włącz auto-forbid</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Broń i ekwipunek przechowywane tutaj będą automatycznie zakazane do momentu osiągnięcia pełnego HP.</EnableAutoForbidExplanation>
+
+</LanguageData>

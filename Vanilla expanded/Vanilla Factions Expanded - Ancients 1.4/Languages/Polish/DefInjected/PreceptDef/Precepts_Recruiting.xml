@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VFEA_Recruiting_Forbidden.label>zabronione</VFEA_Recruiting_Forbidden.label>
+  <VFEA_Recruiting_Forbidden.description>Nie potrzebujemy niczyjej pomocy i nie przyjmiemy do naszych szeregów nikogo z zewnątrz.</VFEA_Recruiting_Forbidden.description>
+
+  <VFEA_BeingRecruited_Forbidden.label>zabronione</VFEA_BeingRecruited_Forbidden.label>
+  <VFEA_BeingRecruited_Forbidden.description>Jesteśmy dumnym narodem i nie przyłączymy się do nikogo, bo przynosi nam to wielki wstyd.</VFEA_BeingRecruited_Forbidden.description>
+
+
+</LanguageData>

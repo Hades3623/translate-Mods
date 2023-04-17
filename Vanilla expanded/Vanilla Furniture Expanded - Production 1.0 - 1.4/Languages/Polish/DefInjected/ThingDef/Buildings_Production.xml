@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_ComponentFabricationBench.label>ławka montażowa</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Stół warsztatowy wyposażony w zaawansowane narzędzia do produkcji komponentów.</VFE_ComponentFabricationBench.description>
+
+  <VFE_TableButcherElectric.label>rzeźnik elektryczny</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Zmotoryzowany stół z obrotowym brzeszczotem do szybszego rozdrabniania martwych stworzeń w precyzyjne plastry surowego mięsa. Zużywa dużo energii.</VFE_TableButcherElectric.description>
+
+  <VFE_TableDrugLabElectric.label>elektryczne laboratorium leków</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Zaawansowane stanowisko robocze wyposażone w pojemniki, podgrzewacze i urządzenia pomiarowe do wydajniejszej produkcji różnych leków. Zużywa dużo energii.</VFE_TableDrugLabElectric.description>
+
+  <VFE_FueledSmelter.label>piec do wytapiania paliwa</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Stacja do wytopu opalana drewnem. Wydobywa użyteczny metal z odłamków i innych mieszanych elementów metalowych.</VFE_FueledSmelter.description>
+
+  <VFE_TableStonecutterElectric.label>elektryczny stół kamieniarski</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Zaawansowany stół roboczy z piłami elektrycznymi i uchwytami do cięcia kawałków kamienia na użyteczne bloki w krótszym czasie na linii montażowej. Zużywa dużo energii.</VFE_TableStonecutterElectric.description>
+
+
+</LanguageData>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <VFE_Mech_Centipede.label>skolopendra</VFE_Mech_Centipede.label>
+  <VFE_Mech_Centipede.labelPlural>stonogi</VFE_Mech_Centipede.labelPlural>
+  <VFE_Mech_Centipede.labelMale>męska stonoga</VFE_Mech_Centipede.labelMale>
+  <VFE_Mech_Centipede.labelMalePlural>samce stonogi</VFE_Mech_Centipede.labelMalePlural>
+  <VFE_Mech_Centipede.labelFemale>samica stonoga</VFE_Mech_Centipede.labelFemale>
+  <VFE_Mech_Centipede.labelFemalePlural>samice stonogi</VFE_Mech_Centipede.labelFemalePlural>
+
+
+  <!-- Lancer - fast mid-range shooter -->
+
+  <VFE_Mech_Lancer.label>Lancer</VFE_Mech_Lancer.label>
+  <VFE_Mech_Lancer.labelPlural>Lancerzy</VFE_Mech_Lancer.labelPlural>
+  <VFE_Mech_Lancer.labelMale>lancer</VFE_Mech_Lancer.labelMale>
+  <VFE_Mech_Lancer.labelMalePlural>lancerzy</VFE_Mech_Lancer.labelMalePlural>
+  <VFE_Mech_Lancer.labelFemale>kobieta lancer</VFE_Mech_Lancer.labelFemale>
+  <VFE_Mech_Lancer.labelFemalePlural>samice lancer</VFE_Mech_Lancer.labelFemalePlural>
+
+
+  <!-- Knight - slow short-range shooter -->
+
+  <VFE_Mech_Knight.label>rycerz</VFE_Mech_Knight.label>
+  <VFE_Mech_Knight.labelPlural>rycerze</VFE_Mech_Knight.labelPlural>
+  <VFE_Mech_Knight.labelMale>rycerz</VFE_Mech_Knight.labelMale>
+  <VFE_Mech_Knight.labelMalePlural>rycerze</VFE_Mech_Knight.labelMalePlural>
+  <VFE_Mech_Knight.labelFemale>kobieta rycerz</VFE_Mech_Knight.labelFemale>
+  <VFE_Mech_Knight.labelFemalePlural>kobiety rycerz</VFE_Mech_Knight.labelFemalePlural>
+
+
+  <!-- Inquisitor - armored short-range flamer -->
+
+  <VFE_Mech_Inquisitor.label>inkwizytor</VFE_Mech_Inquisitor.label>
+  <VFE_Mech_Inquisitor.labelPlural>inkwizytorzy</VFE_Mech_Inquisitor.labelPlural>
+  <VFE_Mech_Inquisitor.labelMale>inkwizytor</VFE_Mech_Inquisitor.labelMale>
+  <VFE_Mech_Inquisitor.labelMalePlural>inkwizytorzy</VFE_Mech_Inquisitor.labelMalePlural>
+  <VFE_Mech_Inquisitor.labelFemale>inkwizytorka</VFE_Mech_Inquisitor.labelFemale>
+  <VFE_Mech_Inquisitor.labelFemalePlural>inkwizytorki</VFE_Mech_Inquisitor.labelFemalePlural>
+
+
+  <!-- Scyther - fast melee -->
+
+  <VFE_Mech_Scyther.label>scyther</VFE_Mech_Scyther.label>
+  <VFE_Mech_Scyther.labelPlural>scythers</VFE_Mech_Scyther.labelPlural>
+  <VFE_Mech_Scyther.labelMale>scyther</VFE_Mech_Scyther.labelMale>
+  <VFE_Mech_Scyther.labelMalePlural>scytherowie</VFE_Mech_Scyther.labelMalePlural>
+  <VFE_Mech_Scyther.labelFemale>kobieta scyther</VFE_Mech_Scyther.labelFemale>
+  <VFE_Mech_Scyther.labelFemalePlural>kobiety scythers</VFE_Mech_Scyther.labelFemalePlural>
+
+
+  <!-- Pikeman - slow sniper weak at close range -->
+
+  <VFE_Mech_Pikeman.label>pikinier</VFE_Mech_Pikeman.label>
+  <VFE_Mech_Pikeman.labelPlural>pikinierzy</VFE_Mech_Pikeman.labelPlural>
+  <VFE_Mech_Pikeman.labelMale>pikinier</VFE_Mech_Pikeman.labelMale>
+  <VFE_Mech_Pikeman.labelMalePlural>pikinierzy</VFE_Mech_Pikeman.labelMalePlural>
+  <VFE_Mech_Pikeman.labelFemale>pikinierka</VFE_Mech_Pikeman.labelFemale>
+  <VFE_Mech_Pikeman.labelFemalePlural>pikinierki</VFE_Mech_Pikeman.labelFemalePlural>
+
+
+  <!-- Carpenter - slow deconstructor -->
+
+  <VFE_Mech_Carpenter.label>stolarz</VFE_Mech_Carpenter.label>
+  <VFE_Mech_Carpenter.labelPlural>stolarze</VFE_Mech_Carpenter.labelPlural>
+  <VFE_Mech_Carpenter.labelMale>stolarz</VFE_Mech_Carpenter.labelMale>
+  <VFE_Mech_Carpenter.labelMalePlural>stolarze</VFE_Mech_Carpenter.labelMalePlural>
+  <VFE_Mech_Carpenter.labelFemale>kobieta stolarz</VFE_Mech_Carpenter.labelFemale>
+  <VFE_Mech_Carpenter.labelFemalePlural>kobiety stolarz</VFE_Mech_Carpenter.labelFemalePlural>
+
+
+  <!-- Termite -->
+
+  <VFE_Mech_Termite.label>termit</VFE_Mech_Termite.label>
+  <VFE_Mech_Termite.labelPlural>termity</VFE_Mech_Termite.labelPlural>
+  <VFE_Mech_Termite.labelMale>męski termit</VFE_Mech_Termite.labelMale>
+  <VFE_Mech_Termite.labelMalePlural>male termity</VFE_Mech_Termite.labelMalePlural>
+  <VFE_Mech_Termite.labelFemale>żeński termit</VFE_Mech_Termite.labelFemale>
+  <VFE_Mech_Termite.labelFemalePlural>żeńskie termity</VFE_Mech_Termite.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientSolarGenerator.label>starożytny generator słoneczny</VFEA_AncientSolarGenerator.label>
+  <VFEA_AncientSolarGenerator.description>Ten generator pobiera energię z rozbłysków słonecznych. Są one często używane w kryptach, aby wspierać wewnętrzne generatory w rzadkich przypadkach burz słonecznych.\n\nTa struktura została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielać. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientSolarGenerator.description>
+
+  <VFEA_AncientChemfuelPoweredGenerator.label>starożytny generator zasilany biopaliwem</VFEA_AncientChemfuelPoweredGenerator.label>
+  <VFEA_AncientChemfuelPoweredGenerator.description>Wytwarza niezawodny strumień energii zużywając chempaliwo. Musi być okresowo uzupełniane ręcznie.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielać. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientChemfuelPoweredGenerator.description>
+
+  <VFEA_AncientGeothermalPlant.label>starożytna elektrownia geotermalna</VFEA_AncientGeothermalPlant.label>
+  <VFEA_AncientGeothermalPlant.description>Wytwarza energię elektryczną z geotermalnych gejzerów parowych. Często stosowany w głębokich górskich podziemiach, aby zapewnić moc całej konstrukcji. Jest również w stanie regulować temperaturę w pomieszczeniu i może działać jako grzejnik lub zamrażarka. Musi być umieszczony na gejzerze parowym.\n\nTa struktura została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientGeothermalPlant.description>
+
+  <VFEA_AncientBattery.label>starożytna bateria</VFEA_AncientBattery.label>
+  <VFEA_AncientBattery.description>Stara, duża bateria często spotykana w kryptach, zdolna do utrzymania całego kompleksu przez prawie nieskończony czas.\n\nTa struktura została zbudowana przez dawno zapomnianą cywilizację, a technologii nie można już powielić. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientBattery.description>
+
+  <VFEA_AncientBioBatteryTank.label>starożytny zbiornik bio-baterii</VFEA_AncientBioBatteryTank.label>
+  <VFEA_AncientBioBatteryTank.description>Wytwarza niezawodny strumień mocy, zużywając materiał biologiczny, taki jak zwłoki ludzi lub zwierząt. Musi być okresowo uzupełniany zwłokami.\n\nTa konstrukcja została zbudowana przez dawno zapomnianą cywilizację i nie można już replikować technologii. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientBioBatteryTank.description>
+
+
+</LanguageData>

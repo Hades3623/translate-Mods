@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VanillaPsycastsExpanded>VanillaPsycastsExpanded</VanillaPsycastsExpanded>
+  <VPE.XPPerPercent>Psycaster XP za każdy zdobyty Psyfocus</VPE.XPPerPercent>
+  <VPE.PsycasterSpawnBaseChance>Szansa na pojawienie się Basilicus Bestower Psycaster</VPE.PsycasterSpawnBaseChance>
+  <VPE.PsycasterSpawnAdditional>Współczynnik wytrzymałości Basilicus Bestower Psycaster</VPE.PsycasterSpawnAdditional>
+  <VPE.AllowShrink>Zezwolić na kurczenie się?</VPE.AllowShrink>
+  <VPE.AllowShrink.Desc>Pozwól, aby gadżety psycastów zmniejszyły się do połowy, gdy jest ich dużo.</VPE.AllowShrink.Desc>
+  <VPE.SmallMode>Mały tryb interfejsu użytkownika</VPE.SmallMode>
+  <VPE.SmallMode.Desc>W trybie samll statystyki są przenoszone do podpowiedzi, a psysety do osobnego okna dialogowego. Jeśli zaznaczone, wymusi to mały tryb. Jeśli X'ed, to zablokuje mały tryb. Jeśli jest częściowy (żółta linia), pozwoli to na zachowanie domyślne (tryb mały będzie aktywny, jeśli rozdzielczość pionowa jest mniejsza niż 1080).</VPE.SmallMode.Desc>
+
+</LanguageData>

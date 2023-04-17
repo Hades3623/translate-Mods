@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_Hallucinations.label>dostrzeganie rzeczy</VFEA_Hallucinations.label>
+  <VFEA_Hallucinations.recoveryMessage>{0} przestaje widzieć rzeczy.</VFEA_Hallucinations.recoveryMessage>
+  <VFEA_Hallucinations.baseInspectLine>Stan psychiczny: Widzenie rzeczy</VFEA_Hallucinations.baseInspectLine>
+
+
+</LanguageData>

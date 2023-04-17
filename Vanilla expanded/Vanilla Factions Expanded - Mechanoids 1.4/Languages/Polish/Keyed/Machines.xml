@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmallFish>Mała ryba</SmallFish>
+  <MediumFish>Średnia ryba</MediumFish>
+  <LargeFish>Duża ryba</LargeFish>
+  <GizmoDescriptionSmall>Poproś Wędkarza o złowienie małych rybek.</GizmoDescriptionSmall>
+  <GizmoDescriptionMedium>Poproś Wędkarza o złowienie średnich ryb.</GizmoDescriptionMedium>
+  <GizmoDescriptionLarge>Poproś Wędkarza o złowienie dużych ryb.</GizmoDescriptionLarge>
+  <VFE_FishTrapperGizmoLabelSmall>Mała ryba</VFE_FishTrapperGizmoLabelSmall>
+  <VFE_FishTrapperGizmoLabelMedium>Średnia ryba</VFE_FishTrapperGizmoLabelMedium>
+  <VFE_FishTrapperGizmoLabelLarge>Duża ryba</VFE_FishTrapperGizmoLabelLarge>
+  <VFEM.PropagandaMode>Tryb: {0}</VFEM.PropagandaMode>
+  <VFEM.RelaxingMusic>Muzyka relaksacyjna</VFEM.RelaxingMusic>
+  <VFEM.InspirationalMusic>Muzyka inspirująca</VFEM.InspirationalMusic>
+  <VFEM.IdeoPropaganda>Propaganda ideologii</VFEM.IdeoPropaganda>
+  <VFEM.Recruitment>Rekrutacja więźniów</VFEM.Recruitment>
+
+  <VFEM.RelaxingMusicDesc>Odtwarzaj muzykę relaksacyjną, dzięki czemu każdy, kto ją usłyszy, będzie nieco szczęśliwszy.</VFEM.RelaxingMusicDesc>
+  <VFEM.InspirationalMusicDesc>Puść inspirującą muzykę, motywującą pionki do cięższej pracy.</VFEM.InspirationalMusicDesc>
+  <VFEM.IdeoPropagandaDesc>Puszczaj muzykę propagandową, zwiększając pewność kolonistów.</VFEM.IdeoPropagandaDesc>
+  <VFEM.RecruitmentDesc>Odtwarzaj muzykę, która jest lubiana przez więźniów, zmniejszając ich opór.</VFEM.RecruitmentDesc>
+  <VFEM.SelectIdeology>Wybierz ideologię</VFEM.SelectIdeology>
+  <VFEM.SelectIdeologyDesc>Wybierz ideologię, do której autobroadcaster powinien dostroić swoją muzykę.</VFEM.SelectIdeologyDesc>
+  <VFEM.CurrentIdeology>Aktualna ideologia: {0}</VFEM.CurrentIdeology>
+  <VFEM.MustHaveAnotherIdeology>Musi wierzyć w inną ideologię</VFEM.MustHaveAnotherIdeology>
+  <VFEM.CannotEnter>Nie można wejść: {0}</VFEM.CannotEnter>
+
+  <!--<VFEMechForceRecharge>Wymuś Recharge</VFEMechForceRecharge>-->
+  <!--<VFEMechForceRechargeDesc>Nakaż powiązanej maszynie powrót na tę platformę w celu naładowania, niezależnie od aktualnego poziomu naładowania baterii.</VFEMechForceRechargeDesc>-->
+  <!--<VFEMechAttachTurret>Dołącz wieżyczkę</VFEMechAttachTurret>-->
+  <!--<VFEMechAttachTurretDesc>Zbuduj wieżyczkę na szczycie tej mobilnej platformy. Będzie to wymagało od kolonisty dostarczenia zasobów równych normalnemu kosztowi budowy tej wieży.</VFEMechAttachTurretDesc>-->
+  <!--<VFEMechMachineDied>Maszyna zniszczona</VFEMechMachineDied>-->
+  <!--<VFEMechMachineDiedDesc>Jedna z twoich maszyn została zniszczona! Możesz zdemontować jego resztki przy stole obróbczym. Aby skonstruować zamiennik, jeden z twoich kolonistów będzie musiał dostarczyć na swoją platformę następujące części: 
+ 
+ {0}</VFEMechMachineDiedDesc>-->
+  <!--<VFEMechNoResources>Niewystarczające zasoby</VFEMechNoResources>-->
+  <!--<VFEMechNoTurret>Brak aktywnej ruchomej wieżyczki</VFEMechNoTurret>-->
+  <!--<VFEMechReconstruct>Potrzebne do przebudowy maszyny:</VFEMechReconstruct>-->
+  <!--<VFEMechTurretResources>Potrzebne do skonstruowania wieży:</VFEMechTurretResources>-->
+  <!--<VFEMechLowerRange>Zmniejsz zasięg</VFEMechLowerRange>-->
+  <!--<VFEMechLowerRangeDesc>Zmniejsz liczbę płytek, które ta maszyna będzie podróżować.</VFEMechLowerRangeDesc>-->
+  <!--<VFEMechRaiseRange>Zwiększ zasięg</VFEMechRaiseRange>-->
+  <!--<VFEMechRaiseRangeDesc>Zwiększ liczbę płytek, które ta maszyna będzie podróżować.</VFEMechRaiseRangeDesc>-->
+  <!--<VFEMechStopMachine>Zatrzymaj maszynę</VFEMechStopMachine>-->
+  <!--<VFEMechStopMachineDesc>Zatrzymaj postęp tej maszyny i zmuś ją do powrotu do bazy.</VFEMechStopMachineDesc>-->
+  <!--<VFEMechStartMachine>Uruchom maszynę</VFEMechStartMachine>-->
+  <!--<VFEMechStartMachineDesc>Uruchom tę maszynę.</VFEMechStartMachineDesc>-->
+  <!--<VFEMechMachineHitObstacle>Maszyna napotkała przeszkodę!</VFEMechMachineHitObstacle>-->
+  <!--<VFEMechSetArea>Ustaw obszar</VFEMechSetArea>-->
+  <!--<VFEMechSetAreaDesc>Ustaw dozwolony obszar dla wszystkich powiązanych komputerów z tą platformą.</VFEMechSetAreaDesc>-->
+
+</LanguageData>

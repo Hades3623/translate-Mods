@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Genetic Material -->
+
+  <VFEI_DroneGenome.label>materiał genetyczny drona</VFEI_DroneGenome.label>
+  <VFEI_DroneGenome.description>Materiał genetyczny kilku różnych gatunków zwierząt roboczych i dronów, zmieszany w jeden ładunek DNA. \ N 
+Po podaniu człowiekowi genom ten może mieć losowy efekt.</VFEI_DroneGenome.description>
+
+  <VFEI_WarriorGenome.label>materiał genetyczny wojownika</VFEI_WarriorGenome.label>
+  <VFEI_WarriorGenome.description>Materiał genetyczny kilku różnych gatunków owadów i drapieżników z kasty wojowników, zmieszany w jeden ładunek DNA. \ N 
+Po podaniu człowiekowi genom ten może mieć losowy efekt.</VFEI_WarriorGenome.description>
+
+  <VFEI_RoyalGenome.label>królewski materiał genetyczny</VFEI_RoyalGenome.label>
+  <VFEI_RoyalGenome.description>Materiał genetyczny kilku różnych gatunków królewskich insektoidów i królowych, zmieszany w jeden ładunek DNA. \ N 
+Po podaniu człowiekowi genom ten może mieć losowy efekt.</VFEI_RoyalGenome.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeditationSchedule.label>Harmonogram medytacji</MeditationSchedule.label>
+  <MeditationSchedule.helpText>Możesz przydzielić kolonistów do medytacji według określonego harmonogramu.\n\nOtwórz zakładkę HARMONOGRAM, wybierz zadanie „Medytuj” i kliknij i przeciągnij czasy, w których chcesz, aby ktoś medytował.</MeditationSchedule.helpText>
+
+  <MeditationDesiredPsyfocus.label>Medytacja pożądana psyfocus</MeditationDesiredPsyfocus.label>
+  <MeditationDesiredPsyfocus.helpText>Możesz ustawić żądany poziom psychofokusa dla każdego kolonisty. Aby to zrobić, wybierz kolonistę z psylinkiem i kliknij jego pasek psylink.\n\nJeśli psychika kolonisty jest poniżej pożądanego poziomu, będą medytować automatycznie podczas zadania czasowego "Cokolwiek".</MeditationDesiredPsyfocus.helpText>
+
+
+</LanguageData>

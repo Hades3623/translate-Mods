@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OrbitalTargeterMechCluster.label>orbitalny celownik klastra mech</OrbitalTargeterMechCluster.label>
+  <OrbitalTargeterMechCluster.description>Starożytne wojskowe urządzenie celownicze. Wysyła sygnał do platformy orbitalnej, aby ta zrzuciła na namierzony punkt grupę mechanoidów. Skupisko może składać się z dowolnej mieszanki mechanoidów i struktur obronnych mechów.
+\nMimo, że kiedyś mogły być wierne starożytnej armii, która stworzyła tę jednostkę, wszystkie zrzucone mechy będą atakować każdego człowieka, którego zobaczą, łącznie z tym, który je przywołał.
+\nJednostka posiada tylko jeden kod, więc może być użyta tylko raz..</OrbitalTargeterMechCluster.description>
+
+
+</LanguageData>

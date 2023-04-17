@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RockHead.label>skalista głowa</VPE_RockHead.label>
+  <VPE_RockBody.label>skaliste ciało</VPE_RockBody.label>
+  <VPE_MetalHead.label>metalowa głowa</VPE_MetalHead.label>
+  <VPE_MetalBody.label>metalowy korpus</VPE_MetalBody.label>
+  <VPE_Skull.label>czaszka</VPE_Skull.label>
+  <VPE_SkeletalLeg.label>szkieletowa noga</VPE_SkeletalLeg.label>
+  <VPE_SkeletalArm.label>szkieletowe ramię</VPE_SkeletalArm.label>
+
+
+</LanguageData>

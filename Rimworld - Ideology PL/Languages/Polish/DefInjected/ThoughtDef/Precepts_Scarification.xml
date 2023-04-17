@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ceremony thoughts -->
+
+  <ScarificationCeremony_Know_Horrible.stages.0.label>Ceremonia wertykulacji</ScarificationCeremony_Know_Horrible.stages.0.label>
+  <ScarificationCeremony_Know_Horrible.stages.0.description>Okaleczyliśmy kolegę kolonistę z powodu przekonań ideologicznych! To jest źle!</ScarificationCeremony_Know_Horrible.stages.0.description>
+
+  <ScarificationCeremony_Self_Minor.stages.0.label>został wertykulowany</ScarificationCeremony_Self_Minor.stages.0.label>
+  <ScarificationCeremony_Self_Minor.stages.0.description>Noszę nowy rytualny znak, aby przypomnieć mi o naszej prawdzie.</ScarificationCeremony_Self_Minor.stages.0.description>
+
+  <ScarificationCeremony_Self_Heavy.stages.0.label>został wertykulowany</ScarificationCeremony_Self_Heavy.stages.0.label>
+  <ScarificationCeremony_Self_Heavy.stages.0.description>Noszę nowy rytualny znak, który łączy mnie z naszą prawdą.</ScarificationCeremony_Self_Heavy.stages.0.description>
+
+  <ScarificationCeremony_Self_Extreme.stages.0.label>został wertykulowany</ScarificationCeremony_Self_Extreme.stages.0.label>
+  <ScarificationCeremony_Self_Extreme.stages.0.description>Noszę nowy rytualny znak, aby związać mnie z naszą prawdą.</ScarificationCeremony_Self_Extreme.stages.0.description>
+
+
+  <!-- Thoughts -->
+
+  <Scarification_Extreme_Opinion.stages.0.label>wertykulowany</Scarification_Extreme_Opinion.stages.0.label>
+  <Scarification_Extreme_Opinion.stages.1.label>nie wertykulowany</Scarification_Extreme_Opinion.stages.1.label>
+  <Scarification_Extreme_Opinion.stages.2.label>niewystarczająco wertykulowana</Scarification_Extreme_Opinion.stages.2.label>
+
+  <Scarification_Extreme.stages.0.label>wertykulowany</Scarification_Extreme.stages.0.label>
+  <Scarification_Extreme.stages.0.description>Moje oddanie jest napisane w nieusuwalnym bólu.</Scarification_Extreme.stages.0.description>
+  <Scarification_Extreme.stages.1.label>nie wertykulowany</Scarification_Extreme.stages.1.label>
+  <Scarification_Extreme.stages.1.description>Ta gładka skóra to parodia.</Scarification_Extreme.stages.1.description>
+  <Scarification_Extreme.stages.2.label>niewystarczająco wertykulowana</Scarification_Extreme.stages.2.label>
+  <Scarification_Extreme.stages.2.description>Ta gładka skóra to parodia.</Scarification_Extreme.stages.2.description>
+
+  <Scarification_Heavy_Opinion.stages.0.label>wertykulowany</Scarification_Heavy_Opinion.stages.0.label>
+  <Scarification_Heavy_Opinion.stages.1.label>nie wertykulowany</Scarification_Heavy_Opinion.stages.1.label>
+  <Scarification_Heavy_Opinion.stages.2.label>niewystarczająco wertykulowana</Scarification_Heavy_Opinion.stages.2.label>
+
+  <Scarification_Heavy.stages.0.label>wertykulowany</Scarification_Heavy.stages.0.label>
+  <Scarification_Heavy.stages.0.description>Znoszę wiele cięć, jak trzeba.</Scarification_Heavy.stages.0.description>
+  <Scarification_Heavy.stages.1.label>nie wertykulowany</Scarification_Heavy.stages.1.label>
+  <Scarification_Heavy.stages.1.description>Ta gładka skóra jest zła.</Scarification_Heavy.stages.1.description>
+  <Scarification_Heavy.stages.2.label>niewystarczająco wertykulowana</Scarification_Heavy.stages.2.label>
+  <Scarification_Heavy.stages.2.description>Ta gładka skóra jest zła.</Scarification_Heavy.stages.2.description>
+
+  <Scarification_Minor_Opinion.stages.0.label>wertykulowany</Scarification_Minor_Opinion.stages.0.label>
+  <Scarification_Minor_Opinion.stages.1.label>nie wertykulowany</Scarification_Minor_Opinion.stages.1.label>
+  <Scarification_Minor_Opinion.stages.2.label>niewystarczająco wertykulowana</Scarification_Minor_Opinion.stages.2.label>
+
+  <Scarification_Minor.stages.0.label>wertykulowany</Scarification_Minor.stages.0.label>
+  <Scarification_Minor.stages.0.description>Noszę piętno, jak należy.</Scarification_Minor.stages.0.description>
+  <Scarification_Minor.stages.1.label>nie wertykulowany</Scarification_Minor.stages.1.label>
+  <Scarification_Minor.stages.1.description>Brakuje mi odpowiedniej blizny rytualnej.</Scarification_Minor.stages.1.description>
+  <Scarification_Minor.stages.2.label>niewystarczająco wertykulowana</Scarification_Minor.stages.2.label>
+  <Scarification_Minor.stages.2.description>Brakuje mi odpowiedniej blizny rytualnej.</Scarification_Minor.stages.2.description>
+
+
+</LanguageData>

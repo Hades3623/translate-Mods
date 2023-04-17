@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Combat Mechanoid gun -->
+
+  <VFE_Gun_CombatMechanoidGun.label>ręczna mini-wieżyczka</VFE_Gun_CombatMechanoidGun.label>
+  <VFE_Gun_CombatMechanoidGun.description>Przenośny automatyczny pistolet wieżowy. Wykorzystuje nowoczesne komponenty karabinu szturmowego w ramie kompatybilnej z mechanoidami.</VFE_Gun_CombatMechanoidGun.description>
+  <VFE_Gun_CombatMechanoidGun.tools.0.label>magazyn</VFE_Gun_CombatMechanoidGun.tools.0.label>
+  <VFE_Gun_CombatMechanoidGun.tools.1.label>cylinder</VFE_Gun_CombatMechanoidGun.tools.1.label>
+
+  <VFE_Gun_RaiderMechanoidGun.label>wieżyczka z ręcznym działkiem automatycznym</VFE_Gun_RaiderMechanoidGun.label>
+  <VFE_Gun_RaiderMechanoidGun.description>Przenośna wersja działa rewolwerowego Autocannon. Jego pociski dużego kalibru zadają duże obrażenia na znacznych zasięgach.</VFE_Gun_RaiderMechanoidGun.description>
+  <VFE_Gun_RaiderMechanoidGun.tools.0.label>magazyn</VFE_Gun_RaiderMechanoidGun.tools.0.label>
+  <VFE_Gun_RaiderMechanoidGun.tools.1.label>cylinder</VFE_Gun_RaiderMechanoidGun.tools.1.label>
+
+  <VFE_Gun_InfernoSpewerSmall.label>mała piekielna plujka</VFE_Gun_InfernoSpewerSmall.label>
+  <VFE_Gun_InfernoSpewerSmall.description>Zaskakująco lekki miotacz ognia mechanoidalnej konstrukcji, w stanie spoczynku urządzenie wydaje się zimne jak każde inne, ale potrafi natychmiast rozgrzać się do temperatur znacznie przewyższających czysto ludzką technologię. Dwa zamontowane pod spodem zbiorniki z chemicznym paliwem pozwalają na uzyskanie wystarczająco dużej pojemności amunicji, by móc wystrzelić duże pióropusze płynnego ognia.</VFE_Gun_InfernoSpewerSmall.description>
+  <VFE_Gun_InfernoSpewerSmall.tools.0.label>cylinder</VFE_Gun_InfernoSpewerSmall.tools.0.label>
+
+
+</LanguageData>

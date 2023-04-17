@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SteelConstruct.label>konstrukcja stalowa</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.labelPlural>konstrukcje stalowe</VPE_SteelConstruct.labelPlural>
+  <VPE_SteelConstruct.labelMale>męska konstrukcja stalowa,</VPE_SteelConstruct.labelMale>
+  <VPE_SteelConstruct.labelMalePlural>męskie konstrukcje stalowe</VPE_SteelConstruct.labelMalePlural>
+  <VPE_SteelConstruct.labelFemale>żeńska konstrukcja stalowa,</VPE_SteelConstruct.labelFemale>
+  <VPE_SteelConstruct.labelFemalePlural>żeńskie konstrukcje stalowe</VPE_SteelConstruct.labelFemalePlural>
+
+
+  <!-- Rock -->
+
+  <VPE_RockConstruct.label>konstrukcja skalna</VPE_RockConstruct.label>
+  <VPE_RockConstruct.labelPlural>konstrukcje skalne</VPE_RockConstruct.labelPlural>
+  <VPE_RockConstruct.labelMale>męski konstrukt skalny</VPE_RockConstruct.labelMale>
+  <VPE_RockConstruct.labelMalePlural>męskie konstrukcje skalne</VPE_RockConstruct.labelMalePlural>
+  <VPE_RockConstruct.labelFemale>kobieca konstrukcja skalna</VPE_RockConstruct.labelFemale>
+  <VPE_RockConstruct.labelFemalePlural>kobiece konstrukcje skalne</VPE_RockConstruct.labelFemalePlural>
+
+
+</LanguageData>

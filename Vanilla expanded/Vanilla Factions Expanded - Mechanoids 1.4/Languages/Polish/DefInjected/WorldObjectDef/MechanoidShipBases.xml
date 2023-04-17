@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Frigate.label>fregata mechaniczna</VFEM_Frigate.label>
+  <VFEM_Frigate.description>Nieznacznie zwiększa obecność mechanoidów.</VFEM_Frigate.description>
+
+  <VFEM_Destroyer.label>niszczyciel mechanoidów</VFEM_Destroyer.label>
+  <VFEM_Destroyer.description>Zwiększa obecność mechanoidów.</VFEM_Destroyer.description>
+
+  <VFEM_Cruiser.label>krążownik mechaniczny</VFEM_Cruiser.label>
+  <VFEM_Cruiser.description>Znacznie zwiększa obecność mechanoidów.</VFEM_Cruiser.description>
+
+  <VFEM_Troopship.label>oddział mechaniczny</VFEM_Troopship.label>
+  <VFEM_Troopship.description>Drastycznie zwiększa obecność mechanoidów.</VFEM_Troopship.description>
+
+  <VFEM_Carrier.label>transporter mechaniczny</VFEM_Carrier.label>
+  <VFEM_Carrier.description>Ogromnie zwiększa obecność mechanoidów.</VFEM_Carrier.description>
+
+
+</LanguageData>

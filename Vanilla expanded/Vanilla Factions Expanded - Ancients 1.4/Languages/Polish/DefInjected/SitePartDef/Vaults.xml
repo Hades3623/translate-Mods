@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LootedVault.label>splądrowana krypta</VFEA_LootedVault.label>
+  <VFEA_LootedVault.description>Niedawno odkryta, splądrowana krypta.</VFEA_LootedVault.description>
+
+  <VFEA_SealedVault.label>zapieczętowana krypta</VFEA_SealedVault.label>
+  <VFEA_SealedVault.description>Niedawno odkryta, zapieczętowana krypta.</VFEA_SealedVault.description>
+
+  <VFEA_AncientSoldierHostile.label>obecność wrogów</VFEA_AncientSoldierHostile.label>
+  <VFEA_AncientSoldierHostile.description>Wrogowie są obecni w tym miejscu.</VFEA_AncientSoldierHostile.description>
+
+
+</LanguageData>

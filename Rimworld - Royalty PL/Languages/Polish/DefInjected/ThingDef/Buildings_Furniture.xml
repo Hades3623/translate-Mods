@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Drape.label>Draperia</Drape.label>
+  <Drape.description>Prześcieradło dekoracyjne zawieszone na pionowej drewnianej ramie. Nadaje się do pokoi królewskich.</Drape.description>
+
+  <Brazier.label>kotlarz</Brazier.label>
+  <Brazier.description>Zabudowa w kształcie misy służąca do rozpalania ognia. Oświetli otoczenie i wytworzy ciepło.</Brazier.description>
+  <Brazier_Blueprint.label>piecyk (plan)</Brazier_Blueprint.label>
+  <Brazier_Blueprint_Install.label>piecyk (plan)</Brazier_Blueprint_Install.label>
+  <Brazier_Frame.label>kocioł (budynek)</Brazier_Frame.label>
+  <Brazier_Frame.description>Zabudowa w kształcie misy służąca do rozpalania ognia. Oświetli otoczenie i wytworzy ciepło.</Brazier_Frame.description>
+
+  <Throne.label>tron medytacyjny</Throne.label>
+  <Throne.description>Duże, ozdobne krzesło zaprojektowane dla skupionego na godności psychoterapeuty do siedzenia i medytacji. Panowanie na tronie to forma medytacji, która buduje psychikę. Dla godnych psycasterów, bardziej imponujące trony medytacyjne i sale tronowe zwiększają tempo zdobywania psychofokusu.</Throne.description>
+
+  <GrandThrone.label>wielki tron ​​medytacyjny</GrandThrone.label>
+  <GrandThrone.description>Masywne, ozdobne krzesło, zaprojektowane dla skupionego na godności psychoterapeuty do siedzenia i medytacji. Panowanie na tronie to forma medytacji, która buduje psychikę. Dla godnych psycasterów, bardziej imponujące trony medytacyjne i sale tronowe zwiększają tempo zdobywania psychofokusu.</GrandThrone.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_PsyfocusCostFactor.label>czynnik kosztowy psyfocus</VPE_PsyfocusCostFactor.label>
+  <VPE_PsyfocusCostFactor.description>Mnożnik kosztu psy-focus dla psycastów.</VPE_PsyfocusCostFactor.description>
+
+  <VPE_PsychicEntropyMinimum.label>minimalne ciepło neuronowe</VPE_PsychicEntropyMinimum.label>
+  <VPE_PsychicEntropyMinimum.description>Minimalna ilość ciepła neuronowego. Zwiększa się to poprzez utrzymywanie pewnych psycastów, które dają ciepło, które nigdy nie zanika.</VPE_PsychicEntropyMinimum.description>
+
+
+</LanguageData>

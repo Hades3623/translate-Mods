@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_DrugCabinet.label>szafka na leki</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Zwiększa szybkość pracy po umieszczeniu w pobliżu laboratorium leków. Jeden stół warsztatowy łączy do dwóch szafek na leki.</VFE_DrugCabinet.description>
+
+  <VFE_MachiningCabinet.label>szafka obróbkowa</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Zwiększa prędkość pracy po umieszczeniu w pobliżu stołu obróbczego. Jeden stół warsztatowy łączy do dwóch szaf obróbkowych.</VFE_MachiningCabinet.description>
+
+  <VFE_SmithyCabinet.label>szafka kowalska</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Zwiększa prędkość pracy po umieszczeniu w pobliżu kuźni. Jeden stół warsztatowy łączy do dwóch szaf kuźniczych.</VFE_SmithyCabinet.description>
+
+  <VFE_KitchenSinkCabinet.label>szafka kuchenna</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Zwiększa prędkość pracy po umieszczeniu w pobliżu kuchenki.</VFE_KitchenSinkCabinet.description>
+
+  <VFE_TailorCabinet.label>szafka krawiecka</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Zwiększa szybkość pracy po umieszczeniu w pobliżu stołu krawieckiego. Jeden stół warsztatowy łączy do dwóch szafek krawieckich.</VFE_TailorCabinet.description>
+
+  <VFE_FabricationCabinet.label>szafka produkcyjna</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Zwiększa prędkość pracy po umieszczeniu w pobliżu stołu produkcyjnego. Jeden stół warsztatowy może łączyć do dwóch szaf produkcyjnych.</VFE_FabricationCabinet.description>
+
+
+</LanguageData>

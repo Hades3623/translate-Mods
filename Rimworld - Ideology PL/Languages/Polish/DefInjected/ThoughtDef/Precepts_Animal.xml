@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <AteVeneratedAnimalMeat.stages.0.label>jadłem czczone mięso zwierzęce</AteVeneratedAnimalMeat.stages.0.label>
+  <AteVeneratedAnimalMeat.stages.0.description>Zjadłem mięso czczonego zwierzęcia. Naruszyłem najbardziej podstawową zasadę moralną.</AteVeneratedAnimalMeat.stages.0.description>
+
+  <TameVeneratedAnimalDied.stages.0.label>czczony {ANIMALKIND} zmarł</TameVeneratedAnimalDied.stages.0.label>
+  <TameVeneratedAnimalDied.stages.0.description>Odszedł oswojony {ANIMALKIND}. Śmierć tak szlachetnej bestii jest powodem do smutku.</TameVeneratedAnimalDied.stages.0.description>
+
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.label>czczony {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.0.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.description>Wokół mnie otaczają czczone zwierzęta.</VeneratedAnimalsOnMapOrCaravan.stages.0.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.label>czczony {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.1.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.description>Wokół mnie otaczają czczone zwierzęta.</VeneratedAnimalsOnMapOrCaravan.stages.1.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.label>czczony {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.2.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.description>Mam wokół siebie wiele czczonych zwierząt.</VeneratedAnimalsOnMapOrCaravan.stages.2.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.label>czczony {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.3.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.description>Mam wokół siebie wiele czczonych zwierząt!</VeneratedAnimalsOnMapOrCaravan.stages.3.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.label>czczony {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.4.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.description>Mam wokół siebie ogromną liczbę czczonych zwierząt!</VeneratedAnimalsOnMapOrCaravan.stages.4.description>
+
+
+</LanguageData>

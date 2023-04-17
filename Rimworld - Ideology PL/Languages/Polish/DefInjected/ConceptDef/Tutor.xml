@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EditingMemes.label>edytor poglądów</EditingMemes.label>
+  <EditingMemes.helpText>Możesz edytować poglądy, klikając je.</EditingMemes.helpText>
+
+  <EditingPrecepts.label>redagowanie nakazów</EditingPrecepts.label>
+  <EditingPrecepts.helpText>Możesz edytować nakazy, klikając je.</EditingPrecepts.helpText>
+
+
+</LanguageData>

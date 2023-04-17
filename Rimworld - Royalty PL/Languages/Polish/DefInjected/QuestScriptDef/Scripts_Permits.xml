@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Permit Shuttle</Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings.0>
+  <Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</Permit_CallShuttle.questDescriptionAndNameRules.rulesStrings.1>
+  <Permit_CallShuttle.root.nodes.0.name>shuttleReturnDays</Permit_CallShuttle.root.nodes.0.name>
+  <Permit_CallShuttle.root.nodes.1.name>goodwillChangeOnShuttleDestroyed</Permit_CallShuttle.root.nodes.1.name>
+  <Permit_CallShuttle.root.nodes.4.label>Shuttle arrived</Permit_CallShuttle.root.nodes.4.label>
+  <Permit_CallShuttle.root.nodes.4.text>The shuttle called by [asker_nameDef] has arrived.\n\nIf you don't use the shuttle, it will return to [permitFaction_name] in [shuttleReturnDays] days.</Permit_CallShuttle.root.nodes.4.text>
+  <Permit_CallShuttle.root.nodes.6.node.nodes.0.label>Shuttle left</Permit_CallShuttle.root.nodes.6.node.nodes.0.label>
+  <Permit_CallShuttle.root.nodes.6.node.nodes.0.text>The shuttle from [permitFaction_name] has departed after being made to wait for too long.</Permit_CallShuttle.root.nodes.6.node.nodes.0.text>
+
+  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Laborers</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings.0>
+  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings.1>
+  <Permit_CallLaborers.root.nodes.10.label>Laborers arrived</Permit_CallLaborers.root.nodes.10.label>
+  <Permit_CallLaborers.root.nodes.10.text>The laborers from [permitFaction_name] have arrived. A shuttle will come to collect them in [laborersDurationDays] days.</Permit_CallLaborers.root.nodes.10.text>
+  <Permit_CallLaborers.root.nodes.12.node.nodes.4.label>Shuttle arrived</Permit_CallLaborers.root.nodes.12.node.nodes.4.label>
+  <Permit_CallLaborers.root.nodes.12.node.nodes.4.text>A shuttle has arrived to collect the laborers from [permitFaction_name].</Permit_CallLaborers.root.nodes.12.node.nodes.4.text>
+  <Permit_CallLaborers.root.nodes.13.name>goodwillPenaltyPawn</Permit_CallLaborers.root.nodes.13.name>
+  <Permit_CallLaborers.root.nodes.14.name>goodwillChangeOnShuttleDestroyed</Permit_CallLaborers.root.nodes.14.name>
+  <Permit_CallLaborers.root.nodes.15.node.nodes.0.label>Laborer died: {SUBJECT_definite}</Permit_CallLaborers.root.nodes.15.node.nodes.0.label>
+  <Permit_CallLaborers.root.nodes.15.node.nodes.0.text>A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn].</Permit_CallLaborers.root.nodes.15.node.nodes.0.text>
+
+
+</LanguageData>

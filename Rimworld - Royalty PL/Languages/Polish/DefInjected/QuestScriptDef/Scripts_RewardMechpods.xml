@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.0>questName-&gt;[menace] cluster</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.0>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.1>questName-&gt;[menace] pods</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.1>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.2>questName-&gt;[nameBased]</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.2>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.3>nameBased-&gt;[asker_nameDef]'s mechs</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.3>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.4>nameBased-&gt;[asker_nameDef]'s mechanoids</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.4>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.5>nameBased-&gt;[asker_nameDef]'s mech cluster</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.5>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.6>nameBased-&gt;[asker_nameDef]'s mech [menace]</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.6>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.7>menace-&gt;threat</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.7>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.8>menace-&gt;menace</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.8>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.9>menace-&gt;scourge</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.9>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.10>menace-&gt;danger</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.10>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.11>menace-&gt;terror</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.11>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.12>menace-&gt;fear</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings.12>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.0>dangersDescription(priority=1)-&gt;\n\nThe pods contain these dangers:
+\n[allThreats]</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.0>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.1>dangersDescription-&gt;</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.1>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.2>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], is making a request. [commonMainPart]</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.2>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.3>questDescription(asker_royalInCurrentFaction==True)-&gt;[asker_nameDef], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [commonMainPart]</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.3>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.4>commonMainPart-&gt;A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]
+\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.[helpersParagraph]</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings.4>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IdeoRoleLost.stages.0.label>Utracona rola {ROLE_label}</IdeoRoleLost.stages.0.label>
+  <IdeoRoleLost.stages.0.description>Straciłem swoją rolę jako {ROLE_labelDef}.</IdeoRoleLost.stages.0.description>
+
+  <IdeoRoleEmpty.stages.0.label>Brak etykiety {ROLE_label}</IdeoRoleEmpty.stages.0.label>
+  <IdeoRoleEmpty.stages.0.description>{0}s muszą mieć {ROLE_labelIndef}!</IdeoRoleEmpty.stages.0.description>
+
+  <IdeoRoleApparelRequirementNotMet.stages.0.label>Potrzebujesz odzieży {ROLE_label}</IdeoRoleApparelRequirementNotMet.stages.0.label>
+  <IdeoRoleApparelRequirementNotMet.stages.0.description>Chcę nosić odzież odpowiednią do mojej roli jako {ROLE_labelDef}</IdeoRoleApparelRequirementNotMet.stages.0.description>
+
+  <IdeoLeaderResentmentStandard.label>Lider innej ideologii</IdeoLeaderResentmentStandard.label>
+  <IdeoLeaderResentmentStandard.stages.0.description>Nie lubię mieć {0} jako lidera.</IdeoLeaderResentmentStandard.stages.0.description>
+
+  <IdeoLeaderResentmentDisapproved.label>Lider innej ideologii</IdeoLeaderResentmentDisapproved.label>
+  <IdeoLeaderResentmentDisapproved.stages.0.description>To obraźliwe, gdy jest zamawiane przez {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
+
+  <IdeoLeaderResentmentHorrible.label>Lider innej ideologii</IdeoLeaderResentmentHorrible.label>
+  <IdeoLeaderResentmentHorrible.stages.0.description>To wstyd być zamawianym przez {0}!</IdeoLeaderResentmentHorrible.stages.0.description>
+
+  <IdeoLeaderResentmentAbhorrent.label>Lider innej ideologii</IdeoLeaderResentmentAbhorrent.label>
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>Przyjmowanie wskazówek od {0} jest całkowicie wstydliwe i odrażające.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+
+
+</LanguageData>

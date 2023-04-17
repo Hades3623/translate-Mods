@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Darkvision.label>mroczna wizja</VPE_Darkvision.label>
+  <VPE_Darkvision.description>Nadaje wybranemu pionkowi czarującą membranę, która pozwala mu widzieć równie dobrze w ciemności, jak i w dzień. Czas trwania zależy od wrażliwości psychicznej celu.</VPE_Darkvision.description>
+
+  <VPE_Darkness.label>ciemność</VPE_Darkness.label>
+  <VPE_Darkness.description>Wybierz obszar docelowy, aby wygenerować kulę całkowicie zaciemniającej ciemności, której czas trwania będzie się skalował wraz z psychiczną wrażliwością rzucającego. Całe pole widzenia jest zablokowane, a wszelkie ataki wewnątrz lub przechodzące zostaną całkowicie chybione.</VPE_Darkness.description>
+
+  <VPE_Obscure.label>ciemność</VPE_Obscure.label>
+  <VPE_Obscure.description>Tworzy pole optycznej dysharmonii wokół rzucającego, powodując, że dotknięci sojusznicy stojący w ciemności są całkowicie niewidoczni. Atakowanie przerywa iluzję.</VPE_Obscure.description>
+
+  <VPE_Eclipse.label>zaćmienie</VPE_Eclipse.label>
+  <VPE_Eclipse.description>Strategicznie umieszczając kulę zaciemniającej ciemności wysoko na niebie, rzucający może skutecznie wywołać spontaniczne zaćmienie.</VPE_Eclipse.description>
+
+  <VPE_Shadowskip.label>pomiń cienie</VPE_Shadowskip.label>
+  <VPE_Shadowskip.description>Połączenie rzucającego z własnym cieniem pozwala mu teleportować się do obszaru ciemności, nawet jeśli nie widzą lokalizacji.</VPE_Shadowskip.description>
+
+  <VPE_Decoy.label>maniak</VPE_Decoy.label>
+  <VPE_Decoy.description>Tworzy zlokalizowane pole dysharmonii optycznej, aby podróżować i pozostać w żądanym miejscu, ze skalowaniem czasu trwania z wrażliwością psychiczną. Iluzja wywoła gniew wszystkich wrogów.</VPE_Decoy.description>
+
+  <VPE_ShadowFocus.label>skupienie cienia</VPE_ShadowFocus.label>
+  <VPE_ShadowFocus.description>Emitowanie cząstek absorpcyjnej ciemności pozwala rzucającemu zwiększyć swoją psychiczną wrażliwość, która skaluje się odwrotnie z lokalnym poziomem światła.</VPE_ShadowFocus.description>
+
+  <VPE_IntensifyShadows.label>zintensyfikować cienie</VPE_IntensifyShadows.label>
+  <VPE_IntensifyShadows.description>Łączy cień rzucającego z cieniem i nasyca go zaciemniającą ciemnością, sprowadzając wszystkie obszary na mapie z mniej niż 50% poziomem światła do całkowitej ciemności. Czas trwania zależy od wrażliwości psychicznej rzucającego.</VPE_IntensifyShadows.description>
+
+  <VPE_Assassinate.label>zamach</VPE_Assassinate.label>
+  <VPE_Assassinate.description>Łączy cień rzucającego z celem w ciemnych obszarach, umożliwiając mu wielokrotne przeskakiwanie w przód i w tył, aby zaatakować w zwarciu. Ilość trafień zależy od wrażliwości psychicznej rzucającego.</VPE_Assassinate.description>
+
+  <VPE_Nightstep.label>nocny krok</VPE_Nightstep.label>
+  <VPE_Nightstep.description>Na krótko łączy pobliskich sojuszników z cieniem odległego kolonisty, aby natychmiast ich teleportować, nawet na całą planetę, o ile nie są przeciążeni. Można rzucić tylko w nocy i tymczasowo ogłusza rzucającego.</VPE_Nightstep.description>
+
+
+</LanguageData>

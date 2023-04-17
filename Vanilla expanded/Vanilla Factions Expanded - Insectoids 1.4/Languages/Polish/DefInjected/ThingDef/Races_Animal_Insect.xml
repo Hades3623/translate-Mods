@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insectoid Queen -->
+
+  <VFEI_Insectoid_Queen.label>królowa insektoidów</VFEI_Insectoid_Queen.label>
+  <VFEI_Insectoid_Queen.description>Gigantyczny, genetycznie zmodyfikowany insektoid odpowiedzialny za tworzenie nowego zaszczepiacza. Matka owadów w swoim ulu, królowa nie wykonuje ciężkiej pracy i stara się unikać walki, jeśli to możliwe. Potężna jak dorosły thrumbo, królowa zaszczepia strach u większości przeciwników. Jej gruba chitynowa zbroja sprawia, że ​​jest trudna do zabicia, podczas gdy długie, śmiercionośne ostrza mogą przebić się przez plastelową osłonę w ciągu kilku sekund. Pomimo tego, że jest dość powolna w otwartym terenie, królowa insektoidów jest w stanie tworzyć nowe larwy w szybkim tempie i nigdy nie powinna pozwalać na osiedlenie się.</VFEI_Insectoid_Queen.description>
+  <VFEI_Insectoid_Queen.tools.0.label>pazur głowy</VFEI_Insectoid_Queen.tools.0.label>
+  <VFEI_Insectoid_Queen.tools.1.label>głowa</VFEI_Insectoid_Queen.tools.1.label>
+
+
+  <!-- Insectoid Royal Megaspider -->
+
+  <VFEI_Insectoid_RoyalMegaspider.label>królewski megaspider</VFEI_Insectoid_RoyalMegaspider.label>
+  <VFEI_Insectoid_RoyalMegaspider.description>W rzeczywistości nie jest to pająk, ale królewski megaspider jest naturalnym pomiotem królowej insektoidów wielkości nosorożca, służącym nie tylko jako jej ochroniarz, ale także jako główny partner. Zaprojektowany nie do pracy, ale tylko do walki, jego gruba chitynowa zbroja sprawia, że ​​trudno go zabić, a długie, śmiercionośne ostrza rozpruwacza pozwalają mu zabijać intruzów w imię jego królowej.</VFEI_Insectoid_RoyalMegaspider.description>
+  <VFEI_Insectoid_RoyalMegaspider.tools.0.label>pazur głowy</VFEI_Insectoid_RoyalMegaspider.tools.0.label>
+  <VFEI_Insectoid_RoyalMegaspider.tools.1.label>głowa</VFEI_Insectoid_RoyalMegaspider.tools.1.label>
+
+
+  <!-- Insectoid Gigalocust -->
+
+  <VFEI_Insectoid_Gigalocust.label>gigalocust</VFEI_Insectoid_Gigalocust.label>
+  <VFEI_Insectoid_Gigalocust.description>Zaprojektowany genetycznie dron myśliwski wielkości słonia. Potrafi latać na duże odległości, spadając na niczego niepodejrzewające cele, rozszarpując je na strzępy kilkoma zestawami zrywaczy i ostrych żuchw. Służąc jako specjalne słudzy królowej insektoidów, te potwory są zabójcze, szybkie i prawie niezniszczalne.</VFEI_Insectoid_Gigalocust.description>
+  <VFEI_Insectoid_Gigalocust.tools.0.label>pazur głowy</VFEI_Insectoid_Gigalocust.tools.0.label>
+  <VFEI_Insectoid_Gigalocust.tools.1.label>głowa</VFEI_Insectoid_Gigalocust.tools.1.label>
+
+
+  <!-- Insectoid Royal Megapede -->
+
+  <VFEI_Insectoid_Megapede.label>megapede</VFEI_Insectoid_Megapede.label>
+  <VFEI_Insectoid_Megapede.description>Gigantyczny, ciężki insektoid, który ślizga się po dziesiątkach maleńkich nóg. Jego gruba chitynowa zbroja i ostre żuchwy wielkości kieł słonia sprawiają, że jest to doskonała machina oblężnicza. Ze względu na to, że są bardzo powolne, są nieco podatne na taktykę uderz i uciekaj.</VFEI_Insectoid_Megapede.description>
+  <VFEI_Insectoid_Megapede.tools.0.label>pazur głowy</VFEI_Insectoid_Megapede.tools.0.label>
+  <VFEI_Insectoid_Megapede.tools.1.label>żuchwy</VFEI_Insectoid_Megapede.tools.1.label>
+  <VFEI_Insectoid_Megapede.tools.2.label>głowa</VFEI_Insectoid_Megapede.tools.2.label>
+
+
+  <!-- Insectoid Larvae -->
+
+  <VFEI_Insectoid_Larvae.label>larwy</VFEI_Insectoid_Larvae.label>
+  <VFEI_Insectoid_Larvae.description>Młode formy insektoidów, larwy są nieszkodliwe, powolne i łatwe do zabicia. Po jakimś czasie przechodzi metamorfozę, zamieniając się w dorosłego insektoida. Nie ma sposobu, aby stwierdzić, jaki rodzaj owada wyczołgnie się z kokonu.</VFEI_Insectoid_Larvae.description>
+  <VFEI_Insectoid_Larvae.tools.0.label>pazur głowy</VFEI_Insectoid_Larvae.tools.0.label>
+
+
+</LanguageData>

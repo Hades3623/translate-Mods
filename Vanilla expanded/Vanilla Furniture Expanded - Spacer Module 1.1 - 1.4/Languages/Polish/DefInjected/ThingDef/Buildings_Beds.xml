@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_AdvBed.label>zaawansowane łóżko</Bed_AdvBed.label>
+  <Bed_AdvBed.description>Elektryczne łóżko high-tech, które automatycznie dostosowuje się do kształtu ciała, z wbudowanym generatorem białego szumu. Śpiący często mówią, że następnego ranka czują się wypoczęci i bardziej czujni.</Bed_AdvBed.description>
+
+  <Bed_AdvDoubleBed.label>zaawansowane podwójne łóżko</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>Elektryczne, zaawansowane technicznie podwójne łóżko, które automatycznie dostosowuje się do kształtu ciała, z wbudowanym generatorem białego szumu. Śpiący często mówią, że następnego ranka czują się wypoczęci i bardziej czujni.</Bed_AdvDoubleBed.description>
+
+  <Table_IlluminatedEndTable.label>podświetlany stolik końcowy</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>Niewielki podświetlany stolik nocny ozdobiony listwami świetlnymi, dzięki czemu pobliskie łóżka są nieco wygodniejsze, jednocześnie oświetlając pomieszczenie. Należy umieścić bezpośrednio obok wezgłowia łóżka. Umieszczenie więcej niż jednego stolika w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_IlluminatedEndTable.description>
+
+  <Table_IlluminatedDresser.label>podświetlana komoda</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>Podświetlana komoda, ozdobiona lekkimi paskami. Daje niewielki bonus komfortu wszystkim pobliskim łóżkom, jednocześnie oświetlając pomieszczenie. Umieszczenie więcej niż jednej komody w pobliżu tego samego łóżka nie przynosi żadnego efektu.</Table_IlluminatedDresser.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_ToxicBuildup.label>toksyczne nagromadzenie</VFEI_ToxicBuildup.label>
+  <VFEI_ToxicBuildup.description>Toksyny w krwiobiegu. Mogą one pochodzić z różnych źródeł, w tym z toksyn środowiskowych, ukąszeń jadowitych lub zatrutej broni.
+\nW dużych dawkach, nagromadzenie toksyn jest śmiertelne. Nawet w niskich dawkach może generować nowotwory.
+\nW przeciwieństwie do toksycznego nagromadzenia w grze podstawowej, istoty, które umierają z toksycznymi obrażeniami mogą zostać zjedzone.</VFEI_ToxicBuildup.description>
+  <VFEI_ToxicBuildup.stages.0.label>Inicjał</VFEI_ToxicBuildup.stages.0.label>
+  <VFEI_ToxicBuildup.stages.1.label>Inicjał</VFEI_ToxicBuildup.stages.1.label>
+  <VFEI_ToxicBuildup.stages.2.label>mniejszy</VFEI_ToxicBuildup.stages.2.label>
+  <VFEI_ToxicBuildup.stages.3.label>umiarkowany</VFEI_ToxicBuildup.stages.3.label>
+  <VFEI_ToxicBuildup.stages.4.label>poważny</VFEI_ToxicBuildup.stages.4.label>
+  <VFEI_ToxicBuildup.stages.5.label>skrajny</VFEI_ToxicBuildup.stages.5.label>
+
+  <VFEI_TempDown.label>wstrząs plazmapiercerowy</VFEI_TempDown.label>
+  <VFEI_TempDown.description>Szok Plasmapiercer może powalić większość ludzkich i większych stworzeń.</VFEI_TempDown.description>
+  <VFEI_TempDown.stages.0.label>Inicjał</VFEI_TempDown.stages.0.label>
+  <VFEI_TempDown.stages.1.label>Inicjał</VFEI_TempDown.stages.1.label>
+  <VFEI_TempDown.stages.2.label>mniejszy</VFEI_TempDown.stages.2.label>
+  <VFEI_TempDown.stages.3.label>umiarkowany</VFEI_TempDown.stages.3.label>
+  <VFEI_TempDown.stages.4.label>poważny</VFEI_TempDown.stages.4.label>
+  <VFEI_TempDown.stages.5.label>skrajny</VFEI_TempDown.stages.5.label>
+
+
+</LanguageData>

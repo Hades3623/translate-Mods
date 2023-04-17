@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WasEnslaved.stages.0.label>został zniewolony</WasEnslaved.stages.0.label>
+  <WasEnslaved.stages.0.description>Trzymali mnie jako niewolnika. Zmusili mnie do cierpienia!</WasEnslaved.stages.0.description>
+
+  <SleptInRoomWithSlave.stages.0.label>wspólny pokój z niewolnikiem</SleptInRoomWithSlave.stages.0.label>
+  <SleptInRoomWithSlave.stages.0.description>Musiałem spać w tym samym pokoju co niewolnik.</SleptInRoomWithSlave.stages.0.description>
+
+  <ConnectedTreeDied.stages.0.label>Śmierć Gauranlen</ConnectedTreeDied.stages.0.label>
+  <ConnectedTreeDied.stages.0.description>Moje drzewo... jego uspokajająca obecność stała się czystym bólem, po czym zamilkła. Jego cierpienie odbija się echem w mojej głowie...</ConnectedTreeDied.stages.0.description>
+
+  <RelicsCollected.stages.0.label>wszystkie zebrane relikwie</RelicsCollected.stages.0.label>
+  <RelicsCollected.stages.0.description>Znaleźliśmy wszystkie nasze święte relikwie!</RelicsCollected.stages.0.description>
+
+  <BiosculpterPleasure.stages.0.label>cykl przyjemności biorzeźbiarza</BiosculpterPleasure.stages.0.label>
+  <BiosculpterPleasure.stages.0.description>Każda część mnie jest w jakiś sposób lepsza w dobrym samopoczuciu.</BiosculpterPleasure.stages.0.description>
+
+  <DryadDied.stages.0.label>driada zmarła</DryadDied.stages.0.label>
+  <DryadDied.stages.0.description>Driada mojego drzewa zniknęła na zawsze. Będzie ci brakowało, maleńka.</DryadDied.stages.0.description>
+
+
+</LanguageData>

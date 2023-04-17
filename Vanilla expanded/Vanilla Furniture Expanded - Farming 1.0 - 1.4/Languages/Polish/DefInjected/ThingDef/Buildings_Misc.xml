@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarecrow -->
+
+  <VFE_Scarecrow.label>strach na wróble</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Humanoidalna postać wykonana z siana, ubrana w stare ubrania, aby odstraszyć zwierzęta w dużym promieniu. Małe zwierzęta będą zbyt bały się podejść.</VFE_Scarecrow.description>
+
+
+  <!-- Animal Feeder -->
+
+  <VFE_AnimalFeeder.label>karmnik dla zwierząt</VFE_AnimalFeeder.label>
+  <VFE_AnimalFeeder.description>Koryto. Przechowywana w nim żywność nie ulegnie pogorszeniu, nawet jeśli jest na zewnątrz.</VFE_AnimalFeeder.description>
+
+
+  <!-- Sprinkler -->
+
+  <VFE_Sprinkler.label>tryskacz</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Zraszacz wodny, zapewniający obszar wokół niego wodą. Wzmacnia wzrost otaczających roślin.</VFE_Sprinkler.description>
+  <VFE_Sprinkler_Blueprint.label>zraszacz (plan)</VFE_Sprinkler_Blueprint.label>
+  <VFE_Sprinkler_Blueprint_Install.label>zraszacz (plan)</VFE_Sprinkler_Blueprint_Install.label>
+  <VFE_Sprinkler_Frame.label>zraszacz (budynek)</VFE_Sprinkler_Frame.label>
+  <VFE_Sprinkler_Frame.description>Zraszacz wodny, zapewniający obszar wokół niego wodą. Wzmacnia wzrost otaczających roślin.</VFE_Sprinkler_Frame.description>
+
+
+</LanguageData>

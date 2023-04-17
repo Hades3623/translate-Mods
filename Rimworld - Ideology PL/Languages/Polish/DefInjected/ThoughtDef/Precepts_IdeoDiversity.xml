@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <IdeoDiversity_Abhorrent.stages.0.label>różne myśli</IdeoDiversity_Abhorrent.stages.0.label>
+  <IdeoDiversity_Abhorrent.stages.0.description>Moja prawda jest tak czysta i oczywista, ale niektórzy z otaczających mnie ludzi są schwytani przez zło. To odrażające.</IdeoDiversity_Abhorrent.stages.0.description>
+  <IdeoDiversity_Abhorrent.stages.1.label>różne myśli</IdeoDiversity_Abhorrent.stages.1.label>
+  <IdeoDiversity_Abhorrent.stages.1.description>Moja prawda jest tak czysta i oczywista, a wielu z otaczających mnie ludzi jest schwytanych przez zło. To odrażające.</IdeoDiversity_Abhorrent.stages.1.description>
+  <IdeoDiversity_Abhorrent.stages.2.label>różne myśli</IdeoDiversity_Abhorrent.stages.2.label>
+  <IdeoDiversity_Abhorrent.stages.2.description>Moja prawda jest tak czysta i oczywista, ale prawie wszyscy wokół mnie są schwytani przez zło. To odrażające.</IdeoDiversity_Abhorrent.stages.2.description>
+
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.label>jednolite myśli</IdeoDiversity_Abhorrent_Uniform.stages.0.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.description>Nasza społeczność jest wolna od złych myśli, tak jak powinna być.</IdeoDiversity_Abhorrent_Uniform.stages.0.description>
+
+  <IdeoDiversity_Abhorrent_Social.stages.0.label>inna ideologia</IdeoDiversity_Abhorrent_Social.stages.0.label>
+
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>fałszywy ołtarz</IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>Ołtarz fałszywej wiary znajduje się w pokoju z naszym {ALTAR_labelShort}! To obrzydliwe pogwałcenie naszej świętości.</IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>
+
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>Otoczenie w stylu {ADJECTIVE}</IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>Otaczają mnie konstrukcje, które pasują do stylów, które odzwierciedlają moje przekonania o {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>Otoczenie nie w stylu {ADJECTIVE}</IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>Otaczają mnie konstrukcje, które nie pasują do stylów odzwierciedlających moje przekonania dotyczące {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>
+
+
+  <!-- Horrible -->
+
+  <IdeoDiversity_Horrible.stages.0.label>różne myśli</IdeoDiversity_Horrible.stages.0.label>
+  <IdeoDiversity_Horrible.stages.0.description>Moja prawda jest tak oczywista, a jednak niektórzy z otaczających mnie ludzi są tak oszukani. To jest straszne.</IdeoDiversity_Horrible.stages.0.description>
+  <IdeoDiversity_Horrible.stages.1.label>różne myśli</IdeoDiversity_Horrible.stages.1.label>
+  <IdeoDiversity_Horrible.stages.1.description>Moja prawda jest tak oczywista, a wielu ludzi wokół mnie jest tak zwiedzionych. To jest straszne.</IdeoDiversity_Horrible.stages.1.description>
+  <IdeoDiversity_Horrible.stages.2.label>różne myśli</IdeoDiversity_Horrible.stages.2.label>
+  <IdeoDiversity_Horrible.stages.2.description>Moja prawda jest tak oczywista, a prawie wszyscy wokół mnie są tak zwiedzieni. To jest straszne.</IdeoDiversity_Horrible.stages.2.description>
+
+  <IdeoDiversity_Horrible_Uniform.stages.0.label>jednolite myśli</IdeoDiversity_Horrible_Uniform.stages.0.label>
+  <IdeoDiversity_Horrible_Uniform.stages.0.description>Nasza społeczność jest wolna od brudnych złudzeń, tak jak być powinna.</IdeoDiversity_Horrible_Uniform.stages.0.description>
+
+  <IdeoDiversity_Horrible_Social.stages.0.label>inna ideologia</IdeoDiversity_Horrible_Social.stages.0.label>
+
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.label>fałszywy ołtarz</IdeoDiverity_Horrible_AltarSharing.stages.0.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.description>Ołtarz fałszywej wiary znajduje się w pokoju z naszym {ALTAR_labelShort}. To pogwałcenie naszej świętości.</IdeoDiverity_Horrible_AltarSharing.stages.0.description>
+
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.label>Otoczenie w stylu {ADJECTIVE}</IdeoDiversity_Horrible_StyleDominance.stages.0.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.description>Otaczają mnie konstrukcje, które pasują do stylów, które odzwierciedlają moje przekonania o {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Horrible_StyleDominance.stages.0.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.label>Otoczenie nie w stylu {ADJECTIVE}</IdeoDiversity_Horrible_StyleDominance.stages.1.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.description>Otaczają mnie konstrukcje, które nie pasują do stylów odzwierciedlających moje przekonania dotyczące {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Horrible_StyleDominance.stages.1.description>
+
+
+  <!-- Disapproved -->
+
+  <IdeoDiversity_Disapproved.stages.0.label>różne myśli</IdeoDiversity_Disapproved.stages.0.label>
+  <IdeoDiversity_Disapproved.stages.0.description>Moja prawda jest jasna, ale niektórzy z otaczających mnie osób są tak głupi, że nie widzą tego. Nie lubię być poddawana ich idiotyzmowi.</IdeoDiversity_Disapproved.stages.0.description>
+  <IdeoDiversity_Disapproved.stages.1.label>różne myśli</IdeoDiversity_Disapproved.stages.1.label>
+  <IdeoDiversity_Disapproved.stages.1.description>Moja prawda jest jasna, ale wielu z otaczających mnie osób jest tak głupich, że nie mogą tego dostrzec. Nie lubię być poddawana ich idiotyzmowi.</IdeoDiversity_Disapproved.stages.1.description>
+  <IdeoDiversity_Disapproved.stages.2.label>różne myśli</IdeoDiversity_Disapproved.stages.2.label>
+  <IdeoDiversity_Disapproved.stages.2.description>Moja prawda jest jasna, ale prawie wszyscy wokół mnie są tak głupi, że tego nie widzą. Nie lubię być poddawana ich idiotyzmowi.</IdeoDiversity_Disapproved.stages.2.description>
+
+  <IdeoDiversity_Disapproved_Uniform.stages.0.label>jednolite myśli</IdeoDiversity_Disapproved_Uniform.stages.0.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.0.description>Nasza społeczność jest wolna od głupoty, tak jak powinna.</IdeoDiversity_Disapproved_Uniform.stages.0.description>
+
+  <IdeoDiversity_Disapproved_Social.stages.0.label>inna ideologia</IdeoDiversity_Disapproved_Social.stages.0.label>
+
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.label>fałszywy ołtarz</IdeoDiverity_Disapproved_AltarSharing.stages.0.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.description>Ołtarz fałszywej wiary znajduje się w pokoju z naszym {ALTAR_labelShort}. To jest źle.</IdeoDiverity_Disapproved_AltarSharing.stages.0.description>
+
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.label>Otoczenie w stylu {ADJECTIVE}</IdeoDiversity_Disapproved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.description>Otaczają mnie konstrukcje, które pasują do stylów, które odzwierciedlają moje przekonania o {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Disapproved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.label>Otoczenie nie w stylu {ADJECTIVE}</IdeoDiversity_Disapproved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.description>Otaczają mnie konstrukcje, które nie pasują do stylów odzwierciedlających moje przekonania dotyczące {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Disapproved_StyleDominance.stages.1.description>
+
+
+  <!-- Standard -->
+
+  <IdeoDiversity_Standard_StyleDominance.stages.0.label>Otoczenie w stylu {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.0.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.0.description>Otaczają mnie konstrukcje, które pasują do stylów, które odzwierciedlają moje przekonania o {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Standard_StyleDominance.stages.0.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.label>Otoczenie nie w stylu {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.1.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.description>Otaczają mnie konstrukcje inne niż {ADJECTIVE}. W porządku, ale wolałbym przebywać w środowisku bardziej {ADJECTIVE} z konstrukcjami, które pasują do stylów, które odzwierciedlają moje przekonania dotyczące {ADJECTIVE}. Moje przekonania odzwierciedlają te style: {STYLE}</IdeoDiversity_Standard_StyleDominance.stages.1.description>
+
+
+  <!-- Approved -->
+
+  <IdeoDiversity_Approved.stages.0.label>różne myśli</IdeoDiversity_Approved.stages.0.label>
+  <IdeoDiversity_Approved.stages.0.description>Niektórzy tutaj mają inne przekonania. To znak zdrowej społeczności.</IdeoDiversity_Approved.stages.0.description>
+  <IdeoDiversity_Approved.stages.1.label>różne myśli</IdeoDiversity_Approved.stages.1.label>
+  <IdeoDiversity_Approved.stages.1.description>Wielu innych tutaj ma różne przekonania. To znak zdrowej społeczności.</IdeoDiversity_Approved.stages.1.description>
+  <IdeoDiversity_Approved.stages.2.label>różne myśli</IdeoDiversity_Approved.stages.2.label>
+  <IdeoDiversity_Approved.stages.2.description>Prawie wszyscy tutaj mają inne przekonania. To znak zdrowej społeczności.</IdeoDiversity_Approved.stages.2.description>
+
+  <IdeoDiversity_Approved_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Approved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.0.description>Moje otoczenie jest bardzo {ADJECTIVE}. W porządku, ale zróżnicowane środowisko byłoby lepsze.</IdeoDiversity_Approved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Approved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.description>Moje otoczenie wcale nie jest {ADJECTIVE}. Lubię różnorodność.</IdeoDiversity_Approved_StyleDominance.stages.1.description>
+
+
+  <!-- Respected -->
+
+  <IdeoDiversity_Respected.stages.0.label>różne myśli</IdeoDiversity_Respected.stages.0.label>
+  <IdeoDiversity_Respected.stages.0.description>Niektórzy tutaj mają inne przekonania. To ważny znak zdrowej społeczności.</IdeoDiversity_Respected.stages.0.description>
+  <IdeoDiversity_Respected.stages.1.label>różne myśli</IdeoDiversity_Respected.stages.1.label>
+  <IdeoDiversity_Respected.stages.1.description>Wielu innych tutaj ma różne przekonania. To ważny znak zdrowej społeczności.</IdeoDiversity_Respected.stages.1.description>
+  <IdeoDiversity_Respected.stages.2.label>różne myśli</IdeoDiversity_Respected.stages.2.label>
+  <IdeoDiversity_Respected.stages.2.description>Prawie wszyscy tutaj mają inne przekonania. To ważny znak zdrowej społeczności.</IdeoDiversity_Respected.stages.2.description>
+
+  <IdeoDiversity_Respected_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Respected_StyleDominance.stages.0.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.0.description>Moje otoczenie jest bardzo {ADJECTIVE}. W porządku, ale zróżnicowane środowisko byłoby lepsze.</IdeoDiversity_Respected_StyleDominance.stages.0.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Respected_StyleDominance.stages.1.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.description>Moje otoczenie wcale nie jest {ADJECTIVE}. Cieszę się, że jestem częścią zróżnicowanej społeczności.</IdeoDiversity_Respected_StyleDominance.stages.1.description>
+
+
+  <!-- Exalted -->
+
+  <IdeoDiversity_Exalted.stages.0.label>różne myśli</IdeoDiversity_Exalted.stages.0.label>
+  <IdeoDiversity_Exalted.stages.0.description>Niektórzy tutaj mają inne przekonania. Jestem bardzo dumny, że jestem częścią takiej społeczności.</IdeoDiversity_Exalted.stages.0.description>
+  <IdeoDiversity_Exalted.stages.1.label>różne myśli</IdeoDiversity_Exalted.stages.1.label>
+  <IdeoDiversity_Exalted.stages.1.description>Wielu innych tutaj ma różne przekonania. Jestem bardzo dumny, że jestem częścią takiej społeczności.</IdeoDiversity_Exalted.stages.1.description>
+  <IdeoDiversity_Exalted.stages.2.label>różne myśli</IdeoDiversity_Exalted.stages.2.label>
+  <IdeoDiversity_Exalted.stages.2.description>Prawie wszyscy tutaj mają inne przekonania. Jestem bardzo dumny, że jestem częścią takiej społeczności.</IdeoDiversity_Exalted.stages.2.description>
+
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.label>{ADJECTIVE} surroundings</IdeoDiversity_Exalted_StyleDominance.stages.0.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.description>Moje otoczenie jest bardzo {ADJECTIVE}. W porządku, ale zróżnicowane środowisko byłoby lepsze.</IdeoDiversity_Exalted_StyleDominance.stages.0.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.label>Non-{ADJECTIVE} surroundings</IdeoDiversity_Exalted_StyleDominance.stages.1.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.description>Moje otoczenie wcale nie jest {ADJECTIVE}. Bardzo się cieszę, że jestem częścią tej zróżnicowanej społeczności.</IdeoDiversity_Exalted_StyleDominance.stages.1.description>
+
+
+</LanguageData>

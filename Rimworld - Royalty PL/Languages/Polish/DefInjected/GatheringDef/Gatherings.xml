@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concert.label>koncert</Concert.label>
+  <Concert.letterText>{ORGANIZER_labelShort} organizuje koncert! Każdy, kto tam pójdzie, zyska rekreację i energię społeczną oraz trwały pozytywny wzrost nastroju, zarówno dzięki kontaktom społecznym, jak i samej muzyce.</Concert.letterText>
+
+  <ThroneSpeech.label>Mowa tronowa</ThroneSpeech.label>
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} wygłasza mowę z tronu.
+\nJeśli wszystko pójdzie dobrze, słuchacze poczują się zainspirowani i nabiorą szacunku do {ORGANIZER_labelShort}. Jeśli pójdzie źle, przemówienie spowoduje szkody społeczne. Wynik zależy od zdolności społecznych {ORGANIZER_labelShort}</ThroneSpeech.letterText>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientVitalsMonitor.label>starożytny monitor parametrów życiowych</VFEA_AncientVitalsMonitor.label>
+  <VFEA_AncientVitalsMonitor.description>Stary zestaw monitorów do sprawdzania postępów leczenia rannych żołnierzy.\n\nTa struktura została zbudowana przez dawno zapomnianą cywilizację i nie można już powielać technologii. Nigdy nie ulegnie awariom i działa wydajniej podczas rozbłysków słonecznych.</VFEA_AncientVitalsMonitor.description>
+
+  <VFEA_AncientCryptosleepSarcophagus.label>starożytny sarkofag kryptosenny</VFEA_AncientCryptosleepSarcophagus.label>
+  <VFEA_AncientCryptosleepSarcophagus.description>Starożytni superżołnierze śpią w starożytnych sarkofagach kryptosennych, dopóki nie zostaną przebudzeni, gdy zaczyna się ich wachta. Urządzenia te są innym wariantem niż zwykłe skrzynki kryptosenne - proces hibernacji jest błyskawiczny, ale wybudzenie ze snu zajmuje dużo czasu. Nie można ponownie użyć po otwarciu.</VFEA_AncientCryptosleepSarcophagus.description>
+
+  <VFEA_AncientSupplySlingshot.label>starożytna proca dostaw</VFEA_AncientSupplySlingshot.label>
+  <VFEA_AncientSupplySlingshot.description>Często spotykana w starożytnych kryptach proca z zaopatrzeniem jest złożonym mechanizmem, który katapultuje skrzynię z zaopatrzeniem na ogromne odległości. Jest zaprogramowany, aby wysyłać skrzynie do pobliskich zajętych skarbców. Te procy są często używane przez starożytnych żołnierzy do dzielenia się zasobami, których nie potrzebują, z innymi kompleksami.</VFEA_AncientSupplySlingshot.description>
+
+
+</LanguageData>

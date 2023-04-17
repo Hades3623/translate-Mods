@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Bliss.stages.0.label>rozkosz</VPE_Bliss.stages.0.label>
+  <VPE_Bliss.stages.0.description>Może nie jest tak źle.</VPE_Bliss.stages.0.description>
+  <VPE_Bliss.stages.1.label>rozkosz</VPE_Bliss.stages.1.label>
+  <VPE_Bliss.stages.1.description>Myślę, że sprawy się poprawiają.</VPE_Bliss.stages.1.description>
+  <VPE_Bliss.stages.2.label>rozkosz</VPE_Bliss.stages.2.label>
+  <VPE_Bliss.stages.2.description>Wszystko się poprawia, powoli, ale pewnie.</VPE_Bliss.stages.2.description>
+  <VPE_Bliss.stages.3.label>rozkosz</VPE_Bliss.stages.3.label>
+  <VPE_Bliss.stages.3.description>Czuję się teraz dobrze, sprawy wyglądają dobrze.</VPE_Bliss.stages.3.description>
+  <VPE_Bliss.stages.4.label>rozkosz</VPE_Bliss.stages.4.label>
+  <VPE_Bliss.stages.4.description>Czuję się ciepło i niewyraźnie, po prostu bycie żywym jest wspaniałe.</VPE_Bliss.stages.4.description>
+  <VPE_Bliss.stages.5.label>rozkosz</VPE_Bliss.stages.5.label>
+  <VPE_Bliss.stages.5.description>Zaraz wybuchnę z podniecenia. Kocham tę kolonię, kocham ten świat i całe życie na nim.</VPE_Bliss.stages.5.description>
+  <VPE_Bliss.stages.6.label>rozkosz</VPE_Bliss.stages.6.label>
+  <VPE_Bliss.stages.6.description>Wszystkie kolory tego świata są tak żywe, dźwięki są tak spokojne, powietrze jest tak rześkie. To życie zapiera mi dech w piersiach.</VPE_Bliss.stages.6.description>
+  <VPE_Bliss.stages.7.label>rozkosz</VPE_Bliss.stages.7.label>
+  <VPE_Bliss.stages.7.description>To jest to, prawda? Naprawdę osiągnąłem samą nirwanę. Samo życie jest ucieleśnieniem szczęścia.</VPE_Bliss.stages.7.description>
+
+  <VPE_MindWiped.stages.0.label>umysł wyczyszczony</VPE_MindWiped.stages.0.label>
+  <VPE_MindWiped.stages.0.description>Nic nie pamiętam, odkrywam wszystko na nowo!</VPE_MindWiped.stages.0.description>
+
+  <VPE_TimeQuake.stages.0.label>czas się trzęsie</VPE_TimeQuake.stages.0.label>
+  <VPE_TimeQuake.stages.0.description>Wszyscy, których znałem, tak bardzo się zmienili. To trzęsienie czasu naprawdę wywarło na mnie wpływ.</VPE_TimeQuake.stages.0.description>
+
+  <VPE_Future.stages.0.label>Znam swoją przyszłość!</VPE_Future.stages.0.label>
+  <VPE_Future.stages.0.description>Znam swoją przyszłość i wszystko wygląda dobrze!</VPE_Future.stages.0.description>
+
+  <VPE_Thrall.stages.0.label>Niewolnik</VPE_Thrall.stages.0.label>
+  <VPE_Thrall.stages.0.description>Ughhh ughhh aaaahhhhh</VPE_Thrall.stages.0.description>
+
+
+</LanguageData>

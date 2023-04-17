@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RelicAtRitual.stages.0.label>{RELICNAME} na rytuale</RelicAtRitual.stages.0.label>
+  <RelicAtRitual.stages.0.description>{RELICNAME} był obecny podczas naszego rytuału.</RelicAtRitual.stages.0.description>
+
+  <RitualDelayed.stages.0.label>{RITUAL_labelCap} delayed</RitualDelayed.stages.0.label>
+  <RitualDelayed.stages.0.description>{RITUAL_labelCapDef} został opóźniony. Powinniśmy to już zacząć.</RitualDelayed.stages.0.description>
+
+  <TrialExonerated.stages.0.label>uniewinniony</TrialExonerated.stages.0.label>
+  <TrialExonerated.stages.0.description>Nic na mnie nie mieli, a ja im pokazałem!</TrialExonerated.stages.0.description>
+
+  <TrialFailed.stages.0.label>nieudany proces</TrialFailed.stages.0.label>
+  <TrialFailed.stages.0.description>Złożyłem oskarżenie i nie mogłem go nawet trzymać. To upokarzające.</TrialFailed.stages.0.description>
+
+  <TrialConvicted.stages.0.label>skazany</TrialConvicted.stages.0.label>
+  <TrialConvicted.stages.0.description>Zostałem niesłusznie skazany za straszne wykroczenie!</TrialConvicted.stages.0.description>
+
+
+</LanguageData>

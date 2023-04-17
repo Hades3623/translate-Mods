@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEF_CommandMakeCompAreaDesc>Automatycznie wyznacza określony obszar wokół tego {0}.</VFEF_CommandMakeCompAreaDesc>  <!-- {0} is the parent building's label -->
+  <VFEF_CommandMakeCompAreaLabel>Wyznaczyć obszar karmienia</VFEF_CommandMakeCompAreaLabel>  <!-- {0} is the parent building's label -->
+  <VFEF_ScarecrowGizmo>Przestraszyć zwierzęta kolonijne</VFEF_ScarecrowGizmo>
+  <VFEF_ScarecrowGizmoText>Pozwól zdecydować, czy ten strach na wróble ma zmusić twoje zwierzę z kolonii do ucieczki</VFEF_ScarecrowGizmoText>
+
+</LanguageData>

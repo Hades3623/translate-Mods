@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuestHospitalityCommon.rulePack.rulesStrings.0>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</QuestHospitalityCommon.rulePack.rulesStrings.0>
+  <QuestHospitalityCommon.rulePack.rulesStrings.1>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</QuestHospitalityCommon.rulePack.rulesStrings.1>
+  <QuestHospitalityCommon.rulePack.rulesStrings.2>lodgersLabelSingOrPlural(lodgersCount&gt;=2)->[lodgersLabelPlural]</QuestHospitalityCommon.rulePack.rulesStrings.2>
+  <QuestHospitalityCommon.rulePack.rulesStrings.3>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</QuestHospitalityCommon.rulePack.rulesStrings.3>
+  <QuestHospitalityCommon.rulePack.rulesStrings.4>lodgersLabelSingOrPluralDef(lodgersCount&gt;=2)->the [lodgersLabelPlural]</QuestHospitalityCommon.rulePack.rulesStrings.4>
+  <QuestHospitalityCommon.rulePack.rulesStrings.5>healthInfo-></QuestHospitalityCommon.rulePack.rulesStrings.5>
+  <QuestHospitalityCommon.rulePack.rulesStrings.6>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</QuestHospitalityCommon.rulePack.rulesStrings.6>
+  <QuestHospitalityCommon.rulePack.rulesStrings.7>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</QuestHospitalityCommon.rulePack.rulesStrings.7>
+  <QuestHospitalityCommon.rulePack.rulesStrings.8>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</QuestHospitalityCommon.rulePack.rulesStrings.8>
+  <QuestHospitalityCommon.rulePack.rulesStrings.9>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] suffering from paralytic abasia and must be kept in bed.</QuestHospitalityCommon.rulePack.rulesStrings.9>
+  <QuestHospitalityCommon.rulePack.rulesStrings.10>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] sick with blood rot and will require daily treatment. The disease can be slowed with high-quality care and medicine, but generally cannot be cured outright. If the disease becomes severe [lodgersLabelSingOrPluralDef] will die, so ensure you have the necessary medical supplies.</QuestHospitalityCommon.rulePack.rulesStrings.10>
+  <QuestHospitalityCommon.rulePack.rulesStrings.11>minMoodInfo-></QuestHospitalityCommon.rulePack.rulesStrings.11>
+  <QuestHospitalityCommon.rulePack.rulesStrings.12>minMoodInfo(lodgersCountWithMoodThreshold&gt;0,priority=1)->\n\nyou must keep the mood of [lodgersLabelSingOrPluralDef] above [lodgersMoodThreshold_percent].</QuestHospitalityCommon.rulePack.rulesStrings.12>
+  <QuestHospitalityCommon.rulePack.rulesStrings.13>workInfo-></QuestHospitalityCommon.rulePack.rulesStrings.13>
+  <QuestHospitalityCommon.rulePack.rulesStrings.14>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</QuestHospitalityCommon.rulePack.rulesStrings.14>
+  <QuestHospitalityCommon.rulePack.rulesStrings.15>commonDescEnding->[helpersParagraph]</QuestHospitalityCommon.rulePack.rulesStrings.15>
+  <QuestHospitalityCommon.rulePack.rulesStrings.16>enemyGroupsParagraph->[threatDescriptionParagraph]</QuestHospitalityCommon.rulePack.rulesStrings.16>
+  <QuestHospitalityCommon.rulePack.rulesStrings.17>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be (*Threat)a raid(/Threat) of roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.17>
+  <QuestHospitalityCommon.rulePack.rulesStrings.18>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize&gt;1)->there will be (*Threat)a raid(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.18>
+  <QuestHospitalityCommon.rulePack.rulesStrings.19>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize==1)->there will be (*Threat)[threatCount] raids(/Threat) of roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.19>
+  <QuestHospitalityCommon.rulePack.rulesStrings.20>threatDescriptionParagraph(threatType==Raids,threatCount&gt;1,threatSize&gt;1)->there will be (*Threat)[threatCount] raids(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</QuestHospitalityCommon.rulePack.rulesStrings.20>
+  <QuestHospitalityCommon.rulePack.rulesStrings.21>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)a mech cluster(/Threat) will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.21>
+  <QuestHospitalityCommon.rulePack.rulesStrings.22>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)two mech clusters(/Threat) will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.22>
+  <QuestHospitalityCommon.rulePack.rulesStrings.23>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize&gt;1)->(*Threat)a mech cluster(/Threat) of [threatSize]x size will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.23>
+  <QuestHospitalityCommon.rulePack.rulesStrings.24>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize&gt;1)->(*Threat)two mech clusters(/Threat) of [threatSize]x size will deploy nearby.</QuestHospitalityCommon.rulePack.rulesStrings.24>
+  <QuestHospitalityCommon.rulePack.rulesStrings.25>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by an orbiting mechanoid swarm.</QuestHospitalityCommon.rulePack.rulesStrings.25>
+  <QuestHospitalityCommon.rulePack.rulesStrings.26>threatsInfoMechClustersMultiPrisoners->The prisoners recently [mechViolation], and have been targeted by an orbiting mechanoid swarm.</QuestHospitalityCommon.rulePack.rulesStrings.26>
+  <QuestHospitalityCommon.rulePack.rulesStrings.27>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by a mechanoid hive.</QuestHospitalityCommon.rulePack.rulesStrings.27>
+  <QuestHospitalityCommon.rulePack.rulesStrings.28>threatsInfoMechRaidsMultiHuman->They recently [mechViolation], and have been targeted by a mechanoid hive.</QuestHospitalityCommon.rulePack.rulesStrings.28>
+  <QuestHospitalityCommon.rulePack.rulesStrings.29>mechViolation->angered a machine persona somehow</QuestHospitalityCommon.rulePack.rulesStrings.29>
+  <QuestHospitalityCommon.rulePack.rulesStrings.30>mechViolation->violated an ancient supercomputer terminal</QuestHospitalityCommon.rulePack.rulesStrings.30>
+  <QuestHospitalityCommon.rulePack.rulesStrings.31>mechViolation->murdered a human child favored by an archotech</QuestHospitalityCommon.rulePack.rulesStrings.31>
+  <QuestHospitalityCommon.rulePack.rulesStrings.32>mechViolation->attempted to hack a mechanoid control node</QuestHospitalityCommon.rulePack.rulesStrings.32>
+  <QuestHospitalityCommon.rulePack.rulesStrings.33>mechViolation->attempted to steal from an ancient storage site</QuestHospitalityCommon.rulePack.rulesStrings.33>
+  <QuestHospitalityCommon.rulePack.rulesStrings.34>letterSubject->{SUBJECT_definite}</QuestHospitalityCommon.rulePack.rulesStrings.34>
+  <QuestHospitalityCommon.rulePack.rulesStrings.35>lodgersHasHave(lodgersCount==1)->has</QuestHospitalityCommon.rulePack.rulesStrings.35>
+  <QuestHospitalityCommon.rulePack.rulesStrings.36>lodgersHasHave(lodgersCount&gt;=2)->have</QuestHospitalityCommon.rulePack.rulesStrings.36>
+  <QuestHospitalityCommon.rulePack.rulesStrings.37>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</QuestHospitalityCommon.rulePack.rulesStrings.37>
+  <QuestHospitalityCommon.rulePack.rulesStrings.38>lodgersObjective(lodgersCount&gt;=2)->them</QuestHospitalityCommon.rulePack.rulesStrings.38>
+  <QuestHospitalityCommon.rulePack.rulesStrings.39>areIs(lodgersCount==1)->is</QuestHospitalityCommon.rulePack.rulesStrings.39>
+  <QuestHospitalityCommon.rulePack.rulesStrings.40>areIs(lodgersCount&gt;=2)->are</QuestHospitalityCommon.rulePack.rulesStrings.40>
+  <QuestHospitalityCommon.rulePack.rulesStrings.41>remainingWillNowLeave(lodgersCount==1)-></QuestHospitalityCommon.rulePack.rulesStrings.41>
+  <QuestHospitalityCommon.rulePack.rulesStrings.42>remainingWillNowLeave(lodgersCount&gt;=2)->Any remaining [lodgersLabelPlural] will now leave. </QuestHospitalityCommon.rulePack.rulesStrings.42>
+  <QuestHospitalityCommon.rulePack.rulesStrings.43>failLetterEndingQuest->You have failed the quest '[resolvedQuestName]'.</QuestHospitalityCommon.rulePack.rulesStrings.43>
+  <QuestHospitalityCommon.rulePack.rulesStrings.44>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</QuestHospitalityCommon.rulePack.rulesStrings.44>
+  <QuestHospitalityCommon.rulePack.rulesStrings.45>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</QuestHospitalityCommon.rulePack.rulesStrings.45>
+
+
+</LanguageData>

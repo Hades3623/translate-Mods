@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Installed artificial part -->
+
+  <InstalledProsthetic_Abhorrent.stages.0.label>zainstalowana proteza</InstalledProsthetic_Abhorrent.stages.0.label>
+  <InstalledProsthetic_Abhorrent.stages.0.description>Musiałem zainstalować protezę. Było to głęboko obraźliwe dla moich przekonań.</InstalledProsthetic_Abhorrent.stages.0.description>
+
+  <InstalledProsthetic_Know_Abhorrent.stages.0.label>zainstalowana proteza</InstalledProsthetic_Know_Abhorrent.stages.0.label>
+
+  <InstalledProsthetic_Disapproved.stages.0.label>zainstalowana proteza</InstalledProsthetic_Disapproved.stages.0.label>
+  <InstalledProsthetic_Disapproved.stages.0.description>Musiałem zainstalować protezę. Było to wyraźnie sprzeczne z moimi przekonaniami.</InstalledProsthetic_Disapproved.stages.0.description>
+
+  <InstalledProsthetic_Know_Disapproved.stages.0.label>zainstalowana proteza</InstalledProsthetic_Know_Disapproved.stages.0.label>
+
+
+  <!-- Related: Has artificial part -->
+
+  <HasProsthetic_Abhorrent.stages.0.label>sztuczna część</HasProsthetic_Abhorrent.stages.0.label>
+  <HasProsthetic_Abhorrent.stages.0.description>Mam w sobie sztuczną część ciała. To odrażająca obraza wszystkiego, w co wierzę!</HasProsthetic_Abhorrent.stages.0.description>
+
+  <HasProsthetic_Abhorrent_Social.stages.0.label>sztuczna część</HasProsthetic_Abhorrent_Social.stages.0.label>
+
+  <HasProsthetic_Disapproved.stages.0.label>sztuczna część</HasProsthetic_Disapproved.stages.0.label>
+  <HasProsthetic_Disapproved.stages.0.description>Mam w sobie sztuczną część ciała. Nie wierzę, że takie rzeczy są dopuszczalne.</HasProsthetic_Disapproved.stages.0.description>
+
+  <HasProsthetic_Disapproved_Social.stages.0.label>sztuczna część</HasProsthetic_Disapproved_Social.stages.0.label>
+
+  <HasNoProsthetic_Disapproved.stages.0.label>brak sztucznej części</HasNoProsthetic_Disapproved.stages.0.label>
+  <HasNoProsthetic_Disapproved.stages.0.description>Nie mam żadnych sztucznych części ciała. To wbrew moim przekonaniom, że jestem tak niewzmocniony.</HasNoProsthetic_Disapproved.stages.0.description>
+
+  <HasNoProsthetic_Disapproved_Social.stages.0.label>brak sztucznej części</HasNoProsthetic_Disapproved_Social.stages.0.label>
+
+  <HasProsthetic_Approved.stages.0.label>transhumanistyczny modded</HasProsthetic_Approved.stages.0.label>
+  <HasProsthetic_Approved.stages.0.description>Ta sztuczna część ciała pasuje do mojego przekonania.</HasProsthetic_Approved.stages.0.description>
+  <HasProsthetic_Approved.stages.1.label>transhumanista połączony</HasProsthetic_Approved.stages.1.label>
+  <HasProsthetic_Approved.stages.1.description>Im więcej sztucznych części ciała otrzymuję, tym mocniej wyrażam swoje przekonania.</HasProsthetic_Approved.stages.1.description>
+  <HasProsthetic_Approved.stages.2.label>transhumanistyczny wzmocniony</HasProsthetic_Approved.stages.2.label>
+  <HasProsthetic_Approved.stages.2.description>Moje połączenie z moją wiarą wzmacnia trzecia sztuczna część ciała. Ale przydałoby mi się więcej.</HasProsthetic_Approved.stages.2.description>
+  <HasProsthetic_Approved.stages.3.label>transhumanistyczny zsynchronizowany</HasProsthetic_Approved.stages.3.label>
+  <HasProsthetic_Approved.stages.3.description>Aby w pełni zsynchronizować się z moimi przekonaniami, potrzebne są jeszcze tylko dwie sztuczne części ciała.</HasProsthetic_Approved.stages.3.description>
+  <HasProsthetic_Approved.stages.4.label>transhumanistyczny zintegrowany</HasProsthetic_Approved.stages.4.label>
+  <HasProsthetic_Approved.stages.4.description>Pięć sztucznych części ciała! Zaczynam czuć idealną integrację z moimi przekonaniami.</HasProsthetic_Approved.stages.4.description>
+  <HasProsthetic_Approved.stages.5.label>transhumanista przemieniony</HasProsthetic_Approved.stages.5.label>
+  <HasProsthetic_Approved.stages.5.description>To tak, jakbym zostawiła za sobą słabe ciało.</HasProsthetic_Approved.stages.5.description>
+
+
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EnslaveAttempt.label>próba zniewolenia</EnslaveAttempt.label>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] powiedział  [RECIPIENT_nameDef] że  [RECIPIENT_pronoun] musi pracować dla kolonii.</EnslaveAttempt.logRulesInitiator.rulesStrings.0>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] poinformował  [RECIPIENT_nameDef] że [RECIPIENT_pronoun] musi wykonywać polecenia i pracować.</EnslaveAttempt.logRulesInitiator.rulesStrings.1>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INICJATOR_nameDef] nakazał [RECIPIENT_nameDef] przygotować się do życia na przymusowych robotach.</EnslaveAttempt.logRulesInitiator.rulesStrings.2>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INICJATOR_nazwaDef] wyjaśnił [RECIPIENT_nazwaDef], że [RECIPIENT_pronoun] musi pracować lub ponieść karę.</EnslaveAttempt.logRulesInitiator.rulesStrings.3>
+
+  <ReduceWill.label>spróbuj zmniejszyć wolę</ReduceWill.label>
+  <ReduceWill.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] powiedział  [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</ReduceWill.logRulesInitiator.rulesStrings.0>
+  <ReduceWill.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] wyjaśnił, że [RECIPIENT_nameDef] [negative].</ReduceWill.logRulesInitiator.rulesStrings.1>
+  <ReduceWill.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] zagroził  [RECIPIENT_nameDef] jeśli  [threat] [RECIPIENT_pronoun] [refused].</ReduceWill.logRulesInitiator.rulesStrings.2>
+  <ReduceWill.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] poinformował [RECIPIENT_nameDef] że [RECIPIENT_pronoun] [disillusionment].</ReduceWill.logRulesInitiator.rulesStrings.3>
+  <ReduceWill.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] zażądał [RECIPIENT_nameDef] [givein] do kolonii.</ReduceWill.logRulesInitiator.rulesStrings.4>
+  <ReduceWill.logRulesInitiator.rulesStrings.5>negative->nie miało przyszłości</ReduceWill.logRulesInitiator.rulesStrings.5>
+  <ReduceWill.logRulesInitiator.rulesStrings.6>negative->nie miał jak uciec</ReduceWill.logRulesInitiator.rulesStrings.6>
+  <ReduceWill.logRulesInitiator.rulesStrings.7>negative->nie mieli przyszłości poza kolonią.</ReduceWill.logRulesInitiator.rulesStrings.7>
+  <ReduceWill.logRulesInitiator.rulesStrings.8>negative->nie miał środków do ucieczki</ReduceWill.logRulesInitiator.rulesStrings.8>
+  <ReduceWill.logRulesInitiator.rulesStrings.9>negative->powinien natychmiast złożyć</ReduceWill.logRulesInitiator.rulesStrings.9>
+  <ReduceWill.logRulesInitiator.rulesStrings.10>negative->powinien zapomnieć o aspiracjach [RECIPIENT_possessive]</ReduceWill.logRulesInitiator.rulesStrings.10>
+  <ReduceWill.logRulesInitiator.rulesStrings.11>negative->powinien poddać się kolonii</ReduceWill.logRulesInitiator.rulesStrings.11>
+  <ReduceWill.logRulesInitiator.rulesStrings.12>threat->tortury</ReduceWill.logRulesInitiator.rulesStrings.12>
+  <ReduceWill.logRulesInitiator.rulesStrings.13>threat->kara</ReduceWill.logRulesInitiator.rulesStrings.13>
+  <ReduceWill.logRulesInitiator.rulesStrings.14>threat->okaleczenie</ReduceWill.logRulesInitiator.rulesStrings.14>
+  <ReduceWill.logRulesInitiator.rulesStrings.15>threat->głodówka</ReduceWill.logRulesInitiator.rulesStrings.15>
+  <ReduceWill.logRulesInitiator.rulesStrings.16>threat->dożywotnie więzienie</ReduceWill.logRulesInitiator.rulesStrings.16>
+  <ReduceWill.logRulesInitiator.rulesStrings.17>threat->śmierć</ReduceWill.logRulesInitiator.rulesStrings.17>
+  <ReduceWill.logRulesInitiator.rulesStrings.18>threat->izolacja</ReduceWill.logRulesInitiator.rulesStrings.18>
+  <ReduceWill.logRulesInitiator.rulesStrings.19>threat->rozczłonkowanie</ReduceWill.logRulesInitiator.rulesStrings.19>
+  <ReduceWill.logRulesInitiator.rulesStrings.20>threat->tępy uraz</ReduceWill.logRulesInitiator.rulesStrings.20>
+  <ReduceWill.logRulesInitiator.rulesStrings.21>threat->skaleczenia</ReduceWill.logRulesInitiator.rulesStrings.21>
+  <ReduceWill.logRulesInitiator.rulesStrings.22>threat->kanibalizm</ReduceWill.logRulesInitiator.rulesStrings.22>
+  <ReduceWill.logRulesInitiator.rulesStrings.23>threat->pobieranie narządów</ReduceWill.logRulesInitiator.rulesStrings.23>
+  <ReduceWill.logRulesInitiator.rulesStrings.24>threat->długie zamknięcie</ReduceWill.logRulesInitiator.rulesStrings.24>
+  <ReduceWill.logRulesInitiator.rulesStrings.25>refused->próbował uciec</ReduceWill.logRulesInitiator.rulesStrings.25>
+  <ReduceWill.logRulesInitiator.rulesStrings.26>refused->znieważył kolonię</ReduceWill.logRulesInitiator.rulesStrings.26>
+  <ReduceWill.logRulesInitiator.rulesStrings.27>refused->nie pracował</ReduceWill.logRulesInitiator.rulesStrings.27>
+  <ReduceWill.logRulesInitiator.rulesStrings.28>refused->odmówił wykonania polecenia</ReduceWill.logRulesInitiator.rulesStrings.28>
+  <ReduceWill.logRulesInitiator.rulesStrings.29>refused->oparł się poddaniu</ReduceWill.logRulesInitiator.rulesStrings.29>
+  <ReduceWill.logRulesInitiator.rulesStrings.30>refused->odmówił posłuszeństwa</ReduceWill.logRulesInitiator.rulesStrings.30>
+  <ReduceWill.logRulesInitiator.rulesStrings.31>refused->zachowywał się nieuprzejmie</ReduceWill.logRulesInitiator.rulesStrings.31>
+  <ReduceWill.logRulesInitiator.rulesStrings.32>disillusionment->powinien akceptować sytuację [RECIPIENT_possessive]</ReduceWill.logRulesInitiator.rulesStrings.32>
+  <ReduceWill.logRulesInitiator.rulesStrings.33>disillusionment->nie miał nadziei na inną przyszłość</ReduceWill.logRulesInitiator.rulesStrings.33>
+  <ReduceWill.logRulesInitiator.rulesStrings.34>disillusionment->najlepiej byłoby złożyć</ReduceWill.logRulesInitiator.rulesStrings.34>
+  <ReduceWill.logRulesInitiator.rulesStrings.35>disillusionment->nie przetrwałby sam [RECIPIENT_possessive] </ReduceWill.logRulesInitiator.rulesStrings.35>
+  <ReduceWill.logRulesInitiator.rulesStrings.36>disillusionment->nie miałem innego wyjścia, jak się poddać</ReduceWill.logRulesInitiator.rulesStrings.36>
+  <ReduceWill.logRulesInitiator.rulesStrings.37>givein->poddać się</ReduceWill.logRulesInitiator.rulesStrings.37>
+  <ReduceWill.logRulesInitiator.rulesStrings.38>givein->prześlij [RECIPIENT_objective]</ReduceWill.logRulesInitiator.rulesStrings.38>
+  <ReduceWill.logRulesInitiator.rulesStrings.39>givein->poddaj się [RECIPIENT_objective]</ReduceWill.logRulesInitiator.rulesStrings.39>
+  <ReduceWill.logRulesInitiator.rulesStrings.40>givein->wydajność [RECIPIENT_objective]</ReduceWill.logRulesInitiator.rulesStrings.40>
+
+
+</LanguageData>

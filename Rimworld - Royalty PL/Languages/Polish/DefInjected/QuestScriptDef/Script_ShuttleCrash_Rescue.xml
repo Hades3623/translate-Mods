@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.0>questName-&gt;[shuttle] [crash]</ShuttleCrash_Rescue.questNameRules.rulesStrings.0>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.1>questName-&gt;[asker_faction_pawnSingular] [shuttle] [crash]</ShuttleCrash_Rescue.questNameRules.rulesStrings.1>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.2>questName-&gt;[damaged] [shuttle]</ShuttleCrash_Rescue.questNameRules.rulesStrings.2>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.3>questName-&gt;[asker_nameDef]'s [damaged] [shuttle]</ShuttleCrash_Rescue.questNameRules.rulesStrings.3>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.4>questName-&gt;[emergency] [landing]</ShuttleCrash_Rescue.questNameRules.rulesStrings.4>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.5>questName-&gt;[asker_nameDef]'s [emergency] [landing]</ShuttleCrash_Rescue.questNameRules.rulesStrings.5>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.6>shuttle-&gt;shuttle</ShuttleCrash_Rescue.questNameRules.rulesStrings.6>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.7>shuttle-&gt;transporter</ShuttleCrash_Rescue.questNameRules.rulesStrings.7>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.8>shuttle-&gt;ship</ShuttleCrash_Rescue.questNameRules.rulesStrings.8>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.9>crash-&gt;crash</ShuttleCrash_Rescue.questNameRules.rulesStrings.9>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.10>crash-&gt;down</ShuttleCrash_Rescue.questNameRules.rulesStrings.10>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.11>damaged-&gt;damaged</ShuttleCrash_Rescue.questNameRules.rulesStrings.11>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.12>damaged-&gt;busted</ShuttleCrash_Rescue.questNameRules.rulesStrings.12>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.13>damaged-&gt;failing</ShuttleCrash_Rescue.questNameRules.rulesStrings.13>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.14>emergency-&gt;emergency</ShuttleCrash_Rescue.questNameRules.rulesStrings.14>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.15>emergency-&gt;forced</ShuttleCrash_Rescue.questNameRules.rulesStrings.15>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.16>landing-&gt;landing</ShuttleCrash_Rescue.questNameRules.rulesStrings.16>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.17>landing-&gt;descent</ShuttleCrash_Rescue.questNameRules.rulesStrings.17>
+  <ShuttleCrash_Rescue.questNameRules.rulesStrings.18>landing-&gt;approach</ShuttleCrash_Rescue.questNameRules.rulesStrings.18>
+  <ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings.0>pawnLabel-&gt;civilian</ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings.0>
+  <ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings.1>pawnLabelPlural-&gt;civilians</ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings.1>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.0>pawnLabelSingleOrPlural(civilians_count==1)-&gt;[pawnLabel]</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.0>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.1>pawnLabelSingleOrPlural(civilians_count&gt;=2)-&gt;[pawnLabelPlural]</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.1>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.2>questDescription-&gt;A shuttle of [asker_faction_name] has taken damage and is seeking a place to land. Its commander [asker_nameDef] wants to land at [map_definite].\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack the crashed shuttle site in an attempt to kill its occupants. You must defend them.\n\nThe shuttle contains [asker_nameDef][andOtherCivilians] and [soldiers_count] [soldiers0_kind]s. The commander [andCivilians] must be rescued, but the [soldiers0_kind]s may be sacrificed.\n\nAfter [rescueDelay_duration], a rescue shuttle will come to pick up the survivors. You'll need to get them all on board within [leaveDelay_duration].</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.2>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.3>andOtherCivilians(civilians_count==1)-&gt;</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.3>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.4>andOtherCivilians(civilians_count==2)-&gt;, another [pawnLabel],</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.4>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.5>andOtherCivilians(civilians_count&gt;=3)-&gt;, [civilianCountMinusOne] other [pawnLabelSingleOrPlural],</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.5>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.6>andCivilians(civilians_count==1)-&gt;</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.6>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.7>andCivilians(civilians_count==2)-&gt;and [pawnLabel]</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.7>
+  <ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.8>andCivilians(civilians_count&gt;=3)-&gt;and [pawnLabelPlural]</ShuttleCrash_Rescue.questDescriptionRules.rulesStrings.8>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.0>failLetterEndingCommon-&gt;You have failed the quest '[resolvedQuestName]'.</ShuttleCrash_Rescue.questContentRules.rulesStrings.0>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.1>successLetterEndingCommon-&gt;You have succesfully completed the quest '[resolvedQuestName]'.</ShuttleCrash_Rescue.questContentRules.rulesStrings.1>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.2>goodwillSomeCiviliansLost-&gt;Not all the [asker_faction_pawnSingular] [pawnLabel] could be rescued. [goodwillNegativelyAffected]</ShuttleCrash_Rescue.questContentRules.rulesStrings.2>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.3>goodwillAllCiviliansLost-&gt;None of the [asker_faction_pawnSingular] [pawnLabelPlural] could be rescued. [goodwillNegativelyAffected]</ShuttleCrash_Rescue.questContentRules.rulesStrings.3>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.4>goodwillNegativelyAffected-&gt;Your goodwill with [asker_faction_name] has been negatively affected for every [pawnLabel] left.</ShuttleCrash_Rescue.questContentRules.rulesStrings.4>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.5>commanderLandingDesc-&gt;[asker_nameDef], the commander who asked to land [asker_possessive] shuttle at [map_definite]</ShuttleCrash_Rescue.questContentRules.rulesStrings.5>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.6>raidArrivedLetterLabel-&gt;Raid: [enemyFaction_name]</ShuttleCrash_Rescue.questContentRules.rulesStrings.6>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.7>raidArrivedLetterText-&gt;[enemyFaction_pawnsPlural] from the [enemyFaction_name] have arrived. They will attack the [asker_faction_pawnsPlural] who crashed at [map_definite].\n\nDefend the [asker_faction_pawnsPlural] until their rescue shuttle arrives in [rescueShuttleAfterRaidDelay_duration].</ShuttleCrash_Rescue.questContentRules.rulesStrings.7>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.8>rescueShuttleArrivedLetterLabel-&gt;Rescue shuttle arrived</ShuttleCrash_Rescue.questContentRules.rulesStrings.8>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.9>rescueShuttleArrivedLetterText-&gt;The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [rescueDelay_duration]:\n\n[civilians]</ShuttleCrash_Rescue.questContentRules.rulesStrings.9>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.10>questCompletedSuccessLetterLabel-&gt;Quest completed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.10>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.11>questCompletedSuccessLetterText-&gt;[commanderLandingDesc], has escaped. [asker_pronoun] is grateful for the help [asker_pronoun] received at [map_definite].\n\n[successLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.11>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.12>questCompletedCiviliansLostSuccessLetterLabel-&gt;Quest completed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.12>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.13>questCompletedCiviliansLostSuccessLetterText-&gt;[commanderLandingDesc], has escaped.\n\n[goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.13>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.14>askerLostLetterLabel-&gt;Quest failed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.14>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.15>askerLostLetterText-&gt;[commanderLandingDesc] was not on board when the shuttle departed.\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.15>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.16>allLostLetterLabel-&gt;Quest failed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.16>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.17>allLostLetterText-&gt;The rescue shuttle for the crashed [asker_faction_pawnsPlural] has departed without anyone on board.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.17>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.18>askerDiedLetterLabel-&gt;Quest failed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.18>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.19>askerDiedLetterText-&gt;[commanderLandingDesc] has died.\n\n[failLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.19>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.20>shuttleDestroyedLetterLabel-&gt;Quest failed: [resolvedQuestName]</ShuttleCrash_Rescue.questContentRules.rulesStrings.20>
+  <ShuttleCrash_Rescue.questContentRules.rulesStrings.21>shuttleDestroyedLetterText-&gt;The shuttle sent to collect the crashed [asker_faction_pawnsPlural] has been destroyed. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</ShuttleCrash_Rescue.questContentRules.rulesStrings.21>
+
+
+</LanguageData>

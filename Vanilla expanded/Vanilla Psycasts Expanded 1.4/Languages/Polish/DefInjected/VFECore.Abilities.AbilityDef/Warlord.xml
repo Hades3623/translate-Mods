@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SpeedBoost.label>zwiększenie prędkości</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.description>Psychicznie wzmacnia włókna mięśniowe, więzadła i stawy w nogach rzucającego, potrajając ich prędkość ruchu na około dwie minuty, w zależności od ich wrażliwości psychicznej.</VPE_SpeedBoost.description>
+
+  <VPE_BladeFocus.label>ostrość ostrza</VPE_BladeFocus.label>
+  <VPE_BladeFocus.description>Psychicznie wzmacnia włókna mięśniowe, więzadła i stawy w ramionach rzucającego, podwajając prędkość ataku w zwarciu na około dwie minuty, w zależności od jego wrażliwości psychicznej.</VPE_BladeFocus.description>
+
+  <VPE_FiringFocus.label>ostrość naboju</VPE_FiringFocus.label>
+  <VPE_FiringFocus.description>Psychicznie wzmacnia ręce, oczy i szybkość reakcji rzucającego, skracając czas odnowienia jego ataku dystansowego o 80% na mniej więcej dwie minuty, w zależności od jego wrażliwości psychicznej.</VPE_FiringFocus.description>
+
+  <VPE_PowerLeap.label>skok mocy</VPE_PowerLeap.label>
+  <VPE_PowerLeap.description>Drastycznie wzmacnia nogi, stopy i kręgosłup rzucającego, aby móc skakać na duże odległości i lądować bez kontuzji, odległość poprawia się wraz z psychiczną wrażliwością użytkownika.</VPE_PowerLeap.description>
+
+  <VPE_AdrenalineRush.label>przypływ adrenaliny</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.description>Psychicznie wywołuje przypływ adrenaliny u rzucającego, blokując wszelki ból i wzmacniając wzrok, słuch i ruch. Trwa około trzydziestu sekund w zależności od psychicznej wrażliwości użytkownika.</VPE_AdrenalineRush.description>
+
+  <VPE_ControlledFrenzy.label>kontrolowany szał</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.description>Psychicznie zwiększa sprawność rzucającego i zabijanie chęci, podwajając jego obrażenia za pomocą wszystkich broni. Każde zabicie zmniejsza ciepło rzucającego o 10 i resetuje czas trwania szału.</VPE_ControlledFrenzy.description>
+
+  <VPE_GuidedShot.label>strzał prowadzony</VPE_GuidedShot.label>
+  <VPE_GuidedShot.description>Emituje psychiczną aurę na 8 sekund, która pozwala rzucającemu zmienić ścieżkę każdego wystrzelonego pocisku, skutecznie podwajając zasięg broni i gwarantując trafienia przez cały czas.</VPE_GuidedShot.description>
+
+  <VPE_Beckon.label>rozkaz zbliżenia</VPE_Beckon.label>
+  <VPE_Beckon.description>Psychicznie rozkaż celowi zbliżyć się do rzucającego.</VPE_Beckon.description>
+
+  <VPE_Killskip.label>śmiertelny teleport</VPE_Killskip.label>
+  <VPE_Killskip.description>Teleportuje się do celu i wykonuje uderzenie wręcz, osłabione lub wzmocnione umiejętnością walki wręcz rzucającego. Jeśli cel zostanie zabity, teleportuje się do następnego najbliższego wroga za darmo i atakuje ponownie, dopóki nie zostanie nic do zabicia.</VPE_Killskip.description>
+
+  <VPE_MassBeckon.label>masa kusząca</VPE_MassBeckon.label>
+  <VPE_MassBeckon.description>Rozkaż psychicznie celom w obszarze, aby zbliżyły się do rzucającego.</VPE_MassBeckon.description>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Healing.label>uzdrowienie psychiczne</VPE_Healing.label>
+  <VPE_Healing.description>Wzmocnienie gojenia wywołane psychicznie.</VPE_Healing.description>
+
+  <VPE_BlockBleeding.label>stabilizacja psychiczna</VPE_BlockBleeding.label>
+  <VPE_BlockBleeding.description>Zastój wywołany psychicznie, który zatrzymuje krwawienie.</VPE_BlockBleeding.description>
+
+  <VPE_Immunity.label>odporność psychiczna</VPE_Immunity.label>
+  <VPE_Immunity.description>Wzmocnienie odporności wywołane psychicznie.</VPE_Immunity.description>
+
+  <VPE_Overshield.label>psychiczna tarcza</VPE_Overshield.label>
+  <VPE_Overshield.description>Psychicznie wywołana bariera osobista. Nie do przebicia przez pociski dystansowe.</VPE_Overshield.description>
+
+  <VPE_GuardianSkipBarrier.label>opiekun bariery ochronnej</VPE_GuardianSkipBarrier.label>
+  <VPE_GuardianSkipBarrier.description>Psychicznie stworzona bariera obronna, która generuje duże ilości psychicznego ciepła, aby się utrzymać.</VPE_GuardianSkipBarrier.description>
+
+  <VPE_RegrowLimbs.label>regeneracja psychiczna</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.description>Psychicznie indukowana regeneracja tkanek, która może zamykać otwarte rany i regenerować brakujące części ciała.</VPE_RegrowLimbs.description>
+
+  <VPE_Regenerating.label>regeneracja</VPE_Regenerating.label>
+  <VPE_Regenerating.description>Regenerujące rany, nowe i stare.</VPE_Regenerating.description>
+  <VPE_Regenerating.injuryProps.destroyedLabel>Zniszczony</VPE_Regenerating.injuryProps.destroyedLabel>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Harp.label>harfa</Harp.label>
+  <Harp.description>Stwórz harfę, prosty stacjonarny instrument muzyczny popularny wśród szlachty w niektórych kulturach.</Harp.description>
+
+  <Harpsichord.label>klawesyn</Harpsichord.label>
+  <Harpsichord.description>Stwórz klawesyn, złożony stacjonarny instrument muzyczny.</Harpsichord.description>
+
+  <Piano.label>fortepian</Piano.label>
+  <Piano.description>Stwórz fortepian, zaawansowany stacjonarny instrument muzyczny.</Piano.description>
+
+
+</LanguageData>

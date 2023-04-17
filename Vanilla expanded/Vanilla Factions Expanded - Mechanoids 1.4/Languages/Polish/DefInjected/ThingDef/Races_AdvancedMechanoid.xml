@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Centipede -->
+
+  <VFE_Mech_AdvancedCentipede.label>zaawansowana stonoga</VFE_Mech_AdvancedCentipede.label>
+  <VFE_Mech_AdvancedCentipede.description>Jeszcze cięższa, bardziej opancerzona wersja mechanoida Centipede napędzana przez setki maleńkich nóg. W przeciwieństwie do swoich bardziej starożytnych i mniej zaawansowanych krewnych, ta konkretna jednostka jest znacznie bardziej inteligentna i będzie szukać schronienia przed próbą przełamania linii obrony.</VFE_Mech_AdvancedCentipede.description>
+  <VFE_Mech_AdvancedCentipede.tools.0.label>głowa</VFE_Mech_AdvancedCentipede.tools.0.label>
+
+
+  <!-- Advanced Lancer - fast mid-range shooter -->
+
+  <VFE_Mech_AdvancedLancer.label>zaawansowany lancer</VFE_Mech_AdvancedLancer.label>
+  <VFE_Mech_AdvancedLancer.description>Świeżo wyprodukowany i mocno zmodernizowany mechanoid piechoty dalekiego zasięgu. W przeciwieństwie do swoich bardziej starożytnych i mniej zaawansowanych krewnych, ta konkretna jednostka jest znacznie bardziej inteligentna i będzie szukać osłony i okaże się znacznie trudniejszym przeciwnikiem w walce wręcz.</VFE_Mech_AdvancedLancer.description>
+  <VFE_Mech_AdvancedLancer.tools.0.label>lewa pięść</VFE_Mech_AdvancedLancer.tools.0.label>
+  <VFE_Mech_AdvancedLancer.tools.1.label>prawa pięść</VFE_Mech_AdvancedLancer.tools.1.label>
+  <VFE_Mech_AdvancedLancer.tools.2.label>głowa</VFE_Mech_AdvancedLancer.tools.2.label>
+
+
+  <!-- Advanced Knight - slow short-range shooter -->
+
+  <VFE_Mech_AdvancedKnight.label>zaawansowany rycerz</VFE_Mech_AdvancedKnight.label>
+  <VFE_Mech_AdvancedKnight.description>Jeden z dwóch mechanoidów ciężkiej piechoty wyposażonych w liczne ulepszenia. Wydaje się, że ten konkretny wariant Knighta ma podkręcone ogniwo mocy, umożliwiające szybszy ruch i mocniejszą tarczę energetyczną. Podobnie jak w przypadku wersji bez ulepszenia, Knight jest wyposażony w niszczycielski miotacz z ładunkiem wybuchowym, chociaż jego moduł celowniczy wydaje się być znacznie bardziej zaawansowany.</VFE_Mech_AdvancedKnight.description>
+  <VFE_Mech_AdvancedKnight.tools.0.label>lewa pięść</VFE_Mech_AdvancedKnight.tools.0.label>
+  <VFE_Mech_AdvancedKnight.tools.1.label>prawa pięść</VFE_Mech_AdvancedKnight.tools.1.label>
+  <VFE_Mech_AdvancedKnight.tools.2.label>głowa</VFE_Mech_AdvancedKnight.tools.2.label>
+
+
+  <!-- Advanced Inquisitor - armored short-range flamer -->
+
+  <VFE_Mech_AdvancedInquisitor.label>zaawansowany inkwizytor</VFE_Mech_AdvancedInquisitor.label>
+  <VFE_Mech_AdvancedInquisitor.description>Jeden z dwóch mechanoidów ciężkiej piechoty wyposażonych w liczne ulepszenia. Pomimo znacznie większych zbiorników na chemikalia, ten wariant mecha Inkwizytora jest nieco szybszy niż jego odpowiednik. Mniej niż tuzin spotkań z tym mechanoidem kiedykolwiek zostało zgłoszonych, a mniej niż połowa z nich zakończyła się zwycięstwem. Ten Inkwizytor nie tylko atakuje priorytetowe cele pióropuszami ognia, ale jest również wyposażony w znacznie bardziej śmiercionośny, wybuchowy system bezpieczeństwa, który zarówno detonuje maszynę, jak i pochłania pobliskie cele w ogniu chemicznym.</VFE_Mech_AdvancedInquisitor.description>
+  <VFE_Mech_AdvancedInquisitor.tools.0.label>lewa pięść</VFE_Mech_AdvancedInquisitor.tools.0.label>
+  <VFE_Mech_AdvancedInquisitor.tools.1.label>prawa pięść</VFE_Mech_AdvancedInquisitor.tools.1.label>
+  <VFE_Mech_AdvancedInquisitor.tools.2.label>głowa</VFE_Mech_AdvancedInquisitor.tools.2.label>
+
+
+  <!-- Advanced Scyther - fast melee -->
+
+  <VFE_Mech_AdvancedScyther.label>zaawansowany scyther</VFE_Mech_AdvancedScyther.label>
+  <VFE_Mech_AdvancedScyther.description>Gęsta, wrzecionowata i bardzo inteligentna jednostka scytherów, która wydaje się być świeżo wyprodukowana z dodatkowymi ulepszeniami. Wydaje się, że ta jednostka wykorzystuje właściwości antygrawitacyjne, aby napędzać się znacznie szybciej niż jej starożytne wersje, a także przegrzewać swoje ostrza, aby łatwiej przeciąć ciało i metal.</VFE_Mech_AdvancedScyther.description>
+  <VFE_Mech_AdvancedScyther.tools.0.label>lewe ostrze</VFE_Mech_AdvancedScyther.tools.0.label>
+  <VFE_Mech_AdvancedScyther.tools.1.label>prawe ostrze</VFE_Mech_AdvancedScyther.tools.1.label>
+  <VFE_Mech_AdvancedScyther.tools.2.label>głowa</VFE_Mech_AdvancedScyther.tools.2.label>
+
+
+  <!-- Advanced Pikeman - slow sniper weak at close range -->
+
+  <VFE_Mech_AdvancedPikeman.label>zaawansowany pikinier</VFE_Mech_AdvancedPikeman.label>
+  <VFE_Mech_AdvancedPikeman.description>Wielonożny mechanoid bojowy wyspecjalizowany jako platforma broni dalekiego zasięgu. Wydaje się, że ta konkretna jednostka została ulepszona o dodatkowe kończyny dla szybszego ruchu, a także warstwę przypominających karapaks płyt, które zapewniają dodatkową ochronę przed walczącymi w zwarciu.</VFE_Mech_AdvancedPikeman.description>
+  <VFE_Mech_AdvancedPikeman.tools.0.label>przednia lewa noga</VFE_Mech_AdvancedPikeman.tools.0.label>
+  <VFE_Mech_AdvancedPikeman.tools.1.label>przednia prawa noga</VFE_Mech_AdvancedPikeman.tools.1.label>
+  <VFE_Mech_AdvancedPikeman.tools.2.label>głowa</VFE_Mech_AdvancedPikeman.tools.2.label>
+
+
+  <!-- Advanced Carpenter - slow deconstructor -->
+
+  <VFE_Mech_AdvancedCarpenter.label>zaawansowany stolarz</VFE_Mech_AdvancedCarpenter.label>
+  <VFE_Mech_AdvancedCarpenter.description>Ulepszona wersja narzędzia „Carpenter” mechanoid. W odróżnieniu od poprzednich iteracji, ta wersja mechanika stolarskiego nie tylko porusza się szybciej, ale także wykorzystuje palniki plazmowe i narzędzia omnitool do niemal natychmiastowego demontażu wszystkich stwarzających ryzyko konstrukcji. W połączeniu z prawdopodobnie najcięższym pancerzem ze wszystkich mechanoidów, jednostka ta musi mieć priorytet, zanim dotrze na linię frontu wroga. Wreszcie, jeśli ten mechanoid wykryje, że wkrótce przestanie działać, zostanie wyemitowany wstrząs EMP, który tymczasowo wyłącza całą pobliską elektronikę w ostatniej próbie przełamania linii frontu dla sojuszników.</VFE_Mech_AdvancedCarpenter.description>
+  <VFE_Mech_AdvancedCarpenter.tools.0.label>przednia lewa noga</VFE_Mech_AdvancedCarpenter.tools.0.label>
+  <VFE_Mech_AdvancedCarpenter.tools.1.label>przednia prawa noga</VFE_Mech_AdvancedCarpenter.tools.1.label>
+  <VFE_Mech_AdvancedCarpenter.tools.2.label>głowa</VFE_Mech_AdvancedCarpenter.tools.2.label>
+
+
+  <!-- Advanced Termite -->
+
+  <VFE_Mech_AdvTermite.label>zaawansowany termit</VFE_Mech_AdvTermite.label>
+  <VFE_Mech_AdvTermite.description>Ciężki, dużych rozmiarów mechanoid. Termity specjalizują się w grzebaniu, kopaniu i przełamywaniu struktur obronnych. Obrońcy muszą zdecydować, czy spróbować wyeliminować termity, zanim przebiją się przez ich obronę, czy też zająć je tam, gdzie się pojawią. W przeciwieństwie do prostych modeli, zaawansowane termity posiadają znacznie potężniejsze działko, które jest równie skuteczne w walce z konstrukcjami, jak i z organicznymi przeciwnikami.</VFE_Mech_AdvTermite.description>
+  <VFE_Mech_AdvTermite.tools.0.label>głowa</VFE_Mech_AdvTermite.tools.0.label>
+
+
+</LanguageData>

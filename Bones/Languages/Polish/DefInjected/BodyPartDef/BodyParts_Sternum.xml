@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STERNUM PART -->
+
+  <SZ_Sternum.label>mostek</SZ_Sternum.label>
+
+
+  <!-- STERNUM BONES -->
+
+  <SZ_Manubrium.label>Manubrium</SZ_Manubrium.label>
+  <SZ_Body.label>ciało</SZ_Body.label>
+  <SZ_Xiphoid_Process.label>wyrostek mieczykowaty</SZ_Xiphoid_Process.label>
+
+
+</LanguageData>

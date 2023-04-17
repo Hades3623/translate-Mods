@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Flameball.label>ognista kula</VPE_Flameball.label>
+  <VPE_Flameball.description>Kula ognia wystrzelona przez pożeracza</VPE_Flameball.description>
+
+  <VPE_EyeBlast.label>wybuch oka</VPE_EyeBlast.label>
+
+  <VPE_Bolt.label>pocisk</VPE_Bolt.label>
+  <VPE_Bolt.description>pocisk wystrzelony przez staticlorda</VPE_Bolt.description>
+
+  <VPE_ChainBolt.label>pocisk łańcuchowy</VPE_ChainBolt.label>
+  <VPE_BallLightning.label>piorun kulisty</VPE_BallLightning.label>
+
+  <VPE_IceSpike.label>lodowy kolec</VPE_IceSpike.label>
+  <VPE_IceSpike.description>Lodowy kolec wystrzelony przez Zaklinacza Mrozu.</VPE_IceSpike.description>
+
+  <VPE_FrostRay.label>mroźny promień</VPE_FrostRay.label>
+
+
+</LanguageData>

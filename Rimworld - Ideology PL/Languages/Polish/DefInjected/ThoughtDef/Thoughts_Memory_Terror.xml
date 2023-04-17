@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ObservedTerror.stages.0.label>{THING_label}</ObservedTerror.stages.0.label>
+
+  <ObservedGibbetCage.stages.0.label>obserwowana klatka szubienicy</ObservedGibbetCage.stages.0.label>
+  <ObservedGibbetCage.stages.0.description>Co za okropny widok.</ObservedGibbetCage.stages.0.description>
+
+  <ObservedSkullspike.stages.0.label>zaobserwowany kolec czaszki</ObservedSkullspike.stages.0.label>
+  <ObservedSkullspike.stages.0.description>Co za okropny widok.</ObservedSkullspike.stages.0.description>
+
+
+</LanguageData>

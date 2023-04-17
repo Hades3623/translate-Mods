@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanoid Frigate -->
+
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.0>
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.1>
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.2>shiptype->frigate</VFE_NamerShipFrigate.rulePack.rulesStrings.2>
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipFrigate.rulePack.rulesStrings.3>
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.4>
+  <VFE_NamerShipFrigate.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.5>
+
+
+  <!-- Mechanoid Destroyer -->
+
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.0>
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.1>
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.2>shiptype->destroyer</VFE_NamerShipDestroyer.rulePack.rulesStrings.2>
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipDestroyer.rulePack.rulesStrings.3>
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.4>
+  <VFE_NamerShipDestroyer.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.5>
+
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.0>
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.1>
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.2>shiptype->cruiser</VFE_NamerShipCruiser.rulePack.rulesStrings.2>
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipCruiser.rulePack.rulesStrings.3>
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.4>
+  <VFE_NamerShipCruiser.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.5>
+
+
+  <!-- Mechanoid Troopship -->
+
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.0>
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.1>
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.2>shiptype->troopship</VFE_NamerShipTroopship.rulePack.rulesStrings.2>
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipTroopship.rulePack.rulesStrings.3>
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.4>
+  <VFE_NamerShipTroopship.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.5>
+
+
+  <!-- Mechanoid Carrier -->
+
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.0>
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.1>
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.2>shiptype->carrier</VFE_NamerShipCarrier.rulePack.rulesStrings.2>
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipCarrier.rulePack.rulesStrings.3>
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.4>
+  <VFE_NamerShipCarrier.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.5>
+
+
+</LanguageData>

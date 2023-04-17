@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <BondedThoughtKind.stages.0.label>Dobre myśli {WEAPON}</BondedThoughtKind.stages.0.label>
+  <BondedThoughtKind.stages.0.description>{WEAPON}, moja związana broń, szepcze mi dobre myśli.</BondedThoughtKind.stages.0.description>
+
+  <BondedThoughtCalm.stages.0.label>Spokojne myśli {WEAPON}</BondedThoughtCalm.stages.0.label>
+  <BondedThoughtCalm.stages.0.description>{WEAPON}, moja połączona broń, szepcze do mnie uspokajające myśli.</BondedThoughtCalm.stages.0.description>
+
+  <BondedThoughtMuttering.stages.0.label>Mruczenie {WEAPON}</BondedThoughtMuttering.stages.0.label>
+  <BondedThoughtMuttering.stages.0.description>{WEAPON}, moja związana broń, mamrocze w mojej głowie. Czasami trudno to zignorować.</BondedThoughtMuttering.stages.0.description>
+
+  <BondedThoughtWailing.stages.0.label>{WEAPON} zawodzi</BondedThoughtWailing.stages.0.label>
+  <BondedThoughtWailing.stages.0.description>{WEAPON}, moja powiązana broń, jęczy szaleńczo w mojej głowie. Chciałbym móc to zignorować.</BondedThoughtWailing.stages.0.description>
+
+
+  <!-- Killed pawn thoughts/effects -->
+
+  <OnKill_GoodThought.stages.0.label>Zabójcze szczęście {WEAPON}</OnKill_GoodThought.stages.0.label>
+  <OnKill_GoodThought.stages.0.description>{WEAPON} był zachwycony swoim zabójstwem i ja też trochę to odczuwam.</OnKill_GoodThought.stages.0.description>
+
+  <OnKill_BadThought.stages.0.label>Zabójczy smutek {WEAPON}</OnKill_BadThought.stages.0.label>
+  <OnKill_BadThought.stages.0.description>Smutek {WEAPON} z powodu jego zabójstwa wpływa również na mój umysł.</OnKill_BadThought.stages.0.description>
+
+  <KillThirst.stages.0.label>{WEAPON} zabija pragnienie</KillThirst.stages.0.label>
+  <KillThirst.stages.0.description>Moja związana broń {WEAPON} jest zła, że ​​tak długo nie zabijała. Czuję jego wściekłość.</KillThirst.stages.0.description>
+
+
+  <!-- Misc -->
+
+  <JealousRage.stages.0.label>Zazdrość {WEAPON}</JealousRage.stages.0.label>
+  <JealousRage.stages.0.description>Moja połączona broń {WEAPON} jest zazdrosna, że ​​używam innej broni. Czuję wściekłość, która krzyczy w mojej głowie.</JealousRage.stages.0.description>
+
+
+</LanguageData>

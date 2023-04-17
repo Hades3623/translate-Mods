@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_WordofFear.label>słowo strachu</VPE_WordofFear.label>
+  <VPE_WordofFear.description>Wywołuje panikę, przeciążając system reagowania na krótki czas. Uważane za wrogie działanie.</VPE_WordofFear.description>
+
+  <VPE_Liferot.label>zgnilizna</VPE_Liferot.label>
+  <VPE_Liferot.description>Psychicznie wywołuje losową masową martwicę u celu, narażając dotknięte nią części ciała na infekcję i intensywne odruchy wymiotne z powodu zapachu. Czas trwania zależy od wrażliwości psychicznej celu i jest działaniem wyraźnie wrogim.</VPE_Liferot.description>
+
+  <VPE_StealVitality.label>kradzież witalność</VPE_StealVitality.label>
+  <VPE_StealVitality.description>Witalność syfonów tworzy bliski, żywy cel, przenosząc naturalny czynnik leczniczy celu, prędkość ruchu i świadomość na rzucającego. Uważane za jawnie wrogie działanie.</VPE_StealVitality.description>
+
+  <VPE_ParalysisPulse.label>paraliż pulsu</VPE_ParalysisPulse.label>
+  <VPE_ParalysisPulse.description>Emituje chmurę czarnych cząsteczek wokół rzucającego, która dotyka wszystkich w okolicy - z wyjątkiem rzucającego - przez 2 godziny paralitycznej abazji. Promień skaluje się wraz z wrażliwością psychiczną rzucającego.</VPE_ParalysisPulse.description>
+
+  <VPE_Corpsetalk.label>zwłoki</VPE_Corpsetalk.label>
+  <VPE_Corpsetalk.description>Celuj w zwłoki i tymczasowo przywłaszczaj sobie umiejętności ofiary, aby zrekompensować braki rzucającego. Efekt utrzymuje się przez sezon, zanim wróci do normy.</VPE_Corpsetalk.description>
+
+  <VPE_Ghostwalk.label>spacer duchów</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.description>Psychicznie przekonuje atomy rzucającego, że są w stanie przechodzić między atomami struktur. Czas trwania oszustwa zależy od psychicznej wrażliwości rzucającego.</VPE_Ghostwalk.description>
+
+  <VPE_ConsumeBodies.label>konsumować ciała</VPE_ConsumeBodies.label>
+  <VPE_ConsumeBodies.description>Psychicznie usuwa całą pozostałą siłę życiową z pobliskich zwłok humanoidalnych i przechowuje esencję jako stały bufor kumulujący ciepło neuronowe.</VPE_ConsumeBodies.description>
+
+  <VPE_Deathshield.label>tarcza śmierci</VPE_Deathshield.label>
+  <VPE_Deathshield.description>Blokuje siłę życiową dotkniętego celu na jeden dzień, zapobiegając jego śmierci. Po tym okresie mogą umrzeć z powodu nagromadzonych ran, utraty krwi lub brakujących kończyn lub narządów.</VPE_Deathshield.description>
+
+  <VPE_Enthrall.label>oczarować</VPE_Enthrall.label>
+  <VPE_Enthrall.description>Psychicznie pozbawia zmarłego celu siły życiowej i wlewa ją bezpośrednio do jego kości, animując go przez cały dzień. Jedynym pozostałym instynktem jest zadawanie bólu wrogom rzucającego czar.</VPE_Enthrall.description>
+
+  <VPE_Resurrect.label>wskrzesić</VPE_Resurrect.label>
+  <VPE_Resurrect.description>Poświęcając naturalny palec, rzucający jest w stanie naśladować działanie mechowego serum resurrectora na każde niewysuszone zwłoki, energię psychiczną naprawiającą zniszczone tkanki i przywracającą organizm do życia. Cel zostanie ubezwłasnowolniony, a jego przynależność pozostanie taka sama. Im mniej zachowane ciało, tym większe prawdopodobieństwo wystąpienia negatywnych skutków ubocznych. Długa, intensywna koncentracja kończy się zapadnięciem rzucającego w 6-godzinną śpiączkę.</VPE_Resurrect.description>
+
+
+</LanguageData>

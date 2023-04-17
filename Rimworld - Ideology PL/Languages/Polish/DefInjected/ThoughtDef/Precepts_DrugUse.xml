@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Ingested drug self thoughts -->
+
+  <IngestedDrug_Horrible.stages.0.label>używany lek</IngestedDrug_Horrible.stages.0.label>
+  <IngestedDrug_Horrible.stages.0.description>Użyłem narkotyku. Takie chemikalia w ciele są straszną obrazą moich przekonań.</IngestedDrug_Horrible.stages.0.description>
+
+  <IngestedRecreationalDrug_Horrible.stages.0.label>używany narkotyk rekreacyjny</IngestedRecreationalDrug_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Horrible.stages.0.description>Użyłem narkotyku rekreacyjnego. To była obraza moich przekonań.</IngestedRecreationalDrug_Horrible.stages.0.description>
+
+  <IngestedHardDrug_Horrible.stages.0.label>używany twardy narkotyk</IngestedHardDrug_Horrible.stages.0.label>
+  <IngestedHardDrug_Horrible.stages.0.description>Zażyłem twardy narkotyk - nie medyczny, ani nawet towarzyski. To była straszna obraza moich przekonań.</IngestedHardDrug_Horrible.stages.0.description>
+
+
+  <!-- Related: Ingested drug witnessed thoughts -->
+
+  <IngestedDrug_Know_Horrible.stages.0.label>używany lek</IngestedDrug_Know_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Know_Horrible.stages.0.label>używany narkotyk rekreacyjny</IngestedRecreationalDrug_Know_Horrible.stages.0.label>
+  <IngestedHardDrug_Know_Horrible.stages.0.label>używany twardy narkotyk</IngestedHardDrug_Know_Horrible.stages.0.label>
+
+
+  <!-- Related: Administered drug self thoughts -->
+
+  <AdministeredDrug_Horrible.stages.0.label>podawany lek</AdministeredDrug_Horrible.stages.0.label>
+  <AdministeredDrug_Horrible.stages.0.description>Podałem lek. To była straszna obraza moich przekonań.</AdministeredDrug_Horrible.stages.0.description>
+
+  <AdministeredRecreationalDrug_Horrible.stages.0.label>podawany narkotyk rekreacyjny</AdministeredRecreationalDrug_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Horrible.stages.0.description>Podałam narkotyk rekreacyjny. To była straszna obraza moich przekonań.</AdministeredRecreationalDrug_Horrible.stages.0.description>
+
+  <AdministeredHardDrug_Horrible.stages.0.label>podawany twardy lek</AdministeredHardDrug_Horrible.stages.0.label>
+  <AdministeredHardDrug_Horrible.stages.0.description>Zaaplikowałem twardy narkotyk - nie medyczny, ani nawet towarzyski. To była straszna obraza moich przekonań.</AdministeredHardDrug_Horrible.stages.0.description>
+
+
+  <!-- Related: Administered drug witnessed thoughts -->
+
+  <AdministeredDrug_Know_Horrible.stages.0.label>podawany lek</AdministeredDrug_Know_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Know_Horrible.stages.0.label>podawany narkotyk rekreacyjny</AdministeredRecreationalDrug_Know_Horrible.stages.0.label>
+  <AdministeredHardDrug_Know_Horrible.stages.0.label>podawany twardy lek</AdministeredHardDrug_Know_Horrible.stages.0.label>
+
+
+</LanguageData>

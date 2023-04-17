@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData> 
+
+  <VFE_Res_Obelisk.label>obeliski</VFE_Res_Obelisk.label>
+  <VFE_Res_Obelisk.description>Dowiedz się, jak wyrzeźbić wysokie, wąskie obeliski upamiętniające ważne wydarzenia.</VFE_Res_Obelisk.description>
+
+  <VFE_Res_Pottery.label>garncarstwo</VFE_Res_Pottery.label>
+  <VFE_Res_Pottery.description>Dowiedz się, jak tworzyć piękne wazony i inne naczynia z prostych materiałów.</VFE_Res_Pottery.description>
+
+  <VFE_Res_WallCarvings.label>rzeźby</VFE_Res_WallCarvings.label>
+  <VFE_Res_WallCarvings.description>Opanuj techniki rzeźbienia ścian, aby tworzyć piękne filary i płaskorzeźby.</VFE_Res_WallCarvings.description>
+
+  <VFE_Res_ArtfulDisplay.label>pomysłowy wyświetlacz</VFE_Res_ArtfulDisplay.label>
+  <VFE_Res_ArtfulDisplay.description>Twórz piękne sposoby wyświetlania artefaktów i ważnych towarów kolonialnych.</VFE_Res_ArtfulDisplay.description>
+
+  <VFE_Res_Statues.label>posągi</VFE_Res_Statues.label>
+  <VFE_Res_Statues.description>Wyrzeźb precyzyjne rzeźby w kształcie postaci, opatrzone artystycznymi ilustracjami.</VFE_Res_Statues.description>
+
+  <VFE_Res_Monuments.label>pomniki</VFE_Res_Monuments.label>
+  <VFE_Res_Monuments.description>Twórz masywne pomniki, centralne elementy swojej kolonii, aby upamiętnić tych, którzy odeszli i dać inspirację tym, którzy wciąż walczą.</VFE_Res_Monuments.description>
+
+  <VFE_Res_Rugs.label>dywaniki</VFE_Res_Rugs.label>
+  <VFE_Res_Rugs.description>Dowiedz się, jak tworzyć piękne dywaniki, aby udekorować swoją kolonię.</VFE_Res_Rugs.description>
+
+  <VFE_Res_Wallpapers.label>tapety</VFE_Res_Wallpapers.label>
+  <VFE_Res_Wallpapers.description>Zbuduj piękne ściany pokryte tapetą w wybranym kolorze.</VFE_Res_Wallpapers.description>
+
+  <VFE_Res_Holograms.label>hologramy</VFE_Res_Holograms.label>
+  <VFE_Res_Holograms.description>Dostosuj zaawansowane techniki wyświetlania, aby zaprezentować trójwymiarowe modele w swojej kolonii.</VFE_Res_Holograms.description>
+
+
+</LanguageData>

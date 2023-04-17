@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_RefreshingSleep.label>odświeżający sen</Bed_RefreshingSleep.label>
+  <Bed_RefreshingSleep.description>Znakomity odpoczynek w łóżku dzięki zaawansowanym systemom spania</Bed_RefreshingSleep.description>
+  <Bed_RefreshingSleep.stages.0.label>Mniejszy</Bed_RefreshingSleep.stages.0.label>
+  <Bed_RefreshingSleep.stages.1.label>Poważny</Bed_RefreshingSleep.stages.1.label>
+  <Bed_RefreshingSleep.stages.2.label>Maks</Bed_RefreshingSleep.stages.2.label>
+
+
+</LanguageData>

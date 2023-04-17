@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCEF_Fishing.label>Ryba</VCEF_Fishing.label>
+  <VCEF_Fishing.description>Połów ryby w wyznaczonych strefach pracy.</VCEF_Fishing.description>
+  <VCEF_Fishing.labelShort>Ryba</VCEF_Fishing.labelShort>
+  <VCEF_Fishing.pawnLabel>Rybak</VCEF_Fishing.pawnLabel>
+  <VCEF_Fishing.gerundLabel>Łowić</VCEF_Fishing.gerundLabel>
+  <VCEF_Fishing.verb>Ryba</VCEF_Fishing.verb>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[asker_nameDef]'s [intel] about Mechanoid [landing]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>questName- &gt; Mechanoid [lądowanie]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>intel-&gt;Intel</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>intel-&gt;Clue</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>intel-&gt;Advice</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>intel-&gt;Information</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>lądowanie- &gt; strefa lądowania</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>lądowanie- &gt; Landing Pad</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>lądowanie - &gt; nieuchronne lądowanie statku</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>landing- &gt; Landing Site</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>lądowanie- &gt; statek przychodzący</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>questDescription (askerIsNull == true) - &gt; Uzyskaliśmy zaszyfrowane informacje o zbliżającym się mechanoidalnym statku, który planuje wylądować niedaleko [map_definite]. Protokół tego statku nie pozwala na lądowanie, jeśli lokacja zawiera wrogów. To miejsce jest strzeżone przez siły mechanoidalne, ale zniszczenie czterech radiolatarni wystarczy, aby okręt nie wylądował. \n
+Niepowodzenie tego spowoduje wydostanie się mechanoidalnego statku na powierzchnię, zwiększając obecność mechanoidów w okolicy.</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>questDescription (asker_factionLeader == True) - &gt; [asker_nameDef], [asker_faction_leaderTitle] z [asker_faction_name], poinformował nas o mechanoidalnym statku, który zamierza wylądować niedaleko naszego obszaru. Protokół tego statku nie pozwala na lądowanie, jeśli w lokacji znajdują się wrogowie. To miejsce jest strzeżone przez siły mechanoidalne, ale zniszczenie czterech radiolatarni wystarczy, aby okręt nie wylądował. \n 
+Niepowodzenie tego spowoduje wydostanie się mechanoidalnego statku na powierzchnię, zwiększając obecność mechanoidów w okolicy.</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.5.name>pytający</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.5.name>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.5.elseNode.nodes.0.name>askerIsNull</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.5.elseNode.nodes.0.name>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.7.node.name>siteThreatChance</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.7.node.name>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.7.elseNode.name>siteThreatChance</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.7.elseNode.name>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.label>Zniszczone światła lądowania</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.text>Wszystkie światła lądowania zostały zniszczone.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label>Misja wygasła (nie udało się zniszczyć sygnałów nawigacyjnych 1): [rozwiązana nazwaQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text>Statek mechanika wylądował. Zadanie [resolvedQuestName] wygasło.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label>Zadanie wygasło (nie udało się zniszczyć sygnałów nawigacyjnych 2): [rozwiązanoQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text>Statek mechanika wylądował. Zadanie [resolvedQuestName] wygasło.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text>
+
+
+</LanguageData>

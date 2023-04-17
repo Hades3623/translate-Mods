@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SleptUsingSleepAccelerator.stages.0.label>używany akcelerator snu</SleptUsingSleepAccelerator.stages.0.label>
+  <SleptUsingSleepAccelerator.stages.0.description>Spałem z akceleratorem snu. Pomaga mi osiągnąć mój prawdziwy potencjał, tak jak należy.</SleptUsingSleepAccelerator.stages.0.description>
+
+  <NeedNeuralSupercharge.stages.0.label>chcesz neuronowego doładowania</NeedNeuralSupercharge.stages.0.label>
+  <NeedNeuralSupercharge.stages.0.description>Bez doładowania neuronowego pracuję poniżej moich prawdziwych możliwości. To przygnębiające.</NeedNeuralSupercharge.stages.0.description>
+
+  <AgeReversalDemanded.stages.0.label>szkodliwe starzenie</AgeReversalDemanded.stages.0.label>
+  <AgeReversalDemanded.stages.0.description>Starzeję się. Powinienem odwrócić wiek w strąku biorzeźbiarza.</AgeReversalDemanded.stages.0.description>
+  <AgeReversalDemanded.stages.1.label>okropne starzenie</AgeReversalDemanded.stages.1.label>
+  <AgeReversalDemanded.stages.1.description>Moja młodość odpływa. Powinienem odwrócić wiek w strąku biorzeźbiarza.</AgeReversalDemanded.stages.1.description>
+  <AgeReversalDemanded.stages.2.label>okropne starzenie</AgeReversalDemanded.stages.2.label>
+  <AgeReversalDemanded.stages.2.description>Jestem uwięziony w gnijącym więzieniu ciała! Potrzebuję odwrócić wiek w strąku biorzeźbiarza.</AgeReversalDemanded.stages.2.description>
+
+  <AgeReversalReceived.stages.0.label>otrzymane odwrócenie wieku</AgeReversalReceived.stages.0.label>
+  <AgeReversalReceived.stages.0.description>Starzenie się i śmierć mnie nie trzymają. Jestem na zawsze, tak jak powinien być ulepszony człowiek.</AgeReversalReceived.stages.0.description>
+
+  <BioSculpterDespised.stages.0.label>używany biorzeźbiarz pod</BioSculpterDespised.stages.0.label>
+  <BioSculpterDespised.stages.0.description>Moje ciało zostało ograbione za pomocą strąka biorzeźbiarza.</BioSculpterDespised.stages.0.description>
+
+
+</LanguageData>

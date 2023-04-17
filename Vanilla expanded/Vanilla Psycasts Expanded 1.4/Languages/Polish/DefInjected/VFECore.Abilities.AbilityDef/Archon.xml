@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_WordofTrust.label>słowo zaufania</VPE_WordofTrust.label>
+  <VPE_WordofTrust.description>Porozmawiaj z więźniem korzystając z psychicznej sugestii, aby zmniejszyć jego odporność na rekrutację. Ten psychocast może tylko zmniejszyć opór więźnia, ale nie może go zrekrutować.</VPE_WordofTrust.description>
+
+  <VPE_WordofProductivity.label>słowo produktywności</VPE_WordofProductivity.label>
+  <VPE_WordofProductivity.description>Używanie słów motywacji, które przyspieszają metabolizm, sprawiają, że dotknięty cel staje się bardziej produktywnym członkiem społeczeństwa na kilka następnych dni. Uważane za wrogie działanie i czas trwania zależy od psychicznej wrażliwości celu.</VPE_WordofProductivity.description>
+
+  <VPE_BlindingPulse.label>oślepiający puls</VPE_BlindingPulse.label>
+  <VPE_BlindingPulse.description>Wywołaj hałas w wizualnych ośrodkach mózgu, zasłaniając widzenie wszystkich osób znajdujących się w pobliżu punktu docelowego. Trwa pół minuty, pod wpływem wrażliwości psychicznej.</VPE_BlindingPulse.description>
+
+  <VPE_WordofAlliance.label>słowo sojuszu</VPE_WordofAlliance.label>
+  <VPE_WordofAlliance.description>Wypowiadaj słowa przyjaźni i korzyści bliskiemu celowi, używając sugestii psychicznej, pomagając im zrozumieć, że nie jesteś wcale taki zły. Działa tylko na tych, którzy chcą słuchać i wpływają na skale z psychiczną wrażliwością rzucającego.</VPE_WordofAlliance.description>
+
+  <VPE_GroupLink.label>połączenie z grupą</VPE_GroupLink.label>
+  <VPE_GroupLink.description>Tworzy sferę psychicznej sugestii wokół rzucającego, łącząc wszystkie pionki z rzucającym i pozwalając, aby każdy psycast „Słowo” miał wpływ na wszystkich innych. Efekt kończy się, gdy połączone osoby wyjdą poza zasięg.</VPE_GroupLink.description>
+
+  <VPE_WordofPain.label>słowo bólu</VPE_WordofPain.label>
+  <VPE_WordofPain.description>Wywołuje hałas w ośrodkach bólu mózgu celu i nadmiernie stymuluje zakończenia nerwowe, skalując się wraz z jego wrażliwością psychiczną.</VPE_WordofPain.description>
+
+  <VPE_MindBreak.label>złamanie umysłu</VPE_MindBreak.label>
+  <VPE_MindBreak.description>Używając skoncentrowanego harmonicznego psychicznego hałasu, lobotomizuje cel i zamienia go w służącego, niespokojnego niewolnika. Bardzo niedoceniani przez ich dawne frakcje.</VPE_MindBreak.description>
+
+  <VPE_WordofProtection.label>słowo ochrony</VPE_WordofProtection.label>
+  <VPE_WordofProtection.description>Używając harmonicznego psychicznego hałasu, fizycznie zmienia ciało celu, aby było bardziej wytrzymałe i odporne na uszkodzenia. Trwa długo i skaluje się z psychiczną wrażliwością rzucającego.</VPE_WordofProtection.description>
+
+  <VPE_DrainPsyessence.label>wchłonięcie psyesencję</VPE_DrainPsyessence.label>
+  <VPE_DrainPsyessence.description>Celowanie w powalonego, utalentowanego psychicznie pionka, wywołuje intensywny, harmonijny hałas psychiczny, aby upłynnić ich ciało i przekształcić je w psyesencję, która zostanie wchłonięta przez rzucającego jako jego własny nagromadzony talent psychiczny. Końcowe chwile psychicznego rozpadu będą odczuwane przez wszystkich przez wiele kilometrów dookoła, powodując dyplomatyczne konsekwencje dla wszystkich frakcji.</VPE_DrainPsyessence.description>
+
+  <VPE_MassHallucination.label>masowa halucynacja</VPE_MassHallucination.label>
+  <VPE_MassHallucination.description>Tworząc ogromny wybuch psychicznych sugestii, przekonał pobliskie pionki, że pokoje są absolutnie najlepsze, jakie mogą być. Powstała śpiączka dla rzucającego i efekt utrzymuje się przez pięć dni.</VPE_MassHallucination.description>
+
+
+</LanguageData>

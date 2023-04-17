@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plant_TreeAnima.label>drzewo zwierząt</Plant_TreeAnima.label>
+  <Plant_TreeAnima.description>Rzadkie drzewo o ciepłej, gładkiej korze i długich opalizujących liściach. Nasycone bioluminescencyjnymi mikroorganizmami drzewa anima rozwijają unikalną formę psychicznej symbiozy z otaczającymi formami życia, pozwalając im rosnąć w szerokiej gamie biomów.\n\nJeśli osoba (psycaster lub nie) medytuje w pobliżu drzewa anima, będzie rosną trawę anima wokół jej podstawy. Kiedy już wyrośnie wystarczająca ilość trawy, możliwe staje się przeprowadzenie rytuału psychicznego łączenia z drzewem i ulepszanie zdolności psychicznych danej osoby. Tylko ludy plemienne znają tajemnicę tego rytuału. Plemienni psycholodzy są również w stanie przyciągać psychikę z drzew anim podczas medytacji nad nimi.\n\nPsioniczne właściwości drzew anim są osłabione, jeśli w pobliżu zostaną umieszczone sztuczne struktury. Nie chcą być trzymane w klatkach ani badane i muszą pozostać częścią natury.\n\nWiększość plemion wierzy, że drzewa anima to nie tylko drzewa, ale raczej fizyczne krańce jednego ducha świata.</Plant_TreeAnima.description>
+
+  <Plant_GrassAnima.label>anima trawa</Plant_GrassAnima.label>
+  <Plant_GrassAnima.description>Trawa nasączona świecącymi mikroorganizmami. Ludy plemienne odkrywają, że trawa anima rośnie wokół podstawy drzewa anima podczas medytacji. Wydaje się, że odzwierciedla to pewien rodzaj wzmocnienia psychicznej mocy drzewa.\n\nZagraniczni naukowcy próbowali zbadać to zjawisko, ale trawa degeneruje się w normalną materię roślinną, gdy jest obserwowana zbyt uważnie.\n\nZwierzęta odmawiają jedzenia trawy zwierzęcej. Historie plemienne mówią, że robi się to z szacunku i strachu.</Plant_GrassAnima.description>
+
+
+</LanguageData>

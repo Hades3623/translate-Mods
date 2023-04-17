@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CaravanArrivalTributeCollector.label>Przybycie karawany zbieracza hołdu</CaravanArrivalTributeCollector.label>
+
+  <AnimaTreeSpawn.label>drzewo anima</AnimaTreeSpawn.label>
+  <AnimaTreeSpawn.letterText>W pobliżu wyrosło drzewo anima.\n\nLudzie plemienni mogą używać tego jako potężnego ośrodka medytacyjnego, ale tylko wtedy, gdy w pobliżu nie ma sztucznych struktur.</AnimaTreeSpawn.letterText>
+  <AnimaTreeSpawn.letterLabel>Drzewo Anima</AnimaTreeSpawn.letterLabel>
+
+
+</LanguageData>

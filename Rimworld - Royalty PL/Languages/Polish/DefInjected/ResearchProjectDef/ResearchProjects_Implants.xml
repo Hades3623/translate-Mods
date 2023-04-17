@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Imperial implants Tier A -->
+
+  <BrainWiring.label>okablowanie mózgu</BrainWiring.label>
+  <BrainWiring.description>Twórz implanty mózgowe, które wywołują lub zapobiegają tępym doznaniom, takim jak radość lub ból.</BrainWiring.description>
+
+  <SpecializedLimbs.label>wyspecjalizowane kończyny</SpecializedLimbs.label>
+  <SpecializedLimbs.description>Twórz wyspecjalizowane bioniczne kończyny zbudowane do konkretnych celów - zarówno bojowych, jak i roboczych.</SpecializedLimbs.description>
+
+  <CompactWeaponry.label>broń kompaktowa</CompactWeaponry.label>
+  <CompactWeaponry.description>Twórz kompaktową, chowaną broń bioniczną, którą można osadzić w różnych częściach ciała.</CompactWeaponry.description>
+
+  <VenomSynthesis.label>synteza trucizn</VenomSynthesis.label>
+  <VenomSynthesis.description>Twórz bioniki, które syntetyzują jad z wewnętrznych reaktorów chemicznych do wykorzystania w atakach toksycznych.</VenomSynthesis.description>
+
+
+  <!-- Imperial implants Tier B -->
+
+  <ArtificialMetabolism.label>sztuczny metabolizm</ArtificialMetabolism.label>
+  <ArtificialMetabolism.description>Twórz bioniki, które przetwarzają żywność bezpieczniej i wydajniej niż biologiczny żołądek.</ArtificialMetabolism.description>
+
+  <NeuralComputation.label>obliczenia neuronowe</NeuralComputation.label>
+  <NeuralComputation.description>Twórz implanty mózgowe, które wspomagają myślenie i uczenie się za pomocą bezpośredniego, płytkiego interfejsu mózg-komputer.</NeuralComputation.description>
+
+  <SkinHardening.label>twardnienie skóry</SkinHardening.label>
+  <SkinHardening.description>Twórz bioniczne implanty, które wywołują twardnienie naturalnej skóry, tworząc efekt podobny do pancerza.</SkinHardening.description>
+
+  <HealingFactors.label>czynniki lecznicze</HealingFactors.label>
+  <HealingFactors.description>Bionik rzemieślniczy, który usprawnia naturalne procesy lecznicze.</HealingFactors.description>
+
+  <FleshShaping.label>kształtowanie ciała</FleshShaping.label>
+  <FleshShaping.description>Bionikę rzemieślniczą, która powoduje zmianę kształtu lub naturalne ciało, zwykle w celu poprawy estetyki lub osobistej przyjemności.</FleshShaping.description>
+
+  <MolecularAnalysis.label>analiza molekularna</MolecularAnalysis.label>
+  <MolecularAnalysis.description>Twórz bionikę z analizatorami molekularnymi do wspomagania układu odpornościowego lub analizowania żywności.</MolecularAnalysis.description>
+
+  <CircadianInfluence.label>wpływ dobowy</CircadianInfluence.label>
+  <CircadianInfluence.description>Twórz implanty mózgowe, które chemicznie manipulują rytmem dobowym, zmniejszając lub zmieniając potrzebę snu.</CircadianInfluence.description>
+
+
+</LanguageData>

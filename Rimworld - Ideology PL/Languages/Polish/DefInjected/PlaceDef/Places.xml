@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spacer or tribal -->
+
+  <Oubanyen.placeRules.rulesStrings.0>place_name-&gt;Oubanyen</Oubanyen.placeRules.rulesStrings.0>
+  <Oubanyen.placeRules.rulesStrings.1>place_adjective-&gt;Oubanyeni</Oubanyen.placeRules.rulesStrings.1>
+  <Oubanyen.placeRules.rulesStrings.2>place_summary-&gt;parujący-świat-dżungli</Oubanyen.placeRules.rulesStrings.2>
+  <Oubanyen.placeRules.rulesStrings.3>place_community-&gt;wioska w koronach drzew</Oubanyen.placeRules.rulesStrings.3>
+  <Oubanyen.placeRules.rulesStrings.4>place_community-&gt;jaskinia szamańska</Oubanyen.placeRules.rulesStrings.4>
+  <Oubanyen.placeRules.rulesStrings.5>place_community-&gt;ziggurat na szczycie wzgórza</Oubanyen.placeRules.rulesStrings.5>
+  <Oubanyen.placeRules.rulesStrings.6>place_powerCenter-&gt;świątynia miasta</Oubanyen.placeRules.rulesStrings.6>
+  <Oubanyen.placeRules.rulesStrings.7>place_job-&gt;shaman</Oubanyen.placeRules.rulesStrings.7>
+  <Oubanyen.placeRules.rulesStrings.8>place_job-&gt;hunter</Oubanyen.placeRules.rulesStrings.8>
+  <Oubanyen.placeRules.rulesStrings.9>place_job-&gt;fisher</Oubanyen.placeRules.rulesStrings.9>
+  <Oubanyen.placeRules.rulesStrings.10>place_job-&gt;gatherer</Oubanyen.placeRules.rulesStrings.10>
+  <Oubanyen.placeRules.rulesStrings.11>place_job-&gt;goat-herd</Oubanyen.placeRules.rulesStrings.11>
+  <Oubanyen.placeRules.rulesStrings.12>place_personalWeapon-&gt;pila</Oubanyen.placeRules.rulesStrings.12>
+  <Oubanyen.placeRules.rulesStrings.13>place_personalWeapon-&gt;ikwa</Oubanyen.placeRules.rulesStrings.13>
+  <Oubanyen.placeRules.rulesStrings.14>place_massWeapon-&gt;śmiertelny dron psychiczny</Oubanyen.placeRules.rulesStrings.14>
+  <Oubanyen.placeRules.rulesStrings.15>place_massWeapon-&gt;bomba neurotoksynowa</Oubanyen.placeRules.rulesStrings.15>
+  <Oubanyen.placeRules.rulesStrings.16>place_foeLeader-&gt;tree-harvester</Oubanyen.placeRules.rulesStrings.16>
+  <Oubanyen.placeRules.rulesStrings.17>place_foeSoldiers-&gt;henchmen</Oubanyen.placeRules.rulesStrings.17>
+
+  <Chelis.placeRules.rulesStrings.0>place_name-&gt;Chelis</Chelis.placeRules.rulesStrings.0>
+  <Chelis.placeRules.rulesStrings.1>place_adjective-&gt;Chelisi</Chelis.placeRules.rulesStrings.1>
+  <Chelis.placeRules.rulesStrings.2>place_summary-&gt;suchy świat</Chelis.placeRules.rulesStrings.2>
+  <Chelis.placeRules.rulesStrings.3>place_community-&gt;farma wilgoci</Chelis.placeRules.rulesStrings.3>
+  <Chelis.placeRules.rulesStrings.4>place_community-&gt;parch-town</Chelis.placeRules.rulesStrings.4>
+  <Chelis.placeRules.rulesStrings.5>place_community-&gt;centrum wodne</Chelis.placeRules.rulesStrings.5>
+  <Chelis.placeRules.rulesStrings.6>place_powerCenter-&gt;wysoka ratunek</Chelis.placeRules.rulesStrings.6>
+  <Chelis.placeRules.rulesStrings.7>place_job-&gt;zbieracz wody</Chelis.placeRules.rulesStrings.7>
+  <Chelis.placeRules.rulesStrings.8>place_job-&gt;lizardskinner</Chelis.placeRules.rulesStrings.8>
+  <Chelis.placeRules.rulesStrings.9>place_job-&gt;poszukiwacz oazy</Chelis.placeRules.rulesStrings.9>
+  <Chelis.placeRules.rulesStrings.10>place_job-&gt;zbieracz kaktusów</Chelis.placeRules.rulesStrings.10>
+  <Chelis.placeRules.rulesStrings.11>place_job-&gt;scav-herder</Chelis.placeRules.rulesStrings.11>
+  <Chelis.placeRules.rulesStrings.12>place_personalWeapon-&gt;sand-arrow</Chelis.placeRules.rulesStrings.12>
+  <Chelis.placeRules.rulesStrings.13>place_personalWeapon-&gt;cactus-club</Chelis.placeRules.rulesStrings.13>
+  <Chelis.placeRules.rulesStrings.14>place_massWeapon-&gt;burza piaskowa wywołana archotechami</Chelis.placeRules.rulesStrings.14>
+  <Chelis.placeRules.rulesStrings.15>place_massWeapon-&gt;wycieczka ze szpikulca</Chelis.placeRules.rulesStrings.15>
+  <Chelis.placeRules.rulesStrings.16>place_foeLeader-&gt;chief</Chelis.placeRules.rulesStrings.16>
+  <Chelis.placeRules.rulesStrings.17>place_foeSoldiers-&gt;sand-warriors</Chelis.placeRules.rulesStrings.17>
+
+  <Ilwaba.placeRules.rulesStrings.0>place_name-&gt;Ilwaba</Ilwaba.placeRules.rulesStrings.0>
+  <Ilwaba.placeRules.rulesStrings.1>place_adjective-&gt;Ilwaban</Ilwaba.placeRules.rulesStrings.1>
+  <Ilwaba.placeRules.rulesStrings.2>place_summary-&gt;odrośnięty-świat-ruin</Ilwaba.placeRules.rulesStrings.2>
+  <Ilwaba.placeRules.rulesStrings.3>place_community-&gt;wioska drapaczy chmur</Ilwaba.placeRules.rulesStrings.3>
+  <Ilwaba.placeRules.rulesStrings.4>place_community-&gt;handel-autostrady</Ilwaba.placeRules.rulesStrings.4>
+  <Ilwaba.placeRules.rulesStrings.5>place_community-&gt;wybuchowa oaza</Ilwaba.placeRules.rulesStrings.5>
+  <Ilwaba.placeRules.rulesStrings.6>place_powerCenter-&gt;dom odrodzenia</Ilwaba.placeRules.rulesStrings.6>
+  <Ilwaba.placeRules.rulesStrings.7>place_job-&gt;crete-farmer</Ilwaba.placeRules.rulesStrings.7>
+  <Ilwaba.placeRules.rulesStrings.8>place_job-&gt;path-maker</Ilwaba.placeRules.rulesStrings.8>
+  <Ilwaba.placeRules.rulesStrings.9>place_job-&gt;łowca artefaktów</Ilwaba.placeRules.rulesStrings.9>
+  <Ilwaba.placeRules.rulesStrings.10>place_job-&gt;tunnelwalker</Ilwaba.placeRules.rulesStrings.10>
+  <Ilwaba.placeRules.rulesStrings.11>place_job-&gt;przywracanie artefaktów</Ilwaba.placeRules.rulesStrings.11>
+  <Ilwaba.placeRules.rulesStrings.12>place_personalWeapon-&gt;scrap-sword</Ilwaba.placeRules.rulesStrings.12>
+  <Ilwaba.placeRules.rulesStrings.13>place_personalWeapon-&gt;jag-dagger</Ilwaba.placeRules.rulesStrings.13>
+  <Ilwaba.placeRules.rulesStrings.14>place_massWeapon-&gt;rozkopana bomba nuklearna</Ilwaba.placeRules.rulesStrings.14>
+  <Ilwaba.placeRules.rulesStrings.15>place_massWeapon-&gt;starożytna bomba z trucizną</Ilwaba.placeRules.rulesStrings.15>
+  <Ilwaba.placeRules.rulesStrings.16>place_foeLeader-&gt;crypto-leader</Ilwaba.placeRules.rulesStrings.16>
+  <Ilwaba.placeRules.rulesStrings.17>place_foeSoldiers-&gt;crypto-soldiers</Ilwaba.placeRules.rulesStrings.17>
+
+  <Boccocarro.placeRules.rulesStrings.0>place_name-&gt;Boccocarro</Boccocarro.placeRules.rulesStrings.0>
+  <Boccocarro.placeRules.rulesStrings.1>place_adjective-&gt;Boccin</Boccocarro.placeRules.rulesStrings.1>
+  <Boccocarro.placeRules.rulesStrings.2>place_summary-&gt;jasny-świat-powłoki</Boccocarro.placeRules.rulesStrings.2>
+  <Boccocarro.placeRules.rulesStrings.3>place_community-&gt;tunel powierzchniowy</Boccocarro.placeRules.rulesStrings.3>
+  <Boccocarro.placeRules.rulesStrings.4>place_community-&gt;jaskinia grzybów</Boccocarro.placeRules.rulesStrings.4>
+  <Boccocarro.placeRules.rulesStrings.5>place_community-&gt;drip-well</Boccocarro.placeRules.rulesStrings.5>
+  <Boccocarro.placeRules.rulesStrings.6>place_powerCenter-&gt;speech-hall</Boccocarro.placeRules.rulesStrings.6>
+  <Boccocarro.placeRules.rulesStrings.7>place_job-&gt;miner</Boccocarro.placeRules.rulesStrings.7>
+  <Boccocarro.placeRules.rulesStrings.8>place_job-&gt;hodowca grzybów</Boccocarro.placeRules.rulesStrings.8>
+  <Boccocarro.placeRules.rulesStrings.9>place_job-&gt;zmiatacz powierzchni</Boccocarro.placeRules.rulesStrings.9>
+  <Boccocarro.placeRules.rulesStrings.10>place_job-&gt;kucharz społeczności</Boccocarro.placeRules.rulesStrings.10>
+  <Boccocarro.placeRules.rulesStrings.11>place_job-&gt;frog-hunter</Boccocarro.placeRules.rulesStrings.11>
+  <Boccocarro.placeRules.rulesStrings.12>place_personalWeapon-&gt;pickaxe</Boccocarro.placeRules.rulesStrings.12>
+  <Boccocarro.placeRules.rulesStrings.13>place_personalWeapon-&gt;kusza hydrauliczna</Boccocarro.placeRules.rulesStrings.13>
+  <Boccocarro.placeRules.rulesStrings.14>place_massWeapon-&gt;[seismicDevice]</Boccocarro.placeRules.rulesStrings.14>
+  <Boccocarro.placeRules.rulesStrings.15>place_massWeapon-&gt;bomba z czarnym prochem</Boccocarro.placeRules.rulesStrings.15>
+  <Boccocarro.placeRules.rulesStrings.16>place_foeLeader-&gt;hiperwizor kopalni</Boccocarro.placeRules.rulesStrings.16>
+  <Boccocarro.placeRules.rulesStrings.17>place_foeSoldiers-&gt;marynaria Otchłani</Boccocarro.placeRules.rulesStrings.17>
+
+  <Nuchadus.placeRules.rulesStrings.0>place_name-&gt;Nuchadus</Nuchadus.placeRules.rulesStrings.0>
+  <Nuchadus.placeRules.rulesStrings.1>place_adjective-&gt;Nuchadean</Nuchadus.placeRules.rulesStrings.1>
+  <Nuchadus.placeRules.rulesStrings.2>place_summary-&gt;ciemny-świat-wulkanów</Nuchadus.placeRules.rulesStrings.2>
+  <Nuchadus.placeRules.rulesStrings.3>place_community-&gt;wyspa bazaltowa</Nuchadus.placeRules.rulesStrings.3>
+  <Nuchadus.placeRules.rulesStrings.4>place_community-&gt;caldera laketown</Nuchadus.placeRules.rulesStrings.4>
+  <Nuchadus.placeRules.rulesStrings.5>place_community-&gt;wioska ze sterowcem</Nuchadus.placeRules.rulesStrings.5>
+  <Nuchadus.placeRules.rulesStrings.6>place_powerCenter-&gt;twierdza termiczna</Nuchadus.placeRules.rulesStrings.6>
+  <Nuchadus.placeRules.rulesStrings.7>place_job-&gt;seismologist</Nuchadus.placeRules.rulesStrings.7>
+  <Nuchadus.placeRules.rulesStrings.8>place_job-&gt;rolnik-ślimaków lawowych</Nuchadus.placeRules.rulesStrings.8>
+  <Nuchadus.placeRules.rulesStrings.9>place_job-&gt;naprawiacz-bieżników czołgów</Nuchadus.placeRules.rulesStrings.9>
+  <Nuchadus.placeRules.rulesStrings.10>place_job-&gt;powietrzny zwiadowca</Nuchadus.placeRules.rulesStrings.10>
+  <Nuchadus.placeRules.rulesStrings.11>place_personalWeapon-&gt;obsydianowy sztylet</Nuchadus.placeRules.rulesStrings.11>
+  <Nuchadus.placeRules.rulesStrings.12>place_personalWeapon-&gt;karabin harpunowy</Nuchadus.placeRules.rulesStrings.12>
+  <Nuchadus.placeRules.rulesStrings.13>place_massWeapon-&gt;wybuch wulkanu wywołany archetechami</Nuchadus.placeRules.rulesStrings.13>
+  <Nuchadus.placeRules.rulesStrings.14>place_massWeapon-&gt;bomba do wojny chemicznej</Nuchadus.placeRules.rulesStrings.14>
+  <Nuchadus.placeRules.rulesStrings.15>place_foeLeader-&gt;pan lawy</Nuchadus.placeRules.rulesStrings.15>
+  <Nuchadus.placeRules.rulesStrings.16>place_foeSoldiers-&gt;żołnierze stygijscy</Nuchadus.placeRules.rulesStrings.16>
+
+  <Zoutera.placeRules.rulesStrings.0>place_name-&gt;Zoutera</Zoutera.placeRules.rulesStrings.0>
+  <Zoutera.placeRules.rulesStrings.1>place_adjective-&gt;Zoutin</Zoutera.placeRules.rulesStrings.1>
+  <Zoutera.placeRules.rulesStrings.2>place_summary-&gt;trawiasty-świat dinozaurów</Zoutera.placeRules.rulesStrings.2>
+  <Zoutera.placeRules.rulesStrings.3>place_community-&gt;placówka handlowa</Zoutera.placeRules.rulesStrings.3>
+  <Zoutera.placeRules.rulesStrings.4>place_community-&gt;wioska namiotowa</Zoutera.placeRules.rulesStrings.4>
+  <Zoutera.placeRules.rulesStrings.5>place_community-&gt; cmentarzysko mamuta</Zoutera.placeRules.rulesStrings.5>
+  <Zoutera.placeRules.rulesStrings.6>place_powerCenter-&gt;fort na wzgórzu</Zoutera.placeRules.rulesStrings.6>
+  <Zoutera.placeRules.rulesStrings.7>place_job-&gt;dino-rider</Zoutera.placeRules.rulesStrings.7>
+  <Zoutera.placeRules.rulesStrings.8>place_job-&gt;muffalo-herder</Zoutera.placeRules.rulesStrings.8>
+  <Zoutera.placeRules.rulesStrings.9>place_job-&gt;hunter</Zoutera.placeRules.rulesStrings.9>
+  <Zoutera.placeRules.rulesStrings.10>place_job-&gt;producent twardej skóry</Zoutera.placeRules.rulesStrings.10>
+  <Zoutera.placeRules.rulesStrings.11>place_personalWeapon-&gt;bambusowy personel</Zoutera.placeRules.rulesStrings.11>
+  <Zoutera.placeRules.rulesStrings.12>place_personalWeapon-&gt;strzałki-bomby na polowanie</Zoutera.placeRules.rulesStrings.12>
+  <Zoutera.placeRules.rulesStrings.13>place_massWeapon-&gt;opiekające stado [megafauny]</Zoutera.placeRules.rulesStrings.13>
+  <Zoutera.placeRules.rulesStrings.14>place_massWeapon-&gt;bomba nawozowa</Zoutera.placeRules.rulesStrings.14>
+  <Zoutera.placeRules.rulesStrings.15>place_foeLeader-&gt;tusk-king</Zoutera.placeRules.rulesStrings.15>
+  <Zoutera.placeRules.rulesStrings.16>place_foeSoldiers-&gt;tusk-warriors</Zoutera.placeRules.rulesStrings.16>
+  <Zoutera.placeRules.rulesStrings.17>megaFauna-&gt;ankylosaurs</Zoutera.placeRules.rulesStrings.17>
+  <Zoutera.placeRules.rulesStrings.18>megaFauna-&gt;niebieskie mamuty</Zoutera.placeRules.rulesStrings.18>
+  <Zoutera.placeRules.rulesStrings.19>megaFauna-&gt;novoraptors</Zoutera.placeRules.rulesStrings.19>
+
+  <Wavia.placeRules.rulesStrings.0>place_name-&gt;Wavia</Wavia.placeRules.rulesStrings.0>
+  <Wavia.placeRules.rulesStrings.1>place_adjective-&gt;Wavian</Wavia.placeRules.rulesStrings.1>
+  <Wavia.placeRules.rulesStrings.2>place_summary-&gt;planeta oceaniczna</Wavia.placeRules.rulesStrings.2>
+  <Wavia.placeRules.rulesStrings.3>place_community-&gt;atol handlowy</Wavia.placeRules.rulesStrings.3>
+  <Wavia.placeRules.rulesStrings.4>place_community-&gt;pływająca wioska</Wavia.placeRules.rulesStrings.4>
+  <Wavia.placeRules.rulesStrings.5>place_community-&gt;rafineria wodorostów</Wavia.placeRules.rulesStrings.5>
+  <Wavia.placeRules.rulesStrings.6>place_powerCenter-&gt;most kapitolu</Wavia.placeRules.rulesStrings.6>
+  <Wavia.placeRules.rulesStrings.7>place_job-&gt;fisher</Wavia.placeRules.rulesStrings.7>
+  <Wavia.placeRules.rulesStrings.8>place_job-&gt;nurek perłowy</Wavia.placeRules.rulesStrings.8>
+  <Wavia.placeRules.rulesStrings.9>place_job-&gt;twórca żagli</Wavia.placeRules.rulesStrings.9>
+  <Wavia.placeRules.rulesStrings.10>place_job-&gt;captain</Wavia.placeRules.rulesStrings.10>
+  <Wavia.placeRules.rulesStrings.11>place_job-&gt;zbieracz trawy morskiej</Wavia.placeRules.rulesStrings.11>
+  <Wavia.placeRules.rulesStrings.12>place_personalWeapon-&gt;harpoon</Wavia.placeRules.rulesStrings.12>
+  <Wavia.placeRules.rulesStrings.13>place_personalWeapon-&gt;siatka kolczasta</Wavia.placeRules.rulesStrings.13>
+  <Wavia.placeRules.rulesStrings.14>place_massWeapon-&gt;torpeda o wysokiej wydajności</Wavia.placeRules.rulesStrings.14>
+  <Wavia.placeRules.rulesStrings.15>place_massWeapon-&gt;przynęta [seaBeast]</Wavia.placeRules.rulesStrings.15>
+  <Wavia.placeRules.rulesStrings.16>place_foeLeader-&gt;admirał wielorybniczy</Wavia.placeRules.rulesStrings.16>
+  <Wavia.placeRules.rulesStrings.17>place_foeSoldiers-&gt;whaler-marines</Wavia.placeRules.rulesStrings.17>
+  <Wavia.placeRules.rulesStrings.18>seaBeast-&gt;deep-kraken</Wavia.placeRules.rulesStrings.18>
+  <Wavia.placeRules.rulesStrings.19>seaBeast-&gt;Wawski lewiatan</Wavia.placeRules.rulesStrings.19>
+
+  <Bagua5.placeRules.rulesStrings.0>nazwa_miejsca-&gt;Bagua 5</Bagua5.placeRules.rulesStrings.0>
+  <Bagua5.placeRules.rulesStrings.1>place_adjective-&gt;Bagucinquan</Bagua5.placeRules.rulesStrings.1>
+  <Bagua5.placeRules.rulesStrings.2>place_summary-&gt;złomowa planeta</Bagua5.placeRules.rulesStrings.2>
+  <Bagua5.placeRules.rulesStrings.3>place_community-&gt;ufortyfikowane złomowisko</Bagua5.placeRules.rulesStrings.3>
+  <Bagua5.placeRules.rulesStrings.4>place_community-&gt;oczyszczalnia wód deszczowych</Bagua5.placeRules.rulesStrings.4>
+  <Bagua5.placeRules.rulesStrings.5>place_community-&gt;scrap-town</Bagua5.placeRules.rulesStrings.5>
+  <Bagua5.placeRules.rulesStrings.6>place_powerCenter-&gt;port kosmiczny tradera</Bagua5.placeRules.rulesStrings.6>
+  <Bagua5.placeRules.rulesStrings.7>place_job-&gt;scavenger</Bagua5.placeRules.rulesStrings.7>
+  <Bagua5.placeRules.rulesStrings.8>place_job-&gt;trader</Bagua5.placeRules.rulesStrings.8>
+  <Bagua5.placeRules.rulesStrings.9>place_job-&gt;tinkerer</Bagua5.placeRules.rulesStrings.9>
+  <Bagua5.placeRules.rulesStrings.10>place_job-&gt;guard</Bagua5.placeRules.rulesStrings.10>
+  <Bagua5.placeRules.rulesStrings.11>place_job-&gt;scrapper</Bagua5.placeRules.rulesStrings.11>
+  <Bagua5.placeRules.rulesStrings.12>place_personalWeapon-&gt;karabin rurowy</Bagua5.placeRules.rulesStrings.12>
+  <Bagua5.placeRules.rulesStrings.13>place_personalWeapon-&gt;scrap-sword</Bagua5.placeRules.rulesStrings.13>
+  <Bagua5.placeRules.rulesStrings.14>place_massWeapon -&gt;uratowana bomba nuklearna</Bagua5.placeRules.rulesStrings.14>
+  <Bagua5.placeRules.rulesStrings.15>place_massWeapon-&gt;wirus rdzy</Bagua5.placeRules.rulesStrings.15>
+  <Bagua5.placeRules.rulesStrings.16>place_foeLeader-&gt;pan śmieci</Bagua5.placeRules.rulesStrings.16>
+  <Bagua5.placeRules.rulesStrings.17>place_foeSoldiers-&gt;metal-heads</Bagua5.placeRules.rulesStrings.17>
+
+  <Rhydell.placeRules.rulesStrings.0>place_name-&gt;Rhydell</Rhydell.placeRules.rulesStrings.0>
+  <Rhydell.placeRules.rulesStrings.1>place_adjective-&gt;Rhydellian</Rhydell.placeRules.rulesStrings.1>
+  <Rhydell.placeRules.rulesStrings.2>place_summary-&gt;dziki księżycowy las</Rhydell.placeRules.rulesStrings.2>
+  <Rhydell.placeRules.rulesStrings.3>place_community-&gt;przekonwertowany dropshipping</Rhydell.placeRules.rulesStrings.3>
+  <Rhydell.placeRules.rulesStrings.4>place_community-&gt;obóz słabo osłonięty</Rhydell.placeRules.rulesStrings.4>
+  <Rhydell.placeRules.rulesStrings.5>place_community-&gt;centrum komunikacji</Rhydell.placeRules.rulesStrings.5>
+  <Rhydell.placeRules.rulesStrings.6>place_powerCenter-&gt;opancerzony habitat</Rhydell.placeRules.rulesStrings.6>
+  <Rhydell.placeRules.rulesStrings.7>place_job-&gt;botanik graniczny</Rhydell.placeRules.rulesStrings.7>
+  <Rhydell.placeRules.rulesStrings.8>place_job-&gt;poszukiwacz trofeów</Rhydell.placeRules.rulesStrings.8>
+  <Rhydell.placeRules.rulesStrings.9>place_job-&gt;medic</Rhydell.placeRules.rulesStrings.9>
+  <Rhydell.placeRules.rulesStrings.10>place_job-&gt;kucharz obozowy</Rhydell.placeRules.rulesStrings.10>
+  <Rhydell.placeRules.rulesStrings.11>place_job-&gt;inżynier biolab</Rhydell.placeRules.rulesStrings.11>
+  <Rhydell.placeRules.rulesStrings.12>place_personalWeapon-&gt;karabin snajperski</Rhydell.placeRules.rulesStrings.12>
+  <Rhydell.placeRules.rulesStrings.13>place_personalWeapon-&gt;machete</Rhydell.placeRules.rulesStrings.13>
+  <Rhydell.placeRules.rulesStrings.14>place_massWeapon-&gt;gaz neurotoksyny pochodzenia roślinnego</Rhydell.placeRules.rulesStrings.14>
+  <Rhydell.placeRules.rulesStrings.15>place_massWeapon-&gt;uderzenie laserem orbitalnym</Rhydell.placeRules.rulesStrings.15>
+  <Rhydell.placeRules.rulesStrings.16>place_foeLeader-&gt;kierownik deepcorp</Rhydell.placeRules.rulesStrings.16>
+  <Rhydell.placeRules.rulesStrings.17>place_foeSoldiers-&gt;egzekutorzy Deepcorp</Rhydell.placeRules.rulesStrings.17>
+
+
+  <!-- Spacer only -->
+
+  <Iwamura.placeRules.rulesStrings.0>place_name-&gt;Iwamura</Iwamura.placeRules.rulesStrings.0>
+  <Iwamura.placeRules.rulesStrings.1>place_adjective-&gt;Iwamurian</Iwamura.placeRules.rulesStrings.1>
+  <Iwamura.placeRules.rulesStrings.2>place_summary-&gt;kamienista asteroida</Iwamura.placeRules.rulesStrings.2>
+  <Iwamura.placeRules.rulesStrings.3>place_community-&gt;kapsuła targowa</Iwamura.placeRules.rulesStrings.3>
+  <Iwamura.placeRules.rulesStrings.4>place_community-&gt;kapsuła magazynowa</Iwamura.placeRules.rulesStrings.4>
+  <Iwamura.placeRules.rulesStrings.5>place_community-&gt;molo dokujące</Iwamura.placeRules.rulesStrings.5>
+  <Iwamura.placeRules.rulesStrings.6>place_powerCenter-&gt;mostek stacji</Iwamura.placeRules.rulesStrings.6>
+  <Iwamura.placeRules.rulesStrings.7>place_job-&gt;inżynier ds. wsparcia życia</Iwamura.placeRules.rulesStrings.7>
+  <Iwamura.placeRules.rulesStrings.8>place_job-&gt;merchant</Iwamura.placeRules.rulesStrings.8>
+  <Iwamura.placeRules.rulesStrings.9>place_job-&gt;kontroler lotu</Iwamura.placeRules.rulesStrings.9>
+  <Iwamura.placeRules.rulesStrings.10>place_job-&gt;sportowiec z zerową gramaturą</Iwamura.placeRules.rulesStrings.10>
+  <Iwamura.placeRules.rulesStrings.11>place_job-&gt;gospodarz radiowy</Iwamura.placeRules.rulesStrings.11>
+  <Iwamura.placeRules.rulesStrings.12>place_personalWeapon-&gt;ładowania karabinu</Iwamura.placeRules.rulesStrings.12>
+  <Iwamura.placeRules.rulesStrings.13>place_personalWeapon-&gt;pochodnia spawalnicza</Iwamura.placeRules.rulesStrings.13>
+  <Iwamura.placeRules.rulesStrings.14>place_massWeapon-&gt;toksyna w aerozolu</Iwamura.placeRules.rulesStrings.14>
+  <Iwamura.placeRules.rulesStrings.15>place_massWeapon-&gt;[anEMPAttack]</Iwamura.placeRules.rulesStrings.15>
+  <Iwamura.placeRules.rulesStrings.16>place_massWeapon-&gt;wirus sabotażowy podtrzymywania życia</Iwamura.placeRules.rulesStrings.16>
+  <Iwamura.placeRules.rulesStrings.17>place_foeLeader-&gt;prezes megakorporacji</Iwamura.placeRules.rulesStrings.17>
+  <Iwamura.placeRules.rulesStrings.18>place_foeSoldiers-&gt;rent-a-cops</Iwamura.placeRules.rulesStrings.18>
+
+  <Novaroma.placeRules.rulesStrings.0>place_name-&gt;Novaroma</Novaroma.placeRules.rulesStrings.0>
+  <Novaroma.placeRules.rulesStrings.1>place_adjective-&gt;Novaroman</Novaroma.placeRules.rulesStrings.1>
+  <Novaroma.placeRules.rulesStrings.2>place_summary-&gt;planetoid</Novaroma.placeRules.rulesStrings.2>
+  <Novaroma.placeRules.rulesStrings.3>place_community-&gt;ministerstwo pozwoleń</Novaroma.placeRules.rulesStrings.3>
+  <Novaroma.placeRules.rulesStrings.4>place_community-&gt;przedmieście ogrodzone</Novaroma.placeRules.rulesStrings.4>
+  <Novaroma.placeRules.rulesStrings.5>place_community-&gt;over-city</Novaroma.placeRules.rulesStrings.5>
+  <Novaroma.placeRules.rulesStrings.6>place_community-&gt;under-city</Novaroma.placeRules.rulesStrings.6>
+  <Novaroma.placeRules.rulesStrings.7>place_powerCenter-&gt;ogólna megamiasta</Novaroma.placeRules.rulesStrings.7>
+  <Novaroma.placeRules.rulesStrings.8>place_job-&gt;clerk</Novaroma.placeRules.rulesStrings.8>
+  <Novaroma.placeRules.rulesStrings.9>place_job-&gt;official</Novaroma.placeRules.rulesStrings.9>
+  <Novaroma.placeRules.rulesStrings.10>place_job-&gt;kurier żywności</Novaroma.placeRules.rulesStrings.10>
+  <Novaroma.placeRules.rulesStrings.11>place_job-&gt;taksówkarz</Novaroma.placeRules.rulesStrings.11>
+  <Novaroma.placeRules.rulesStrings.12>place_job-&gt;pracownik detaliczny</Novaroma.placeRules.rulesStrings.12>
+  <Novaroma.placeRules.rulesStrings.13>place_personalWeapon-&gt;revolver</Novaroma.placeRules.rulesStrings.13>
+  <Novaroma.placeRules.rulesStrings.14>place_personalWeapon-&gt;knife</Novaroma.placeRules.rulesStrings.14>
+  <Novaroma.placeRules.rulesStrings.15>place_massWeapon-&gt;[seismicDevice]</Novaroma.placeRules.rulesStrings.15>
+  <Novaroma.placeRules.rulesStrings.16>place_massWeapon-&gt;bomby kasetowe</Novaroma.placeRules.rulesStrings.16>
+  <Novaroma.placeRules.rulesStrings.17>place_massWeapon-&gt;nuklearna bomba-walizka</Novaroma.placeRules.rulesStrings.17>
+  <Novaroma.placeRules.rulesStrings.18>place_foeLeader-&gt;high-underlord</Novaroma.placeRules.rulesStrings.18>
+  <Novaroma.placeRules.rulesStrings.19>place_foeSoldiers-&gt;undertroops</Novaroma.placeRules.rulesStrings.19>
+
+  <Filson.placeRules.rulesStrings.0>place_name-&gt;Filson</Filson.placeRules.rulesStrings.0>
+  <Filson.placeRules.rulesStrings.1>place_adjective-&gt;Filsoner</Filson.placeRules.rulesStrings.1>
+  <Filson.placeRules.rulesStrings.2>place_summary-&gt;wiejski-świat-farmy</Filson.placeRules.rulesStrings.2>
+  <Filson.placeRules.rulesStrings.3>place_community-&gt;ratusz</Filson.placeRules.rulesStrings.3>
+  <Filson.placeRules.rulesStrings.4>place_community-&gt;przetwórnia nawozów</Filson.placeRules.rulesStrings.4>
+  <Filson.placeRules.rulesStrings.5>place_community-&gt;mega-granary</Filson.placeRules.rulesStrings.5>
+  <Filson.placeRules.rulesStrings.6>place_community-&gt;miejsce odwiertu wodnego</Filson.placeRules.rulesStrings.6>
+  <Filson.placeRules.rulesStrings.7>place_powerCenter-&gt;ratusz</Filson.placeRules.rulesStrings.7>
+  <Filson.placeRules.rulesStrings.8>place_job-&gt;pracownik rolniczy</Filson.placeRules.rulesStrings.8>
+  <Filson.placeRules.rulesStrings.9>place_job-&gt;zbieracz owoców</Filson.placeRules.rulesStrings.9>
+  <Filson.placeRules.rulesStrings.10>place_job-&gt;kierowca transportu</Filson.placeRules.rulesStrings.10>
+  <Filson.placeRules.rulesStrings.11>place_job-&gt;nauczyciel w szkole</Filson.placeRules.rulesStrings.11>
+  <Filson.placeRules.rulesStrings.12>place_job-&gt;inżynier gruntu</Filson.placeRules.rulesStrings.12>
+  <Filson.placeRules.rulesStrings.13>place_personalWeapon-&gt;rifle</Filson.placeRules.rulesStrings.13>
+  <Filson.placeRules.rulesStrings.14>place_personalWeapon-&gt;scythe</Filson.placeRules.rulesStrings.14>
+  <Filson.placeRules.rulesStrings.15>place_massWeapon-&gt;bomby nawozowe</Filson.placeRules.rulesStrings.15>
+  <Filson.placeRules.rulesStrings.16>place_massWeapon-&gt;zbrojny spray z pestycydami</Filson.placeRules.rulesStrings.16>
+  <Filson.placeRules.rulesStrings.17>place_massWeapon-&gt;soczewka kosmiczna</Filson.placeRules.rulesStrings.17>
+  <Filson.placeRules.rulesStrings.18>place_foeLeader-&gt;landowner</Filson.placeRules.rulesStrings.18>
+  <Filson.placeRules.rulesStrings.19>place_foeSoldiers-&gt;militia</Filson.placeRules.rulesStrings.19>
+
+  <Creticon.placeRules.rulesStrings.0>place_name-&gt;Creticon</Creticon.placeRules.rulesStrings.0>
+  <Creticon.placeRules.rulesStrings.1>place_adjective-&gt;Creticonian</Creticon.placeRules.rulesStrings.1>
+  <Creticon.placeRules.rulesStrings.2>place_summary-&gt;przeklęty-świat-śmierci</Creticon.placeRules.rulesStrings.2>
+  <Creticon.placeRules.rulesStrings.3>place_community-&gt;bunker</Creticon.placeRules.rulesStrings.3>
+  <Creticon.placeRules.rulesStrings.4>place_community-&gt;cavern</Creticon.placeRules.rulesStrings.4>
+  <Creticon.placeRules.rulesStrings.5>place_community-&gt;ice-shelter</Creticon.placeRules.rulesStrings.5>
+  <Creticon.placeRules.rulesStrings.6>place_powerCenter-&gt;schowek dyrektora</Creticon.placeRules.rulesStrings.6>
+  <Creticon.placeRules.rulesStrings.7>place_job-&gt;naprawiacz recyklera wody</Creticon.placeRules.rulesStrings.7>
+  <Creticon.placeRules.rulesStrings.8>place_job-&gt;rolnik glonów</Creticon.placeRules.rulesStrings.8>
+  <Creticon.placeRules.rulesStrings.9>place_job-&gt;doctor</Creticon.placeRules.rulesStrings.9>
+  <Creticon.placeRules.rulesStrings.10>place_job-&gt;teacher</Creticon.placeRules.rulesStrings.10>
+  <Creticon.placeRules.rulesStrings.11>place_job-&gt;dowódca milicji</Creticon.placeRules.rulesStrings.11>
+  <Creticon.placeRules.rulesStrings.12>place_job-&gt;pilot promu</Creticon.placeRules.rulesStrings.12>
+  <Creticon.placeRules.rulesStrings.13>place_personalWeapon-&gt;autopistol</Creticon.placeRules.rulesStrings.13>
+  <Creticon.placeRules.rulesStrings.14>place_personalWeapon-&gt;LMG</Creticon.placeRules.rulesStrings.14>
+  <Creticon.placeRules.rulesStrings.15>place_massWeapon-&gt;na ramieniu pocisk nuklearny</Creticon.placeRules.rulesStrings.15>
+  <Creticon.placeRules.rulesStrings.16>place_massWeapon-&gt;bombardowanie orbitalne</Creticon.placeRules.rulesStrings.16>
+  <Creticon.placeRules.rulesStrings.17>place_massWeapon-&gt;bomby chemiczne</Creticon.placeRules.rulesStrings.17>
+  <Creticon.placeRules.rulesStrings.18>place_massWeapon-&gt;zhakowane mechanoidy</Creticon.placeRules.rulesStrings.18>
+  <Creticon.placeRules.rulesStrings.19>place_foeLeader-&gt;warlord</Creticon.placeRules.rulesStrings.19>
+  <Creticon.placeRules.rulesStrings.20>place_foeSoldiers-&gt;mercenaries</Creticon.placeRules.rulesStrings.20>
+
+  <Yttak.placeRules.rulesStrings.0>place_name-&gt;Yttak</Yttak.placeRules.rulesStrings.0>
+  <Yttak.placeRules.rulesStrings.1>place_adjective-&gt;Yttaki</Yttak.placeRules.rulesStrings.1>
+  <Yttak.placeRules.rulesStrings.2>place_summary-&gt;więzienie lodowego księżyca</Yttak.placeRules.rulesStrings.2>
+  <Yttak.placeRules.rulesStrings.3>place_community-&gt;jadalnia</Yttak.placeRules.rulesStrings.3>
+  <Yttak.placeRules.rulesStrings.4>place_community-&gt;baraki strażnicze</Yttak.placeRules.rulesStrings.4>
+  <Yttak.placeRules.rulesStrings.5>place_community-&gt;ośrodek śledczy</Yttak.placeRules.rulesStrings.5>
+  <Yttak.placeRules.rulesStrings.6>place_powerCenter-&gt;kompleks biurowy naczelnika</Yttak.placeRules.rulesStrings.6>
+  <Yttak.placeRules.rulesStrings.7>place_job-&gt;detainee</Yttak.placeRules.rulesStrings.7>
+  <Yttak.placeRules.rulesStrings.8>place_job-&gt;guard</Yttak.placeRules.rulesStrings.8>
+  <Yttak.placeRules.rulesStrings.9>place_job-&gt;escapee</Yttak.placeRules.rulesStrings.9>
+  <Yttak.placeRules.rulesStrings.10>place_job-&gt;pracownik techniczny</Yttak.placeRules.rulesStrings.10>
+  <Yttak.placeRules.rulesStrings.11>place_job-&gt;kierowca transportu</Yttak.placeRules.rulesStrings.11>
+  <Yttak.placeRules.rulesStrings.12>place_personalWeapon-&gt;shiv</Yttak.placeRules.rulesStrings.12>
+  <Yttak.placeRules.rulesStrings.13>place_personalWeapon-&gt;SMG</Yttak.placeRules.rulesStrings.13>
+  <Yttak.placeRules.rulesStrings.14>place_massWeapon-&gt;improwizowana bomba chemiczna</Yttak.placeRules.rulesStrings.14>
+  <Yttak.placeRules.rulesStrings.15>place_massWeapon-&gt;uderzenie laserem orbitalnym</Yttak.placeRules.rulesStrings.15>
+  <Yttak.placeRules.rulesStrings.16>place_foeLeader-&gt;naczelnik więzienia</Yttak.placeRules.rulesStrings.16>
+  <Yttak.placeRules.rulesStrings.17>place_foeSoldiers-&gt;skorumpowani strażnicy</Yttak.placeRules.rulesStrings.17>
+
+  <Kemia.placeRules.rulesStrings.0>place_name-&gt;Kemia</Kemia.placeRules.rulesStrings.0>
+  <Kemia.placeRules.rulesStrings.1>place_adjective-&gt;Kemian</Kemia.placeRules.rulesStrings.1>
+  <Kemia.placeRules.rulesStrings.2>place_summary-&gt;toksyczny-świat-wojny</Kemia.placeRules.rulesStrings.2>
+  <Kemia.placeRules.rulesStrings.3>place_community-&gt;slum</Kemia.placeRules.rulesStrings.3>
+  <Kemia.placeRules.rulesStrings.4>place_community-&gt;kolonia tunelowa</Kemia.placeRules.rulesStrings.4>
+  <Kemia.placeRules.rulesStrings.5>place_community-&gt;undertown</Kemia.placeRules.rulesStrings.5>
+  <Kemia.placeRules.rulesStrings.6>place_powerCenter-&gt;lokalizacja miasta</Kemia.placeRules.rulesStrings.6>
+  <Kemia.placeRules.rulesStrings.7>place_job-&gt;zamiatacz ulic</Kemia.placeRules.rulesStrings.7>
+  <Kemia.placeRules.rulesStrings.8>place_job-&gt;inżynier sprzątania</Kemia.placeRules.rulesStrings.8>
+  <Kemia.placeRules.rulesStrings.9>place_job-&gt;rolnik białek</Kemia.placeRules.rulesStrings.9>
+  <Kemia.placeRules.rulesStrings.10>place_job-&gt;taksówkarz</Kemia.placeRules.rulesStrings.10>
+  <Kemia.placeRules.rulesStrings.11>place_job-&gt;konstruktor broni</Kemia.placeRules.rulesStrings.11>
+  <Kemia.placeRules.rulesStrings.12>place_personalWeapon-&gt;bomba gazowa</Kemia.placeRules.rulesStrings.12>
+  <Kemia.placeRules.rulesStrings.13>place_personalWeapon-&gt;toksyczny miotacz ognia</Kemia.placeRules.rulesStrings.13>
+  <Kemia.placeRules.rulesStrings.14>place_massWeapon-&gt;brudne bomby nuklearne</Kemia.placeRules.rulesStrings.14>
+  <Kemia.placeRules.rulesStrings.15>place_massWeapon-&gt;plaga inżynierii biologicznej</Kemia.placeRules.rulesStrings.15>
+  <Kemia.placeRules.rulesStrings.16>place_massWeapon-&gt;przenikliwe bomby toksyczne</Kemia.placeRules.rulesStrings.16>
+  <Kemia.placeRules.rulesStrings.17>place_foeLeader-&gt;władca trucizn</Kemia.placeRules.rulesStrings.17>
+  <Kemia.placeRules.rulesStrings.18>place_foeSoldiers-&gt;venom-soldiers</Kemia.placeRules.rulesStrings.18>
+
+  <Rogia.placeRules.rulesStrings.0>place_name-&gt;Rogia</Rogia.placeRules.rulesStrings.0>
+  <Rogia.placeRules.rulesStrings.1>place_adjective-&gt;Rogian</Rogia.placeRules.rulesStrings.1>
+  <Rogia.placeRules.rulesStrings.2>place_summary-&gt;glotter-tech świat</Rogia.placeRules.rulesStrings.2>
+  <Rogia.placeRules.rulesStrings.3>place_community-&gt;instytut medyczny</Rogia.placeRules.rulesStrings.3>
+  <Rogia.placeRules.rulesStrings.4>place_community-&gt;winda kosmiczna</Rogia.placeRules.rulesStrings.4>
+  <Rogia.placeRules.rulesStrings.5>place_community-&gt;fabryka robotyki</Rogia.placeRules.rulesStrings.5>
+  <Rogia.placeRules.rulesStrings.6>place_powerCenter-&gt;stolica planetarna</Rogia.placeRules.rulesStrings.6>
+  <Rogia.placeRules.rulesStrings.7>place_job-&gt;kadet Starforce</Rogia.placeRules.rulesStrings.7>
+  <Rogia.placeRules.rulesStrings.8>place_job-&gt;rzemieślnik rolnik</Rogia.placeRules.rulesStrings.8>
+  <Rogia.placeRules.rulesStrings.9>place_job-&gt;cudowne media społecznościowe</Rogia.placeRules.rulesStrings.9>
+  <Rogia.placeRules.rulesStrings.10>place_job-&gt;sportowiec z zerową gramaturą</Rogia.placeRules.rulesStrings.10>
+  <Rogia.placeRules.rulesStrings.11>place_job-&gt;przemytnik technologii brokatowych</Rogia.placeRules.rulesStrings.11>
+  <Rogia.placeRules.rulesStrings.12>place_personalWeapon-&gt;naładuj lancę</Rogia.placeRules.rulesStrings.12>
+  <Rogia.placeRules.rulesStrings.13>place_personalWeapon-&gt;persona monosword</Rogia.placeRules.rulesStrings.13>
+  <Rogia.placeRules.rulesStrings.14>place_massWeapon-&gt;głowice antymaterii</Rogia.placeRules.rulesStrings.14>
+  <Rogia.placeRules.rulesStrings.15>place_massWeapon-&gt;uzbrojony wirus komputerowy</Rogia.placeRules.rulesStrings.15>
+  <Rogia.placeRules.rulesStrings.16>place_massWeapon-&gt;zdalnie sterowany robotnicy mechanicy</Rogia.placeRules.rulesStrings.16>
+  <Rogia.placeRules.rulesStrings.17>place_foeLeader-&gt;skorumpowany biurokrata</Rogia.placeRules.rulesStrings.17>
+  <Rogia.placeRules.rulesStrings.18>place_foeSoldiers-&gt;bioniczni strażnicy</Rogia.placeRules.rulesStrings.18>
+
+  <Xanides.placeRules.rulesStrings.0>place_name-&gt;Xanides</Xanides.placeRules.rulesStrings.0>
+  <Xanides.placeRules.rulesStrings.1>place_adjective-&gt;Xanidian</Xanides.placeRules.rulesStrings.1>
+  <Xanides.placeRules.rulesStrings.2>place_summary-&gt;eksploatowana planeta-mineralna</Xanides.placeRules.rulesStrings.2>
+  <Xanides.placeRules.rulesStrings.3>place_community-&gt;kopalnia odkrywkowa</Xanides.placeRules.rulesStrings.3>
+  <Xanides.placeRules.rulesStrings.4>place_community-&gt;rafineria rudy</Xanides.placeRules.rulesStrings.4>
+  <Xanides.placeRules.rulesStrings.5>place_community-&gt;kafeteria z pastą odżywczą</Xanides.placeRules.rulesStrings.5>
+  <Xanides.placeRules.rulesStrings.6>place_powerCenter-&gt;magazyn tlenu</Xanides.placeRules.rulesStrings.6>
+  <Xanides.placeRules.rulesStrings.7>place_job-&gt;miner</Xanides.placeRules.rulesStrings.7>
+  <Xanides.placeRules.rulesStrings.8>place_job-&gt;supervisor</Xanides.placeRules.rulesStrings.8>
+  <Xanides.placeRules.rulesStrings.9>place_job-&gt;technician</Xanides.placeRules.rulesStrings.9>
+  <Xanides.placeRules.rulesStrings.10>place_job-&gt;mechanic</Xanides.placeRules.rulesStrings.10>
+  <Xanides.placeRules.rulesStrings.11>place_job-&gt;inżynier wsparcia życia</Xanides.placeRules.rulesStrings.11>
+  <Xanides.placeRules.rulesStrings.12>place_personalWeapon-&gt;electro-baton</Xanides.placeRules.rulesStrings.12>
+  <Xanides.placeRules.rulesStrings.13>place_personalWeapon-&gt;autopistol</Xanides.placeRules.rulesStrings.13>
+  <Xanides.placeRules.rulesStrings.14>place_massWeapon-&gt;ładunki wybuchowe</Xanides.placeRules.rulesStrings.14>
+  <Xanides.placeRules.rulesStrings.15>place_massWeapon-&gt;[anEMPAttack]</Xanides.placeRules.rulesStrings.15>
+  <Xanides.placeRules.rulesStrings.16>place_foeLeader-&gt;szef korporacji-kopalni</Xanides.placeRules.rulesStrings.16>
+  <Xanides.placeRules.rulesStrings.17>place_foeSoldiers-&gt;oddziały korpusu minowego</Xanides.placeRules.rulesStrings.17>
+
+  <Lutuni.placeRules.rulesStrings.0>place_name-&gt;Lutuni</Lutuni.placeRules.rulesStrings.0>
+  <Lutuni.placeRules.rulesStrings.1>place_adjective-&gt;Lutuni</Lutuni.placeRules.rulesStrings.1>
+  <Lutuni.placeRules.rulesStrings.2>place_summary-&gt;raj lasów deszczowych</Lutuni.placeRules.rulesStrings.2>
+  <Lutuni.placeRules.rulesStrings.3>place_community-&gt;klinika wspomagania</Lutuni.placeRules.rulesStrings.3>
+  <Lutuni.placeRules.rulesStrings.4>place_community-&gt;hyper-yacht</Lutuni.placeRules.rulesStrings.4>
+  <Lutuni.placeRules.rulesStrings.5>place_community-&gt;stadion zero-g</Lutuni.placeRules.rulesStrings.5>
+  <Lutuni.placeRules.rulesStrings.6>place_powerCenter-&gt;kompleks wind kosmicznych</Lutuni.placeRules.rulesStrings.6>
+  <Lutuni.placeRules.rulesStrings.7>place_job-&gt;przewodnik turystyczny</Lutuni.placeRules.rulesStrings.7>
+  <Lutuni.placeRules.rulesStrings.8>place_job-&gt;wykonawca zero-g</Lutuni.placeRules.rulesStrings.8>
+  <Lutuni.placeRules.rulesStrings.9>place_job-&gt;dystrybutor lucyferium</Lutuni.placeRules.rulesStrings.9>
+  <Lutuni.placeRules.rulesStrings.10>place_job-&gt;wirtualna gwiazda</Lutuni.placeRules.rulesStrings.10>
+  <Lutuni.placeRules.rulesStrings.11>place_job-&gt;pilot promu</Lutuni.placeRules.rulesStrings.11>
+  <Lutuni.placeRules.rulesStrings.12>place_personalWeapon-&gt;vibro-knife</Lutuni.placeRules.rulesStrings.12>
+  <Lutuni.placeRules.rulesStrings.13>place_personalWeapon-&gt;ładujący pistolet</Lutuni.placeRules.rulesStrings.13>
+  <Lutuni.placeRules.rulesStrings.14>place_massWeapon-&gt;bakteria rozpadu strukturalnego</Lutuni.placeRules.rulesStrings.14>
+  <Lutuni.placeRules.rulesStrings.15>place_massWeapon-&gt;przemycany cel bombardowania orbitalnego</Lutuni.placeRules.rulesStrings.15>
+  <Lutuni.placeRules.rulesStrings.16>place_foeLeader-&gt;potentat rozrywki</Lutuni.placeRules.rulesStrings.16>
+  <Lutuni.placeRules.rulesStrings.17>place_foeSoldiers-&gt;enforcers</Lutuni.placeRules.rulesStrings.17>
+
+  <AturaStation.placeRules.rulesStrings.0>place_name-&gt;Stacja Atura</AturaStation.placeRules.rulesStrings.0>
+  <AturaStation.placeRules.rulesStrings.1>place_adjective-&gt;Aturan</AturaStation.placeRules.rulesStrings.1>
+  <AturaStation.placeRules.rulesStrings.2>place_summary-&gt;stocznia orbitalna</AturaStation.placeRules.rulesStrings.2>
+  <AturaStation.placeRules.rulesStrings.3>place_community-&gt;dok wahadłowy</AturaStation.placeRules.rulesStrings.3>
+  <AturaStation.placeRules.rulesStrings.4>place_community-&gt;pierścień produkcyjny</AturaStation.placeRules.rulesStrings.4>
+  <AturaStation.placeRules.rulesStrings.5>place_community-&gt;pierścień mieszkalny</AturaStation.placeRules.rulesStrings.5>
+  <AturaStation.placeRules.rulesStrings.6>place_powerCenter-&gt;centralna dyspozytornia</AturaStation.placeRules.rulesStrings.6>
+  <AturaStation.placeRules.rulesStrings.7>place_job-&gt;operator drona budowlanego</AturaStation.placeRules.rulesStrings.7>
+  <AturaStation.placeRules.rulesStrings.8>place_job-&gt;manager</AturaStation.placeRules.rulesStrings.8>
+  <AturaStation.placeRules.rulesStrings.9>place_job-&gt;pilot testowy</AturaStation.placeRules.rulesStrings.9>
+  <AturaStation.placeRules.rulesStrings.10>place_job-&gt;agent sprzedaży</AturaStation.placeRules.rulesStrings.10>
+  <AturaStation.placeRules.rulesStrings.11>place_job-&gt;technik drukarki 3D</AturaStation.placeRules.rulesStrings.11>
+  <AturaStation.placeRules.rulesStrings.12>place_personalWeapon-&gt;taser</AturaStation.placeRules.rulesStrings.12>
+  <AturaStation.placeRules.rulesStrings.13>place_personalWeapon-&gt;spawacz łukowy</AturaStation.placeRules.rulesStrings.13>
+  <AturaStation.placeRules.rulesStrings.14>place_massWeapon-&gt;[anEMPAttack]</AturaStation.placeRules.rulesStrings.14>
+  <AturaStation.placeRules.rulesStrings.15>place_massWeapon-&gt;zdalnie sterowane drony spawalnicze</AturaStation.placeRules.rulesStrings.15>
+  <AturaStation.placeRules.rulesStrings.16>place_foeLeader-&gt;szef kryminalny</AturaStation.placeRules.rulesStrings.16>
+  <AturaStation.placeRules.rulesStrings.17>place_foeSoldiers-&gt;thugs</AturaStation.placeRules.rulesStrings.17>
+
+
+</LanguageData>

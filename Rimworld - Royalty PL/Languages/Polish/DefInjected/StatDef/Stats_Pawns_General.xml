@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychicEntropyMax.label>nerwowy limit ciepła</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>Maksymalna ilość ciepła nerwowego, jaką osoba może bezpiecznie tolerować.</PsychicEntropyMax.description>
+
+  <PsychicEntropyRecoveryRate.label>neuronowy współczynnik odzysku ciepła</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>Tempo, w jakim ta osoba zmniejsza ciepło neuronowe.</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+
+  <PsychicEntropyGain.label>neuronowy zysk ciepła</PsychicEntropyGain.label>
+  <PsychicEntropyGain.description>Mnożnik ciepła neuronowego pozyskiwanego z dowolnego źródła.</PsychicEntropyGain.description>
+
+  <MeditationFocusGain.label>medytacja zyskuje na psychofokusie</MeditationFocusGain.label>
+  <MeditationFocusGain.description>Ilość psyfocusu, jaką osoba zyskuje w ciągu dnia medytacji, ignorując bonusy z obiektów skupionych.</MeditationFocusGain.description>
+
+
+</LanguageData>

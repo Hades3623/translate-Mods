@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_ClimateAdjuster.label>regulator klimatu</VFE_ClimateAdjuster.label>
+  <VFE_ClimateAdjuster.description>regulator klimatu</VFE_ClimateAdjuster.description>
+  <VFE_ClimateAdjuster.endMessage>Koniec z zimnym trzaskiem.</VFE_ClimateAdjuster.endMessage>
+  <VFE_ClimateAdjuster.letterText>regulator klimatu</VFE_ClimateAdjuster.letterText>
+
+  <VFE_EMIDynamo.label>EMI dynamo</VFE_EMIDynamo.label>
+  <VFE_EMIDynamo.description>EMI dynamo</VFE_EMIDynamo.description>
+  <VFE_EMIDynamo.endMessage>EMI dynamo</VFE_EMIDynamo.endMessage>
+  <VFE_EMIDynamo.letterText>EMI dynamo</VFE_EMIDynamo.letterText>
+
+
+</LanguageData>

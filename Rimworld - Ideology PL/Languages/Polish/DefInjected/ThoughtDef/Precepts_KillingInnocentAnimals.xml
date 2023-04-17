@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: Killed innocent animal -->
+
+  <KilledInnocentAnimal_Know_Abhorrent.stages.0.label>zabite niewinne zwierzę</KilledInnocentAnimal_Know_Abhorrent.stages.0.label>
+
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>niewinne zwierzę zabite</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>Zabito niewinne, urocze zwierzę! To morderstwo!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>
+
+  <KilledInnocentAnimal_Horrible.stages.0.label>zabity niewinny {0}</KilledInnocentAnimal_Horrible.stages.0.label>
+  <KilledInnocentAnimal_Horrible.stages.0.description>Musiałem zabić niewinne zwierzę. To było prawie jak bycie zmuszonym do morderstwa.</KilledInnocentAnimal_Horrible.stages.0.description>
+
+  <KilledInnocentAnimal_Know_Horrible.stages.0.label>zabite niewinne zwierzę</KilledInnocentAnimal_Know_Horrible.stages.0.label>
+
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>niewinne zwierzę zabite</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>Zabito niewinne zwierzę. Co za okropny, bezduszny czyn przeciwko innej istocie.</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>
+
+  <KilledInnocentAnimal_Disapproved.stages.0.label>zabity niewinny {0}</KilledInnocentAnimal_Disapproved.stages.0.label>
+  <KilledInnocentAnimal_Disapproved.stages.0.description>Musiałem zabić niewinne zwierzę. To nie było coś, co aprobuję.</KilledInnocentAnimal_Disapproved.stages.0.description>
+
+  <KilledInnocentAnimal_Know_Disapproved.stages.0.label>zabite niewinne zwierzę</KilledInnocentAnimal_Know_Disapproved.stages.0.label>
+
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>niewinne zwierzę zabite</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>Zabito niewinne zwierzę. Nie pochwalam tego.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>
+
+
+</LanguageData>

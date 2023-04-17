@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RIBCAGE PART -->
+
+  <SZ_Ribcage.label>klatka piersiowa</SZ_Ribcage.label>
+
+
+  <!-- TRUE RIB BONES -->
+
+  <SZ_First_Rib.label>pierwsze żebro</SZ_First_Rib.label>
+  <SZ_Second_Rib.label>drugie żebro</SZ_Second_Rib.label>
+  <SZ_Third_Rib.label>trzecie żebro</SZ_Third_Rib.label>
+  <SZ_Fourth_Rib.label>czwarte żebro</SZ_Fourth_Rib.label>
+  <SZ_Fifth_Rib.label>piąte żebro</SZ_Fifth_Rib.label>
+  <SZ_Sixth_Rib.label>szóste żebro</SZ_Sixth_Rib.label>
+  <SZ_Seventh_Rib.label>siódme żebro</SZ_Seventh_Rib.label>
+
+
+  <!-- FALSE RIB BONES -->
+
+  <SZ_Eighth_Rib.label>ósme żebro</SZ_Eighth_Rib.label>
+  <SZ_Ninth_Rib.label>dziewiąte żebro</SZ_Ninth_Rib.label>
+  <SZ_Tenth_Rib.label>dziesiąte żebro</SZ_Tenth_Rib.label>
+
+
+  <!-- FLOATING RIB BONES -->
+
+  <SZ_Eleventh_Rib.label>jedenaste żebro</SZ_Eleventh_Rib.label>
+  <SZ_Twelfth_Rib.label>dwunaste żebro</SZ_Twelfth_Rib.label>
+
+
+</LanguageData>

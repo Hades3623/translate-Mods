@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drone genome recipe -->
+
+  <VFEI_DroneGenome.label>genom drona</VFEI_DroneGenome.label>
+  <VFEI_DroneGenome.description>Zainstalowany genom drona.</VFEI_DroneGenome.description>
+  <VFEI_DroneGenome.labelNoun>genom drona</VFEI_DroneGenome.labelNoun>
+
+
+  <!-- Insectoid leg -->
+
+  <VFEI_InsectoidLeg.label>noga insektoida</VFEI_InsectoidLeg.label>
+  <VFEI_InsectoidLeg.description>Połączony wyrostek insektoida, składający się z kilku segmentów pokrytych chityną. Chociaż jest to niezwykle bolesna mutacja, ta noga ma znacznie większą odporność na uszkodzenia.</VFEI_InsectoidLeg.description>
+  <VFEI_InsectoidLeg.labelNoun>noga insektoida</VFEI_InsectoidLeg.labelNoun>
+
+
+  <!-- Insectoid arm -->
+
+  <VFEI_InsectoidArm.label>ramię insektoida</VFEI_InsectoidArm.label>
+  <VFEI_InsectoidArm.description>Połączony wyrostek insektoida, składający się z kilku segmentów pokrytych chityną. Chociaż jest to niezwykle bolesna mutacja, to ramię ma znacznie większą odporność na uszkodzenia.</VFEI_InsectoidArm.description>
+  <VFEI_InsectoidArm.labelNoun>ramię insektoida</VFEI_InsectoidArm.labelNoun>
+
+
+  <!-- Compound eye -->
+
+  <VFEI_CompoundEye.label>złożone oko</VFEI_CompoundEye.label>
+  <VFEI_CompoundEye.description>Oko składające się z tysięcy pojedynczych jednostek fotoreceptorów, oczy złożone mają duże pole widzenia i pomagają w wykrywaniu szybkiego ruchu, jednak zasięg jego widoczności jest znacznie ograniczony. Chociaż jest to niezwykle bolesna mutacja, to oko ma większą odporność na uszkodzenia.</VFEI_CompoundEye.description>
+  <VFEI_CompoundEye.labelNoun>oko złożone</VFEI_CompoundEye.labelNoun>
+
+
+  <!-- Mandibles -->
+
+  <VFEI_Mandibles.label>żuchwy</VFEI_Mandibles.label>
+  <VFEI_Mandibles.description>Para wypustek znajdujących się po bokach jamy ustnej, pomagająca kruszyć i kroić jedzenie. Chociaż jest znacznie mniej wygodna niż zwykła szczęka, żuchwy insektoidów znacznie zwiększają szybkość jedzenia.</VFEI_Mandibles.description>
+  <VFEI_Mandibles.labelNoun>żuchwa</VFEI_Mandibles.labelNoun>
+
+
+  <!-- Jelly Sac -->
+
+  <VFEI_JellySac.label>worek galaretki</VFEI_JellySac.label>
+  <VFEI_JellySac.description>Organ podobny do rurki wyrosły w ciele. Pozwala ludziom z czasem produkować niewielkie ilości galaretki z owadów. Jest to niezwykle bolesna mutacja, w niektórych przypadkach wymagająca medycznego wsparcia, aby osoba z nią rzeczywiście żyła.</VFEI_JellySac.description>
+  <VFEI_JellySac.labelNoun>galaretka</VFEI_JellySac.labelNoun>
+
+
+  <!-- Warrior genome recipe -->
+
+  <VFEI_WarriorGenome.label>genom wojownika</VFEI_WarriorGenome.label>
+  <VFEI_WarriorGenome.description>Zainstalowany genom wojownika.</VFEI_WarriorGenome.description>
+  <VFEI_WarriorGenome.labelNoun>genom wojownika</VFEI_WarriorGenome.labelNoun>
+
+
+  <!-- Venom gland -->
+
+  <VFEI_VenomGland.label>gruczoł jadowy</VFEI_VenomGland.label>
+  <VFEI_VenomGland.description>Workowaty gruczoł pod językiem, który wydziela kwas, upłynnia się i pozwala bezpiecznie spożywać nawet najbardziej niebezpieczne pokarmy. Nadmierna stymulacja tego gruczołu umożliwia użytkownikowi wykonanie krótkiego ataku plucia kwasem, skutecznie przebijającego zbroję.</VFEI_VenomGland.description>
+  <VFEI_VenomGland.comps.0.tools.0.label>gruczoł jadowy</VFEI_VenomGland.comps.0.tools.0.label>
+  <VFEI_VenomGland.labelNoun>gruczoł jadowy</VFEI_VenomGland.labelNoun>
+
+
+  <!-- Pneumatic claw -->
+
+  <VFEI_PneumaticClaw.label>pneumatyczny pazur</VFEI_PneumaticClaw.label>
+  <VFEI_PneumaticClaw.description>Potężne pneumatyczne ramię zaciskarki, zdolne do wielokrotnego wywierania wielkiego nacisku na cel kosztem wyrafinowanych zdolności motorycznych.</VFEI_PneumaticClaw.description>
+  <VFEI_PneumaticClaw.comps.0.tools.0.label>pazur</VFEI_PneumaticClaw.comps.0.tools.0.label>
+  <VFEI_PneumaticClaw.labelNoun>pneumatyczny pazur</VFEI_PneumaticClaw.labelNoun>
+
+
+  <!-- Adrenal secretor -->
+
+  <VFEI_AdrenalSecretor.label>adrenal secretor</VFEI_AdrenalSecretor.label>
+  <VFEI_AdrenalSecretor.description>An insectoid kidney with a hyperactive adrenal gland. Subjects with this mutation may find newfound pleasure in inflicting pain. However, it does bring the side effect of unwarranted aggression.</VFEI_AdrenalSecretor.description>
+  <VFEI_AdrenalSecretor.labelNoun>adrenal secretor</VFEI_AdrenalSecretor.labelNoun>
+
+
+  <!-- Antenna -->
+
+  <VFEI_Antenna.label>antena</VFEI_Antenna.label>
+  <VFEI_Antenna.description>Smukły, ruchomy narząd zmysłów, który uzupełnia wzrok i świadomość lokalizacyjną. Osobnik z tą mutacją nie będzie już cierpieć z powodu kar za ciemność, jednak przeciążenie sensoryczne bardzo utrudnia życie towarzyskie.</VFEI_Antenna.description>
+  <VFEI_Antenna.labelNoun>antena</VFEI_Antenna.labelNoun>
+
+
+  <!-- Predator stomach -->
+
+  <VFEI_PredatorStomach.label>żołądek drapieżnika</VFEI_PredatorStomach.label>
+  <VFEI_PredatorStomach.description>Bardzo wydajna, choć podstawowa alternatywa dla żołądka. Osoby z tą mutacją będą mogły żyć dłużej z mniejszą ilością jedzenia.</VFEI_PredatorStomach.description>
+  <VFEI_PredatorStomach.labelNoun>żołądek drapieżnika</VFEI_PredatorStomach.labelNoun>
+
+
+  <!-- Warrior genome recipe -->
+
+  <VFEI_RoyalGenome.label>królewski genom</VFEI_RoyalGenome.label>
+  <VFEI_RoyalGenome.description>Zainstalowany królewski genom.</VFEI_RoyalGenome.description>
+  <VFEI_RoyalGenome.labelNoun>królewski genom</VFEI_RoyalGenome.labelNoun>
+
+
+  <!-- Pheronome secretor -->
+
+  <VFEI_PheromoneSecretor.label>sekretarz feromonów</VFEI_PheromoneSecretor.label>
+  <VFEI_PheromoneSecretor.description>Gruczoły owadobójcze, które powoli wyciekają bezbarwny, bezwonny, ale lepki feromon, wyróżniający się wywoływaniem łagodnej euforii u osób w pobliżu.</VFEI_PheromoneSecretor.description>
+  <VFEI_PheromoneSecretor.labelNoun>sekretarz feromonów</VFEI_PheromoneSecretor.labelNoun>
+
+
+  <!-- Ventricular sleeve -->
+
+  <VFEI_VentricularSleeve.label>rękaw komorowy</VFEI_VentricularSleeve.label>
+  <VFEI_VentricularSleeve.description>Ledwo poznana mutacja serca i tętnic powoduje, że krew krzepnie do bogatego w tlen materiału przypominającego żel. W przypadku zranienia lub nawet utraty kończyn żel natychmiast przypali ranę. Niestety stwarza duże obciążenie dla biologii układu sercowo-naczyniowego człowieka.</VFEI_VentricularSleeve.description>
+  <VFEI_VentricularSleeve.labelNoun>rękaw komorowy</VFEI_VentricularSleeve.labelNoun>
+
+
+  <!-- Synaptic cerebellum -->
+
+  <VFEI_SynapticCerebellum.label>móżdżek synaptyczny</VFEI_SynapticCerebellum.label>
+  <VFEI_SynapticCerebellum.description>Mózg owadoidalny szczególnie wrażliwy na resztkową synapsę psychiczną. Istota z tą mutacją posiada głęboką myśl zbiorową i wrażliwość psychiczną, jednak ledwo jest w stanie formułować spójne zdania.</VFEI_SynapticCerebellum.description>
+  <VFEI_SynapticCerebellum.labelNoun>móżdżek synaptyczny</VFEI_SynapticCerebellum.labelNoun>
+
+
+</LanguageData>

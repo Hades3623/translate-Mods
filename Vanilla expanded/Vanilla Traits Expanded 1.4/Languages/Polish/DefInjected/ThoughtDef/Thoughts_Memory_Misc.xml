@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VTE_CreatedLowQualityItem.stages.0.label>Stworzono przediot niskiej jakości.</VTE_CreatedLowQualityItem.stages.0.label>
+  <VTE_CreatedLowQualityItem.stages.0.description>Stworzyłem śmieci. Czuję, że nic nie mogę zrobić dobrze.</VTE_CreatedLowQualityItem.stages.0.description>
+
+  <VTE_CouldNotFinishItem.stages.0.label>Nie udało się dokończyć przedmiotu.</VTE_CouldNotFinishItem.stages.0.label>
+  <VTE_CouldNotFinishItem.stages.0.description>Nie mogłem ukończyć projektu, po prostu nie szło mi prawidłowo.</VTE_CouldNotFinishItem.stages.0.description>
+
+  <VTE_PassionateCleaningWork.stages.0.label>Sprzątanie z spasją.</VTE_PassionateCleaningWork.stages.0.label>
+  <VTE_PassionateCleaningWork.stages.0.description>Naprawdę lubię organizować i sprzątać to miejsce.</VTE_PassionateCleaningWork.stages.0.description>
+
+  <VTE_MyRivalsAreAlive.stages.0.label>Mój rywal żyje</VTE_MyRivalsAreAlive.stages.0.label>
+  <VTE_MyRivalsAreAlive.stages.0.description>Nienawidzę ich. Dlaczego mieliby zasługiwać na życie?</VTE_MyRivalsAreAlive.stages.0.description>
+
+  <VTE_MechanoidIsKilled.stages.0.label>Mechanoid nie żyje</VTE_MechanoidIsKilled.stages.0.label>
+  <VTE_MechanoidIsKilled.stages.0.description>Te złe maszyny nie zasługują na poprawne działanie.</VTE_MechanoidIsKilled.stages.0.description>
+
+  <VTE_ObservedManyBlood.stages.0.label>zaobserwował dużo krwi</VTE_ObservedManyBlood.stages.0.label>
+  <VTE_ObservedManyBlood.stages.0.description>Widziałem tyle krwi i kawałków. Samo wspomnienie sprawia, że ​​się duszę.</VTE_ObservedManyBlood.stages.0.description>
+
+  <VTE_WatchedTelevisor.stages.0.label>Ostatnio oglądałem telewizję</VTE_WatchedTelevisor.stages.0.label>
+  <VTE_WatchedTelevisor.stages.0.description>Muszę leniuchować i nadrobić zaległości w moich programach.</VTE_WatchedTelevisor.stages.0.description>
+
+  <VTE_NoDedicatedLaboratory.stages.0.label>Brak dedykowanego laboratorium</VTE_NoDedicatedLaboratory.stages.0.label>
+  <VTE_NoDedicatedLaboratory.stages.0.description>Nie mam gdzie studiować w spokoju, jakie to denerwujące.</VTE_NoDedicatedLaboratory.stages.0.description>
+
+  <VTE_AnimalsInColony.stages.0.label>brak zwierząt w koloni</VTE_AnimalsInColony.stages.0.label>
+  <VTE_AnimalsInColony.stages.0.description>Nie mamy ani jednego zwierzęcia.</VTE_AnimalsInColony.stages.0.description>
+  <VTE_AnimalsInColony.stages.1.label>Prawie żadnych zwierząt w kolonii</VTE_AnimalsInColony.stages.1.label>
+  <VTE_AnimalsInColony.stages.1.description>Nie mamy prawie żadnych zwierząt w kolonii, to jest do bani.</VTE_AnimalsInColony.stages.1.description>
+  <VTE_AnimalsInColony.stages.2.label>Prawie żadnych zwierząt w kolonii</VTE_AnimalsInColony.stages.2.label>
+  <VTE_AnimalsInColony.stages.2.description>Nie mamy prawie żadnych zwierząt w kolonii, to chyba coś.</VTE_AnimalsInColony.stages.2.description>
+  <VTE_AnimalsInColony.stages.3.label>Prawie żadnych zwierząt w kolonii</VTE_AnimalsInColony.stages.3.label>
+  <VTE_AnimalsInColony.stages.3.description>Nie mamy prawie żadnych zwierząt w kolonii, to chyba coś.</VTE_AnimalsInColony.stages.3.description>
+  <VTE_AnimalsInColony.stages.4.label>Kilka zwierząt w kolonii</VTE_AnimalsInColony.stages.4.label>
+  <VTE_AnimalsInColony.stages.4.description>W kolonii mamy kilka zwierząt, to miło.</VTE_AnimalsInColony.stages.4.description>
+  <VTE_AnimalsInColony.stages.5.label>Kilka zwierząt w kolonii</VTE_AnimalsInColony.stages.5.label>
+  <VTE_AnimalsInColony.stages.5.description>W kolonii mamy kilka zwierząt, to miło.</VTE_AnimalsInColony.stages.5.description>
+  <VTE_AnimalsInColony.stages.6.label>Niektóre zwierzęta w kolonii</VTE_AnimalsInColony.stages.6.label>
+  <VTE_AnimalsInColony.stages.6.description>Mamy teraz przyzwoitą liczbę zwierząt, docieramy do celu.</VTE_AnimalsInColony.stages.6.description>
+  <VTE_AnimalsInColony.stages.7.label>Niektóre zwierzęta w kolonii</VTE_AnimalsInColony.stages.7.label>
+  <VTE_AnimalsInColony.stages.7.description>Mamy teraz przyzwoitą liczbę zwierząt, docieramy do celu.</VTE_AnimalsInColony.stages.7.description>
+  <VTE_AnimalsInColony.stages.8.label>Niektóre zwierzęta w kolonii</VTE_AnimalsInColony.stages.8.label>
+  <VTE_AnimalsInColony.stages.8.description>Mamy teraz przyzwoitą liczbę zwierząt, docieramy do celu.</VTE_AnimalsInColony.stages.8.description>
+  <VTE_AnimalsInColony.stages.9.label>Niektóre zwierzęta w kolonii</VTE_AnimalsInColony.stages.9.label>
+  <VTE_AnimalsInColony.stages.9.description>Mamy teraz przyzwoitą liczbę zwierząt, docieramy do celu.</VTE_AnimalsInColony.stages.9.description>
+  <VTE_AnimalsInColony.stages.10.label>Wiele zwierząt w kolonii</VTE_AnimalsInColony.stages.10.label>
+  <VTE_AnimalsInColony.stages.10.description>Mamy teraz w kolonii wiele zwierząt, są cudowne.</VTE_AnimalsInColony.stages.10.description>
+  <VTE_AnimalsInColony.stages.11.label>Wiele zwierząt w kolonii</VTE_AnimalsInColony.stages.11.label>
+  <VTE_AnimalsInColony.stages.11.description>Mamy teraz w kolonii wiele zwierząt, są cudowne.</VTE_AnimalsInColony.stages.11.description>
+  <VTE_AnimalsInColony.stages.12.label>Wiele zwierząt w kolonii</VTE_AnimalsInColony.stages.12.label>
+  <VTE_AnimalsInColony.stages.12.description>Mamy teraz w kolonii wiele zwierząt, są cudowne.</VTE_AnimalsInColony.stages.12.description>
+  <VTE_AnimalsInColony.stages.13.label>Tona zwierząt w kolonii</VTE_AnimalsInColony.stages.13.label>
+  <VTE_AnimalsInColony.stages.13.description>Mamy teraz tyle zwierząt! Jestem bardzo szczęśliwy, widząc je wszystkie!</VTE_AnimalsInColony.stages.13.description>
+  <VTE_AnimalsInColony.stages.14.label>Tona zwierząt w kolonii</VTE_AnimalsInColony.stages.14.label>
+  <VTE_AnimalsInColony.stages.14.description>Mamy teraz tyle zwierząt! Jestem bardzo szczęśliwy, widząc je wszystkie!</VTE_AnimalsInColony.stages.14.description>
+  <VTE_AnimalsInColony.stages.15.label>Tona zwierząt w kolonii</VTE_AnimalsInColony.stages.15.label>
+  <VTE_AnimalsInColony.stages.15.description>Mamy teraz tyle zwierząt! Jestem bardzo szczęśliwy, widząc je wszystkie!</VTE_AnimalsInColony.stages.15.description>
+
+  <VTE_ChildOfSea.stages.0.label>Miłośnik oceanu</VTE_ChildOfSea.stages.0.label>
+  <VTE_ChildOfSea.stages.0.description>Po prostu uwielbiam przebywać nad oceanem i rzekami, woda jest piękna.</VTE_ChildOfSea.stages.0.description>
+
+  <VTE_ChildOfMountain.stages.0.label>Miłośnik gór</VTE_ChildOfMountain.stages.0.label>
+  <VTE_ChildOfMountain.stages.0.description>Po prostu uwielbiam przebywać w górach, które zapierają dech w piersiach.</VTE_ChildOfMountain.stages.0.description>
+
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>Nie zabrano organów</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+  <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Robię się niecierpliwy i znudzony, potrzebuję więcej tematów.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
+
+  <VTE_HarvestedOrgans.stages.0.label>Zabrany organ</VTE_HarvestedOrgans.stages.0.label>
+  <VTE_HarvestedOrgans.stages.0.description>Operacja przebiegła zgodnie z oczekiwaniami, moja kolekcja się powiększyła.</VTE_HarvestedOrgans.stages.0.description>
+
+  <VTE_HaventExitedColonyForLongTime.stages.0.label>Nie opuścił kolonii</VTE_HaventExitedColonyForLongTime.stages.0.label>
+  <VTE_HaventExitedColonyForLongTime.stages.0.description>Dawno nie wychodziłam z domu, naprawdę chciałbym podróżować dla odmiany.</VTE_HaventExitedColonyForLongTime.stages.0.description>
+
+  <VTE_SoakingWetChildOfTheSea.stages.0.label>Mokry</VTE_SoakingWetChildOfTheSea.stages.0.label>
+  <VTE_SoakingWetChildOfTheSea.stages.0.description>Jestem zmoczony,kocham to.</VTE_SoakingWetChildOfTheSea.stages.0.description>
+
+  <VTE_EnvironmentDark.stages.0.label>Ciemność</VTE_EnvironmentDark.stages.0.label>
+  <VTE_EnvironmentDark.stages.0.description>Od jakiegoś czasu byłem w ciemności. Lubię to.</VTE_EnvironmentDark.stages.0.description>
+
+  <VTE_Dunce.stages.0.label>Taboret</VTE_Dunce.stages.0.label>
+  <VTE_Dunce.stages.0.description>Naprawdę nie rozumiem, dlaczego wszyscy są przez cały czas tacy zdenerwowani.</VTE_Dunce.stages.0.description>
+
+
+</LanguageData>

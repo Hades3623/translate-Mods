@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperJump.label>Super skok</SuperJump.label>
+  <SuperJump.description>Mięśnie nóg tej osoby zostały wzmocnione wrzecionami z gęstego włókna, a ich szkielet jest bardziej odporny na uderzenia. Dzięki temu mogą przeskoczyć kilkadziesiąt metrów i wylądować bez obrażeń.</SuperJump.description>
+
+  <Telepathy.label>telepatia</Telepathy.label>
+  <Telepathy.description>Podmiot jest zdolny do psychicznego przytłoczenia umysłu celu.</Telepathy.description>
+
+  <PsychicShock.label>szok psychiczny</PsychicShock.label>
+  <PsychicShock.description>Podmiot jest w stanie szokować umysł celu chaotycznymi obrazami, blokując spójną percepcję i wprowadzając go w stan szoku psychicznego.</PsychicShock.description>
+
+  <Invisibility.label>niewidzialność</Invisibility.label>
+  <Invisibility.description>Podmiot jest w stanie wytworzyć wokół swojego ciała pole psychiczne, które uniemożliwia innym zobaczenie go, a nawet uznanie ich istnienia przez krótki czas.</Invisibility.description>
+
+  <SelfControl.label>self-control</SelfControl.label>
+  <SelfControl.description>Podmiot osiągnął mistrzostwo w samokontroli, zdolne do aktywnego decydowania o zatrzymaniu wszelkich przerw psychicznych poprzez psychiczne zmuszenie się do ponownego przeżycia cennego wspomnienia, które przywraca go do rzeczywistości. Potem będą potrzebować 2 dni, aby zadomowić się w innym wspomnieniu.</SelfControl.description>
+
+  <Overshield.label>przesłaniać</Overshield.label>
+  <Overshield.description>Obiekt jest w stanie rzutować zlokalizowaną, jednokierunkową osłonę przez 30 sekund, wysyłając wszystkie nadlatujące pociski z poziomu gruntu daleko. Proces jest bardzo wyczerpujący dla użytkownika i zajmie 3 minuty, zanim będzie mógł ponownie wyświetlać.</Overshield.description>
+
+  <SummonLightning.label>przywołać błyskawicę</SummonLightning.label>
+  <SummonLightning.description>Obiekt jest zdolny do generowania w atmosferze przeskoków różnicy ciśnień w celu wygenerowania zlokalizowanej burzy błyskowej. Organ połączony psychicznie znajduje się u podstawy czaszki i może być używany tylko raz na 2 minuty.</SummonLightning.description>
+
+  <AnimalSpeech.label>mowa zwierząt</AnimalSpeech.label>
+  <AnimalSpeech.description>Podmiot jest w stanie raz dziennie przeciążyć psychicznie produkcję hormonów zwierzęcia, przekonując je, że należą do swojego gatunku. To albo wyrywa zwierzę ze stanu polowania, albo przekonuje je do dołączenia do kolonii.</AnimalSpeech.description>
+
+  <Empathy.label>empatia</Empathy.label>
+  <Empathy.description>Podmiot może spowodować, że organizm przyjaznego celu wytworzy ogromną ilość endorfin poprzez emisję hormonów. Fala trwa cały dzień i może być wykonywana raz dziennie.</Empathy.description>
+
+  <HealOthers.label>leczyć innych</HealOthers.label>
+  <HealOthers.description>Podmiot może spowodować, że organizm przyjaznego celu szybko zregeneruje się z wszelkich ran poprzez emisję hormonów i mgiełkę bogatą w składniki odżywcze.</HealOthers.description>
+
+  <GloryKill.label>zabicie chwały</GloryKill.label>
+  <GloryKill.description>Podmiot jest w stanie zmusić się do walki lub ucieczki i otrzymać potężną dawkę adrenaliny dopuszczalną przez powiększone nadnercze. Ten wzrost siły pozwala im losowo zaatakować pobliskiego wroga i rozerwać go na kawałki, jednak jest to tak wyczerpujące, że użytkownik musi poświęcić 5 dni na regenerację.</GloryKill.description>
+
+  <ElectromagneticPulse.label>Puls elektromagnetyczny</ElectromagneticPulse.label>
+  <ElectromagneticPulse.description>Podmiot rozwinął gruczoł, który jest zdolny do pochłaniania otaczającej energii i jej magazynowania. Ma również wystający guzek, który może być szybko podrażniony, aby wygenerować impuls promieniowania elektromagnetycznego.</ElectromagneticPulse.description>
+
+  <FireBreath.label>ognisty oddech</FireBreath.label>
+  <FireBreath.description>U podmiotu wykształcił się gruczoł śluzowy w tylnej części gardła i worki chemfuel w klatce piersiowej. Napinając klatkę piersiową podczas plucia, wystrzeliwują strumień ognia o średnim zasięgu, który podpala wszystko na swojej drodze.</FireBreath.description>
+
+  <IceBreath.label>lodowy oddech</IceBreath.label>
+  <IceBreath.description>Podmiot ma śluz w tylnej części gardła i worki neutroaminy w klatce piersiowej. Napinając klatkę piersiową podczas plucia, wystrzeliwują strumień cieczy o średnim zasięgu, który szybko wyparowuje, spowalniając cele i wywołując hipotermię.</IceBreath.description>
+
+  <LaserEyes.label>laserowe oczy</LaserEyes.label>
+  <LaserEyes.description>Podmiot jest zdolny do psychicznego wygenerowania dwóch tymczasowych, mikroskopijnych przeskoków połączonych z jądrem pobliskiej gwiazdy neutronowej. Ta energia jest kierowana przez to, na co patrzy osoba, generując potężny podmuch energii na średnią odległość.</LaserEyes.description>
+
+  <MatterPhasing.label>faza materii</MatterPhasing.label>
+  <MatterPhasing.description>Podmiot jest w stanie psychicznie przekonać swoje ciało, że jest w stanie egzystować w tej samej pozycji czasoprzestrzennej, co inny obiekt, w szczególności może przechodzić przez ściany. Może to być bardzo przygnębiające dla organizmu i można to zrobić tylko w przypadku impulsów trwających 10 sekund z 60-sekundową przerwą.</MatterPhasing.description>
+
+  <ElectricityBlast.label>wybuch prądu</ElectricityBlast.label>
+  <ElectricityBlast.description>Podmiot jest w stanie wytworzyć ogromny prąd elektryczny w łańcuchu celów, psychicznie pozbawiając ich ciała elektronów, a następnie kierując skupionym uderzeniem pioruna, używając własnego ciała jako przewodnika. Bardzo skuteczny przeciwko wrogom-robotom, ale potrzebuje 60 sekund, aby się naładować.</ElectricityBlast.description>
+
+  <SpeedBurst.label>skok prędkości</SpeedBurst.label>
+  <SpeedBurst.description>Podmiot jest w stanie zmusić się do walki lub ucieczki i otrzymać potężną dawkę adrenaliny dopuszczalną przez powiększone nadnercze. To z kolei pozwala im uderzać dwa razy szybciej w walce wręcz, a także czterokrotnie zwiększać ich prędkość ruchu.</SpeedBurst.description>
+
+  <AcidSpitting.label>plucie kwasem</AcidSpitting.label>
+  <AcidSpitting.description>Podmiot wytworzył w klatce piersiowej worki ze skoncentrowanymi chemikaliami. Woreczki są połączone rurkami z kącikami ust i można je wytrysnąć, napinając klatkę piersiową podczas plucia, reagując z tlenem i tworząc grudki żrącej galaretki.</AcidSpitting.description>
+
+  <Fireball.label>kula ognia</Fireball.label>
+  <Fireball.description>Osobnik rozwinął w dłoni woreczek galaretowatego chem-paliwa wraz z licznymi gruczołami. Raz na 30 sekund gruczoły te wyciskają kulkę napalmu w zaciśniętą pięść, którą można następnie wyrzucić, aby zapalić się z powietrzem, a następnie wylądować i podpalić niewielki obszar.</Fireball.description>
+
+  <Metamorphosis.label>metamorfoza</Metamorphosis.label>
+  <Metamorphosis.description>Podmiot jest zdolny do tymczasowego wywierania siły psychicznej, która zmusza jego ciało do przybrania kształtu takiego, jaki według jego umysłu powinien być.</Metamorphosis.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_ZealotExecution.reportString>egzekucja TargetA.</VFEA_ZealotExecution.reportString>
+  <VFEA_EnterGeneTailoringPod.reportString>wprowadzenie genów do dostosowania pod.</VFEA_EnterGeneTailoringPod.reportString>
+  <VFEA_CarryToGeneTailoringPod.reportString>przenoszenie TargetA do dostosowywania genów pod.</VFEA_CarryToGeneTailoringPod.reportString>
+  <VFEA_PrisonerInterrogate.reportString>przesłuchanie TargetA.</VFEA_PrisonerInterrogate.reportString>
+  <VFEA_CarryToBioBatteryTank.reportString>przenoszenie TargetA do zbiornika bio-baterii.</VFEA_CarryToBioBatteryTank.reportString>
+
+
+</LanguageData>

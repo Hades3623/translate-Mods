@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Light Charge Blaster -->
+
+  <VFE_Bullet_ChargeBlasterLight.label>ładowanie strzału blasterowego</VFE_Bullet_ChargeBlasterLight.label>
+
+  <VFE_Gun_ChargeBlasterLight.label>lekki blaster ładujący</VFE_Gun_ChargeBlasterLight.label>
+  <VFE_Gun_ChargeBlasterLight.description>Podobnie jak lanca ładunkowa, miotacz ładunkowy jest bardzo dokładną bronią strzelającą seriami, zdolną do precyzyjnego celowania przy stosunkowo niewielkim odrzucie dzięki skróconej szynie przyspieszającej i bramce stabilizacyjnej.</VFE_Gun_ChargeBlasterLight.description>
+  <VFE_Gun_ChargeBlasterLight.tools.0.label>beczka</VFE_Gun_ChargeBlasterLight.tools.0.label>
+
+
+  <!-- Inferno Spewer -->
+
+  <VFE_Gun_InfernoSpewer.label>Inferno Spewer</VFE_Gun_InfernoSpewer.label>
+  <VFE_Gun_InfernoSpewer.description>Zaskakująco lekki miotacz ognia o konstrukcji mechanicznej, podczas gdy bezczynne urządzenie wydaje się zimne jak każde inne, ale może natychmiast nagrzać się do temperatur znacznie przekraczających czysto ludzką technologię. Dwa niezamontowane zbiorniki na chemikalia zapewniają wystarczająco dużą pojemność amunicji, aby pomieścić duże smugi płynnego płomienia.</VFE_Gun_InfernoSpewer.description>
+  <VFE_Gun_InfernoSpewer.tools.0.label>beczka</VFE_Gun_InfernoSpewer.tools.0.label>
+
+
+  <!-- Advanced Light Charge Blaster -->
+
+  <VFE_Gun_AdvancedChargeBlasterLight.label>zaawansowany blaster ładujący światło</VFE_Gun_AdvancedChargeBlasterLight.label>
+  <VFE_Gun_AdvancedChargeBlasterLight.description>Mniej nieporęczna wersja mechanoidalnego blastera ładującego, równoważna wadze i rozmiarom ciężkiego pistoletu maszynowego. Ta broń z ładowaniem seriami rezygnuje z mocy baterii w zamian za przenośność, ponieważ zarówno liczba serii, jak i obrażenia są mniejsze, ale czas między seriami jest krótszy.</VFE_Gun_AdvancedChargeBlasterLight.description>
+  <VFE_Gun_AdvancedChargeBlasterLight.tools.0.label>beczka</VFE_Gun_AdvancedChargeBlasterLight.tools.0.label>
+
+
+  <!-- Advanced Inferno Spewer -->
+
+  <VFE_Gun_AdvancedInfernoSpewer.label>zaawansowany spewer piekła</VFE_Gun_AdvancedInfernoSpewer.label>
+  <VFE_Gun_AdvancedInfernoSpewer.description>Broń zapalająca do „niszczenia bunkrów”, która nie tylko podpala cele, ale w rzeczywistości przegrzewa powietrze na tyle gorące, by stopić kość. Podczas gdy całkowity rozmiar zbiornika jest zmniejszony, potencjał ciepła i uszkodzeń każdej smugi płomienia jest znacznie zwiększony.</VFE_Gun_AdvancedInfernoSpewer.description>
+  <VFE_Gun_AdvancedInfernoSpewer.tools.0.label>beczka</VFE_Gun_AdvancedInfernoSpewer.tools.0.label>
+
+
+  <!-- Advanced Charge Blaster -->
+
+  <VFE_Gun_AdvancedChargeBlasterHeavy.label>zaawansowany blaster ciężki</VFE_Gun_AdvancedChargeBlasterHeavy.label>
+  <VFE_Gun_AdvancedChargeBlasterHeavy.description>Wersja miotacza ładującego seriami ze znacznie większą szybkostrzelnością. Dodatkowe ogniwa energetyczne zwiększają wagę broni, a celność wymaga niewielkiego trafienia z powodu zwiększonego odrzutu, jednak wystarczająca liczba zaawansowanych miotaczy ładujących powoduje grad ognia, którego nie byłyby w stanie znieść fregaty imperialne.</VFE_Gun_AdvancedChargeBlasterHeavy.description>
+
+
+  <!-- Advanced Inferno cannon -->
+
+  <VFE_Gun_AdvancedInfernoCannon.label>zaawansowane działo piekielne</VFE_Gun_AdvancedInfernoCannon.label>
+  <VFE_Gun_AdvancedInfernoCannon.description>Stosunkowo mała platforma artyleryjska zapalająca, początkowo używana w działaniach wojennych w mieście i oblężeniach. Podobnie jak jego mechanoidalny wariant, piekielne działo w rzeczywistości używa małych wybuchowych głowic, które wstrząsają ziemią w miejscu lądowania i podpalają cele.</VFE_Gun_AdvancedInfernoCannon.description>
+
+
+  <!-- Advanced Needlegun -->
+
+  <VFE_Gun_AdvancedNeedle.label>zaawansowany pistolet igłowy</VFE_Gun_AdvancedNeedle.label>
+  <VFE_Gun_AdvancedNeedle.description>Zaawansowana broń snajperska z napędem kinetycznym o bardzo dużym zasięgu. Chociaż obrażenia nie są dużo większe niż w jego mniejszej wersji, do zalet należy całkowity brak odrzutu i niezrównany zasięg. Dawni żołnierze twierdzą, że ich statki były ostrzeliwane z ziemi, nawet na wysokości stratosfery, chociaż te twierdzenia nie sprawdzają się w żadnym stopniu.</VFE_Gun_AdvancedNeedle.description>
+  <VFE_Gun_AdvancedNeedle.tools.0.label>beczka</VFE_Gun_AdvancedNeedle.tools.0.label>
+
+
+  <!-- Advanced Charge lance -->
+
+  <VFE_Gun_AdvancedChargeLance.label>zaawansowana lanca ładująca</VFE_Gun_AdvancedChargeLance.label>
+  <VFE_Gun_AdvancedChargeLance.description>Cięższa wersja lancy ładowanej impulsowo. Często wystawiana przez mechanoidalnych strzelców, zaawansowana lanca ładunkowa jest podobna do swojej poprzedniczki, ale zmienia rozmiar i czas, aby celować w znaczący wzrost siły ognia.</VFE_Gun_AdvancedChargeLance.description>
+  <VFE_Gun_AdvancedChargeLance.tools.0.label>beczka</VFE_Gun_AdvancedChargeLance.tools.0.label>
+
+
+  <!-- Heavy Thump Cannon -->
+
+  <VFE_Bullet_ThumpCannonHeavy.label>ciężka bomba uderzeniowa</VFE_Bullet_ThumpCannonHeavy.label>
+
+  <VFE_Gun_AdvancedThumpCannon.label>zaawansowane działo uderzeniowe</VFE_Gun_AdvancedThumpCannon.label>
+  <VFE_Gun_AdvancedThumpCannon.description>Zaawansowana wersja działa uderzeniowego używanego przez mechanoidy. Wystrzeliwuje bombę wstrząsową, która jest niezwykle skuteczna przeciwko ścianom i konstrukcjom, ale zadaje znacznie mniejsze obrażenia małym celom.</VFE_Gun_AdvancedThumpCannon.description>
+  <VFE_Gun_AdvancedThumpCannon.tools.0.label>cylinder</VFE_Gun_AdvancedThumpCannon.tools.0.label>
+
+
+</LanguageData>

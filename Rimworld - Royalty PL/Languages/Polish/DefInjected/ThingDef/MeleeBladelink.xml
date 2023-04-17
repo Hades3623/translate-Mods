@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_MonoSwordBladelink.label>monomiecz</MeleeWeapon_MonoSwordBladelink.label>
+  <MeleeWeapon_MonoSwordBladelink.description>Kryształowo-metaliczny miecz nasycony mechanitami, które utrzymują monomolekularną krawędź tnącą. Z łatwością przecina nawet gruby pancerz, a jego niewielka waga i pokładowa persona pozwalają na niezwykle szybkie ataki.
+\nTa broń posiada pokładową personę, która może związać się tylko z jedną osobą. Posiadacz i inteligentna broń mogą zsynchronizować swoje odruchy i atakować z przerażającą szybkością, dokładnością i kreatywnością. Po związaniu się z posiadaczem, persona broni nie będzie mogła być używana przez nikogo innego.</MeleeWeapon_MonoSwordBladelink.description>
+  <MeleeWeapon_MonoSwordBladelink.tools.0.label>uchwyt</MeleeWeapon_MonoSwordBladelink.tools.0.label>
+  <MeleeWeapon_MonoSwordBladelink.tools.1.label>punkt</MeleeWeapon_MonoSwordBladelink.tools.1.label>
+  <MeleeWeapon_MonoSwordBladelink.tools.2.label>krawędź</MeleeWeapon_MonoSwordBladelink.tools.2.label>
+
+  <MeleeWeapon_ZeusHammerBladelink.label>Młot zeusa</MeleeWeapon_ZeusHammerBladelink.label>
+  <MeleeWeapon_ZeusHammerBladelink.description>Młot wojenny z wbudowanym kondensatorem EMP. W momencie uderzenia, oprócz obrażeń fizycznych, zadaje celowi eksplozję EMP.
+\nTa broń posiada wbudowaną personę, która może związać się tylko z jedną osobą. Posiadacz i inteligentna broń mogą zsynchronizować swoje odruchy i atakować z przerażającą szybkością, dokładnością i kreatywnością. Po przywiązaniu się do posiadacza, persona broni nie będzie mogła być trzymana przez nikogo innego.</MeleeWeapon_ZeusHammerBladelink.description>
+  <MeleeWeapon_ZeusHammerBladelink.tools.0.label>uchwyt</MeleeWeapon_ZeusHammerBladelink.tools.0.label>
+  <MeleeWeapon_ZeusHammerBladelink.tools.1.label>głowa</MeleeWeapon_ZeusHammerBladelink.tools.1.label>
+
+  <MeleeWeapon_PlasmaSwordBladelink.label>miecz plazmowy</MeleeWeapon_PlasmaSwordBladelink.label>
+  <MeleeWeapon_PlasmaSwordBladelink.description>Miecz o metalowej powłoce z ostrzem tnącym. Wokół rdzenia owinięta jest plazma, utrzymywana w miejscu przez pole energetyczne. Cele są zarówno cięte przez metalowy rdzeń, jak i spalane lub zapalane przez plazmową osłonę.
+\nBroń ta posiada wbudowaną personę, która może połączyć się tylko z jedną osobą. Posiadacz i inteligentna broń mogą zsynchronizować swoje odruchy i atakować z przerażającą szybkością, dokładnością i kreatywnością. Po przywiązaniu się do posiadacza, persona broni nie chce być trzymana przez nikogo innego.</MeleeWeapon_PlasmaSwordBladelink.description>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.0.label>uchwyt</MeleeWeapon_PlasmaSwordBladelink.tools.0.label>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.1.label>punkt</MeleeWeapon_PlasmaSwordBladelink.tools.1.label>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.2.label>krawędź</MeleeWeapon_PlasmaSwordBladelink.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ParticipatedInRaid_Respected.stages.0.label>uczestniczył w nalocie</ParticipatedInRaid_Respected.stages.0.label>
+  <ParticipatedInRaid_Respected.stages.0.description>Brałem udział w nalocie! Tak to robimy!</ParticipatedInRaid_Respected.stages.0.description>
+
+  <ParticipatedInRaid_Required.stages.0.label>uczestniczył w nalocie</ParticipatedInRaid_Required.stages.0.label>
+  <ParticipatedInRaid_Required.stages.0.description>Brałem udział w nalocie! Teraz wszyscy mnie poznają!</ParticipatedInRaid_Required.stages.0.description>
+
+  <RecentConquest_Respected.stages.0.label>niedawny podbój</RecentConquest_Respected.stages.0.label>
+  <RecentConquest_Respected.stages.0.description>Niedawno napadliśmy na inną frakcję. To im pokaże, kto jest szefem.</RecentConquest_Respected.stages.0.description>
+  <RecentConquest_Respected.stages.1.label>brak ostatnich podbojów</RecentConquest_Respected.stages.1.label>
+  <RecentConquest_Respected.stages.1.description>Minęło zbyt wiele czasu, odkąd kogokolwiek napadaliśmy. Mogą przestać się nas bać i szanować.</RecentConquest_Respected.stages.1.description>
+
+  <RecentConquest_Required.stages.0.label>niedawny podbój</RecentConquest_Required.stages.0.label>
+  <RecentConquest_Required.stages.0.description>Niedawno napadliśmy na inną frakcję. Ich cierpienie będzie ich nauczycielem.</RecentConquest_Required.stages.0.description>
+  <RecentConquest_Required.stages.1.label>brak ostatnich podbojów</RecentConquest_Required.stages.1.label>
+  <RecentConquest_Required.stages.1.description>Od tak dawna nikogo nie napadaliśmy. Jesteśmy nikczemni - bezradne robaki jak reszta.</RecentConquest_Required.stages.1.description>
+
+
+</LanguageData>

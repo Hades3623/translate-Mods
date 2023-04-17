@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Funeral.roles.0.label>Pogrzeb</Funeral.roles.0.label>
+
+  <DateRitual.roles.0.label>Data Rytuału</DateRitual.roles.0.label>
+  <DateRitual.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</DateRitual.stages.0.postAction.text>
+
+  <LeaderSpeech.letterText>{SPEAKER_labelShort} podaje do wiadomości {RITUAL_labelIndef}.
+      \nJeśli wszystko pójdzie dobrze, słuchacze poczują się zainspirowani i nabiorą szacunku dla {SPEAKER_labelShort}. Jeśli nie powiedzie się, przemówienie spowoduje szkody społeczne. Pozytywne efekty są zredukowane w przypadku nie-{IDEOMEMBERS}.</LeaderSpeech.letterText>
+  <LeaderSpeech.roles.0.label>głośnik</LeaderSpeech.roles.0.label>
+
+  <Trial.roles.0.label>sędzia</Trial.roles.0.label>
+  <Trial.roles.1.label>skazać</Trial.roles.1.label>
+
+  <TrialPrisoner.roles.0.label>sędzia</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>skazać</TrialPrisoner.roles.1.label>
+
+  <TrialMentalState.roles.0.label>sędzia</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>skazać</TrialMentalState.roles.1.label>
+
+  <SacrificePrisoner.roles.0.label>głośnik</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.1.label>nóż</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.2.label>poświęcenie</SacrificePrisoner.roles.2.label>
+  <SacrificePrisoner.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</SacrificePrisoner.stages.0.postAction.text>
+
+  <SacrificeAnimal.roles.0.label>głośnik</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.1.label>nóż</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.2.label>poświęcenie</SacrificeAnimal.roles.2.label>
+  <SacrificeAnimal.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</SacrificeAnimal.stages.0.postAction.text>
+
+  <DancePartyTech.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</DancePartyTech.stages.0.postAction.text>
+  <CelebrationPartyDanceDrum.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</CelebrationPartyDanceDrum.stages.0.postAction.text>
+  <CelebrationSkyLanterns.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</CelebrationSkyLanterns.stages.0.postAction.text>
+  <CelebrationTree.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</CelebrationTree.stages.0.postAction.text>
+  <BurnCircle.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</BurnCircle.stages.0.postAction.text>
+  <SmokeCircle.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</SmokeCircle.stages.0.postAction.text>
+
+  <GladiatorDuel.roles.0.label>głośnik</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>pojedynkujący się</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.2.label>pojedynkujący się</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.3.label>eskorta pojedynków</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.4.label>eskorta pojedynków</GladiatorDuel.roles.4.label>
+
+  <FeastCannibal.stages.0.postAction.text>{0}: Przemowa się skończyła i zaczyna się impreza.</FeastCannibal.stages.0.postAction.text>
+
+  <ScarificationCeremony.roles.0.label>cel</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.1.label>nóż</ScarificationCeremony.roles.1.label>
+
+  <BlindingCeremony.roles.0.label>cel</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.1.label>nóż</BlindingCeremony.roles.1.label>
+
+  <Conversion.roles.0.label>głośnik</Conversion.roles.0.label>
+  <Conversion.roles.1.label>konwertyta</Conversion.roles.1.label>
+
+  <TreeConnection.roles.0.label>złącze</TreeConnection.roles.0.label>
+
+  <Execution.spectatorFilter.description>Widzowie muszą być chętni do oglądania egzekucji.</Execution.spectatorFilter.description>
+  <Execution.roles.0.label>kat</Execution.roles.0.label>
+  <Execution.roles.1.label>więzień</Execution.roles.1.label>
+
+
+</LanguageData>

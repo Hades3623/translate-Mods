@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <VRE_SolidifiedHemogen.label>zestalony hemogen</VRE_SolidifiedHemogen.label>
-  <VRE_SolidifiedHemogen.description>Pancerz jest wzmocniony, ponieważ ta osoba użyła zestalacz hemogenu podczas odpoczynku śmierci. Efekt ten trwa do następnego odpoczynku śmierci.</VRE_SolidifiedHemogen.description>
-
-  <VRE_HemogenAmplifiedWeak.label>wzmocniony hemogen</VRE_HemogenAmplifiedWeak.label>
-  <VRE_HemogenAmplifiedWeak.description>Wszystkie korzyści wynikające z hemogenu są mnożone, ponieważ ta osoba użyła niewielkiego wzmacniacza hemogenu podczas odpoczynku śmierci. Efekt ten trwa do następnego odpoczynku śmierci.</VRE_HemogenAmplifiedWeak.description>
-</LanguageData>

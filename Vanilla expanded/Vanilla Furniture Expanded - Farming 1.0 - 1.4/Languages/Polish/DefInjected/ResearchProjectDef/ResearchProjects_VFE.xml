@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+
+  <VFE_Res_AdvancedHydroponics.label>sztuczne ekosystemy</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>Naucz się budować sztuczne ekosystemy, wysoce zaawansowane terraria, które znacznie ulepszają hydroponikę.</VFE_Res_AdvancedHydroponics.description>
+
+  <VFE_Res_Sprinkler.label>tryskacze</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>Zbierz schematy dla urządzenia, które może automatycznie nawadniać pola, zwiększając prędkość, z jaką rosną plony.</VFE_Res_Sprinkler.description>
+
+
+  <!-- miscellaneous things which ought to have a tech but don't, i.e. the scarecrow and feeder -->
+
+  <VFE_Res_FarmingTechniques.label>techniki rolnicze</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>Opracuj teoretyczne podstawy operacji rolniczych na większą skalę, w tym scentralizowane karmienie i dedykowane strachy na wróble, aby Twoje plony nie zostały zjedzone.</VFE_Res_FarmingTechniques.description>
+
+
+</LanguageData>

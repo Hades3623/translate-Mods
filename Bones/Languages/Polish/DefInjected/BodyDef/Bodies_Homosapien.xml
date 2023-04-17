@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HOMO SAPIEN BODY DEF -->
+
+  <SZ_Homo_sapien.label>człowiek</SZ_Homo_sapien.label>
+  <SZ_Homo_sapien.corePart.parts.0.parts.0.customLabel>lewe pierwsze żebro</SZ_Homo_sapien.corePart.parts.0.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.1.customLabel>prawe pierwsze żebro</SZ_Homo_sapien.corePart.parts.0.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.2.customLabel>lewe drugie żebro</SZ_Homo_sapien.corePart.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.3.customLabel>prawe drugie żebro</SZ_Homo_sapien.corePart.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.4.customLabel>lewe trzecie żebro</SZ_Homo_sapien.corePart.parts.0.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.5.customLabel>prawe trzecie żebro</SZ_Homo_sapien.corePart.parts.0.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.6.customLabel>lewe czwarte żebro</SZ_Homo_sapien.corePart.parts.0.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.7.customLabel>prawe czwarte żebro</SZ_Homo_sapien.corePart.parts.0.parts.7.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.8.customLabel>lewe piąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.8.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.9.customLabel>prawe piąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.9.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.10.customLabel>lewe szóste żebro</SZ_Homo_sapien.corePart.parts.0.parts.10.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.11.customLabel>prawe szóste żebro</SZ_Homo_sapien.corePart.parts.0.parts.11.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.12.customLabel>lewe siódme żebro</SZ_Homo_sapien.corePart.parts.0.parts.12.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.13.customLabel>prawe siódme żebro</SZ_Homo_sapien.corePart.parts.0.parts.13.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.14.customLabel>lewe ósme żebro</SZ_Homo_sapien.corePart.parts.0.parts.14.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.15.customLabel>prawe ósme żebro</SZ_Homo_sapien.corePart.parts.0.parts.15.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.16.customLabel>lewe dziewiąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.16.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.17.customLabel>prawe dziewiąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.17.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.18.customLabel>lewe dziesiąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.18.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.19.customLabel>prawe dziesiąte żebro</SZ_Homo_sapien.corePart.parts.0.parts.19.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.20.customLabel>lewe jedenaste żebro</SZ_Homo_sapien.corePart.parts.0.parts.20.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.21.customLabel>prawe jedenaste żebro</SZ_Homo_sapien.corePart.parts.0.parts.21.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.22.customLabel>lewe dwunaste żebro</SZ_Homo_sapien.corePart.parts.0.parts.22.customLabel>
+  <SZ_Homo_sapien.corePart.parts.0.parts.23.customLabel>prawe dwunaste żebro</SZ_Homo_sapien.corePart.parts.0.parts.23.customLabel>
+  <SZ_Homo_sapien.corePart.parts.2.parts.0.customLabel>lewa kość biodrowa</SZ_Homo_sapien.corePart.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.2.parts.1.customLabel>prawa kość biodrowa</SZ_Homo_sapien.corePart.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.6.customLabel>lewe płuco</SZ_Homo_sapien.corePart.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.7.customLabel>prawe płuco</SZ_Homo_sapien.corePart.parts.7.customLabel>
+  <SZ_Homo_sapien.corePart.parts.8.customLabel>lewa nerka</SZ_Homo_sapien.corePart.parts.8.customLabel>
+  <SZ_Homo_sapien.corePart.parts.9.customLabel>prawa nerka</SZ_Homo_sapien.corePart.parts.9.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.2.customLabel>lewa kość ciemieniowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.3.customLabel>prawa kość ciemieniowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.4.customLabel>lewa kość skroniowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.5.customLabel>prawa kość skroniowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.9.customLabel>lewa kość jarzmowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.9.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.10.customLabel>prawa kość jarzmowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.10.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.11.customLabel>lewa kość podniebienna</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.11.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.12.customLabel>prawa kość podniebienna</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.12.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.13.customLabel>lewa dolna małżowina nosowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.13.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.14.customLabel>prawa dolna małżowina nosowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.14.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.15.customLabel>lewa kość nosowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.15.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.16.customLabel>prawa kość nosowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.16.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.17.customLabel>lewa kość łzowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.17.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.18.customLabel>prawa kość łzowa</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.0.parts.18.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.1.customLabel>lewe oko</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.2.customLabel>prawe oko</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.customLabel>lewe ucho</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.0.customLabel>lewy przedsionek</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.1.customLabel>lewy ślimak</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.2.customLabel>lewe kanały półokrągłe</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.3.customLabel>lewy młoteczek</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.4.customLabel>lewy kowadełko</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.5.customLabel>lewe strzemiączka</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.3.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.customLabel>prawe ucho</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.0.customLabel>prawy przedsionek</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.1.customLabel>prawy ślimak</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.2.customLabel>prawe kanały półokrągłe</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.3.customLabel>prawy młoteczek</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.4.customLabel>prawy kowadełko</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.5.customLabel>prawe strzemiączka</SZ_Homo_sapien.corePart.parts.11.parts.1.parts.4.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.customLabel>lewe ramię</SZ_Homo_sapien.corePart.parts.12.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.0.customLabel>lewy obojczyk</SZ_Homo_sapien.corePart.parts.12.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.1.customLabel>lewa łopatka</SZ_Homo_sapien.corePart.parts.12.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.customLabel>lewe ramię</SZ_Homo_sapien.corePart.parts.12.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.0.customLabel>lewa kość ramienna</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.1.customLabel>lewa kość promieniowa</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.2.customLabel>lewy łokieć</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.customLabel>lewy nadgarstek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.0.customLabel>lewa kość szyjna</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.1.customLabel>lewa kość piszczelowa</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.2.customLabel>lewa kość Triquetra</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.3.customLabel>lewa kość księżycowa</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.4.customLabel>lewy trapez</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.5.customLabel>lewy trapez</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.6.customLabel>lewa kość łopatkowa</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.7.customLabel>lewa kość główkowata</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.3.parts.7.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.customLabel>lewa ręka</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.customLabel>lewy mały palec</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.0.customLabel>lewy śródręcza</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.customLabel>lewy palec serdeczny</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.0.customLabel>lewy śródręcza</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.1.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.customLabel>lewy środkowy palec</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.0.customLabel>lewy śródręcza</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.customLabel>lewy palec wskazujący</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.0.customLabel>lewy śródręcza</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.customLabel>lewy kciuk</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.0.customLabel>lewy śródręcza</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.2.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.12.parts.2.parts.4.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.customLabel>prawe ramię</SZ_Homo_sapien.corePart.parts.13.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.0.customLabel>prawy obojczyk</SZ_Homo_sapien.corePart.parts.13.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.1.customLabel>prawa łopatka</SZ_Homo_sapien.corePart.parts.13.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.customLabel>prawe ramię</SZ_Homo_sapien.corePart.parts.13.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.0.customLabel>prawa kość ramienna</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.1.customLabel>prawa kość promieniowa</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.2.customLabel>prawy łokieć</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.customLabel>prawy nadgarstek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.0.customLabel>prawa kość szyjna</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.1.customLabel>prawa kość piszczelowa</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.2.customLabel>prawa kość Triquetra</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.3.customLabel>prawa kość księżycowa</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.4.customLabel>prawy trapez</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.5.customLabel>prawy trapez</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.6.customLabel>prawa kość łopatkowa</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.7.customLabel>prawa kość główkowata</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.3.parts.7.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.customLabel>prawa ręka</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.customLabel>prawy mały palec</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.0.customLabel>prawo kości śródręcza</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.customLabel>prawy palec serdeczny</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.0.customLabel>prawo kości śródręcza</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.1.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.customLabel>prawy środkowy palec</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.0.customLabel>prawo kości śródręcza</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.customLabel>prawy palec wskazujący</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.0.customLabel>prawo kości śródręcza</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.customLabel>prawy kciuk</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.0.customLabel>prawo kości śródręcza</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.2.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.13.parts.2.parts.4.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.customLabel>lewa noga</SZ_Homo_sapien.corePart.parts.15.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.0.customLabel>lewa kość udowa</SZ_Homo_sapien.corePart.parts.15.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.1.customLabel>lewa rzepka</SZ_Homo_sapien.corePart.parts.15.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.2.customLabel>lewa piszczel</SZ_Homo_sapien.corePart.parts.15.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.3.customLabel>lewa strzałkowa</SZ_Homo_sapien.corePart.parts.15.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.customLabel>lewa kostka</SZ_Homo_sapien.corePart.parts.15.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.0.customLabel>lewa kość piętowa</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.1.customLabel>lewy kość skokowa</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.2.customLabel>lewa kość sześcienna</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.3.customLabel>lewa chrząstka stawowa</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.4.customLabel>lewa środkowa część kości klinowej</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.5.customLabel>lewa kość klinowata pośrednia</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.4.parts.6.customLabel>lewa boczna część kości klinowej</SZ_Homo_sapien.corePart.parts.15.parts.4.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.customLabel>lewa stopa</SZ_Homo_sapien.corePart.parts.15.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.customLabel>zostawił mały palec u nogi</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.0.customLabel>lewy śródstopie</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.customLabel>lewy czwarty palec u nogi</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.0.customLabel>lewy śródstopie</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.1.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.customLabel>lewy środkowy palec</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.0.customLabel>lewy śródstopie</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.customLabel>lewy drugi palec</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.0.customLabel>lewy śródstopie</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.2.customLabel>lewy środkowy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.3.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.customLabel>zostawił duży palec u nogi</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.0.customLabel>lewy śródstopie</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.1.customLabel>lewy bliższy paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.2.customLabel>lewy dystalny paliczek</SZ_Homo_sapien.corePart.parts.15.parts.5.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.customLabel>prawa noga</SZ_Homo_sapien.corePart.parts.16.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.0.customLabel>prawa kość udowa</SZ_Homo_sapien.corePart.parts.16.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.1.customLabel>prawa rzepka</SZ_Homo_sapien.corePart.parts.16.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.2.customLabel>prawa piszczel</SZ_Homo_sapien.corePart.parts.16.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.3.customLabel>prawa strzałkowa</SZ_Homo_sapien.corePart.parts.16.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.customLabel>prawa kostka</SZ_Homo_sapien.corePart.parts.16.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.0.customLabel>prawa kość piętowa</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.1.customLabel>prawa kość skokowa</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.2.customLabel>prawa kość sześcienna</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.3.customLabel>prawa chrząstka stawowa</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.4.customLabel>prawa środkowa część kości klinowej</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.5.customLabel>prawa kość klinowata pośrednia</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.4.parts.6.customLabel>prawa boczna część kości klinowej</SZ_Homo_sapien.corePart.parts.16.parts.4.parts.6.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.customLabel>prawa noga</SZ_Homo_sapien.corePart.parts.16.parts.5.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.customLabel>prawy mały palec u nogi</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.0.customLabel>prawy śródstopie</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.0.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.customLabel>prawy czwarty palec u nogi</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.0.customLabel>prawy śródstopie</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.1.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.customLabel>prawy środkowy palec</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.0.customLabel>prawy śródstopie</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.2.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.customLabel>prawy drugi palec</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.0.customLabel>prawy śródstopie</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.2.customLabel>prawy środkowy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.2.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.3.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.3.parts.3.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.customLabel>prawy duży palec u nogi</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.0.customLabel>prawy śródstopie</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.0.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.1.customLabel>prawy bliższy paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.1.customLabel>
+  <SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.2.customLabel>prawy dystalny paliczek</SZ_Homo_sapien.corePart.parts.16.parts.5.parts.4.parts.2.customLabel>
+
+
+</LanguageData>

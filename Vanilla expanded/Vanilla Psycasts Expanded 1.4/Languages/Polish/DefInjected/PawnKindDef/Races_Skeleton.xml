@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SummonedSkeleton.label>szkielet</VPE_SummonedSkeleton.label>
+  <VPE_SummonedSkeleton.labelPlural>szkielety</VPE_SummonedSkeleton.labelPlural>
+  <VPE_SummonedSkeleton.labelMale>męski szkielet</VPE_SummonedSkeleton.labelMale>
+  <VPE_SummonedSkeleton.labelMalePlural>męskie szkielety</VPE_SummonedSkeleton.labelMalePlural>
+  <VPE_SummonedSkeleton.labelFemale>żeński szkielet</VPE_SummonedSkeleton.labelFemale>
+  <VPE_SummonedSkeleton.labelFemalePlural>kobiece szkielety</VPE_SummonedSkeleton.labelFemalePlural>
+
+
+</LanguageData>

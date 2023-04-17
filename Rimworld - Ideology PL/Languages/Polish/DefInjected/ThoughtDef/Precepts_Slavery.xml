@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <Slavery_Abhorrent_SlavesInColony.stages.0.label>niewolnicy w kolonii</Slavery_Abhorrent_SlavesInColony.stages.0.label>
+  <Slavery_Abhorrent_SlavesInColony.stages.0.description>Trzymamy niewolników. To barbarzyństwo.</Slavery_Abhorrent_SlavesInColony.stages.0.description>
+
+  <SoldSlave_Know_Abhorrent.stages.0.label>sprzedany niewolnik</SoldSlave_Know_Abhorrent.stages.0.label>
+
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.label>niewolnik sprzedany</SoldSlave_Know_Abhorrent_Mood.stages.0.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.description>Wprowadzamy kogoś w niewolę. Był to odrażający, barbarzyński akt.</SoldSlave_Know_Abhorrent_Mood.stages.0.description>
+
+  <EnslavedPrisoner_Know_Abhorrent.stages.0.label>zniewolony więzień</EnslavedPrisoner_Know_Abhorrent.stages.0.label>
+
+  <Slavery_Horrible_SlavesInColony.stages.0.label>niewolnicy w kolonii</Slavery_Horrible_SlavesInColony.stages.0.label>
+  <Slavery_Horrible_SlavesInColony.stages.0.description>Trzymamy niewolników. To jest źle.</Slavery_Horrible_SlavesInColony.stages.0.description>
+
+  <SoldSlave_Horrible.stages.0.label>sprzedany niewolnik</SoldSlave_Horrible.stages.0.label>
+  <SoldSlave_Horrible.stages.0.description>Sprzedałem osobę w niewolę. Nie jestem pewien, czy potrafię sobie wybaczyć.</SoldSlave_Horrible.stages.0.description>
+
+  <EnslavedPrisoner_Horrible.stages.0.label>zniewolony więzień</EnslavedPrisoner_Horrible.stages.0.label>
+  <EnslavedPrisoner_Horrible.stages.0.description>Zmusiłem kogoś do niewoli. Jak mogę to usprawiedliwić?</EnslavedPrisoner_Horrible.stages.0.description>
+
+  <SoldSlave_Know_Horrible.stages.0.label>sprzedany niewolnik</SoldSlave_Know_Horrible.stages.0.label>
+
+  <SoldSlave_Know_Horrible_Mood.stages.0.label>niewolnik sprzedany</SoldSlave_Know_Horrible_Mood.stages.0.label>
+  <SoldSlave_Know_Horrible_Mood.stages.0.description>Sprzedaliśmy kogoś w niewolę. Co za okropna rzecz do zrobienia.</SoldSlave_Know_Horrible_Mood.stages.0.description>
+
+  <EnslavedPrisoner_Know_Horrible.stages.0.label>zniewolony więzień</EnslavedPrisoner_Know_Horrible.stages.0.label>
+
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>więzień zniewolony</EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>Zniewoliliśmy kogoś. Co za okropna rzecz zrobić drugiemu człowiekowi.</EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>
+
+  <Slavery_Disapproved_SlavesInColony.stages.0.label>niewolnicy w kolonii</Slavery_Disapproved_SlavesInColony.stages.0.label>
+  <Slavery_Disapproved_SlavesInColony.stages.0.description>Trzymamy niewolników. Nawet jeśli to konieczne, to jest niesmaczne i wolałbym, żebyśmy tego nie zrobili.</Slavery_Disapproved_SlavesInColony.stages.0.description>
+
+  <SoldSlave_Disapproved.stages.0.label>sprzedany niewolnik</SoldSlave_Disapproved.stages.0.label>
+  <SoldSlave_Disapproved.stages.0.description>Sprzedałem osobę w niewolę. Mam nadzieję, że nic strasznego im się nie stanie.</SoldSlave_Disapproved.stages.0.description>
+
+  <EnslavedPrisoner_Disapproved.stages.0.label>zniewolony więzień</EnslavedPrisoner_Disapproved.stages.0.label>
+  <EnslavedPrisoner_Disapproved.stages.0.description>Zniewoliłem osobę. Trudno uzasadnić takie działania.</EnslavedPrisoner_Disapproved.stages.0.description>
+
+  <SoldSlave_Know_Disapproved.stages.0.label>sprzedany niewolnik</SoldSlave_Know_Disapproved.stages.0.label>
+
+  <SoldSlave_Know_Disapproved_Mood.stages.0.label>niewolnik sprzedany</SoldSlave_Know_Disapproved_Mood.stages.0.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.0.description>Sprzedaliśmy osobę w niewolę. Nie powinniśmy byli tego robić.</SoldSlave_Know_Disapproved_Mood.stages.0.description>
+
+  <EnslavedPrisoner_Know_Disapproved.stages.0.label>zniewolony więzień</EnslavedPrisoner_Know_Disapproved.stages.0.label>
+
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>więzień zniewolony</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>Zniewoliliśmy kogoś. Nie powinniśmy byli tego robić.</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>
+
+  <Slavery_Honorable_SlavesInColony.stages.0.label>niewolnicy w kolonii</Slavery_Honorable_SlavesInColony.stages.0.label>
+  <Slavery_Honorable_SlavesInColony.stages.0.description>Mamy niewolników. To znaczy, że jesteśmy na właściwej ścieżce.</Slavery_Honorable_SlavesInColony.stages.0.description>
+
+  <Slavery_Honorable_NoSlavesInColony.stages.0.label>żadnych niewolników w kolonii</Slavery_Honorable_NoSlavesInColony.stages.0.label>
+  <Slavery_Honorable_NoSlavesInColony.stages.0.description>Bez niewolników nikt nas nie będzie szanował.</Slavery_Honorable_NoSlavesInColony.stages.0.description>
+
+  <SoldSlave_Honorable.stages.0.label>sprzedany niewolnik</SoldSlave_Honorable.stages.0.label>
+  <SoldSlave_Honorable.stages.0.description>Sprzedałem kogoś w niewolę. Sprawi, że ludzie zauważą moją posturę.</SoldSlave_Honorable.stages.0.description>
+
+  <EnslavedPrisoner_Honorable.stages.0.label>zniewolony więzień</EnslavedPrisoner_Honorable.stages.0.label>
+  <EnslavedPrisoner_Honorable.stages.0.description>Wziąłem kogoś w niewolę. Nie mając wyboru, musieli mi się podporządkować.</EnslavedPrisoner_Honorable.stages.0.description>
+
+  <SoldSlave_Know_Honorable.stages.0.label>sprzedany niewolnik</SoldSlave_Know_Honorable.stages.0.label>
+
+  <SoldSlave_Know_Honorable_Mood.stages.0.label>niewolnik sprzedany</SoldSlave_Know_Honorable_Mood.stages.0.label>
+  <SoldSlave_Know_Honorable_Mood.stages.0.description>Sprzedaliśmy kogoś w niewolę! Wspaniały pokaz naszego honoru i mocy.</SoldSlave_Know_Honorable_Mood.stages.0.description>
+
+  <EnslavedPrisoner_Know_Honorable.stages.0.label>zniewolony więzień</EnslavedPrisoner_Know_Honorable.stages.0.label>
+
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>więzień zniewolony</EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>Zniewoliliśmy kogoś. Teraz znają nasz honor i moc!</EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>
+
+
+</LanguageData>

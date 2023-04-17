@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Soda.label>Soda</VBE_Soda.label>
+  <VBE_Soda.description>Bardzo słodki i półcytrusowy napój, który najlepiej smakuje schłodzony. Chociaż nie jest to dokładnie pożywne, gorączka cukru jest mile widziana, a musowanie jest dość orzeźwiające.</VBE_Soda.description>
+  <VBE_Soda.tools.0.label>butelka</VBE_Soda.tools.0.label>
+  <VBE_Soda.tools.1.label>szyja</VBE_Soda.tools.1.label>
+  <VBE_Soda.ingestible.ingestCommandString>Pij {0}</VBE_Soda.ingestible.ingestCommandString>
+  <VBE_Soda.ingestible.ingestReportString>Picie {0}.</VBE_Soda.ingestible.ingestReportString>
+
+
+</LanguageData>

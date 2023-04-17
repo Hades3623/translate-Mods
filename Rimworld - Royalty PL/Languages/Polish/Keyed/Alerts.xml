@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Room requirements -->
+  <NeedThroneAssigned>Potrzebujesz sali tronowej</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>Jeden z twoich ludzi ma tytuł królewski, który wymaga sali tronowej, ale nie jest przydzielona żadna sala tronowa.\n\nUpewnij się, że posiadacz tytułu ma przypisany tron ​​w sali tronowej.\n\nSala tronowa powinna mieć odpowiednią wielkość i dekorację, aby spełniała specyfikę tytułu wymagania.\n\nW jednej sali tronowej można umieścić wiele tronów.</NeedThroneAssignedDesc>
+
+  <UndignifiedBedroom>Niedostojna sypialnia</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>Jeden z twoich ludzi ma królewski tytuł, który wymaga sypialni z określonymi funkcjami. Albo żadna sypialnia nie jest przypisana, albo przydzielona sypialnia nie spełnia wymagań.</UndignifiedBedroomDesc>
+
+  <NeedBedroomAssigned>Tytuł wymaga sypialni</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>Jeden z twoich ludzi ma królewski tytuł, który wymaga osobistej sypialni, ale żadna sypialnia nie jest przypisana.\n\nPrzypisz mu osobistą sypialnię. Sypialnia powinna być odpowiednio dobrana i udekorowana, aby spełnić specyficzne wymagania tytułu.</NeedBedroomAssignedDesc>
+
+  <UndignifiedThroneroom>Niedostojna sala tronowa</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>Jeden z twoich ludzi ma tytuł królewski i tron, ale sala tronowa nie spełnia wymagań tytułu.</UndignifiedThroneroomDesc>
+
+  <RoyalNoAcceptableFood>Brak akceptowalnego jedzenia?</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>Jeden z twoich ludzi ma królewski tytuł z określonymi wymaganiami żywieniowymi. Ale nie ma dostępnej żywności, która spełniałaby te wymagania.</RoyalNoAcceptableFoodDesc>
+
+  <RoomRequirementGracePeriodDesc>{0} dni do rozpoczęcia wymogu</RoomRequirementGracePeriodDesc>
+
+  <ThroneroomInvalidConfiguration>Tron nie do użytku</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>Tron nie nadaje się do użytku ze względu na sposób jego ustawienia:</ThroneroomInvalidConfigurationDesc>
+
+  <MonumentMarkerMissingBlueprints>Brakujące plany pomnika</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>Pomnik nie zostanie ukończony, ponieważ nie zostały umieszczone plany wszystkich jego części.\n\nWybierz znacznik pomnika i kliknij „Umieść plany” lub umieść plany ręcznie.</MonumentMarkerMissingBlueprintsDesc>
+
+  <ShipLandingBeaconUnusable>Beacon bezużyteczny</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>Latarnia lądowania statku jest zasilana, ale nie może być używana. Aby były użyteczne, cztery z nich muszą być umieszczone w rogach kwadratu o szerokości co najmniej 9 płytek, a cały obszar kwadratu musi być wolny od przeszkód, w tym budynków, ludzi i zwierząt.</ShipLandingBeaconUnusableDesc>
+
+  <NeedMeditationSpotAlert>Potrzebujesz miejsca do medytacji</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>Ci koloniści potrzebują psychofokusa, ale nie mają dla nich dostępnych miejsc medytacji.\n\n{0}\n\nUmieść miejsce medytacji i upewnij się, że jest dostępne i użyteczne. Koloniści będą woleli miejsce do medytacji w pobliżu najlepszego obiektu, z którego mogą skorzystać.</NeedMeditationSpotAlertDesc>
+
+  <UnusableMeditationFocusAlert>Nieużyteczne skupienie medytacji</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>Ci koloniści medytują w pobliżu obiektu skupiającego, którego nie mogą użyć.\n\n{0}\n\nKażda osoba może medytować do różnych obiektów, w zależności od typu skupienia. Typy koncentracji danej osoby zależą od jej historii, cech i tytułów. Aby zobaczyć typy skupienia medytacji danej osoby, spójrz na jej okno szczegółów, zaznaczając je i klikając przycisk „i”.</UnusableMeditationFocusAlertDesc>
+
+  <PermitChoiceReadyAlert>Wybór zezwolenia gotowy</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} może wybrać nowe zezwolenie.</PermitChoiceReadyAlertDesc>
+
+  <BestowerWaitingAlert>Obdarza czeka</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>Dawca czeka na rozpoczęcie ceremonii obdarowania.</BestowerWaitingAlertDesc>
+
+</LanguageData>

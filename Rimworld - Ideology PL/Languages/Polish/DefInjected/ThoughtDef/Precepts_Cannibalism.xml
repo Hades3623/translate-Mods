@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <AteHumanMeat_Abhorrent.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Abhorrent.stages.0.label>
+  <AteHumanMeat_Abhorrent.stages.0.description>Musiałem jeść ludzkie mięso. To obraza wszystkiego, w co wierzę.</AteHumanMeat_Abhorrent.stages.0.description>
+
+  <ButcheredHuman_Abhorrent.stages.0.label>zarżnąłem jak człowiek</ButcheredHuman_Abhorrent.stages.0.label>
+  <ButcheredHuman_Abhorrent.stages.0.description>Wyrżnąłem człowieka. To obraza wszystkiego, w co wierzę.</ButcheredHuman_Abhorrent.stages.0.description>
+
+  <ButcheredHuman_Know_Abhorrent.stages.0.label>zarżnęliśmy jak ludzie</ButcheredHuman_Know_Abhorrent.stages.0.label>
+  <ButcheredHuman_Know_Abhorrent.stages.0.description>Jeden z nas zarżnął człowieka. To obraza wszystkiego, w co wierzę.</ButcheredHuman_Know_Abhorrent.stages.0.description>
+
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>zmasakrowany jak człowiek</ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Abhorrent.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Know_Abhorrent.stages.0.label>
+
+  <HumanLeatherApparel_Abhorrent.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_Abhorrent.stages.0.label>
+  <HumanLeatherApparel_Abhorrent.stages.0.description>Noszenie ludzkiej skóry jest niepokojące. Kto mógł to zrobić?</HumanLeatherApparel_Abhorrent.stages.0.description>
+  <HumanLeatherApparel_Abhorrent.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_Abhorrent.stages.1.label>
+  <HumanLeatherApparel_Abhorrent.stages.1.description>Jestem ubrana jak szalona osoba.</HumanLeatherApparel_Abhorrent.stages.1.description>
+  <HumanLeatherApparel_Abhorrent.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_Abhorrent.stages.2.label>
+  <HumanLeatherApparel_Abhorrent.stages.2.description>Myślę, że na moich ubraniach może być twarz. O nie... moje ubranie {0} twarz.</HumanLeatherApparel_Abhorrent.stages.2.description>
+  <HumanLeatherApparel_Abhorrent.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_Abhorrent.stages.3.label>
+  <HumanLeatherApparel_Abhorrent.stages.3.description>Wyglądam jak świr z horroru i czuję się jak w horrorze.</HumanLeatherApparel_Abhorrent.stages.3.description>
+
+
+  <!-- Horrible -->
+
+  <AteHumanMeat_Horrible.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Horrible.stages.0.label>
+  <AteHumanMeat_Horrible.stages.0.description>Musiałem jeść ludzkie mięso. To była straszna rzecz.</AteHumanMeat_Horrible.stages.0.description>
+
+  <ButcheredHuman_Horrible.stages.0.label>zarżnąłem jak człowiek</ButcheredHuman_Horrible.stages.0.label>
+  <ButcheredHuman_Horrible.stages.0.description>Wyrżnąłem człowieka. To była straszna rzecz.</ButcheredHuman_Horrible.stages.0.description>
+
+  <ButcheredHuman_Know_Horrible.stages.0.label>zarżnęliśmy jak ludzie</ButcheredHuman_Know_Horrible.stages.0.label>
+  <ButcheredHuman_Know_Horrible.stages.0.description>Jeden z nas zarżnął człowieka. To była straszna rzecz.</ButcheredHuman_Know_Horrible.stages.0.description>
+
+  <ButcheredHuman_Know_Horrible_Opinion.stages.0.label>zmasakrowany jak człowiek</ButcheredHuman_Know_Horrible_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Horrible.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Know_Horrible.stages.0.label>
+
+  <HumanLeatherApparel_Horrible.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_Horrible.stages.0.label>
+  <HumanLeatherApparel_Horrible.stages.0.description>Noszenie ludzkiej skóry jest złe.</HumanLeatherApparel_Horrible.stages.0.description>
+  <HumanLeatherApparel_Horrible.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_Horrible.stages.1.label>
+  <HumanLeatherApparel_Horrible.stages.1.description>Czuję się naprawdę nieswojo z całą tą ludzką skórzaną odzieżą.</HumanLeatherApparel_Horrible.stages.1.description>
+  <HumanLeatherApparel_Horrible.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_Horrible.stages.2.label>
+  <HumanLeatherApparel_Horrible.stages.2.description>Dlaczego noszę tyle ludzkiej skóry? To okropne!</HumanLeatherApparel_Horrible.stages.2.description>
+  <HumanLeatherApparel_Horrible.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_Horrible.stages.3.label>
+  <HumanLeatherApparel_Horrible.stages.3.description>Wyglądam jak świr, to przerażające!</HumanLeatherApparel_Horrible.stages.3.description>
+
+
+  <!-- Disapproved -->
+
+  <AteHumanMeat_Disapproved.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Disapproved.stages.0.label>
+  <AteHumanMeat_Disapproved.stages.0.description>Musiałem jeść ludzkie mięso. Uważam, że takie działania są złe.</AteHumanMeat_Disapproved.stages.0.description>
+
+  <ButcheredHuman_Disapproved.stages.0.label>zarżnąłem jak człowiek</ButcheredHuman_Disapproved.stages.0.label>
+  <ButcheredHuman_Disapproved.stages.0.description>Wyrżnąłem człowieka. Uważam, że takie działania są złe.</ButcheredHuman_Disapproved.stages.0.description>
+
+  <ButcheredHuman_Know_Disapproved.stages.0.label>zarżnęliśmy jak ludzie</ButcheredHuman_Know_Disapproved.stages.0.label>
+  <ButcheredHuman_Know_Disapproved.stages.0.description>Jeden z nas zarżnął człowieka. Uważam, że takie działania są złe.</ButcheredHuman_Know_Disapproved.stages.0.description>
+
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>zmasakrowany jak człowiek</ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>
+  <AteHumanMeat_Know_Disapproved.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Know_Disapproved.stages.0.label>
+
+  <HumanLeatherApparel_Disapproved.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_Disapproved.stages.0.label>
+  <HumanLeatherApparel_Disapproved.stages.0.description>Nie powinienem nosić ludzkiej skóry.</HumanLeatherApparel_Disapproved.stages.0.description>
+  <HumanLeatherApparel_Disapproved.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_Disapproved.stages.1.label>
+  <HumanLeatherApparel_Disapproved.stages.1.description>Mam na sobie ludzką skórę. Nie lubie tego.</HumanLeatherApparel_Disapproved.stages.1.description>
+  <HumanLeatherApparel_Disapproved.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_Disapproved.stages.2.label>
+  <HumanLeatherApparel_Disapproved.stages.2.description>Dlaczego noszę tyle ludzkiej skóry? Powinniśmy mieć coś innego do ubrania dla mnie...</HumanLeatherApparel_Disapproved.stages.2.description>
+  <HumanLeatherApparel_Disapproved.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_Disapproved.stages.3.label>
+  <HumanLeatherApparel_Disapproved.stages.3.description>Naprawdę powinienem nosić nieludzkie ubrania ze skóry. Wyglądam jak szalona osoba.</HumanLeatherApparel_Disapproved.stages.3.description>
+
+
+  <!-- Preferred -->
+
+  <AteHumanMeat_Preferred.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_Preferred.stages.0.label>
+  <AteHumanMeat_Preferred.stages.0.description>Jadłem ludzkie mięso. Sprawia, że ​​czuję się szlachetny i silny.</AteHumanMeat_Preferred.stages.0.description>
+
+  <NoRecentHumanMeat_Preferred.stages.0.label>chcesz ludzkiego mięsa?</NoRecentHumanMeat_Preferred.stages.0.label>
+  <NoRecentHumanMeat_Preferred.stages.0.description>Minęło zbyt wiele czasu odkąd jadłem ludzkie mięso. To jest złe.</NoRecentHumanMeat_Preferred.stages.0.description>
+
+  <HumanLeatherApparel_Preferred.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_Preferred.stages.0.label>
+  <HumanLeatherApparel_Preferred.stages.0.description>Dobrze się czuję w ludzkiej skórze.</HumanLeatherApparel_Preferred.stages.0.description>
+  <HumanLeatherApparel_Preferred.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_Preferred.stages.1.label>
+  <HumanLeatherApparel_Preferred.stages.1.description>Lubię nosić skórę innych.</HumanLeatherApparel_Preferred.stages.1.description>
+  <HumanLeatherApparel_Preferred.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_Preferred.stages.2.label>
+  <HumanLeatherApparel_Preferred.stages.2.description>Noszę twarze moich wrogów. To sprawia, że ​​jestem szczęśliwy.</HumanLeatherApparel_Preferred.stages.2.description>
+  <HumanLeatherApparel_Preferred.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_Preferred.stages.3.label>
+  <HumanLeatherApparel_Preferred.stages.3.description>Wyglądam jak prawdziwy kanibal. Kto mógłby wątpić we mnie?</HumanLeatherApparel_Preferred.stages.3.description>
+
+
+  <!-- Strictly required -->
+
+  <AteNonCannibalFood_Horrible.stages.0.label>zjadłem nie-kanibalne jedzenie</AteNonCannibalFood_Horrible.stages.0.label>
+  <AteNonCannibalFood_Horrible.stages.0.description>Musiałem jeść jedzenie, które nie zostało pobrane z ludzkiego ciała. Moje wierzenia surowo zabraniają takich rzeczy.</AteNonCannibalFood_Horrible.stages.0.description>
+
+  <AteNonCannibalFood_Know_Horrible.stages.0.label>zjadłem nie-kanibalne jedzenie</AteNonCannibalFood_Know_Horrible.stages.0.label>
+
+  <AteHumanMeat_RequiredStrong.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_RequiredStrong.stages.0.label>
+  <AteHumanMeat_RequiredStrong.stages.0.description>Jadłem ludzkie mięso, jak powinien każdy prawdziwy człowiek.</AteHumanMeat_RequiredStrong.stages.0.description>
+
+  <NoRecentHumanMeat_RequiredStrong.stages.0.label>chcesz ludzkiego mięsa?</NoRecentHumanMeat_RequiredStrong.stages.0.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.0.description>Minęło zbyt wiele czasu odkąd zjadłem człowieka. Powinienem już zjeść.</NoRecentHumanMeat_RequiredStrong.stages.0.description>
+
+  <HumanLeatherApparel_RequiredStrong.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_RequiredStrong.stages.0.label>
+  <HumanLeatherApparel_RequiredStrong.stages.0.description>Lubię nosić twarze innych.</HumanLeatherApparel_RequiredStrong.stages.0.description>
+  <HumanLeatherApparel_RequiredStrong.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_RequiredStrong.stages.1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.1.description>To ich przestraszy. Wszyscy poznają moją moc.</HumanLeatherApparel_RequiredStrong.stages.1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_RequiredStrong.stages.2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.2.description>Twarze na moich ubraniach nie uśmiechają się, ale uszczęśliwiają *me*.</HumanLeatherApparel_RequiredStrong.stages.2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_RequiredStrong.stages.3.label>
+  <HumanLeatherApparel_RequiredStrong.stages.3.description>Ciało! Ciało sygnalizuje mój triumf!</HumanLeatherApparel_RequiredStrong.stages.3.description>
+
+
+  <!-- Absolutely required -->
+
+  <AteNonCannibalFood_Abhorrent.stages.0.label>zjadłem nie-kanibalne jedzenie</AteNonCannibalFood_Abhorrent.stages.0.label>
+  <AteNonCannibalFood_Abhorrent.stages.0.description>Musiałem jeść jedzenie, które nie zostało pobrane z ludzkiego ciała. To jest absolutnie wbrew moim przekonaniom.</AteNonCannibalFood_Abhorrent.stages.0.description>
+
+  <AteNonCannibalFood_Know_Abhorrent.stages.0.label>zjadłem nie-kanibalne jedzenie</AteNonCannibalFood_Know_Abhorrent.stages.0.label>
+
+  <AteHumanMeat_RequiredRavenous.stages.0.label>jadłem ludzkie mięso</AteHumanMeat_RequiredRavenous.stages.0.label>
+  <AteHumanMeat_RequiredRavenous.stages.0.description>Jadłem ludzkie mięso! Świat ma rację i jestem taki, jaki powinienem być.</AteHumanMeat_RequiredRavenous.stages.0.description>
+
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.label>chcesz ludzkiego mięsa?</NoRecentHumanMeat_RequiredRavenous.stages.0.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.description>Wygłodniały! Minęło tak dużo czasu, odkąd próbowałem prawdziwego mięsa. To jest źle!</NoRecentHumanMeat_RequiredRavenous.stages.0.description>
+
+  <HumanLeatherApparel_RequiredRavenous.stages.0.label>ludzka skóra {0}</HumanLeatherApparel_RequiredRavenous.stages.0.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.0.description>Lubię nosić cierpienie innych.</HumanLeatherApparel_RequiredRavenous.stages.0.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.label>ludzka skóra {0} (+1)</HumanLeatherApparel_RequiredRavenous.stages.1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.description>To ich przestraszy. Wszyscy poznają moją moc.</HumanLeatherApparel_RequiredRavenous.stages.1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.label>ludzka skóra {0} (+2)</HumanLeatherApparel_RequiredRavenous.stages.2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.description>Twarze na moich ubraniach nie uśmiechają się, ale uszczęśliwiają *me*.</HumanLeatherApparel_RequiredRavenous.stages.2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.label>ludzka skóra {0} itp</HumanLeatherApparel_RequiredRavenous.stages.3.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.description>Ciało! Ciało sygnalizuje mój triumf!</HumanLeatherApparel_RequiredRavenous.stages.3.description>
+
+
+</LanguageData>

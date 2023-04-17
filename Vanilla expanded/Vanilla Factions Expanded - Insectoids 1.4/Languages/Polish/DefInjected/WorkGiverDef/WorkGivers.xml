@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEI_InsertFirstGenome.label>wstawienie genomu do inkubatora</VFEI_InsertFirstGenome.label>
+  <VFEI_InsertFirstGenome.verb>wstaw genom do inkubatora</VFEI_InsertFirstGenome.verb>
+  <VFEI_InsertFirstGenome.gerund>wstawienie genomu do inkubatora</VFEI_InsertFirstGenome.gerund>
+
+  <VFEI_InsertSecondGenome.label>wstawienie genomu do inkubatora</VFEI_InsertSecondGenome.label>
+  <VFEI_InsertSecondGenome.verb>wstaw genom do inkubatora</VFEI_InsertSecondGenome.verb>
+  <VFEI_InsertSecondGenome.gerund>wstawienie genomu do inkubatora</VFEI_InsertSecondGenome.gerund>
+
+  <VFEI_InsertThirdGenome.label>wstawienie genomu do inkubatora</VFEI_InsertThirdGenome.label>
+  <VFEI_InsertThirdGenome.verb>wstaw genom do inkubatora</VFEI_InsertThirdGenome.verb>
+  <VFEI_InsertThirdGenome.gerund>wstawienie genomu do inkubatora</VFEI_InsertThirdGenome.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_MakeSodaSyrup.label>zrobić syrop sodowy</VBE_MakeSodaSyrup.label>
+  <VBE_MakeSodaSyrup.description>Przygotuj syrop sodowy, mieszając naturalny sok owocowy z syropem kukurydzianym o wysokiej zawartości fruktozy.</VBE_MakeSodaSyrup.description>
+  <VBE_MakeSodaSyrup.jobString>Przygotowanie syropu sodowego.</VBE_MakeSodaSyrup.jobString>
+
+  <VBE_AmbrosiaMush.label>zrobić papkę z ambrozji</VBE_AmbrosiaMush.label>
+  <VBE_AmbrosiaMush.description>Przygotuj pokrojoną i sprasowaną ambrozję, którą można zostawić w spokoju do dojrzewania moszczu, a następnie poddać dalszej destylacji na niezwykle delikatny trunek.</VBE_AmbrosiaMush.description>
+  <VBE_AmbrosiaMush.jobString>Robienie papki z ambrozji.</VBE_AmbrosiaMush.jobString>
+
+  <VBE_MakeTequilaMust.label>zrobić moszcz tequili z agawy</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>Przygotuj cienką mieszankę wyciśniętego soku z agawy i startera z mięsa owadów, gotową do pokrojenia i fermentacji w beczce.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.jobString>Robienie zacieru tequili.</VBE_MakeTequilaMust.jobString>
+
+  <VBE_MakeWhiskeyMash.label>zrobić zacieru whisky</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.description>Przygotuj mieszankę zawierającą skrobię i przeważnie płynną, z rozrzuconymi na niej paprociami. Gotowy do starzenia.</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.jobString>Przygotowanie zacieru whisky.</VBE_MakeWhiskeyMash.jobString>
+
+  <VBE_MakeVodkaMash.label>zrobić zacier z wódki</VBE_MakeVodkaMash.label>
+  <VBE_MakeVodkaMash.description>Zrób grubą, skrobiową papkę z surowych ziemniaków i przystawkę, gotową do fermentacji.</VBE_MakeVodkaMash.description>
+  <VBE_MakeVodkaMash.jobString>Przygotowanie zacieru z wódki.</VBE_MakeVodkaMash.jobString>
+
+  <VBE_MakeGinMush.label>zrobić papkę z dżinu</VBE_MakeGinMush.label>
+  <VBE_MakeGinMush.description>Zrób klarowną, ale mętną mieszankę wyciśniętych jagód i różnych zbóż, gotową do fermentacji.</VBE_MakeGinMush.description>
+  <VBE_MakeGinMush.jobString>Robię papkę z dżinu.</VBE_MakeGinMush.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedMusicalInstrument.label>niedokończony instrument muzyczny</UnfinishedMusicalInstrument.label>
+  <UnfinishedMusicalInstrument.description>Niedokończony instrument muzyczny.</UnfinishedMusicalInstrument.description>
+
+  <Harp.label>harfa</Harp.label>
+  <Harp.description>Prosty stacjonarny instrument muzyczny. Rząd strun jest naciągnięty na ramę i szarpany bezpośrednio przez palce muzyka.\n\nMoże być wykonany w miejscu rzemieślniczym lub kuźni.</Harp.description>
+
+  <Harpsichord.label>klawesyn</Harpsichord.label>
+  <Harpsichord.description>Złożony stacjonarny instrument muzyczny wykonany w kuźni. Muzyk dotyka rzędu klawiszy z przodu instrumentu. Każdy klucz jest przymocowany do wewnętrznego mechanizmu, który szarpie jeden z rzędu sznurków rozciągniętych na drewnianej ramie. Choć pozwala na bardziej złożoną kompozycję niż harfa, jej drewniana konstrukcja i mechanizm skubania ograniczają jego objętość i wyrazistość.</Harpsichord.description>
+
+  <UnfinishedPiano.label>niedokończony fortepian</UnfinishedPiano.label>
+  <UnfinishedPiano.description>Niedokończony fortepian.</UnfinishedPiano.description>
+
+  <Piano.label>fortepian</Piano.label>
+  <Piano.description>Zaawansowany stacjonarny instrument muzyczny. Gra się poprzez naciśnięcie szeregu klawiszy, co powoduje, że młoteczki uderzają w wewnętrzne struny rozpięte na stalowej ramie. Mechanizm młoteczkowy i struny o wysokim napięciu pozwalają muzykowi grać zarówno bardzo cicho, jak i bardzo głośno, dzięki czemu fortepian jest bardzo ekspresyjnym instrumentem.\n\nMoże być wykonany w kuźni.</Piano.description>
+
+
+</LanguageData>

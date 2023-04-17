@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Permits from royal titles -->
+
+  <TradeSettlement.label>handel z osadami</TradeSettlement.label>
+  <TradeOrbital.label>handluj z orbitalnymi traderami</TradeOrbital.label>
+  <TradeCaravan.label>handel z karawanami</TradeCaravan.label>
+
+
+  <!-- Econ -->
+
+  <SteelDrop.label>kapsuła stali</SteelDrop.label>
+  <SteelDrop.description>Wezwij kapsułę 250 sztuk stali.</SteelDrop.description>
+
+  <FoodDrop.label>kapsuła jedzenia</FoodDrop.label>
+  <FoodDrop.description>Wezwij po 20 pakowanych posiłków survivalowych.</FoodDrop.description>
+
+  <SilverDrop.label>srebrna kapsuła</SilverDrop.label>
+  <SilverDrop.description>Wezwij kapsułę 500 szt. srebra.</SilverDrop.description>
+
+  <GlitterMedDrop.label>brokatowa kapsuła</GlitterMedDrop.label>
+  <GlitterMedDrop.description>Wezwij po kapsułę 5 leków glitterworld.</GlitterMedDrop.description>
+
+  <CallLaborerTeam.label>Wezwij zespół pracowników</CallLaborerTeam.label>
+  <CallLaborerTeam.description>Wezwij do grupy 4 robotników. Pracownicy ci mogą wykonywać tylko ogólne zadania związane z pracą. Możesz ich kontrolować tak, jakby byli twoimi własnymi kolonistami. Jesteś zobowiązany do zapewnienia im bezpieczeństwa.</CallLaborerTeam.description>
+
+  <CallLaborerGang.label>Wezwij grupę robotników</CallLaborerGang.label>
+  <CallLaborerGang.description>Wezwij grupę 8 robotników, aby Ci asystowali przez 4 dni. Pracownicy ci mogą wykonywać tylko ogólne zadania związane z pracą. Możesz ich kontrolować tak, jakby byli twoimi własnymi kolonistami. Jesteś zobowiązany do zapewnienia im bezpieczeństwa.</CallLaborerGang.description>
+
+
+  <!-- Combat -->
+
+  <CallMilitaryAidSmall.label>Wezwij oddziały szturmowców</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.description>Wezwij grupę 4 lekkich żołnierzy, aby pomogli ci w walce.</CallMilitaryAidSmall.description>
+
+  <CallMilitaryAidLarge.label>Wezwij oddziały janczarów</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.description>Wezwij grupę 4 profesjonalnych janczarów, aby pomogli ci w walce.</CallMilitaryAidLarge.description>
+
+  <CallMilitaryAidGrand.label>Wezwij do oddziału katafrakta</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.description>Wezwij grupę 4 ciężkich katafraktów na pomoc w walce.</CallMilitaryAidGrand.description>
+
+  <CallOrbitalStrike.label>Wezwij uderzenie drona</CallOrbitalStrike.label>
+  <CallOrbitalStrike.description>Wezwij uderzenie drona o pojedynczym uderzeniu w pozycję docelową.</CallOrbitalStrike.description>
+
+  <CallOrbitalSalvo.label>wezwij salwę lotniczą</CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.description>Wezwij salwę uderzeń aerodronu wokół pozycji docelowej.</CallOrbitalSalvo.description>
+
+
+  <!-- Utility -->
+
+  <CallTransportShuttle.label>Wezwij transport wahadłowy</CallTransportShuttle.label>
+  <CallTransportShuttle.description>Wezwij transfer na własny użytek. Będzie transportować kolonistów, przedmioty i zwierzęta w dowolne miejsce w obrębie 70 hexów świata.</CallTransportShuttle.description>
+
+
+</LanguageData>
